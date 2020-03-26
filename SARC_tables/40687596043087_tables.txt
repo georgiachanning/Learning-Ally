@@ -1,0 +1,341 @@
+[                                  ----  Unnamed: 0                       Ocean View Elementary School
+0                                  NaN         NaN  1208 Linda Dr. • Arroyo Grande, CA 93420 • (80...
+1                                  NaN         NaN                           Brad Grumbles, Principal
+2                                  NaN         NaN                            brad.grumbles@lmusd.org
+3                                  NaN         NaN                            www.luciamarschools.org
+4                                  NaN         NaN                                                NaN
+..                                 ...         ...                                                ...
+62                           Jim Empey         NaN                                                NaN
+63  Assistant Superintendent, Business         NaN                                                NaN
+64                      Jennifer Handy         NaN                                                NaN
+65         Director, Special Education         NaN                                                NaN
+66                        Linda Pierce         NaN                                                NaN
+
+[67 rows x 3 columns],           consistent with data reported in the SARC.           Teacher Credentials for Ocean View  17-18  18-19  19-20
+0  • For more information about SARC requirements...                            Elementary School    NaN    NaN    NaN
+1     Department of Education (CDE) SARC web page at                         With Full Credential   29.0   30.0   28.0
+2                  https://www.cde.ca.gov/ta/ac/sa/.                      Without Full Credential    0.0    0.0    0.0
+3  • For more information about the LCFF or LCAP,...                                          NaN    NaN    NaN    NaN
+4                                                NaN  Teaching Outside Subject Area of Competence    0.0    0.0    0.0,                            community members  should             contact  the  school  ...  the.1    Teacher Credentials for Lucia Mar Unified  17-18  18-19  19-20
+0                           district office.     NaN                 NaN  NaN     NaN  ...    NaN                              School District    NaN    NaN    NaN
+1                                        NaN     NaN                 NaN  NaN     NaN  ...    NaN                         With Full Credential      ♦      ♦  533.0
+2                                        NaN     NaN                 NaN  NaN     NaN  ...    NaN                                          NaN    NaN    NaN    NaN
+3  2018-19 Student Enrollment by Grade Level     NaN                 NaN  NaN     NaN  ...    NaN                      Without Full Credential      ♦      ♦   25.0
+4                                Grade Level     NaN  Number of Students  NaN     NaN  ...    NaN  Teaching Outside Subject Area of Competence      ♦      ♦    0.0
+
+[5 rows x 13 columns],          Grade Level  Number of Students      Teaching Outside Subject Area of Competence ♦   ♦      0
+0       Kindergarten                63.0                                                NaN NaN    NaN
+1                NaN                 NaN  Teacher Misassignments and Vacant Teacher Posi... NaN    NaN
+2            Grade 1                70.0                                                NaN NaN    NaN
+3                NaN                 NaN                                  Elementary School NaN    NaN
+4            Grade 2                87.0                                                NaN NaN    NaN
+5                NaN                 NaN                              Indicator 17-18 18-19 NaN  19-20
+6            Grade 3               105.0                                                NaN NaN    NaN
+7                NaN                 NaN                   Teachers of English Learners 0 0 NaN      0
+8            Grade 4                97.0                                                NaN NaN    NaN
+9                NaN                 NaN                  Total Teacher Misassignments* 0 0 NaN      0
+10           Grade 5                89.0                                                NaN NaN    NaN
+11               NaN                 NaN                       Vacant Teacher Positions 0 0 NaN      0
+12           Grade 6               101.0                                                NaN NaN    NaN
+13               NaN                 NaN  * Note: “Misassignments” refers to the number ... NaN    NaN
+14  Total Enrollment               612.0  who lack legal authorization to teach that gra... NaN    NaN,                               Group  Percent of Total Enrollment
+0         Black or African American                          0.7
+1                             Asian                          2.8
+2                          Filipino                          1.3
+3                Hispanic or Latino                         16.8
+4                             White                         70.8
+5                 Two or More Races                          6.2
+6   Socioeconomically Disadvantaged                         17.2
+7                  English Learners                          3.1
+8        Students with Disabilities                         11.9
+9                      Foster Youth                          0.2
+10                         Homeless                          2.6,      Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0   Reading/Language Arts         McGraw-Hill - Reading Wonders (Grades K-6)    
+1                     NaN                                    Adopted in 2014    
+2                     NaN                                                NaN    
+3                     NaN  Houghton Mifflin Harcourt - California Collect...    
+4                     NaN                                    Adopted in 2016    
+5                     NaN                                                NaN    
+6                     NaN  BFW - Advanced Language and Composition (Grade...    
+7                     NaN                                    Adopted in 2016    
+8                     NaN                                                NaN    
+9                     NaN  BFW - Advanced Literature and Composition (Gra...    
+10                    NaN                                    Adopted in 2014    
+11                    NaN                                                NaN    
+12                    NaN  The textbooks listed are from most recent adop...    
+13                    NaN  Percent of students lacking their own assigned...    
+14                    NaN                                                NaN    
+15            Mathematics              Pearson - Investigations (Grades K-5)    
+16                    NaN                                    Adopted in 2017    
+17                    NaN                                                NaN    
+18                    NaN  Houghton Mifflin Harcourt - Big Ideas Math (Gr...    
+19                    NaN                                 Adopted in 2014/15    
+20                    NaN                                                NaN    
+21                    NaN   Cengage - Precalculus with Limits (Grades 11-12)    
+22                    NaN                                    Adopted in 2019    
+23                    NaN                                                NaN    
+24                    NaN  McGraw Hill - Core Plus Integrated Math (Grade...    
+25                    NaN                                    Adopted in 2015    
+26                    NaN                                                NaN    
+27                    NaN  Wiley - Calculus Early Transcendentals Part AB...    
+28                    NaN                                    Adopted in 2014    
+29                    NaN                                                NaN    
+30                    NaN  Pearson Prentice Hall - Calculus Graphical, Nu...    
+31                    NaN                                    Adopted in 2008    
+32                    NaN                                                NaN    
+33                    NaN  BFW - The Practice of Statistics (Grades AP 11...    
+34                    NaN                                    Adopted in 2016    
+35                    NaN                                                NaN    
+36                    NaN  BFW - Statistical Reasoning in Sports (Grades ...    
+37                    NaN                                    Adopted in 2016    
+38                    NaN                                                NaN    
+39                    NaN  Cengage - Understanding Basic Statistics (Grad...    
+40                    NaN                                    Adopted in 2013    
+41                    NaN                                                NaN    
+42                    NaN  The textbooks listed are from most recent adop...    
+43                    NaN  Percent of students lacking their own assigned...    ,    Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0               Science  Macmillan/McGraw-Hill - California Science (Gr...    
+1                   NaN                                    Adopted in 2008    
+2                   NaN                                                NaN    
+3                   NaN           Holt - California Life Science (Grade 7)    
+4                   NaN                                    Adopted in 2007    
+5                   NaN                                                NaN    
+6                   NaN  Holt/Houghton Mifflin Harcourt - California Ph...    
+7                   NaN                                    Adopted in 2007    
+8                   NaN                                                NaN    
+9                   NaN                   Glencoe - Life Science (Grade 9)    
+10                  NaN                                    Adopted in 2004    
+11                  NaN                                                NaN    
+12                  NaN            Prentice Hall - Earth Science (Grade 9)    
+13                  NaN                                    Adopted in 2008    
+14                  NaN                                                NaN    
+15                  NaN                  Prentice Hall - Biology (Grade 9)    
+16                  NaN                                    Adopted in 2001    
+17                  NaN                                                NaN    
+18                  NaN                        Holt - Chemistry (Grade 10)    
+19                  NaN                                    Adopted in 2004    
+20                  NaN                                                NaN    
+21                  NaN  Prentice Hall - Conceptual Physics (Grades 10-11)    
+22                  NaN                                    Adopted in 2002    
+23                  NaN                                                NaN    
+24                  NaN     Houghton Mifflin - AP Chemistry (Grades 11-12)    
+25                  NaN                                    Adopted in 2002    
+26                  NaN                                                NaN    
+27                  NaN  Pearson - AP Environmental Science (Grades 11-12)    
+28                  NaN                                    Adopted in 2008    
+29                  NaN                                                NaN    
+30                  NaN      John Wiley & Sons - AP Physics (Grades 10-12)    
+31                  NaN                                    Adopted in 2006    
+32                  NaN                                                NaN    
+33                  NaN                Pearson - AP Physics (Grades 10-12)    
+34                  NaN                                    Adopted in 2005    
+35                  NaN                                                NaN    
+36                  NaN                Pearson - AP Biology (Grades 11-12)    
+37                  NaN                                    Adopted in 2011    
+38                  NaN                                                NaN    
+39                  NaN  The textbooks listed are from most recent adop...    
+40                  NaN  Percent of students lacking their own assigned...    ,       Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0   History-Social Science                Harcourt - Reflections (Grades K-6)    
+1                      NaN                                    Adopted in 2007    
+2                      NaN                                                NaN    
+3                      NaN        TCI - Ha! Medieval World & Beyond (Grade 7)    
+4                      NaN                                    Adopted in 2018    
+..                     ...                                                ...    
+60                     NaN  Dawn Sign Press - Signing Naturally (Grades 9-12)    
+61                     NaN                                       Adopted 2008    
+62                     NaN                                                NaN    
+63                     NaN  The textbooks listed are from most recent adop...    
+64                     NaN  Percent of students lacking their own assigned...    
+
+[65 rows x 2 columns],   Unnamed: 0  Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0     Health                   NaN                     Holt - Teen Health (Grade 7-8)    
+1        NaN                   NaN                                    Adopted in 2017    
+2        NaN                   NaN                                                NaN    
+3        NaN                   NaN                     Pearson - Health (Grades 9-12)    
+4        NaN                   NaN                                    Adopted in 2017    
+5        NaN                   NaN                                                NaN    
+6        NaN                   NaN  The textbooks listed are from most recent adop...    
+7        NaN                   NaN  Percent of students lacking their own assigned...    ,                                        Unnamed: 0                      Unnamed: 1  Unnamed: 2                         Repair Needed and
+0                                             NaN  System Inspected Repair Status         NaN                                       NaN
+1                                             NaN                             NaN         NaN                   Action Taken or Planned
+2                                        Systems:                           XGood         NaN                                       NaN
+3               Gas Leaks, Mechanical/HVAC, Sewer                             NaN         NaN                                       NaN
+4                                       Interior:                           XGood         NaN        Portable F: 4.) Torn ceiling tiles
+5                               Interior Surfaces                             NaN         NaN                  Room 22: 4.) Torn carpet
+6                                             NaN                             NaN         NaN                                       NaN
+7                                    Cleanliness:                           XGood         NaN                                       NaN
+8   Overall Cleanliness, Pest/ Vermin Infestation                             NaN         NaN                                       NaN
+9                                     Electrical:                           XGood         NaN                                       NaN
+10                                     Electrical                             NaN         NaN                                       NaN
+11                           Restrooms/Fountains:                           XGood         NaN                                       NaN
+12                    Restrooms, Sinks/ Fountains                             NaN         NaN  Boys Restroom 8: 9.) DF outside does not
+13                                            NaN                             NaN         NaN                                      work
+14                                            NaN                             NaN         NaN        Room 23: 9.) Sink & DF do not work
+15                                            NaN                             NaN         NaN                                       NaN
+16                                        Safety:                           XGood         NaN                                       NaN
+17               Fire Safety, Hazardous Materials                             NaN         NaN                                       NaN
+18                                    Structural:                           XGood         NaN                                       NaN
+19                       Structural Damage, Roofs                             NaN         NaN                                       NaN,                                           Unnamed: 0                      Unnamed: 1  Unnamed: 2                   Repair Needed and
+0                                                NaN  System Inspected Repair Status         NaN                                 NaN
+1                                                NaN                             NaN         NaN             Action Taken or Planned
+2                                          External:                           XGood         NaN  Portable G Computer Lab: 14.) Ramp
+3  Playground/School Grounds, Windows/ Doors/Gate...                             NaN         NaN                              rusted
+4                                                NaN                             NaN         NaN     Room 17: 15.) Door deteriorated
+5                                                NaN                             NaN         NaN     Room 18: 15.) Door deteriorated
+6                                                NaN                             NaN         NaN                                 NaN
+7                                     Overall Rating                             NaN         NaN                                 NaN
+8                                                NaN                           XGood         NaN                                 NaN
+9                                         ----------                             NaN         NaN                                 NaN,   The SARC provides the following information relevant to the State priority: Unnamed: 0 School School.1 District District.1  State State.1
+0                                                NaN                             Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1                    Pupil Achievement (Priority 4):                                 NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2  • Statewide assessments (i.e., California Asse...                             Science    N/A      N/A      N/A        N/A    N/A     N/A,             education sequences or programs of study    Grade Unnamed: 0 Unnamed: 1 Unnamed: 2
+0                                                NaN      NaN     4 of 6     5 of 6     6 of 6
+1                                                NaN    Level        NaN        NaN        NaN
+2  CAASPP Test Results in ELA and Mathematics for...      NaN        NaN        NaN        NaN
+3                                                NaN  ---5---       10.2       21.6       58.0,   Unnamed: 0 School School.1 District District.1  State State.1 students in this category is too small for statistical accuracy or to protect student
+0    Subject    NaN      NaN      NaN        NaN    NaN     NaN                                                NaN                                   
+1        NaN  17-18    18-19    17-18      18-19  17-18   18-19                                           privacy.                                   
+2        ELA     78       74       54         56     50      50                                                NaN                                   
+3       Math     61       69       39         42     38      39                                                NaN                                   ,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN         396     391   98.74            74.17
+3                              Male            NaN         218     213   97.71            70.89
+4                            Female            NaN         178     178  100.00            78.09
+5         Black or African American            NaN          --      --      --               --
+6                             Asian            NaN          --      --      --               --
+7                          Filipino            NaN          --      --      --               --
+8                Hispanic or Latino            NaN          64      64  100.00            62.50
+9                             White            NaN         289     284   98.27            75.70
+10                Two or More Races            NaN          24      24  100.00            83.33
+11  Socioeconomically Disadvantaged            NaN          74      72   97.30            61.11
+12                 English Learners            NaN          15      15  100.00            46.67
+13       Students with Disabilities            NaN          57      53   92.98            37.74
+14                         Homeless            NaN          --      --      --               --,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN         396     391   98.74            69.31
+3                              Male            NaN         218     213   97.71            70.89
+4                            Female            NaN         178     178  100.00            67.42
+5         Black or African American            NaN          --      --      --               --
+6                             Asian            NaN          --      --      --               --
+7                          Filipino            NaN          --      --      --               --
+8                Hispanic or Latino            NaN          64      64  100.00            54.69
+9                             White            NaN         289     284   98.27            71.83
+10                Two or More Races            NaN          24      24  100.00            75.00
+11  Socioeconomically Disadvantaged            NaN          74      72   97.30            52.78
+12                 English Learners            NaN          15      15  100.00            46.67
+13       Students with Disabilities            NaN          57      53   92.98            28.30
+14                         Homeless            NaN          --      --      --               --,   Suspensions and Expulsions for the School  2016-17  2017-18  2018-19
+0                          Suspensions Rate      1.2      1.4      1.4
+1                           Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the District  2016-17  2017-18  2018-19
+0                            Suspensions Rate      3.2      2.6      3.7
+1                             Expulsions Rate      0.2      0.2      0.3,   Suspensions and Expulsions for the State  2016-17  2017-18  2018-19
+0                         Suspensions Rate      3.6      3.5      3.5
+1                          Expulsions Rate      0.1      0.1      0.1,                    Unnamed: 0  Title  Ratio
+0  Academic Counselor*-------    NaN    0.0,                                            Unnamed: 0 Number of Full-Time Equivalent
+0                                               Title                            NaN
+1                                                 NaN                          (FTE)
+2   Counselor (Social/Behavioral or Career Develop...                            NaN
+3                   Library Media Teacher (Librarian)                            NaN
+4     Library Media Services Staff (Paraprofessional)                            NaN
+5                                 Psychologist-------                             .5
+6                                Social Worker-------                            NaN
+7                                        Nurse-------                             .5
+8                  Speech/Language/Hearing Specialist                            NaN
+9           Resource Specialist (non-teaching)-------                            2.0
+10                                       Other-------                             .5,    Unnamed: 0  2016-17 2016-17.1 2016-17.2 2016-17.3  2017-18 2017-18.1 2017-18.2 2017-18.3  2018-19 2018-19.1 2018-19.2 2018-19.3
+0         NaN  Average      # of      # of      # of  Average      # of      # of      # of  Average      # of      # of      # of
+1       Grade      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+2         NaN    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*
+3       Level      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+4         NaN     Size      Size      Size      Size     Size      Size      Size      Size     Size      Size      Size      Size
+5         NaN      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+
+6           K       20         4       NaN       NaN       19         3       NaN       NaN       21         1         2       NaN
+7         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+8           1       23       NaN         4       NaN       24       NaN         3       NaN       23       NaN         3       NaN
+9         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+10          2       25       NaN         3       NaN       21         1         4       NaN       21         1         3       NaN
+11        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+12          3       24       NaN         4       NaN       27       NaN         4       NaN       21         1         4       NaN
+13        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+14          4       30       NaN         3       NaN       29       NaN         3       NaN       32       NaN         3       NaN
+15        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+16          5       30       NaN         3       NaN       57         1         1         3       22         1         3       NaN
+17        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+18          6      116       NaN         5         1       72       NaN         3         3      102         1         2         4
+19        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+20    Other**        9         2       NaN       NaN        7         1       NaN       NaN      NaN       NaN       NaN       NaN,                                              Measure 2017-18 2018-19 2019-20
+0  Number of school days dedicated to Staff Devel...  38 hrs  38 hrs  38 hrs,                        Unnamed: 0 Unnamed: 1  State Average for                 Unnamed: 2  Unnamed: 3 Unnamed: 4    Unnamed: 5     Average
+0                             NaN   District                NaN                        NaN         NaN        NaN           NaN         NaN
+1                        Category        NaN  Districts In Same                Level Total  Restricted        NaN  Unrestricted     Teacher
+2                             NaN     Amount                NaN                        NaN         NaN        NaN           NaN         NaN
+3                             NaN        NaN           Category                        NaN         NaN        NaN           NaN      Salary
+4        Beginning Teacher Salary    $47,266            $51,374       School Site- 4559.76         NaN     625.58       3934.17    60278.52
+5        Mid-Range Teacher Salary    $67,698            $80,151  -D--is--t-r ict------ N/A         NaN        N/A            75  $68,618.00
+6          Highest Teacher Salary    $91,798           $100,143         S- tate------- N/A         NaN        N/A     $7,506.64  $82,031.00
+7   Average Principal Salary (ES)   $114,740           $126,896                        NaN         NaN        NaN           NaN         NaN
+8   Average Principal Salary (MS)   $114,838           $133,668                        NaN         NaN        NaN           NaN     Average
+9                             NaN        NaN                NaN        Percent Differences         NaN        NaN  Unrestricted     Teacher
+10  Average Principal Salary (HS)   $128,579           $143,746                        NaN         NaN        NaN           NaN         NaN
+11                            NaN        NaN                NaN                        NaN         NaN        NaN           NaN      Salary
+12          Superintendent Salary   $209,725           $245,810                        NaN         NaN        NaN           NaN         NaN,                  Unnamed: 0 Unnamed: 1  State Average for             Unnamed: 2 Unnamed: 3  Unnamed: 4    Unnamed: 5     Average
+0                       NaN   District                NaN                    NaN        NaN         NaN           NaN         NaN
+1                  Category        NaN  Districts In Same                  Level      Total  Restricted  Unrestricted     Teacher
+2                       NaN     Amount                NaN                    NaN        NaN         NaN           NaN         NaN
+3                       NaN        NaN           Category                    NaN        NaN         NaN           NaN      Salary
+4  Beginning Teacher Salary    $47,266            $51,374           School Site-    4559.76      625.58       3934.17    60278.52
+5  Mid-Range Teacher Salary    $67,698            $80,151  -D--is--t-r ict------        N/A         N/A            75  $68,618.00
+6    Highest Teacher Salary    $91,798           $100,143         -S tate-------        N/A         N/A     $7,506.64  $82,031.00,    Average Principal Salary (MS)  $114,838  $133,668            Unnamed: 0    Unnamed: 1  Average
+0                            NaN       NaN       NaN   Percent Differences  Unrestricted  Teacher
+1  Average Principal Salary (HS)  $128,579  $143,746                   NaN           NaN      NaN
+2                            NaN       NaN       NaN                   NaN           NaN   Salary
+3          Superintendent Salary  $209,725  $245,810                   NaN           NaN      NaN
+4                            NaN       NaN       NaN  School Site/District         192.5    -10.3
+5                            NaN       NaN       NaN    School Site/ State         -99.2    -27.7,                    Unnamed: 0 Unnamed: 1         Unnamed: 2                           School Site/ State -99.2  -27.7
+0                         NaN        NaN  State Average for                                                NaN    NaN
+1                         NaN   District                NaN   Note: Cells with N/A values do not require data.    NaN
+2  Percent of District Budget        NaN  Districts In Same                                                NaN    NaN
+3                         NaN     Amount                NaN                                                NaN    NaN
+4                         NaN        NaN           Category  The California Department of Education issued ...    NaN
+5            Teacher Salaries        37%                35%  2018, regarding how to calculate school-level ...    NaN
+6                         NaN        NaN                NaN                  reported on 2018-19 report cards.    NaN
+7     Administrative Salaries         6%                 5%                                                NaN    NaN,   Dropout Rate and Graduation Rate (Four-Year Cohort Rate) Unnamed: 0 Rate for California  2015-16  2016-17  2017-18
+0     Rate for Ocean View Elementary 2015-16 2016-17          2017-18                 NaN      NaN      NaN      NaN
+1                                                NaN              NaN        Dropout Rate      NaN      NaN      NaN
+2                                School Dropout Rate              NaN                 NaN      NaN      NaN      NaN
+3                                                NaN              NaN     Graduation Rate      NaN      NaN      NaN,   Rate for Ocean View Elementary  2015-16  2016-17  2017-18                                         Unnamed: 0
+0                            NaN      NaN      NaN      NaN                                       Dropout Rate
+1            School Dropout Rate      NaN      NaN      NaN                                                NaN
+2                            NaN      NaN      NaN      NaN                                    Graduation Rate
+3                Graduation Rate      NaN      NaN      NaN  For the formula to calculate the 2016-17 and 2...,   Rate for Lucia Mar Unified School  2015-16  2016-17  2017-18
+0             DDrisotpriocut t Rate      NaN      NaN      NaN
+1                   Graduation Rate      NaN      NaN      NaN,                                           Unnamed: 0    CTE Program                Unnamed: 1   Number of   Percent of
+0                                            Measure            NaN                       NaN         NaN          NaN
+1                                                NaN  Participation                   Subject  AP Courses  Students In
+2              Number of pupils participating in CTE            NaN                       NaN    Offered*   AP Courses
+3   % of pupils completing a CTE program and earning            NaN          Computer Science         NaN          N/A
+4                                                NaN            NaN                       NaN         NaN          NaN
+5                              a high school diploma            NaN            English-------         NaN          N/A
+6  % of CTE courses sequenced or articulated between            NaN  Fine and Performing Arts         NaN          N/A
+7       the school and institutions of postsecondary            NaN                       NaN         NaN          NaN
+8                                                NaN            NaN          Foreign Language         NaN          N/A
+9                                          education            NaN                       NaN         NaN          NaN,                                         Unnamed: 0 Unnamed: 1                                   Social Science N
+0                            UC/CSU Course Measure    Percent                                                NaN
+1                                              NaN        NaN                                        All courses
+2  2018-19 Pupils Enrolled in Courses Required for        NaN                                                NaN
+3                                              NaN          0   Note: Cells with N/A values do not require data.
+4                                 UC/CSU Admission        NaN                                                NaN
+5                                              NaN        NaN                                                NaN
+6      2017-18 Graduates Who Completed All Courses        NaN  *Where there are student course enrollments of...
+7                                              NaN        NaN                                                NaN
+8                    Required for UC/CSU Admission        NaN                                                NaN,      • Sports Medicine / Patient Care
+0                 • Technical Theater
+1              • Professional Theater
+2  • Criminal Justice / Public Safety
+3       • Product Innovation & Design
+4                       O HIGH SCHOOL
+5                      • Ag Mechanics
+6                    • Animal Science
+7  • Criminal Justice / Public Safety
+8    • Sports Medicine / Patient Care]

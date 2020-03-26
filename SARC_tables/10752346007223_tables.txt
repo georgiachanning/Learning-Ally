@@ -1,0 +1,270 @@
+[                        Unnamed: 0  Nivel de Año  Cantidad de Alumnos
+0                           Kínder           NaN                 67.0
+1                         1° Grado           NaN                 64.0
+2                         2° Grado           NaN                 74.0
+3                         3° Grado           NaN                 60.0
+4                         4° Grado           NaN                 73.0
+5                         5° Grado           NaN                 60.0
+6                         6° Grado           NaN                 62.0
+7                         7° Grado           NaN                 69.0
+8                         8° Grado           NaN                 58.0
+9     Primaria sin división de año           NaN                  NaN
+10                        9° Grado           NaN                  NaN
+11                       10° Grado           NaN                  NaN
+12                       11° Grado           NaN                  NaN
+13                       12° Grado           NaN                  NaN
+14  Secundaria sin división de año           NaN                  NaN
+15               Inscripción Total           NaN                587.0,                                 Unnamed: 0  Grupo Estudiantil  Porcentaje de Inscripción Total
+0                            Afroamericano                NaN                              1.2
+1   Nativos americanos o nativos de Alaska                NaN                              NaN
+2                                 Asiático                NaN                              0.5
+3                                 Filipino                NaN                              NaN
+4                         Hispano o Latino                NaN                             97.8
+5    Nativo de Hawái o Isleño del Pacífico                NaN                              NaN
+6                                    White                NaN                              0.5
+7               Dos o más orígenes étnicos                NaN                              NaN
+8           De escasos recursos económicos                NaN                             97.8
+9                   Estudiantes del inglés                NaN                             65.9
+10              Alumnos con discapacidades                NaN                              7.8
+11             Jóvenes de crianza temporal                NaN                              0.3
+12                              Indigentes                NaN                             10.1,   Acreditaciones Docentes para Escuela Primaria San Joaquin  17-18  18-19  19-20
+0                            Con certificación total            32     23   25.0
+1                            Sin certificación total             7      4    3.0
+2       Enseñando fuera de su materia de competencia             0      0    NaN,   Acreditaciones Docentes para Distrito Escolar Unificado Golden Plains 17-18 18-19  19-20
+0                            Con certificación total                        ♦     ♦    NaN
+1                            Sin certificación total                        ♦     ♦    NaN
+2       Enseñando fuera de su materia de competencia                        ♦     ♦    NaN,                                         Indicador  17-18  18-19  19-20
+0              Maestros de Estudiantes del Inglés      0      0    NaN
+1  Total de asignaciones incorrectas de maestros*      0      0    NaN
+2                       Puestos docentes vacantes      0      0    NaN,      Área del Currículo Básico Libros de Texto y Otros Materiales Instructivos/Año de Adopción
+0   Lectura/Artes Lingüísticas  Benchmark Advance, Benchmark Advance Company (...             
+1                          NaN                                Adoptado en el 2018             
+2                          NaN                                                NaN             
+3                          NaN                                        Springboard             
+4                          NaN                                Adoptado en el 2019             
+5                          NaN                                                NaN             
+6                          NaN  Porcentaje de alumnos a quienes no se les asig...             
+7                          NaN                             propio libro de texto:             
+8                          NaN                                                NaN             
+9                  Matemáticas  Kínder-6to año, Houghton Mifflin Harcourt, CA ...             
+10                         NaN                                   Adoptado en 2015             
+11                         NaN                                                NaN             
+12                         NaN  7mo-8vo año, Houghton Mifflin Harcourt, CA GO ...             
+13                         NaN                                   Adoptado en 2015             
+14                         NaN                                                NaN             
+15                         NaN  Porcentaje de alumnos a quienes no se les asig...             
+16                         NaN                             propio libro de texto:             
+17                         NaN                                                NaN             
+18                    Ciencias  California Science, Scott Foresman (Kínder-5to...             
+19                         NaN                                   Adoptado en 2007             
+20                         NaN                                                NaN             
+21                         NaN  California Earth, Life & Physical Science, Pre...             
+22                         NaN                                   Adoptado en 2008             
+23                         NaN                                                NaN             
+24                         NaN  Porcentaje de alumnos a quienes no se les asig...             
+25                         NaN                             propio libro de texto:             
+26                         NaN                                                NaN             
+27  Historia-Ciencias Sociales  History-Social Science for California, Scott F...             
+28                         NaN                                   Adoptado en 2006             
+29                         NaN                                                NaN             
+30                         NaN  History-Social Science, Glencoe-McGraw-Hill (6...             
+31                         NaN                                   Adoptado en 2006             
+32                         NaN                                                NaN             
+33                         NaN  Porcentaje de alumnos a quienes no se les asig...             
+34                         NaN                             propio libro de texto:             ,                                            Unnamed: 0                               Unnamed: 1  Unnamed: 2 Reparación Necesaria y Acción Tomada o
+0                                                 NaN  Sistema Inspeccionado Estatus de Reparo         NaN                                    NaN
+1                                                 NaN                                      NaN         NaN                               Planeada
+2                                           Sistemas:                                   XBueno         NaN                                    NaN
+3   Fugas de gas, Calefacción, Ventilación y Aire ...                                      NaN         NaN                                    NaN
+4           (HVAC)/Sistemas Mecánicos, Alcantarillado                                      NaN         NaN                                    NaN
+5                                           Interior:                               XAceptable         NaN           SALONES 17-22, #4: CUARTO DE
+6                              Superficies Interiores                                      NaN         NaN        ALMACÉN ENSEGUIDA DEL BAÑO-YESO
+7                                                 NaN                                      NaN         NaN                                 DAÑADO
+8                                                 NaN                                      NaN         NaN                                    NaN
+9                                                 NaN                                      NaN         NaN                                    NaN
+10                                          Limpieza:                                   XBueno         NaN                                    NaN
+11      Limpieza General, Invasión de Insectos/Plagas                                      NaN         NaN                                    NaN
+12                                         Eléctrico:                                   XBueno         NaN    OFICINA DE ADMINISTRACIÓN: 7. FALTA
+13                                Sistemas Eléctricos                                      NaN         NaN         LA CUBIERTA DEL ENCHUFE 11. LA
+14                                                NaN                                      NaN         NaN          PINTURA DE LA CERRADURA DE LA
+15                                                NaN                                      NaN         NaN                  PUERTA ESTA ASTILLADA
+16                                   Baños/Bebederos:                                   XBueno         NaN   BIBLIOTECA #8: PRESIÓN BAJA DEL AGUA
+17                         Baños, Lavamanos/Bebederos                                      NaN         NaN     DE LA LLAVE DEL BAÑO DE NIÑOS/BAÑO
+18                                                NaN                                      NaN         NaN     DE NIÑAS-VENTANA AGRIETADO Y GOTEO
+19                                                NaN                                      NaN         NaN                    DE AGUA EN LA LLAVE
+20                                                NaN                                      NaN         NaN       ENFERMERA #8: INODORO EN EL BAÑO
+21                                                NaN                                      NaN         NaN                      FUERA DE SERVICIO
+22                                                NaN                                      NaN         NaN    SALONES 35-36, #9: BEBEDERO NO ESTÁ
+23                                                NaN                                      NaN         NaN     FUNCIONANDO EN FRENTE DEL SALÓN 36
+24                                                NaN                                      NaN         NaN                                    NaN
+25                                         Seguridad:                                   XBueno         NaN   SALONES 5-10, #11: PINTURA OXIDADA Y
+26  Seguridad Contra Incendios, Materiales Peligrosos                                      NaN         NaN     PICADA EN LA PARTE DE ABAJO DE LAS
+27                                                NaN                                      NaN         NaN                     PUERTAS DE ENTRADA
+28                                       Estructuras:                                   XBueno         NaN     SALONES 17-22, #12: BAÑO DE NIÑOS-
+29                        Daños Estructurales, Techos                                      NaN         NaN            PINTURA DESCARAPELÁNDOSE EN
+30                                                NaN                                      NaN         NaN             DIVISIÓN DE COMPARTIMENTOS
+31                                                NaN                                      NaN         NaN     SALÓN 39, #12: FALTAN DOS BASES DE
+32                                                NaN                                      NaN         NaN         VENTILADORES DE LA PARTE NORTE
+33                                                NaN                                      NaN         NaN             SALÓN 40-41: FALTA BASE DE
+34                                                NaN                                      NaN         NaN    VENTILADOR DE LA PARTE NORTE, SALÓN
+35                                                NaN                                      NaN         NaN          40 FALTA BASE DE LA PARTE SUR
+36                                                NaN                                      NaN         NaN                                    NaN
+37                                          Exterior:                                   XBueno         NaN    SALONES 1-4, #15: VENTANA AGRIETADA
+38                   Patio de Recreo/Plantel Escolar,                                      NaN         NaN                    EN EL BAÑO DE NIÑOS
+39                   Ventanas/Puertas/Portones/Cercos                                      NaN         NaN                                    NaN
+40                                                NaN                                      NaN         NaN                                    NaN
+41                              Clasificación General                                      NaN         NaN                                    NaN
+42                                                NaN                                   XBueno         NaN                                    NaN
+43                                         ----------                                      NaN         NaN                                    NaN,     Unnamed: 0 Unnamed: 1 Escuela Escuela.1 Distrito Distrito.1 Estado Estado.1
+0          NaN    Materia     NaN       NaN      NaN        NaN    NaN      NaN
+1          NaN        NaN   17-18     18-19    17-18      18-19  17-18    18-19
+2          ELA        NaN      17        14       20         20     50       50
+3  Matemáticas        NaN       9         9       12         12     38       39,   Unnamed: 0 Escuela Escuela.1 Distrito Distrito.1 Estado Estado.1
+0    Materia     NaN       NaN      NaN        NaN    NaN      NaN
+1        NaN   17-18     18-19    17-18      18-19  17-18    18-19
+2    Ciencia     N/A       N/A      N/A        N/A    N/A      N/A,   Nivel de Año  4 de 6  5 de 6  6 de 6
+0      ---5---    18.6    11.9    13.6
+1      ---7---    13.9     9.7     9.7,                                            Unnamed: 0         Unnamed: 1   Unnamed: 2         Unnamed: 3         Unnamed: 4    Porcentaje
+0                                                 NaN                NaN  Inscripción           Cantidad         Porcentaje           NaN
+1                                                 NaN  Grupo Estudiantil          NaN                NaN                NaN  Cumpliendo o
+2                                                 NaN                NaN        Total  Realizando Prueba  Realizando Prueba           NaN
+3                                                 NaN                NaN          NaN                NaN                NaN     Superando
+4                                   Todos los alumnos                NaN          391                391             100.00         14.32
+5                                          Masculinos                NaN          189                189             100.00         11.11
+6                                           Femeninas                NaN          202                202             100.00         17.33
+7                                      Afroamericanos                NaN           --                 --                 --            --
+8                 Nativo Americano o Nativo de Alaska                NaN          NaN                NaN                NaN           NaN
+9                                            Asiático                NaN           --                 --                 --            --
+10                                           Filipino                NaN          NaN                NaN                NaN           NaN
+11                                   Hispano o Latino                NaN          382                382             100.00         14.14
+12              Nativo de Hawái o Isleño del Pacífico                NaN          NaN                NaN                NaN           NaN
+13                                             Blanco                NaN           --                 --                 --            --
+14                         Dos o más orígenes étnicos                NaN          NaN                NaN                NaN           NaN
+15                     De escasos recursos económicos                NaN          376                376             100.00         13.30
+16                             Estudiantes del inglés                NaN          311                311             100.00         13.18
+17                         Alumnos con discapacidades                NaN           38                 38             100.00          2.63
+18  Alumnos recibiendo servicios de educación migr...                NaN           21                 21             100.00         14.29
+19                        Jóvenes de crianza temporal                NaN           --                 --                 --            --
+20                                         Indigentes                NaN           32                 32             100.00          0.00,                                            Unnamed: 0         Unnamed: 1   Unnamed: 2         Unnamed: 3         Unnamed: 4    Porcentaje
+0                                                 NaN                NaN  Inscripción           Cantidad         Porcentaje           NaN
+1                                                 NaN  Grupo Estudiantil          NaN                NaN                NaN  Cumpliendo o
+2                                                 NaN                NaN        Total  Realizando Prueba  Realizando Prueba           NaN
+3                                                 NaN                NaN          NaN                NaN                NaN     Superando
+4                                   Todos los alumnos                NaN          391                391             100.00          8.95
+5                                          Masculinos                NaN          189                189             100.00          8.47
+6                                           Femeninas                NaN          202                202             100.00          9.41
+7                                      Afroamericanos                NaN           --                 --                 --            --
+8                 Nativo Americano o Nativo de Alaska                NaN          NaN                NaN                NaN           NaN
+9                                            Asiático                NaN           --                 --                 --            --
+10                                           Filipino                NaN          NaN                NaN                NaN           NaN
+11                                   Hispano o Latino                NaN          382                382             100.00          8.90
+12              Nativo de Hawái o Isleño del Pacífico                NaN          NaN                NaN                NaN           NaN
+13                                             Blanco                NaN           --                 --                 --            --
+14                         Dos o más orígenes étnicos                NaN          NaN                NaN                NaN           NaN
+15                     De escasos recursos económicos                NaN          376                376             100.00          8.24
+16                             Estudiantes del inglés                NaN          311                311             100.00          8.04
+17                         Alumnos con discapacidades                NaN           38                 38             100.00          5.26
+18  Alumnos recibiendo servicios de educación migr...                NaN           21                 21             100.00         14.29
+19                        Jóvenes de crianza temporal                NaN           --                 --                 --            --
+20                                         Indigentes                NaN           32                 32             100.00          0.00,   Suspensiones y Expulsiones para la Escuela  2016-17  2017-18  2018-19
+0                       Tasa de Suspensiones      7.5      3.0      3.8
+1                        Tasa de Expulsiones      0.0      0.0      0.0,   Suspensiones y Expulsiones para el Distrito  2016-17  2017-18  2018-19
+0                        Tasa de Suspensiones      5.8      4.9      8.6
+1                         Tasa de Expulsiones      0.1      0.0      0.0,   Suspensiones y Expulsiones para el Estado  2016-17  2017-18  2018-19
+0                      Tasa de Suspensiones      3.6      3.5      3.5
+1                       Tasa de Expulsiones      0.1      0.1      0.1,                                            Unnamed: 0 Cantidad de FTE * Asignados a
+0                                               Cargo                           NaN
+1                                                 NaN                    la Escuela
+2   Orientador (Académico, Social/Conductual o Des...                           NaN
+3   Maestro/a de Medios Bibliotecarios (Biblioteca...                           NaN
+4   Personal de Servicios Bibliotecarios (Auxiliar...                           NaN
+5                                 Psicólogo/a--------                           NaN
+6                         Trabajador/a Social--------                           NaN
+7                                 Enfermera/o--------                           NaN
+8   Especialista en Problemas de Audición/Lenguaje...                           NaN
+9      Especialista de Recursos (no docente) --------                           NaN
+10                                       Otro--------                           NaN,                   2016-17 2016-17.1 2016-17.2 2016-17.3   2017-18 2017-18.1 2017-18.2 2017-18.3   2018-19 2018-19.1 2018-19.2 2018-19.3
+0                  Tamaño      # de      # de      # de    Tamaño      # de      # de      # de    Tamaño      # de      # de      # de
+1   Nivel de Año Promedio   Clases*   Clases*   Clases*  Promedio   Clases*   Clases*   Clases*  Promedio   Clases*   Clases*   Clases*
+2                      de    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño
+3                   Clase      1-20     21-32       33+       NaN      1-20     21-32       33+       NaN      1-20     21-32       33+
+4               Kínder 23         1         3       NaN        20         1         3       NaN        22       NaN         3       NaN
+5                     NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+6                   1° 17         4       NaN       NaN        19         4       NaN       NaN        21         1         2       NaN
+7                     NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+8                   2° 20         4       NaN       NaN        18         4       NaN       NaN        19         4       NaN       NaN
+9                     NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+10                  3° 19         4       NaN       NaN        19         4       NaN       NaN        15         4       NaN       NaN
+11                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+12                  4° 30       NaN         3       NaN        26       NaN         3       NaN        24       NaN         3       NaN
+13                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+14                  5° 33       NaN         1         2        28       NaN         3       NaN        30       NaN         2       NaN
+15                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+16                  6° 32       NaN         2       NaN        31       NaN         3         1        31       NaN         2       NaN
+17                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+18                 Otro**       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN,                                               Medida  2017-18  2018-19  2019-20
+0  Cantidad de días escolares dedicados a Formaci...       23       23       23,                         Unnamed: 0 Unnamed: 1   Promedio Estatal                                     Fiscal 2017-18 Unnamed: 2 Unnamed: 3  Unnamed: 4
+0                              NaN   Cantidad  Para Distritos en                                                NaN        NaN        NaN      Sueldo
+1                        Categoría        NaN                NaN                                                NaN        NaN        NaN         NaN
+2                              NaN  Distrital           la Misma                                        Nivel Total   Limitado  Ilimitado    Promedio
+3                              NaN        NaN          Categoría                                                NaN        NaN        NaN     Docente
+4   Sueldo de Maestro Principiante    $43,071            $46,208                             Sitio Escolar-- $5,398       $723     $4,675     $56,753
+5    Sueldo de Maestro en el Nivel        NaN                NaN                          -D--is--t rito------- N/A        N/A     $6,258  $64,007.00
+6                              NaN    $66,644            $72,218                                                NaN        NaN        NaN         NaN
+7                       Intermedio        NaN                NaN                                  Estado------- N/A        N/A  $7,506.64  $72,949.00
+8    Sueldo de Maestro en el Nivel        NaN                NaN                                                NaN        NaN        NaN         NaN
+9                              NaN    $91,136            $92,742                                                NaN        NaN        NaN         NaN
+10                        Superior        NaN                NaN                                                NaN        NaN        NaN      Sueldo
+11     Sueldo Promedio de Director        NaN                NaN                              Diferencia Porcentual        NaN  Ilimitado    Promedio
+12                             NaN    $93,079           $134,864                                                NaN        NaN        NaN         NaN
+13                      (primaria)        NaN                NaN                                                NaN        NaN        NaN     Docente
+14     Sueldo Promedio de Director        NaN                NaN                             Sitio Escolar/Distrito        NaN      -25.3         4.9
+15                             NaN    $93,079           $118,220                                                NaN        NaN        NaN         NaN
+16                    (secundaria)        NaN                NaN                               Sitio Escolar/Estado        NaN       -0.3       -10.0
+17     Sueldo Promedio de Director        NaN                NaN  Nota: Celdas con valor de “N/A” no requieren d...        NaN        NaN         NaN
+18                             NaN    $93,079           $127,356                                                NaN        NaN        NaN         NaN
+19                  (preparatoria)        NaN                NaN                                                NaN        NaN        NaN         NaN
+20                             NaN        NaN                NaN  El Departamento de Educación de California pro...        NaN        NaN         NaN
+21      Sueldo del Superintendente   $159,359           $186,823                                                NaN        NaN        NaN         NaN,                   Unnamed: 0 Unnamed: 1   Promedio Estatal
+0  Porcentaje de Presupuesto   Cantidad  Para Distritos en
+1                  Distrital  Distrital           la Misma
+2                        NaN        NaN          Categoría
+3        Sueldos de Maestros        28%                33%
+4    Sueldos Administrativos         6%                 6%,   Tasa para Escuela Primaria San Joaquin  2015-16  2016-17  2017-18            (CSU)/Universidad de California (UC)  Unnamed: 0
+0                                    NaN      NaN      NaN      NaN                    Medida del curso para UC/CSU  Porcentaje
+1                          Tasa Abandono      NaN      NaN      NaN                                             NaN         NaN
+2                                    NaN      NaN      NaN      NaN  Alumnos matriculados en cursos requeridos para         NaN
+3                        Tasa Graduación      NaN      NaN      NaN                                             NaN           0,                              Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3                    Medida del curso para UC/CSU  Porcentaje
+0                         Tasa Abandono        NaN        NaN        NaN                                             NaN         NaN
+1                                   NaN        NaN        NaN        NaN  Alumnos matriculados en cursos requeridos para         NaN
+2                       Tasa Graduación        NaN        NaN        NaN                                             NaN         0.0
+3                                   NaN        NaN        NaN        NaN              su admisión a UC/CSU en el 2018-19         NaN
+4                                   NaN        NaN        NaN        NaN  Egresados quienes completaron todos los cursos         NaN
+5  Tasa para Distrito Escolar Unificado    2015-16    2016-17    2017-18      requeridos para su admisión a UC/CSU en el         NaN
+6                         Golden Plains        NaN        NaN        NaN                                         2017-18         NaN,   Tasa para Distrito Escolar Unificado  2015-16  2016-17  2017-18 requeridos para su admisión a UC/CSU en el
+0          Golden Plains Tasa Abandono      NaN      NaN      NaN                                    2017-18
+1                                  NaN      NaN      NaN      NaN                                        NaN
+2                      Tasa Graduación      NaN      NaN      NaN                                        NaN,                                            Unnamed: 0       Unnamed: 1 Unnamed: 2  Unnamed: 3            Unnamed: 4   Unnamed: 5     Unnamed: 6
+0                                                 NaN              NaN        NaN         NaN                   NaN  Cantidad de  Porcentaje de
+1                        Tasa para California 2015-16          2016-17    2017-18         NaN               Materia    Cursos AP        Alumnos
+2                                       Tasa Abandono              NaN        NaN         NaN                   NaN   Ofrecidos*   en Cursos AP
+3                                     Tasa Graduación              NaN        NaN         NaN           Computación          NaN            N/A
+4   Para la fórmula para calcular la tasa ajustada...              NaN        NaN         NaN            Inglés----          NaN            N/A
+5   17 y 2017-18, consulte el documento Definicion...              NaN        NaN         NaN                   NaN          NaN            NaN
+6   2018-19 ubicado en el sitio web SARC en https:...              NaN        NaN         NaN  Bellas artes y artes          NaN            N/A
+7                                                 NaN              NaN        NaN         NaN             escénicas          NaN            NaN
+8   C Participación en Educación para Carrera Técnica              NaN        NaN         NaN     Idioma extranjero          NaN            N/A
+9                                                 NaN    Participación        NaN         NaN           Matemáticas          NaN            N/A
+10                                             Medida              NaN        NaN         NaN                   NaN          NaN            NaN
+11                                                NaN  en Programa CTE        NaN         NaN          Ciencias----          NaN            N/A
+12          Cantidad de alumnos que participan en CTE              NaN          0         NaN     Ciencias sociales          NaN            N/A
+13        % de alumnos que completaron un programa de              NaN        NaN         NaN      Todos los cursos          NaN            NaN,                                           Unnamed: 0    Participación                                    Matemáticas N/A
+0                                             Medida              NaN                                                NaN
+1                                                NaN  en Programa CTE                                   Ciencias---- N/A
+2          Cantidad de alumnos que participan en CTE                0                              Ciencias sociales N/A
+3        % de alumnos que completaron un programa de              NaN                                                NaN
+4                                                NaN                0                                   Todos los cursos
+5        CTE y obtuvieron el diploma de preparatoria              NaN  Nota: Celdas con valor de “N/A” no requieren d...
+6  % de cursos CTE secuenciales o articulados ent...              NaN                                                NaN
+7           escuela y las instituciones de educación                0  * Donde hay matriculas estudiantiles en el cur...
+8                                     postsecundaria              NaN                                                NaN]

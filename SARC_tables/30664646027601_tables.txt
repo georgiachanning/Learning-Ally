@@ -1,0 +1,265 @@
+[                          Unnamed: 0  Entity                             Unnamed: 1  Contact Information
+0                        School Name     NaN           Las Palmas Elementary School                  NaN
+1                             Street     NaN                      1101 Calle Puente                  NaN
+2                   City, State, Zip     NaN                 San Clemente, CA 92672                  NaN
+3                       Phone Number     NaN                         (949) 234-5333                  NaN
+4                          Principal     NaN                 Maria Cristina Barrosa                  NaN
+5                      Email Address     NaN                  mcbarrosa@capousd.org                  NaN
+6                            Website     NaN  http://lpes.capousd.ca.schoolloop.com                  NaN
+7  County-District-School (CDS) Code     NaN                       30-66464-6027601                  NaN,        Unnamed: 0                              Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Capistrano Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                      (949) 234-9200         NaN         NaN                  NaN         NaN
+2  Superintendent                       Kirsten Vital         NaN         NaN                  NaN         NaN
+3   Email Address          superintendent@capousd.org         NaN         NaN                  NaN         NaN
+4         Website                     www.capousd.org         NaN         NaN                  NaN         NaN,         Grade Level  Number of Students
+0      Kindergarten                 156
+1           Grade 1                 158
+2           Grade 2                 150
+3           Grade 3                 149
+4           Grade 4                 143
+5           Grade 5                 133
+6  Total Enrollment                 889,                      Student Group  Percent of Total Enrollment
+0        Black or African American                          0.2
+1                            Asian                          0.2
+2                         Filipino                          0.1
+3               Hispanic or Latino                         51.0
+4                            White                         42.9
+5                Two or More Races                          4.0
+6  Socioeconomically Disadvantaged                         44.5
+7                 English Learners                         34.8
+8       Students with Disabilities                          8.0
+9                         Homeless                         14.3,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       33       34       35     1882
+3                            Without Full Credential        NaN        0        0        0       13
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        3,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                                  Unnamed: 1  From Most Percent Students
+0                      NaN           Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                         NaN     Recent      Lacking Own
+2                      NaN                  Materials/year of Adoption        NaN              NaN
+3                      NaN                                         NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts      Year Adopted 2017- McGraw Hill Wonders        Yes               0%
+5                      NaN        (K-3) ; Benchmark Education Company,        NaN              NaN
+6                      NaN       Benchmark Advance (4-5); McGraw Hill,        NaN              NaN
+7                      NaN                            Maravillas (K-5)        NaN              NaN
+8              Mathematics  Year Adopted 2015 - Houghton Mifflin, Math        Yes               0%
+9                      NaN                                 Expressions        NaN              NaN
+10                 Science    Year Adopted 2019 - Delta Education FOSS        Yes               0%
+11                     NaN                                     Science        NaN              NaN
+12  History-Social Science   Year Adopted 2007- Scott Foresman/Pearson        Yes               0%
+13        Foreign Language                                         N/A        NaN              NaN
+14                  Health                                         N/A        NaN              NaN,                      System Inspected Rating  Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,  XGood                                        NaN
+1                                 NaN    NaN                                        NaN
+2              Mechanical/HVAC, Sewer    NaN                                        NaN
+3         Interior: Interior Surfaces  XFair        K RM 11: 4. CEILING TILES ARE LOOSE
+4                                 NaN    NaN                                        NaN
+5                                 NaN    NaN      K RM 12: 4. WATER STAIN CEILING TILES
+6                                 NaN    NaN        P RM 21: 4. CARPET IS WORN AND TORN
+7                                 NaN    NaN     P RM 24: 4. FLOOR IS RAISED NEAR ENTRY
+8                                 NaN    NaN  P RM 25: 4. WATER STAIN CEILING TILES 10.
+9                                 NaN    NaN            SAFETY GLASS IS MISSING ON FIRE
+10                                NaN    NaN                       EXTINGUISHER CABINET
+11                                NaN    NaN      P RM 36: 4. SMALL WATER STAIN CEILING
+12                                NaN    NaN  TILE 11. NO SKID PAINT IS PEELING ON RAMP
+13                                NaN    NaN      P RM 38: 4. SMALL WATER STAIN CEILING
+14                                NaN    NaN      TILES 11. NO SKID PAINT IS PEELING ON
+15                                NaN    NaN                                       RAMP
+16                                NaN    NaN  P RM 39: 4. WATER STAIN CEILING TILES 11.
+17                                NaN    NaN   NO SKID PAINT IS PEELING ON RAMP 12. DRY
+18                                NaN    NaN                                ROT ON RAMP
+19                                NaN    NaN     P RM 40: 4. WATER STAIN CEILING TILES/
+20                                NaN    NaN      RUBBER MOLDING IS MISSING ON WALL 12.
+21                                NaN    NaN                 DRY ROT ON RAMP AND SIDING
+22                                NaN    NaN        RM 13: 4. WATER STAIN CEILING TILES
+23                                NaN    NaN         RM 3: 4. WATER STAIN CEILING TILES
+24                                NaN    NaN         RM 5: 4. WATER STAIN CEILING TILES
+25                                NaN    NaN      RM 6: 4. WATER STAIN CEILING TILES 7.
+26                                NaN    NaN              WATER STAIN IN LIGHT DIFFUSER
+27                                NaN    NaN  RM 9: 4. CEILING TILE IS CRACKED 14. TRIP
+28                                NaN    NaN                          HAZARD ON WALKWAY
+29                                NaN    NaN                                        NaN
+30  Cleanliness: Overall Cleanliness,  XGood                                        NaN
+31                                NaN    NaN                                        NaN
+32           Pest/ Vermin Infestation    NaN                                        NaN
+33             Electrical: Electrical  XGood      RM 6: 4. WATER STAIN CEILING TILES 7.
+34                                NaN    NaN                                        NaN
+35                                NaN    NaN              WATER STAIN IN LIGHT DIFFUSER
+36    Restrooms/Fountains: Restrooms,  XGood                                        NaN
+37                                NaN    NaN                                        NaN
+38                   Sinks/ Fountains    NaN                                        NaN,                   System Inspected Rating  Repair Needed and Action Taken or Planned
+0   Safety: Fire Safety, Hazardous  XFair   BOYS RR: 11. NO SKID PAINT IS PEELING ON
+1                              NaN    NaN                                        NaN
+2                        Materials    NaN                                       RAMP
+3                              NaN    NaN  GIRLS RR: 11. NO SKID PAINT IS PEELING ON
+4                              NaN    NaN                                       RAMP
+5                              NaN    NaN        MPR: 11. PAINT IS CHIPPING ON SOUTH
+6                              NaN    NaN                              STORAGE DOORS
+7                              NaN    NaN   P RM 18: 11. NO SKID PAINT IS PEELING ON
+8                              NaN    NaN                                       RAMP
+9                              NaN    NaN  P RM 25: 4. WATER STAIN CEILING TILES 10.
+10                             NaN    NaN            SAFETY GLASS IS MISSING ON FIRE
+11                             NaN    NaN                       EXTINGUISHER CABINET
+12                             NaN    NaN   P RM 26: 11. NO SKID PAINT IS PEELING ON
+13                             NaN    NaN                                       RAMP
+14                             NaN    NaN    P RM 30: 10. SAFETY GLASS IS MISSING ON
+15                             NaN    NaN      FIRE EXTINGUISHER CABINET 11. NO SKID
+16                             NaN    NaN                   PAINT IS PEELING ON RAMP
+17                             NaN    NaN   P RM 31: 11. NO SKID PAINT IS PEELING ON
+18                             NaN    NaN                                       RAMP
+19                             NaN    NaN  P RM 32: 11. PAINT IS CHIPPING ON RAILING
+20                             NaN    NaN        12. DRY ROT ON NORTH EAST CORNER OF
+21                             NaN    NaN                                     SIDING
+22                             NaN    NaN      P RM 36: 4. SMALL WATER STAIN CEILING
+23                             NaN    NaN  TILE 11. NO SKID PAINT IS PEELING ON RAMP
+24                             NaN    NaN      P RM 38: 4. SMALL WATER STAIN CEILING
+25                             NaN    NaN      TILES 11. NO SKID PAINT IS PEELING ON
+26                             NaN    NaN                                       RAMP
+27                             NaN    NaN  P RM 39: 4. WATER STAIN CEILING TILES 11.
+28                             NaN    NaN   NO SKID PAINT IS PEELING ON RAMP 12. DRY
+29                             NaN    NaN                                ROT ON RAMP
+30                             NaN    NaN   P RM 41: 11. NO SKID PAINT IS PEELING ON
+31                             NaN    NaN                                       RAMP
+32                             NaN    NaN   P RM 43: 11. NO SKID PAINT IS PEELING ON
+33                             NaN    NaN            RAMP/ PAINT IS CHIPPING ON DOOR
+34                             NaN    NaN   P RM 44: 11. NO SKID PAINT IS PEELING ON
+35                             NaN    NaN                                       RAMP
+36                             NaN    NaN   P RM 46: 11. NO SKID PAINT IS PEELING ON
+37                             NaN    NaN                                       RAMP
+38                             NaN    NaN                                        NaN
+39  Structural: Structural Damage,  XGood               P RM 15: 13. DRY ROT ON TRIM
+40                             NaN    NaN                                        NaN
+41                           Roofs    NaN  P RM 32: 11. PAINT IS CHIPPING ON RAILING
+42                             NaN    NaN        12. DRY ROT ON NORTH EAST CORNER OF
+43                             NaN    NaN                                     SIDING
+44                             NaN    NaN  P RM 39: 4. WATER STAIN CEILING TILES 11.
+45                             NaN    NaN   NO SKID PAINT IS PEELING ON RAMP 12. DRY
+46                             NaN    NaN                                ROT ON RAMP
+47                             NaN    NaN     P RM 40: 4. WATER STAIN CEILING TILES/
+48                             NaN    NaN      RUBBER MOLDING IS MISSING ON WALL 12.
+49                             NaN    NaN                 DRY ROT ON RAMP AND SIDING,               System Inspected Rating  Repair Needed and Action Taken or Planned
+0  External: Playground/School  XGood                                        NaN
+1                          NaN    NaN                                        NaN
+2            Grounds, Windows/    NaN     P RM 20: 14. TRIP HAZARD AT RAMP ENTRY
+3           Doors/Gates/Fences    NaN  RM 9: 4. CEILING TILE IS CRACKED 14. TRIP
+4                          NaN    NaN                          HAZARD ON WALKWAY
+5                          NaN    NaN                                        NaN
+6               Overall Rating  XGood                                        NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       54       52       69         70       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       55       50       58         59       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                   Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                        NaN            NaN       Total     Number    Percent     NaN       NaN
+1                        NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                        NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                        NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4               All Students            NaN         421        418      99.29    0.71     52.39
+5                       Male            NaN         214        212      99.07    0.93     48.58
+6                     Female            NaN         207        206      99.52    0.48     56.31
+7  Black or African American            NaN          --         --         --      --        --,                                        Unnamed: 0  Unnamed: 1 Unnamed: 2 Unnamed: 3 Percent Percent.1
+0                                             NaN       Total     Number    Percent     NaN       NaN
+1                                   Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN         NaN        NaN        NaN  Tested  Exceeded
+4                American Indian or Alaska Native         NaN        NaN        NaN     NaN       NaN
+5                                           Asian          --         --         --      --        --
+6                                        Filipino          --         --         --      --        --
+7                              Hispanic or Latino         239        237      99.16    0.84     35.86
+8             Native Hawaiian or Pacific Islander         NaN        NaN        NaN     NaN       NaN
+9                                           White         161        160      99.38    0.62     71.88
+10                              Two or More Races          13         13     100.00    0.00     92.31
+11                Socioeconomically Disadvantaged         207        206      99.52    0.48     31.07
+12                               English Learners         166        166     100.00    0.00     20.48
+13                     Students with Disabilities          49         49     100.00    0.00     30.61
+14  Students Receiving Migrant Education Services         NaN        NaN        NaN     NaN       NaN
+15                                   Foster Youth         NaN        NaN        NaN     NaN       NaN
+16                                       Homeless          61         60      98.36    1.64     21.67,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         421        416      98.81    1.19     49.76
+5                                  Male            NaN         214        211      98.60    1.40     54.03
+6                                Female            NaN         207        205      99.03    0.97     45.37
+7             Black or African American            NaN          --         --         --      --        --
+8      American Indian or Alaska Native            NaN         NaN        NaN        NaN     NaN       NaN
+9                                 Asian            NaN          --         --         --      --        --
+10                             Filipino            NaN          --         --         --      --        --
+11                   Hispanic or Latino            NaN         239        237      99.16    0.84     32.49
+12  Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN,                                        Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                             NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                             NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                                           White            NaN         161        158      98.14    1.86     73.42
+5                               Two or More Races            NaN          13         13     100.00    0.00     76.92
+6                 Socioeconomically Disadvantaged            NaN         207        206      99.52    0.48     28.16
+7                                English Learners            NaN         166        166     100.00    0.00     21.69
+8                      Students with Disabilities            NaN          49         49     100.00    0.00     34.69
+9   Students Receiving Migrant Education Services            NaN         NaN        NaN        NaN     NaN       NaN
+10                                   Foster Youth            NaN         NaN        NaN        NaN     NaN       NaN
+11                                       Homeless            NaN          61         60      98.36    1.64     20.00,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   16.8                     22.1                     50.4,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      0.0      0.2      0.2      2.5        2.3        2.1      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.1        0.1        0.1      0.1      0.1      0.1,    Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0         NaN  Average # of # of # of Average # of # of # of ...                                             
+1       Grade                                                NaN                                             
+2         NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3       Level                                                NaN                                             
+4         NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5         NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6           K                                     26 6 26 6 26 6                                             
+7           1                                     26 6 25 6 26 6                                             
+8           2                                     30 5 31 5 30 5                                             
+9           3                                     28 5 30 5 30 5                                             
+10          4                                     30 4 30 4 31 4                                             
+11          5                                     28 5 29 5 30 5                                             
+12   Othe r**                                                NaN                                             ,                                            Unnamed: 0      Number of FTE*
+0                                               Title                 NaN
+1                                                 NaN  Assigned to School
+2   Counselor (Academic, Social/Behavioral or Care...                 1.0
+3                   Library Media Teacher (Librarian)                 NaN
+4     Library Media Services Staff (Paraprofessional)                 NaN
+5                                        Psychologist                 NaN
+6                                       Social Worker                 NaN
+7                                               Nurse                 NaN
+8                  Speech/Language/Hearing Specialist                  .8
+9                  Resource Specialist (non-teaching)                 1.0
+10                                              Other                 NaN,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN         $9661         $2813           $6848      $85846
+3                                       District        NaN           N/A           N/A            7122  $89,014.00
+4  Percent Difference - School Site and District        NaN           N/A           N/A            -3.9        -3.6
+5                                          State        NaN           N/A           N/A       $7,506.64  $82,403.00,                                    Unnamed: 0         Total  Expenditures  Expenditures.1  Average
+0                                       Level  Expenditures     Per Pupil       Per Pupil  Teacher
+1                                         NaN     Per Pupil  (Restricted)  (Unrestricted)   Salary
+2  Percent Difference - School Site and State           N/A           N/A            -9.2      4.1,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN    $52,915           $48,612
+5                        Mid-Range Teacher Salary        NaN    $79,510           $74,676
+6                          Highest Teacher Salary        NaN   $105,993           $99,791
+7           Average Principal Salary (Elementary)        NaN   $138,793          $125,830
+8               Average Principal Salary (Middle)        NaN   $141,825          $131,167
+9                 Average Principal Salary (High)        NaN   $161,376          $144,822
+10                          Superintendent Salary        NaN   $326,466          $275,796
+11         Percent of Budget for Teacher Salaries        NaN        38%               34%
+12  Percent of Budget for Administrative Salaries        NaN         5%                5%,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...          2        2          3      NaN        NaN      NaN        NaN]

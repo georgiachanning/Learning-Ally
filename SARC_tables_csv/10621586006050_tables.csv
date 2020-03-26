@@ -1,0 +1,126 @@
+[                          Unnamed: 0  Entity                          Unnamed: 1  Contact Information
+0                        School Name     NaN          Marshall Elementary School                  NaN
+1                             Street     NaN               142 N. Armstrong Ave.                  NaN
+2                   City, State, Zip     NaN                    Fowler, CA 93625                  NaN
+3                       Phone Number     NaN                      (559) 834-6120                  NaN
+4                          Principal     NaN                     Kathleen Denton                  NaN
+5                      Email Address     NaN    kathleen.denton@fowler.k12.ca.us                  NaN
+6                            Website     NaN  https://www.fowlerusd.org/Domain/8                  NaN
+7  County-District-School (CDS) Code     NaN                    10-62158-6006050                  NaN,        Unnamed: 0                          Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name      Marshall Elementary School         NaN         NaN                  NaN         NaN
+1    Phone Number                  (559) 834-6080         NaN         NaN                  NaN         NaN
+2  Superintendent               Dr. Paul Marietti         NaN         NaN                  NaN         NaN
+3   Email Address  Paul.Marietti@fowler.k12.ca.us         NaN         NaN                  NaN         NaN
+4         Website               www.fowlerusd.org         NaN         NaN                  NaN         NaN,         Grade Level  Number of Students
+0      Kindergarten                 175
+1           Grade 1                 142
+2           Grade 2                 150
+3  Total Enrollment                 467,                        Student Group  Percent of Total Enrollment
+0          Black or African American                          0.2
+1   American Indian or Alaska Native                          0.4
+2                              Asian                          8.8
+3                 Hispanic or Latino                         80.9
+4                              White                          8.4
+5                  Two or More Races                          1.3
+6    Socioeconomically Disadvantaged                         74.7
+7                   English Learners                         32.8
+8         Students with Disabilities                          7.3
+9                       Foster Youth                          1.3
+10                          Homeless                          NaN,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       23       23       26      133
+3                            Without Full Credential        NaN        0        0        0        4
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                                 Unnamed: 1  From Most Percent Students
+0                      NaN          Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                        NaN     Recent      Lacking Own
+2                      NaN                 Materials/year of Adoption        NaN              NaN
+3                      NaN                                        NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts   Benchmark Advance (Adopted in 2018), SBE        Yes               0%
+5                      NaN                                    adopted        NaN              NaN
+6              Mathematics       Houghton Mifflin Go Math (Adopted in        Yes               0%
+7                      NaN     2014), SBE adopted/ Ready Math (pilot)        NaN              NaN
+8                  Science   MacMillan McGraw Hill (Adopted in 2007),        Yes               0%
+9                      NaN                                SBE adopted        NaN              NaN
+10  History-Social Science  Pearson Scott Foresman (Adopted in 2006),        Yes               0%
+11                     NaN                                SBE adopted        NaN              NaN,                      System Inspected Rating     Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,  XGood                         No apparent problems.
+1                                 NaN    NaN                                           NaN
+2              Mechanical/HVAC, Sewer    NaN                                           NaN
+3         Interior: Interior Surfaces  XGood                         No apparent problems.
+4                                 NaN    NaN                                           NaN
+5   Cleanliness: Overall Cleanliness,  XGood                         No apparent problems.
+6                                 NaN    NaN                                           NaN
+7            Pest/ Vermin Infestation    NaN                                           NaN
+8              Electrical: Electrical  XGood                         No apparent problems.
+9                                 NaN    NaN                                           NaN
+10    Restrooms/Fountains: Restrooms,  XGood                         No apparent problems.
+11                                NaN    NaN                                           NaN
+12                   Sinks/ Fountains    NaN                                           NaN
+13     Safety: Fire Safety, Hazardous  XGood                         No apparent problems.
+14                                NaN    NaN                                           NaN
+15                          Materials    NaN                                           NaN
+16     Structural: Structural Damage,  XGood                         No apparent problems.
+17                                NaN    NaN                                           NaN
+18                              Roofs    NaN                                           NaN
+19        External: Playground/School  XFair   High windows in Nurse's office do not latch
+20                                NaN    NaN                                           NaN
+21                  Grounds, Windows/    NaN     close.  The gate outside of Room 1 on the
+22                 Doors/Gates/Fences    NaN   east side of the building closes and locks;
+23                                NaN    NaN  however, it can be easily unlocked without a
+24                                NaN    NaN     key posing a security and safety concern.
+25                     Overall Rating  XGood                                           NaN,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                    NaN                      NaN                      NaN,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      0.0      0.0      0.2      1.9        1.4        1.6      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.2        0.0        0.0      0.1      0.1      0.1,   Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0        NaN  Average # of # of # of Average # of # of # of ...                                             
+1      Grade                                                NaN                                             
+2        NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3      Level                                                NaN                                             
+4        NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5        NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6          K                               22 2 6 22 2 6 19 5 5                                             
+7          1                                 23 6 21 1 6 20 3 4                                             
+8          2                                   21 1 5 25 6 25 6                                             
+9   Othe r**                                           10 1 6 1                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN    0.0,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN
+5                                       Psychologist                 NaN
+6                                      Social Worker                 NaN
+7                 Speech/Language/Hearing Specialist                 NaN
+8                 Resource Specialist (non-teaching)                 1.5,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN         10110          2253            7857       70511
+3                                       District        NaN           N/A           N/A            8073  $70,587.00
+4  Percent Difference - School Site and District        NaN           N/A           N/A            -2.7         3.6
+5                                          State        NaN           N/A           N/A       $7,506.64  $72,949.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A             9.8        -1.2,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN    $49,671           $46,208
+5                        Mid-Range Teacher Salary        NaN    $70,302           $72,218
+6                          Highest Teacher Salary        NaN    $90,323           $92,742
+7           Average Principal Salary (Elementary)        NaN   $110,775          $134,864
+8               Average Principal Salary (Middle)        NaN   $116,063          $118,220
+9                 Average Principal Salary (High)        NaN   $132,384          $127,356
+10                          Superintendent Salary        NaN   $186,667          $186,823
+11         Percent of Budget for Teacher Salaries        NaN        35%               33%
+12  Percent of Budget for Administrative Salaries        NaN         4%                6%,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...          4        4          4      NaN        NaN      NaN        NaN]

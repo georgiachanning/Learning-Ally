@@ -1,0 +1,235 @@
+[                 Unnamed: 0                                         Unnamed: 1  melaniepaliotti@vistausd.org
+0                       NaN                                  About This School                           NaN
+1                       NaN                                                NaN                           NaN
+2                       NaN                                  Mission Statement                           NaN
+3                       NaN  Bobier’s mission is to empower students to con...                           NaN
+4                       NaN  their strengths, values, and interests, thereb...                           NaN
+5                       NaN                                                NaN                           NaN
+6                       NaN                                                NaN                           NaN
+7                       NaN                                Principal’s Message                           NaN
+8             Vista Unified  Great things are happening at Bobier this year...                           NaN
+9           School District  achievement in a safe, student-centered learni...                           NaN
+10      1234 Arcadia Avenue  problem solving, and foster intellectual and s...                           NaN
+11  Vista, California 92084  open communication and collaboration with all ...                           NaN,           Student Enrollment by Grade Level (2018-19)  Unnamed: 0                           Unnamed: 1  Unnamed: 2                   Unnamed: 3  Unnamed: 4
+0                                                 NaN         NaN                          Grade Level         NaN                   Enrollment         NaN
+1                                                 NaN         NaN                         Kindergarten         NaN                          139         NaN
+2                                                 NaN         NaN                              Grade 1         NaN                          112         NaN
+3                                                 NaN         NaN                              Grade 2         NaN                          105         NaN
+4                                                 NaN         NaN                              Grade 3         NaN                          109         NaN
+5                                                 NaN         NaN                              Grade 4         NaN                           90         NaN
+6                                                 NaN         NaN                              Grade 5         NaN                          104         NaN
+7                                                 NaN         NaN                     Total Enrollment         NaN                          659         NaN
+8   ThedatasourceisthecertifiedCaliforniaLongitudi...         NaN                                  NaN         NaN                          NaN         NaN
+9                                                 NaN         NaN                        Student Group         NaN  Percent of Total Enrollment         NaN
+10                                                NaN         NaN            Black or African American         NaN                         0.5%         NaN
+11                                                NaN         NaN     American Indian or Alaska Native         NaN                         0.5%         NaN
+12                                                NaN         NaN                                Asian         NaN                         0.2%         NaN
+13                                                NaN         NaN                             Filipino         NaN                         0.5%         NaN
+14                                                NaN         NaN                   Hispanic or Latino         NaN                        95.1%         NaN
+15                                                NaN         NaN  Native Hawaiian or Pacific Islander         NaN                         0.2%         NaN
+16                                                NaN         NaN                                White         NaN                         2.0%         NaN
+17                                                NaN         NaN                    Two or More Races         NaN                         1.2%         NaN
+18                                                NaN         NaN                Student Group (Other)         NaN  Percent of Total Enrollment         NaN
+19                                                NaN         NaN      Socioeconomically Disadvantaged         NaN                        95.8%         NaN
+20                                                NaN         NaN                     English Learners         NaN                        61.6%         NaN
+21                                                NaN         NaN           Students with Disabilities         NaN                         9.6%         NaN
+22                                                NaN         NaN                             Homeless         NaN                        26.4%         NaN
+23  ThedatasourceisthecertifiedCaliforniaLongitudi...         NaN                                  NaN         NaN                          NaN         NaN,                                            Unnamed: 0                                       Unnamed: 1  ... Unnamed: 9 Unnamed: 10
+0                                                 NaN                                              NaN  ...        NaN         NaN
+1                                                 NaN                                              NaN  ...    2019-20         NaN
+2                                                 NaN                                              NaN  ...        972         NaN
+3                                                 NaN                                              NaN  ...          0         NaN
+4                                                 NaN                                              NaN  ...        NaN         NaN
+5   Teacher Misassignments and Vacant Teacher Posi...                                              NaN  ...        NaN         NaN
+6                                                 NaN                                              NaN  ...        NaN         NaN
+7                                                 NaN  Misassignments of Teachers of\rEnglish Learners  ...        NaN         NaN
+8                                                 NaN                    *Total Teacher Misassignments  ...        NaN         NaN
+9                                                 NaN                         Vacant Teacher Positions  ...        NaN         NaN
+10  Note: “Misassignments” refers to the number of...                                              NaN  ...        NaN         NaN
+
+[11 rows x 12 columns],                Unnamed: 0                               Unnamed: 1 Unnamed: 2    From the Most Percent of Students
+0    Core Curriculum Area    Textbooks and Instructional Materials    Year of  Recent Adoption   Lacking Their Own
+1                     NaN                                      NaN   Adoption      (Yes or No)       Assigned Copy
+2   Reading/Language Arts                Houghton Mifflin Reading:       2010              Yes                  0%
+3                     NaN   A Legacy of Literacy-Medallion Upgrade        NaN              NaN                 NaN
+4             Mathematics                  Great Minds—Eureka Math       2018              Yes                  0%
+5                 Science  Delta Full Option Science System (FOSS)       2007              Yes                  0%
+6  History-Social Science                   Pearson Scott/Foresman       2006              Yes                  0%
+7                     NaN    History Social Science for California        NaN              NaN                 NaN
+8        English Language                    Hampton Brown Avenues       2009              Yes                  0%
+9             Development                                      NaN        NaN              NaN                 NaN,                                           Unnamed: 0   Repair Status                                         Unnamed: 1
+0                                   System Inspected             NaN          Repair Needed and Action Taken or Planned
+1                                                NaN  Good Fair Poor                                                NaN
+2         Systems: Gas Leaks, Mechanical/HVAC, Sewer               X  One room exhaust needs adjustment as the fan i...
+3                        Interior: Interior Surfaces               X  Two rooms wallpaper damaged, Three rooms carpe...
+4                                                NaN             NaN  repair. One room wall damaged. One room staine...
+5     Cleanliness: Overall Cleanliness, Pest/ Vermin               X       No repairs needed at the time of inspection.
+6                                        Infestation             NaN                                                NaN
+7                             Electrical: Electrical               X  One room appliance plugged into power strip. O...
+8   Restrooms/Fountains: Restrooms, Sinks/ Fountains               X  Kitchen,  nurse’s office, and one girl’s restr...
+9                                                NaN             NaN  loose.  Two drinking fountains needs adjustmen...
+10          Safety: Fire Safety, Hazardous Materials               X  One room and garden shed paint peeling. One ro...
+11                                               NaN             NaN  sharpener cover missing. One room items stacke...
+12                                               NaN             NaN       ceiling. One room cleaning wipes under sink.
+13              Structural: Structural Damage, Roofs               X  One room ramp skirting damaged. Two walls dama...
+14                                               NaN             NaN  ramp rusted. Side of custodian storage shed ha...
+15     External: Playground/School Grounds, Windows/               X  Asphalt lifting and cracked near one room and ...
+16                                Doors/Gates/Fences             NaN  fabric bent & sticking out of irrigation line....
+17                                               NaN             NaN  damaged & shade shelter. One planter damaged a...
+18                                               NaN             NaN  K-Storage door will not open to the outside. O...,        Unnamed: 0  Exemplary    Good  Fair  Poor
+0  Overall Rating        NaN     NaN   NaN   NaN
+1             NaN        NaN  92.66%   NaN   NaN,    Unnamed: 0  ... Unnamed: 7
+0         NaN  ...        NaN
+1         NaN  ...        NaN
+2         NaN  ...        NaN
+3         NaN  ...        NaN
+4         NaN  ...        NaN
+5         NaN  ...        NaN
+
+[6 rows x 9 columns], Empty DataFrame
+Columns: [Note: Percentages are not calculated when the number ofstudents tested is ten or less, either because the number ofstudents in this category is too small for statistical accuracyor to protect student privacy.Note: ELA and Mathematics test results include the SmarterBalancedSummativeAssessmentandtheCAA.The"Percent Met or Exceeded" is calculated by taking the totalnumber of students who met or exceeded the standard onthe Smarter Balanced Summative Assessment plus the totalnumber of students who met the standard (i.e., achievedLevel 3-Alternate) on the CAAs divided by the total numberof students who participated in both assessments.CAASPP Assessment Results by Student GroupELA test results and mathematics test results include theSmarterBalancedSummativeAssessmentandtheCAA.The “Percent Met or Exceeded” is calculated by taking thetotalnumberofstudentswhometorexceededthestandard on the Smarter Balanced Summative Assessmentplus the total number of students who met the standard(i.e., achieved Level 3–Alternate) on the CAAs divided bythetotalnumberofstudentswhoparticipatedinbothassessments.]
+Index: [],                                    Student Groups Total Enrollment Number Tested Percent\rTested  Percent Not\rTested Percent\rMet or Exceeded
+0                                    All Students              300           299          99.67%                  NaN                   32.44%
+1                                            Male              149           149         100.00%                  NaN                   27.52%
+2                                          Female              151           150          99.34%                  NaN                   37.33%
+3                       Black or African American               --            --              --                  NaN                      NaN
+4                American Indian or Alaska Native               --            --              --                  NaN                      NaN
+5                                           Asian              NaN           NaN             NaN                  NaN                      NaN
+6                                        Filipino              NaN           NaN             NaN                  NaN                      NaN
+7                              Hispanic or Latino              286           286         100.00%                  NaN                   31.47%
+8             Native Hawaiian or Pacific Islander               --            --              --                  NaN                      NaN
+9                                           White               --            --              --                  NaN                      NaN
+10                              Two or More Races               --            --              --                  NaN                      NaN
+11                Socioeconomically Disadvantaged              294           294         100.00%                  NaN                   31.97%
+12                               English Learners              229           228          99.56%                  NaN                   28.95%
+13                     Students with Disabilities               39            39         100.00%                  NaN                    5.13%
+14  Students Receiving Migrant Education Services               71            71         100.00%                  NaN                   19.72%
+15                                   Foster Youth              NaN           NaN             NaN                  NaN                      NaN
+16                                       Homeless              NaN           NaN             NaN                  NaN                      NaN,                                    Student Groups Total Enrollment Number Tested Percent\rTested  Percent Not\rTested Percent\rMet or Exceeded
+0                                    All Students              300           300         100.00%                  NaN                   28.00%
+1                                            Male              149           149         100.00%                  NaN                   32.89%
+2                                          Female              151           151         100.00%                  NaN                   23.18%
+3                       Black or African American               --            --              --                  NaN                      NaN
+4                American Indian or Alaska Native               --            --              --                  NaN                      NaN
+5                                           Asian              NaN           NaN             NaN                  NaN                      NaN
+6                                        Filipino              NaN           NaN             NaN                  NaN                      NaN
+7                              Hispanic or Latino              286           286         100.00%                  NaN                   27.97%
+8             Native Hawaiian or Pacific Islander               --            --              --                  NaN                      NaN
+9                                           White               --            --              --                  NaN                      NaN
+10                              Two or More Races               --            --              --                  NaN                      NaN
+11                Socioeconomically Disadvantaged              294           294         100.00%                  NaN                   27.89%
+12                               English Learners              229           229         100.00%                  NaN                   25.76%
+13                     Students with Disabilities               39            39         100.00%                  NaN                    7.69%
+14  Students Receiving Migrant Education Services               71            71         100.00%                  NaN                   19.72%
+15                                   Foster Youth              NaN           NaN             NaN                  NaN                      NaN
+16                                       Homeless              NaN           NaN             NaN                  NaN                      NaN,    Subject   School District    State Unnamed: 0 Unnamed: 1 Unnamed: 2
+0      NaN  2017-18  2018-19  2017-18    2018-19    2017-18    2018-19
+1  Science      N/A      N/A      N/A        N/A        N/A        N/A,    Unnamed: 0  Grade\rLevel  Unnamed: 1  ... Unnamed: 4  Unnamed: 5 Unnamed: 6
+0         NaN           NaN         NaN  ...        NaN  Six of Six        NaN
+1         NaN           5.0         NaN  ...        NaN       31.1%        NaN
+
+[2 rows x 9 columns],    making decisions for the school district and each school site   Unnamed: 0 Unnamed: 1    School Unnamed: 2
+0                                                 NaN                     NaN        NaN       NaN        NaN
+1                                                 NaN                     NaN    2016-17   2017-18    2018-19
+2              Opportunities for Parental Involvement                     NaN        NaN       NaN        NaN
+3                             Contact:  School Office             Suspensions       2.0%      1.6%       0.4%
+4                       Phone Number:  (760) 724-8501              Expulsions       0.0%      0.0%       0.0%
+5   Bobier Elementary encourages and involves pare...                     NaN        NaN       NaN        NaN
+6                                                 NaN                     NaN        NaN  District        NaN
+7   possible! Our school’s annual plan and budget ...                     NaN        NaN       NaN        NaN
+8                                                 NaN             Suspensions       3.1%      3.7%       4.0%
+9   our School Site Council (SSC), which includes ...                     NaN        NaN       NaN        NaN
+10  staff. We have active participation in both PT...              Expulsions       0.0%      0.1%       0.1%
+11  Language Advisory Committee (ELAC), a committe...                     NaN        NaN     State        NaN
+12  to provide input to administration to best sup...             Suspensions       3.7%      3.5%       3.5%
+13  Language Learners. Our Community Liaison works...                     NaN        NaN       NaN        NaN
+14                                                NaN              Expulsions       0.1%      0.1%       0.1%,    At Bobier Elementary, we approach discipline from a counseling ensure a safe and orderly environment conducive to learning,
+0   perspective. Rates of suspension have been red...              (9) rules and procedures on school discipline ...          
+1   strengths-based approach and other disciplinar...              to Ed Code Sections 35291 and 35291.5, and (10...          
+2   and supports including: Conflict Resolution an...              procedures.  A copy of the plan is available f...          
+3   Justice Circles, student contracts such as ant...                                     the public at each school.          
+4                                                 NaN                                                            NaN          
+5   agreements, parent meetings, referrals to EPSD...              Our school and grounds are very safe, and are ...          
+6   Family Counseling), and Vista Unified’s Positi...              the Principal, Assistant Principal, Community ...          
+7   Team. Discipline assemblies are held during th...              and Plant Lead before school, after school, an...          
+8   administration so that all students are aware ...              We routinely go over safety rules with student...          
+9                                          at school.              fire, earthquake, and other disaster drills on...          
+10                                                NaN                                                            NaN          
+11          Positive Behavior Supports and Incentives                                               required by law.          
+12  Morning circles and restorative circles are pa...                                                            NaN          
+13  culture at Bobier as we place importance on st...                                                            NaN          
+14  connectedness and social-emotional wellbeing. ...                                                            NaN          
+15  reinforce or School Rules of “Be Safe, Be Kind...                                                            NaN          
+16  by giving students the opportunity to earn “Br...                                                            NaN          
+17  they may then redeem for a variety of rewards....                                                            NaN          
+18  in Academics, Citizenship, and Effort are reco...                                                            NaN          
+19  grade level ACE Award ceremonies. Parents, stu...                                                            NaN          
+20  administration attend to recognize and celebra...                                                            NaN          ,      Unnamed: 0 Unnamed: 1             2016-17 Unnamed: 2             2017-18 Unnamed: 3           2017-18.1
+0           NaN        NaN                 NaN        NaN                 NaN        NaN                 NaN
+1   Grade Level       Avg.  Number of Classes*       Avg.  Number of Classes*       Avg.  Number of Classes*
+2           NaN      Class                 NaN      Class                 NaN      Class                 NaN
+3           NaN       Size      1-20 21-32 33+       Size      1-20 21-32 33+       Size      1-20 21-32 33+
+4  Kindergarten       25.0                   5       24.0                   6       24.0                   6
+5       Grade 1       23.0                   5       22.0                   4       26.0                   4
+6       Grade 2       23.0                1  3       22.0                   5       24.0                   5
+7       Grade 3       23.0                1  3       24.0                   4       22.0                   5
+8       Grade 4       33.0                1  2       31.0                   3       31.0                   2
+9       Grade 5       34.0                   4       32.0                   4       34.0                 1 3,                                 Unnamed: 0  ...                                         Unnamed: 1
+0                                      NaN  ...                                                NaN
+1                                      NaN  ...                                                NaN
+2                                      NaN  ...  Teacher & Administrative Salaries (Fiscal Year...
+3                             Psychologist  ...  This table displays district-level salary info...
+4       Speech/Language/Hearing Specialist  ...  principals, and the superintendent, and compar...
+5                                      NaN  ...  to the state averages for districts of the sam...
+6                                    Nurse  ...                                                NaN
+7                                      NaN  ...  The table also displays teacher and administra...
+8           Library Media Paraprofessional  ...                                                NaN
+9                                      NaN  ...  percent of a district's budget, and compares t...
+10  Counselor (Social/Behavioral or Career  ...  the state averages for districts of the same t...
+11                            Development)  ...                                                NaN
+12                                     NaN  ...  Detailed information regarding salaries may be...
+13                           Social Worker  ...                   http://www.cde.ca.gov/ds/fd/cs/.
+14                     Hourly Prep Teacher  ...                                                NaN
+
+[15 rows x 3 columns],                                   Hourly Prep Teacher      Unnamed: 0 Unnamed: 1  ... Unnamed: 5 Unnamed: 6                  Unnamed: 7
+0                                                 NaN             NaN        NaN  ...        NaN        NaN           State Average for
+1                    * One Full-Time Equivalent (FTE)          equals        one  ...        NaN        NaN  Districts in Same Category
+2                    working full-time; one FTE could  also represent        NaN  ...        NaN        NaN                         NaN
+3                                                 NaN             NaN        NaN  ...        NaN        NaN                     $48,612
+4      members who each work 50 percent of full-time.             NaN        NaN  ...        NaN        NaN                         NaN
+5                                                 NaN             NaN        NaN  ...        NaN        NaN                     $74,676
+6                                     School Finances             NaN        NaN  ...        NaN        NaN                         NaN
+7                                                 NaN             NaN        NaN  ...        NaN        NaN                     $99,791
+8                                                 NaN             NaN        NaN  ...        NaN        NaN                         NaN
+9   Expenditures Per Pupil and School Site Teacher...             NaN        NaN  ...        NaN        NaN                    $125,830
+10                              (Fiscal Year 2017-18)             NaN        NaN  ...        NaN        NaN                         NaN
+11                                                NaN             NaN        NaN  ...        NaN        NaN                    $131,167
+12                             Expenditures Per Pupil             NaN        NaN  ...        NaN        NaN                         NaN
+13                                                NaN             NaN        NaN  ...        NaN        NaN                         NaN
+14                                                NaN             NaN        NaN  ...        NaN        NaN                         NaN
+15                             Level Total Restricted    Unrestricted        NaN  ...        NaN        NaN                    $144,822
+16                               School $8,214 $1,687          $6,527        NaN  ...        NaN        NaN                    $275,796
+17                                           District          $6,628        NaN  ...        NaN        NaN                         NaN
+18                                              State          $7,506        NaN  ...        NaN        NaN                         34%
+19                Percent Difference: School/District            (2%)        NaN  ...        NaN        NaN                          5%
+
+[20 rows x 10 columns],                             Unnamed: 0              Unnamed: 1    Unnamed: 2 Unnamed: 3         Average Principal Salary $126,582  Unnamed: 4  $131,167
+0                                  NaN  Expenditures Per Pupil           NaN    Average                                       NaN         NaN       NaN
+1                                  NaN                     NaN           NaN        NaN                                  (Middle)         NaN       NaN
+2                                  NaN                     NaN           NaN    Teacher                                       NaN         NaN       NaN
+3                                Level        Total Restricted  Unrestricted     Salary  Average Principal Salary (High) $157,035         NaN  $144,822
+4                               School           $8,214 $1,687        $6,527    $76,386            Superintendent Salary $281,000         NaN  $275,796
+5                             District                     NaN        $6,628    $79,534                Percent of District Budget         NaN       NaN
+6                                State                     NaN        $7,506    $82,403                      Teacher Salaries 35%         NaN       34%
+7  Percent Difference: School/District                     NaN          (2%)       (4%)                Administrative Salaries 4%         NaN        5%
+8     Percent Difference: School/State                     NaN         (13%)       (7%)                                       NaN         NaN       NaN,   Other Funding (Fiscal Year 2018-19)\rFunding is provided from federal and state special programs to\rsupplementthecoreinstructionalprogramprovidedbythe\rschool district.  ... Unnamed: 3
+0                                                NaN                                                                                                                         ...        NaN
+1                                                NaN                                                                                                                         ...        NaN
+2                           Professional Development                                                                                                                         ...        NaN
+3                                            Measure                                                                                                                         ...        NaN
+4  Number of school days dedicated to\rStaff Deve...                                                                                                                         ...        NaN
+5  The Vista Unified School District has develope...                                                                                                                         ...        NaN
+
+[6 rows x 5 columns], Empty DataFrame
+Columns: [studies. K-8 NGSS Site Teacher Leaders are being providedwith two (two hours) sessions in fall and spring to learnhow to lead NGSS implementation at their sites. Scienceteachers in 6-8 are participating in multiple professionaldevelopmentsessionsthroughouttheyeartoensurequality instruction of NGSS. High school teacher leadersareparticipatinginayear-longNGSSCommunityofPractice on how to implement NGSS best-practices.   K-12principals will participate in two NGSS walkthroughs attheirsitetolearnhowtolookforevidenceofNGSSpedagogical shifts.•Alearningcentermodelofinclusionforstudentswithspecial needs has been implemented at several sites withco-teachingsupport.Professionaldevelopmentisprovidedthroughouttheyear.AllsecondarysitesareintegratingAVIDWICORstrategies(Writing,Inquiry,Collaboration,Organization,andReading)intoSpecialEducationStudySkillsclasses,andareprovidingthealigned professional development.•TK-5mathematicshascompletedanadoptioncyclewherethestaffselectedtheEurekaMathematicsresource.  Teachers received their materials and the firstsession of professional development in the Spring of the2018-2019schoolyear.Thisschoolyearstartedwithanother half day of training for all TK-5 teachers and willbefollowedupinJanuarywithanotherfulldayoftraining.Inbetweentraining,theEurekamathimplementationteammeetstocontinuetorefineandadjust the curriculum.•Secondary math professional development for grades 6-12 is with College Preparatory Math. Teachers participatein PD to support the structure and resources of the CCSSaligned CPM textbook, including assessments.•Highschoolmathdepartmentshavebeengiventworelease sections for teachers,  to be used for coaching.Coachesmeetwithteacherstosupportcurriculumdevelopment,co-teachclasses,supportinnovativeapproaches, and assist with data collection and analysis.•Elementary English Language Development (ELD) trainingisofferedandfocusedonbuildingcapacityontheELA/ELDFramework/standards,andunderstandingtheELPACassessmentanditsimplicationsforclassroominstruction.SupportforteachersincludesprovidingIntegrated and Designated ELD instruction.•ElementaryEnglishLanguageDevelopmentfor3rd-5thgrade teachers workingwith Newcomers students whohave less than two years in-country or have interruptededucation:SupportandresourcesareprovidedtoteachersinunderstandingtheneedsofNewcomersinfoundationalskillsastheydevelopEnglishLanguageProficiency.]
+Index: []]

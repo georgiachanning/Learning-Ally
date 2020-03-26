@@ -1,0 +1,101 @@
+[  http://dhcharter.org/ by February 1st of each year. The SARC contains information about the condition and performance of each
+0                   NaN  California public school. Under the Local Cont...                                                     
+1                   NaN  (LEAs) are required to prepare a Local Control...                                                     
+2             CDS Code:  to meet annual school-specific goals for all p...                                                     , Empty DataFrame
+Columns: [Principals, and the state. Specifically, DataQuest is a dynamic system that provides reports for accountability (e.g., test]
+Index: [],    Enrollment by Student Group Enrollment Trend by Grade Level Unnamed: 0 Unnamed: 1
+0                             2018-19 2017-18 2018-19                 NaN        NaN
+1                                  Percentage 1st 1 -                 NaN        NaN
+2              Black or African American 14.3 2nd 1 1                 NaN        NaN
+3        American Indian or Alaska Native 0.3 3rd 1 -                 NaN        NaN
+4                                   Asian 2.4 4th 1 -                 NaN        NaN
+5                                Filipino 0.5 5th - 1                 NaN        NaN
+6                     Hispanic or Latino 63.1 6th - 1                 NaN        NaN
+7     Native Hawaiian or Pacific Islander 0.4 7th 3 5                 NaN        NaN
+8                                  White 12.8 8th 5 6                 NaN        NaN
+9                   Two or More Races 4.8 9th 169 184                 NaN        NaN
+10                      EL Students 16.2 10th 198 202                 NaN        NaN
+11  Socioeconomically Disadvantaged 84.0 11th 154 242                 NaN        NaN
+12        Students with Disabilities 16.2 12th 69 106                 NaN        NaN
+13                     Foster Youth 1.2 Total 602 748                 NaN        NaN
+14                                      Homeless 10.3                 NaN        NaN
+15                             Conditions of Learning                 NaN        NaN
+16                              State Priority: Basic                 NaN        NaN
+17  The SARC provides the following information re...                 NaN        NaN
+18  • Degree to which teachers are appropriately a...                 NaN        NaN
+19  • Pupils have access to standards-aligned inst...                 NaN        NaN
+20  • School facilities are maintained in good rep...                 NaN        NaN
+21                                                NaN              School        NaN
+22                           Teacher Assignment 17-18               18-19      19-20
+23  The school recruits and employs qualified cred...                  48        104
+24  credential requirements in accordance with Sta...                 NaN        NaN
+25  displays information about teacher credentials...                   5          5
+26  Note: As an independent charter school, the sc...                   0          0
+27  administration are run independently from the ...                 NaN        NaN
+28     data to report for comparison in this section.                 NaN        NaN
+29                           Misassignments/Vacancies                 NaN        NaN
+30           Teacher Misassignments & Vacancies 17-18               18-19      19-20
+31  Misassignments refers to the number of positio...                   0          0
+32  lack legal authorization to teach that grade l...                 NaN        NaN
+33  group, etc. Teacher vacancies reflect the numb...                   0          0
+34  a single designated certificated employee has ...                   0          0
+35  beginning of the year for an entire semester o...                   0          1,             Systems (Gas Leaks, Mech/ Unnamed: 0
+0                        HVAC, Sewer)          X
+1                            Interior          X
+2   Cleanliness (Overall Cleanliness,        NaN
+3            Pest/Vermin Infestation)          X
+4                          Electrical          X
+5                 Restrooms/Fountains          X
+6      Safety (Fire Safety, Hazardous        NaN
+7                          Materials)          X
+8      Structural (Structural Damage,        NaN
+9                              Roofs)          X
+10        External (Grounds, Windows,        NaN
+11              Doors, Gates, Fences)          X,       Unnamed: 0  Unnamed: 1                Unnamed: 2 District-Adopted Textbooks     Unnamed: 3  Unnamed: 4  Unnamed: 5 Unnamed: 6
+0   Grade Levels         NaN                   Subject                  Publisher  Adoption Year         NaN  Sufficient  % Lacking
+1            9th         NaN                 Algebra I  Houghton Mifflin/Harcourt           2016         NaN         Yes       0.0%
+2           11th         NaN                Algebra II  Houghton Mifflin/Harcourt           2016         NaN         Yes       0.0%
+3            9th         NaN             Earth Science              Prentice Hall           2006         NaN         Yes       0.0%
+4           12th         NaN                 Economics                McGraw-Hill           2018         NaN         Yes       0.0%
+5       9th-12th         NaN     English/Language Arts  Houghton Mifflin/Harcourt           2014         NaN         Yes       0.0%
+6       9th-10th         NaN          Foreign Language                    Glencoe           2005         NaN         Yes       0.0%
+7           10th         NaN                  Geometry              Prentice Hall           2007         NaN         Yes       0.0%
+8      10th-12th         NaN                    Health                    Pearson           2006         NaN         Yes       0.0%
+9       9th-10th         NaN      Integrated Science I  Houghton Mifflin/Harcourt           2012         NaN         Yes       0.0%
+10     11th-12th         NaN     Integrated Science II  Houghton Mifflin/Harcourt           2012         NaN         Yes       0.0%
+11      9th-10th         NaN             Earth Science  Houghton Mifflin/Harcourt           2012         NaN         Yes       0.0%
+12      9th-10th         NaN                   Physics  Houghton Mifflin/Harcourt           2012         NaN         Yes       0.0%
+13          10th         NaN                   Biology  Houghton Mifflin/Harcourt           2012         NaN         Yes       0.0%
+14          11th         NaN                 Chemistry  Houghton Mifflin/Harcourt           2012         NaN         Yes       0.0%
+15          12th         NaN  United States Government                McGraw-Hill           2018         NaN         Yes       0.0%
+16          11th         NaN     United States History          Houghton  Mifflin           2014         NaN         Yes       0.0%
+17           9th         NaN           World Geography                    Pearson           2013         NaN         Yes       0.0%
+18          10th         NaN             World History          Houghton  Mifflin           2014         NaN         Yes       0.0%,                        Unnamed: 0 2018  2019 2018.1  2019.1
+0  English Language Arts/Literacy  NaN   NaN    NaN     NaN
+1             (Grades 3-8 and 11)   --  21.0     --    50.0,    second table displays information on student achievement by student groups for the school in ELA and Mathematics with all grades combin
+0                des three through eight and eleven).                                                                                     
+1   California Assessment of Student Performance a...                                                                                     
+2                   English-Language Arts Mathematics                                                                                     
+3   Student Groups Enrollment Total Number Tested ...                                                                                     
+4   All Students 301 270 89.70 10.30 21.11 272 90....                                                                                     
+5   Male 158 142 89.87 10.13 18.31 144 90.57 9.43 ...                                                                                     
+6   Female 143 128 89.51 10.49 24.22 128 89.51 10....                                                                                     
+7   Black or African American 40 37 92.50 7.50 13....                                                                                     
+8   Hispanic or Latino 183 163 89.07 10.93 20.25 1...                                                                                     
+9     White 49 45 91.84 8.16 28.89 45 91.84 8.16 4.44                                                                                     
+10  Two or More Races 13 12 92.31 7.69 41.67 12 92...                                                                                     
+11                                  Socioeconomically                                                                                     
+12  Disadvantaged 252 226 89.68 10.32 20.8 228 90....                                                                                     
+13  English Learners 68 62 91.18 8.82 11.29 63 91....                                                                                     
+14  Students with Disabilities 46 41 89.13 10.87 9...                                                                                     
+15  Homeless 29 26 89.66 10.34 15.38 26 89.66 10.34 0                                                                                     ,                                           Unnamed: 0   Unnamed: 1 Four of Six Five of Six Six of Six
+0  The school has several soft-CTE courses to its...  Grade Level   Standards   Standards  Standards
+1  courses include Introduction to Computers and ...          NaN         NaN         NaN        NaN
+2  and Career Ready (preparation for the WorkKeys...            5           -           -          -
+3  Readiness Certificate). These courses compleme...            7           -           -          -
+4  TechVantage Courses which include Computer Lit...          NaN         NaN         NaN        NaN
+5                                                NaN            9       20.9%       10.4%       1.6%,   and the school is committed to bringing students greater opportunities Percentage of Students in Healthy Fitness Zone
+0  in developing these skills through their conti...                                                            2018-19,   (PAC) and English Learner Advisory Council (ELAC) meetings. In all of Note: The National Center for Education Statistics graduation rate is
+0  these venues, information regarding the develo...                                                provided in the table.                   
+1  curriculum and instruction are shared. The sch...                                                                   NaN                   
+2  ways to encourage more parental and community ...                                            Graduation & Dropout Rates                   ]

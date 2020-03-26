@@ -1,0 +1,243 @@
+[                            ----  Unnamed: 0                        Valentine Peyton Elementary
+0                            NaN         NaN  2525 Gold Brook Drive • Stockton, CA 95212 • (...
+1                            NaN         NaN                          Carla Gonzales, Principal
+2                            NaN         NaN                          cgonzales@stocktonusd.net
+3                            NaN         NaN              https://www.stocktonusd.net/Domain/32
+4                            NaN         NaN                                                NaN
+..                           ...         ...                                                ...
+59                  MaryJo Cowan         NaN  and rigorous challenge.  Whatever the capacity...
+60   Assistant Superintendent of         NaN  capacity for educating and promoting citizensh...
+61  Educational Support Services         NaN                             This is Peyton School.
+62                Sonjhia Lowery         NaN                                                NaN
+63   Assistant Superintendent of         NaN                                                NaN
+
+[64 rows x 3 columns],           consistent with data reported in the SARC.     Teacher Credentials for Valentine Peyton  17-18  18-19  19-20
+0  • For more information about SARC requirements...                                   Elementary    NaN    NaN    NaN
+1     Department of Education (CDE) SARC web page at                         With Full Credential   34.0   36.0   36.0
+2                  https://www.cde.ca.gov/ta/ac/sa/.                      Without Full Credential    3.0    5.0    2.0
+3  • For more information about the LCFF or LCAP,...                                          NaN    NaN    NaN    NaN
+4                                                NaN  Teaching Outside Subject Area of Competence    1.0    0.0    0.0,                            community members  should             contact  the  school  ...  the.1     Teacher Credentials for Stockton Unified  17-18  18-19   19-20
+0                           district office.     NaN                 NaN  NaN     NaN  ...    NaN                              School District    NaN    NaN     NaN
+1                                        NaN     NaN                 NaN  NaN     NaN  ...    NaN                         With Full Credential      ♦      ♦  1475.0
+2                                        NaN     NaN                 NaN  NaN     NaN  ...    NaN                                          NaN    NaN    NaN     NaN
+3  2018-19 Student Enrollment by Grade Level     NaN                 NaN  NaN     NaN  ...    NaN                      Without Full Credential      ♦      ♦   309.0
+4                                Grade Level     NaN  Number of Students  NaN     NaN  ...    NaN  Teaching Outside Subject Area of Competence      ♦      ♦    15.0
+
+[5 rows x 13 columns],          Grade Level  Number of Students      Teaching Outside Subject Area of Competence ♦   ♦     15
+0       Kindergarten               120.0                                                NaN NaN    NaN
+1                NaN                 NaN  Teacher Misassignments and Vacant Teacher Posi... NaN    NaN
+2            Grade 1                96.0                                                NaN NaN    NaN
+3                NaN                 NaN                                  Peyton Elementary NaN    NaN
+4            Grade 2               114.0                                                NaN NaN    NaN
+5                NaN                 NaN                              Indicator 17-18 18-19 NaN  19-20
+6            Grade 3                86.0                                                NaN NaN    NaN
+7                NaN                 NaN                   Teachers of English Learners 0 0 NaN      0
+8            Grade 4                91.0                                                NaN NaN    NaN
+9                NaN                 NaN                  Total Teacher Misassignments* 1 0 NaN      0
+10           Grade 5                83.0                                                NaN NaN    NaN
+11               NaN                 NaN                       Vacant Teacher Positions 0 0 NaN      0
+12           Grade 6               101.0                                                NaN NaN    NaN
+13               NaN                 NaN  * Note: “Misassignments” refers to the number ... NaN    NaN
+14           Grade 7                98.0  who lack legal authorization to teach that gra... NaN    NaN
+15           Grade 8                72.0                                        group, etc. NaN    NaN
+16               NaN                 NaN  *Total Teacher Misassignments includes the num... NaN    NaN
+17  Total Enrollment               861.0                      Teachers of English Learners. NaN    NaN,                                   Group  Percent of Total Enrollment
+0             Black or African American                         10.2
+1      American Indian or Alaska Native                          1.0
+2                                 Asian                         23.6
+3                              Filipino                         12.0
+4                    Hispanic or Latino                         42.5
+5   Native Hawaiian or Pacific Islander                          1.0
+6                                 White                          4.3
+7                     Two or More Races                          5.1
+8       Socioeconomically Disadvantaged                         57.7
+9                      English Learners                         10.9
+10           Students with Disabilities                         10.1
+11                         Foster Youth                          0.3
+12                             Homeless                          0.8,       Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0    Reading/Language Arts                     K-6 ELA/ELD, Benchmark Advance    
+1                      NaN  7-8 ELA/ELD, Pearson myPerspectives & ELD Comp...    
+2                      NaN                                                NaN    
+3                      NaN  The textbooks listed are from most recent adop...    
+4                      NaN  Percent of students lacking their own assigned...    
+5                      NaN                                                NaN    
+6              Mathematics            K-8, Ready Mathematics, Adopted in 2019    
+7                      NaN                                  Calculus, HM 2006    
+8                      NaN                          Statistics, McDougal 2008    
+9                      NaN    K-8 Math, Algebra I & Geometry, Adopted in 2019    
+10                     NaN                                                NaN    
+11                     NaN  The textbooks listed are from most recent adop...    
+12                     NaN  Percent of students lacking their own assigned...    
+13                     NaN                                                NaN    
+14                 Science                  FOSS (Full Option Science System)    
+15                     NaN                       K-5 Science, Adopted in 2007    
+16                     NaN  6-8 Science, CK-12 Earth, Life and Physical Sc...    
+17                     NaN                                                NaN    
+18                     NaN  The textbooks listed are from most recent adop...    
+19                     NaN  Percent of students lacking their own assigned...    
+20                     NaN                                                NaN    
+21  History-Social Science                      K-5 California Studies Weekly    
+22                     NaN                  6-8 California McGraw Hill Impact    
+23                     NaN  6 - World History and Geography: Ancient Civil...    
+24                     NaN  7 - World History and Geography: Ancient Civil...    
+25                     NaN  8 - United States History and Geography: Growt...    
+26                     NaN                                       Adopted 2017    
+27                     NaN                                                NaN    
+28                     NaN  The textbooks listed are from most recent adop...    
+29                     NaN  Percent of students lacking their own assigned...    ,                                            Unnamed: 0                      Unnamed: 1  Unnamed: 2                             Repair Needed and
+0                                                 NaN  System Inspected Repair Status         NaN                                           NaN
+1                                                 NaN                             NaN         NaN                       Action Taken or Planned
+2                                            Systems:                           XGood         NaN                                           NaN
+3                   Gas Leaks, Mechanical/HVAC, Sewer                             NaN         NaN                                           NaN
+4                                           Interior:                           XFair         NaN                   rm 17: paint enterior door.
+5                                   Interior Surfaces                             NaN         NaN                 rm 25: stained ceiling tiles.
+6                                                 NaN                             NaN         NaN  rm 27: stained ceiling tiles, tile floor has
+7                                                 NaN                             NaN         NaN                                      bubbles.
+8                                                 NaN                             NaN         NaN                                           NaN
+9                                        Cleanliness:                           XGood         NaN                                           NaN
+10      Overall Cleanliness, Pest/ Vermin Infestation                             NaN         NaN                                           NaN
+11                                        Electrical:                           XGood         NaN                                           NaN
+12                                         Electrical                             NaN         NaN                                           NaN
+13                               Restrooms/Fountains:                           XGood         NaN                                           NaN
+14                        Restrooms, Sinks/ Fountains                             NaN         NaN                                           NaN
+15                                            Safety:                           XGood         NaN                                           NaN
+16                   Fire Safety, Hazardous Materials                             NaN         NaN                                           NaN
+17                                        Structural:                           XGood         NaN                                           NaN
+18                           Structural Damage, Roofs                             NaN         NaN      eastside boys/girls restrooms: cracks on
+19                                                NaN                             NaN         NaN                  walls boys & girls restroom.
+20                                                NaN                             NaN         NaN     Multipurpose: cracks on walls south side.
+21                                                NaN                             NaN         NaN                                           NaN
+22                                          External:                           XGood         NaN                                           NaN
+23  Playground/School Grounds, Windows/ Doors/Gate...                             NaN         NaN                                           NaN
+24                                     Overall Rating                             NaN         NaN                                           NaN
+25                                                NaN                           XGood         NaN                                           NaN
+26                                         ----------                             NaN         NaN                                           NaN,   The SARC provides the following information relevant to the State priority: Unnamed: 0 School School.1 District District.1  State State.1
+0                                                NaN                             Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1                    Pupil Achievement (Priority 4):                                 NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2  • Statewide assessments (i.e., California Asse...                             Science    N/A      N/A      N/A        N/A    N/A     N/A,             education sequences or programs of study    Grade Unnamed: 0 Unnamed: 1 Unnamed: 2
+0                                                NaN      NaN     4 of 6     5 of 6     6 of 6
+1                                                NaN    Level        NaN        NaN        NaN
+2  CAASPP Test Results in ELA and Mathematics for...      NaN        NaN        NaN        NaN
+3                                                NaN  ---5---       18.5       19.8       29.6
+4        Grades Three through Eight and Grade Eleven      NaN        NaN        NaN        NaN
+5  Percentage of Students Meeting or Exceeding th...  ---7---       17.5       21.6       24.7,   Unnamed: 0 Unnamed: 1 Unnamed: 2  ... Unnamed: 5 Unnamed: 6 Note: Percentages are not calculated and double dashes (--) appear in the table
+0        NaN     School     School  ...      State      State                                                NaN                             
+1    Subject        NaN        NaN  ...        NaN        NaN  when the number of students tested is ten or l...                             
+2        NaN      17-18      18-19  ...      17-18      18-19                                                NaN                             
+3        NaN        NaN        NaN  ...        NaN        NaN  students in this category is too small for sta...                             
+4        ELA         45         48  ...         50         50                                           privacy.                             
+5       Math         34         43  ...         38         39                                                NaN                             
+
+[6 rows x 8 columns],                                        Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                                             NaN  Student Group         NaN     NaN     NaN              NaN
+1                                             NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                                    All Students            NaN         505     504   99.80            47.82
+3                                            Male            NaN         260     259   99.62            46.33
+4                                          Female            NaN         245     245  100.00            49.39
+5                       Black or African American            NaN          53      53  100.00            41.51
+6                American Indian or Alaska Native            NaN          --      --      --               --
+7                                           Asian            NaN         128     128  100.00            47.66
+8                                        Filipino            NaN          50      50  100.00            70.00
+9                              Hispanic or Latino            NaN         211     210   99.53            44.29
+10            Native Hawaiian or Pacific Islander            NaN          --      --      --               --
+11                                          White            NaN          20      20  100.00            35.00
+12                              Two or More Races            NaN          28      28  100.00            50.00
+13                Socioeconomically Disadvantaged            NaN         299     298   99.67            43.29
+14                               English Learners            NaN         125     125  100.00            34.40
+15                     Students with Disabilities            NaN          29      28   96.55            21.43
+16  Students Receiving Migrant Education Services            NaN          --      --      --               --
+17                                   Foster Youth            NaN          --      --      --               --
+18                                       Homeless            NaN          --      --      --               --,                                        Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                                             NaN  Student Group         NaN     NaN     NaN              NaN
+1                                             NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                                    All Students            NaN         505     504   99.80            42.66
+3                                            Male            NaN         260     259   99.62            48.26
+4                                          Female            NaN         245     245  100.00            36.73
+5                       Black or African American            NaN          53      53  100.00            20.75
+6                American Indian or Alaska Native            NaN          --      --      --               --
+7                                           Asian            NaN         128     128  100.00            47.66
+8                                        Filipino            NaN          50      50  100.00            62.00
+9                              Hispanic or Latino            NaN         211     210   99.53            38.57
+10            Native Hawaiian or Pacific Islander            NaN          --      --      --               --
+11                                          White            NaN          20      20  100.00            45.00
+12                              Two or More Races            NaN          28      28  100.00            50.00
+13                Socioeconomically Disadvantaged            NaN         299     298   99.67            38.93
+14                               English Learners            NaN         125     125  100.00            33.60
+15                     Students with Disabilities            NaN          29      28   96.55            28.57
+16  Students Receiving Migrant Education Services            NaN          --      --      --               --
+17                                   Foster Youth            NaN          --      --      --               --
+18                                       Homeless            NaN          --      --      --               --,   Suspensions and Expulsions for the School  2016-17  2017-18  2018-19
+0                          Suspensions Rate     11.3      3.3      0.9
+1                           Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the District  2016-17  2017-18  2018-19
+0                            Suspensions Rate      7.6      6.9      6.0
+1                             Expulsions Rate      0.0      0.1      0.1,   Suspensions and Expulsions for the State  2016-17  2017-18  2018-19
+0                         Suspensions Rate      3.6      3.5      3.5
+1                          Expulsions Rate      0.1      0.1      0.1,                    Unnamed: 0  Title  Ratio
+0  Academic Counselor*-------    NaN  861.0,                                            Unnamed: 0 Number of Full-Time Equivalent
+0                                               Title                            NaN
+1                                                 NaN                          (FTE)
+2   Counselor (Social/Behavioral or Career Develop...                            1.0
+3                   Library Media Teacher (Librarian)                            NaN
+4     Library Media Services Staff (Paraprofessional)                            NaN
+5                                 Psychologist-------                            NaN
+6                                Social Worker-------                            NaN
+7                                        Nurse-------                             .0
+8                  Speech/Language/Hearing Specialist                            NaN
+9           Resource Specialist (non-teaching)-------                             .3
+10                                       Other-------                            4.5,    Unnamed: 0  2016-17 2016-17.1 2016-17.2 2016-17.3  2017-18 2017-18.1 2017-18.2 2017-18.3  2018-19 2018-19.1 2018-19.2 2018-19.3
+0         NaN  Average      # of      # of      # of  Average      # of      # of      # of  Average      # of      # of      # of
+1       Grade      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+2         NaN    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*
+3       Level      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+4         NaN     Size      Size      Size      Size     Size      Size      Size      Size     Size      Size      Size      Size
+5         NaN      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+
+6           K       16         8         8       NaN       17         5        10       NaN       20         2        10       NaN
+7         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+8           1       28       NaN         9       NaN       16         6         7       NaN       17         3         8       NaN
+9         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+10          2       18         4         4       NaN       21         2         6       NaN       19         3         8       NaN
+11        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+12          3       25         2         8       NaN       19         3         6       NaN       20         3         6       NaN
+13        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+14          4       30       NaN         3       NaN       20         3         6       NaN       27         1         6       NaN
+15        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+16          5       32       NaN         2         1       20         3         6       NaN       20         3         5       NaN
+17        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+18          6       23         5         5         5       15        13         6         1       24         2         6       NaN
+19        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+20    Other**       13         2       NaN       NaN       11         1       NaN       NaN      NaN       NaN       NaN       NaN,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        3        3        3,                        Unnamed: 0 Unnamed: 1  State Average for                 Unnamed: 2  Unnamed: 3 Unnamed: 4    Unnamed: 5     Average
+0                             NaN   District                NaN                        NaN         NaN        NaN           NaN         NaN
+1                        Category        NaN  Districts In Same                Level Total  Restricted        NaN  Unrestricted     Teacher
+2                             NaN     Amount                NaN                        NaN         NaN        NaN           NaN         NaN
+3                             NaN        NaN           Category                        NaN         NaN        NaN           NaN      Salary
+4        Beginning Teacher Salary    $49,710            $48,612        School Site- $7,700         NaN     $1,815        $5,885     $72,086
+5        Mid-Range Teacher Salary    $75,625            $74,676  -D--is--t-r ict------ N/A         NaN        N/A        $6,928  $75,370.00
+6          Highest Teacher Salary    $95,270            $99,791         -S tate------- N/A         NaN        N/A     $7,506.64  $82,403.00
+7   Average Principal Salary (ES)   $127,877           $125,830                        NaN         NaN        NaN           NaN         NaN
+8   Average Principal Salary (MS)         $0           $131,167                        NaN         NaN        NaN           NaN     Average
+9                             NaN        NaN                NaN        Percent Differences         NaN        NaN  Unrestricted     Teacher
+10  Average Principal Salary (HS)   $136,722           $144,822                        NaN         NaN        NaN           NaN         NaN
+11                            NaN        NaN                NaN                        NaN         NaN        NaN           NaN      Salary
+12          Superintendent Salary   $285,461           $275,796                        NaN         NaN        NaN           NaN         NaN,                  Unnamed: 0 Unnamed: 1  State Average for             Unnamed: 2 Unnamed: 3  Unnamed: 4    Unnamed: 5     Average
+0                       NaN   District                NaN                    NaN        NaN         NaN           NaN         NaN
+1                  Category        NaN  Districts In Same                  Level      Total  Restricted  Unrestricted     Teacher
+2                       NaN     Amount                NaN                    NaN        NaN         NaN           NaN         NaN
+3                       NaN        NaN           Category                    NaN        NaN         NaN           NaN      Salary
+4  Beginning Teacher Salary    $49,710            $48,612           School Site-     $7,700      $1,815        $5,885     $72,086
+5  Mid-Range Teacher Salary    $75,625            $74,676  D---is--t-r ict------        N/A         N/A        $6,928  $75,370.00
+6    Highest Teacher Salary    $95,270            $99,791         S- tate-------        N/A         N/A     $7,506.64  $82,403.00,    Average Principal Salary (MS)        $0  $131,167            Unnamed: 0    Unnamed: 1  Average
+0                            NaN       NaN       NaN   Percent Differences  Unrestricted  Teacher
+1  Average Principal Salary (HS)  $136,722  $144,822                   NaN           NaN      NaN
+2                            NaN       NaN       NaN                   NaN           NaN   Salary
+3          Superintendent Salary  $285,461  $275,796                   NaN           NaN      NaN
+4                            NaN       NaN       NaN  School Site/District         -16.3     -1.1
+5                            NaN       NaN       NaN    School Site/ State         -31.0    -11.4,                    Unnamed: 0 Unnamed: 1         Unnamed: 2                           School Site/ State -31.0  -11.4
+0                         NaN        NaN  State Average for                                                NaN    NaN
+1                         NaN   District                NaN   Note: Cells with N/A values do not require data.    NaN
+2  Percent of District Budget        NaN  Districts In Same                                                NaN    NaN
+3                         NaN     Amount                NaN                                                NaN    NaN
+4                         NaN        NaN           Category  The California Department of Education issued ...    NaN
+5            Teacher Salaries        29%                34%  2018, regarding how to calculate school-level ...    NaN
+6                         NaN        NaN                NaN                  reported on 2018-19 report cards.    NaN
+7     Administrative Salaries         5%                 5%                                                NaN    NaN]

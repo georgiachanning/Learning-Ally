@@ -1,0 +1,157 @@
+[                District Office: (LCFF) all local educational agencies (LEAs) are required to prepare a
+0           2310 Aldergrove Ave.  Local Control Accountability Plan (LCAP), whic...                    
+1            Escondido, CA 92029  intend to meet annual school-specific goals fo...                    
+2                 (760) 432-2400  activities to address state and local prioriti...                    
+3                   www.eusd.org  in an LCAP is to be consistent with data repor...                    
+4     CDS code: 37-68098-6038178                                                NaN                    
+5                            NaN  â For more information about SARC requirements...                    
+6                            NaN  Department of Education (CDE) SARC Web page at...                    
+7                  Board members                                  ca.gov/ta/ac/sa/.                    
+8        Joan Gardner, President  â  For more information about the LCFF or LCAP...                    
+9   Dr. Joe Muga, Vice President       Web page at http://www.cde.ca.gov/fg/aa/lc/.                    
+10           Doug Paulson, Clerk                                                NaN                    
+11                           NaN  â  For additional information about the school...                    
+12       Georgine Tomasi, Member  community members should contact the school pr...                    
+13                Vacant, Member                                            office.                    
+14                Administration                                                NaN                    
+15                           NaN                                          DataQuest                    
+16          Luis Rankins-Ibarra,                                                NaN                    
+17                Superintendent                                                NaN                    
+18                           NaN  DataQuest is an online data tool located on th...                    
+19              libarra@eusd.org                                                NaN                    
+20                           NaN  page at http://dq.cde.ca.gov/dataquest/ that c...                    
+21              Leila Sackfield,  tion about this school and comparisons of the ...                    
+22        Deputy Superintendent,  county, and the state. Specifically, DataQuest...                    
+23               Human Resources  provides reports for accountability (e.g., tes...                    
+24            Dr. Laura Philyaw,  graduates, dropouts, course enrollments, staff...                    
+25     Assistant Superintendent,                                  English learners.                    
+26          Educational Services                                                NaN                    
+27               Michael Taylor,                                                NaN                    
+28     Assistant Superintendent,                                                NaN                    
+29             Business Services                                    Internet Access                    
+30                  Kelly Prins,                                                NaN                    
+31     Assistant Superintendent,  Internet access is available at public librari...                    , Empty DataFrame
+Columns: [Grade 2, 94, Filipino, 0.20 %]
+Index: [],                                     Unnamed: 0 Unnamed: 1 Unnamed: 2     School Unnamed: 3   District
+0                                          NaN   teachers  2017-2018  2018-2019  2019-2020  2019-2020
+1                         With Full Credential        NaN         39         40         39        838
+2                      Without Full Credential        NaN          0          0          0          4
+3  Teaching Outside Subject Area of Competence        NaN          0          0          0       ----
+4                       (with full credential)        NaN        NaN        NaN        NaN        NaN,                                         Indicator  2017-2018  2018-2019  2019-2020
+0  Misassignments of Teachers of English Learners          0          0          0
+1                   Total Teacher Misassignments*          0          0          0
+2                        Vacant Teacher Positions          0          0          0,                 Unnamed: 0                    textbooks &   Year of  from most Percent students
+0     Core Curriculum Area                  instructional  adoption     recent      lacking own
+1                      NaN                      materials       NaN  adoption?    assigned copy
+2    Reading/Language Arts          Benchmark Education -      2016        Yes               0%
+3                      NaN              Advance, Adelante       NaN        NaN              NaN
+4     Reading Intervention          Benchmark Education -      2016        Yes               0%
+5                      NaN              Advance, Adelante       NaN        NaN              NaN
+6              Mathematics          Eureka Math/Engage NY      2016        Yes               0%
+7                  Science           McMillan/McGraw-Hill      2008        Yes               0%
+8                      NaN        CA Science, CA Ciencias       NaN        NaN              NaN
+9   History-Social Science                 Scott Foresman      2006        Yes               0%
+10                     NaN  History-Social Science for CA       NaN        NaN              NaN
+11                     NaN      Historia-CienciasSociades       NaN        NaN              NaN
+12                     NaN                Para California       NaN        NaN              NaN,                              System Inspected   Repair Status                 Repair needed and
+0                                         NaN  Good fair Poor           Action taken or Planned
+1       Systems:  Gas Leaks, Mechanical/HVAC,             NaN                               NaN
+2                                       Sewer               X                               NaN
+3                 Interior: Interior Surfaces               X  Ongoing maintenance and repairs.
+4          Cleanliness:  Overall Cleanliness,             NaN                               NaN
+5                     Pest/Vermin Infestation               X                               NaN
+6                     Electrical:  Electrical               X                               NaN
+7            Restrooms/Fountains:  Restrooms,             NaN                               NaN
+8                             Sinks/Fountains               X                               NaN
+9   Safety:  Fire Safety, Hazardous Materials               X                               NaN
+10      Structural:  Structural Damage, Roofs               X                               NaN
+11      External:  Playground/School Grounds,             NaN                               NaN
+12                 Windows/Doors/Gates/Fences               X                               NaN,        Unnamed: 0  Exemplary Good  fair  Poor
+0  Overall Rating        NaN    X   NaN   NaN,                         Subject           School         District            State
+0                           NaN  2017-18 2018-19  2017-18 2018-19  2017-18 2018-19
+1        English Language Arts/              NaN              NaN              NaN
+2  Literacy (grades 3-8 and 11)      25.0% 22.0%      44.0% 44.0%      50.0% 50.0%
+3                   Mathematics              NaN              NaN              NaN
+4           (grades 3-8 and 11)      20.0% 18.0%      32.0% 33.0%      38.0% 39.0%,                                   Student\rGroups total\rEnrollment number\rtested Percent\rtested Percent\rnot tested Percent\rMet or Exceeded
+0                                    All Students               282            270          95.74%               4.26%                   21.85%
+1                                            Male               142            137          96.48%               3.52%                   13.87%
+2                                          Female               140            133          95.00%               5.00%                   30.08%
+3                       Black or African American                --             --              --                  --                      NaN
+4                American Indian or Alaska Native                --             --              --                  --                      NaN
+5                                           Asian               NaN            NaN             NaN                 NaN                      NaN
+6                                        Filipino                --             --              --                  --                      NaN
+7                              Hispanic or Latino               266            254          95.49%               4.51%                   20.47%
+8             Native Hawaiian or Pacific Islander               NaN            NaN             NaN                 NaN                      NaN
+9                                           White                --             --              --                  --                      NaN
+10                              Two or More Races                --             --              --                  --                      NaN
+11                Socioeconomically Disadvantaged               266            255          95.86%               4.14%                   20.78%
+12                               English Learners               214            204          95.33%               4.67%                   20.59%
+13                     Students with Disabilities                29             29         100.00%               0.00%                   10.34%
+14  Students Receiving Migrant Education Services                --             --              --                  --                      NaN
+15                                   Foster Youth                --             --              --                  --                      NaN
+16                                       Homeless                22             18          81.82%              18.18%                   11.11%,                                           Student       total  number  Percent   Percent.1        Percent.2
+0                                          Groups  Enrollment  tested   tested  not tested  Met or Exceeded
+1                                    All Students         281     276   98.22%       1.78%           18.12%
+2                                            Male         141     138   97.87%       2.13%           16.67%
+3                                          Female         140     138   98.57%       1.43%           19.57%
+4                       Black or African American          --      --       --          --              NaN
+5                American Indian or Alaska Native          --      --       --          --              NaN
+6                                           Asian         NaN     NaN      NaN         NaN              NaN
+7                                        Filipino          --      --       --          --              NaN
+8                              Hispanic or Latino         265     260   98.11%       1.89%           17.69%
+9             Native Hawaiian or Pacific Islander         NaN     NaN      NaN         NaN              NaN
+10                                          White          --      --       --          --              NaN
+11                              Two or More Races          --      --       --          --              NaN
+12                Socioeconomically Disadvantaged         265     261   98.49%       1.51%           17.62%
+13                               English Learners         214     211   98.60%       1.40%           17.54%
+14                     Students with Disabilities          29      29  100.00%       0.00%            6.90%
+15  Students Receiving Migrant Education Services          --      --       --          --              NaN
+16                                   Foster Youth          --      --       --          --              NaN
+17                                       Homeless          22      21   95.45%       4.55%           14.29%,            Subject   School Unnamed: 0         District Unnamed: 1    State
+0              NaN  2017-18    2018-19  2017-18 2018-19    2017-18  2018-19
+1  Science-grade 5      N/A        N/A          N/A N/A        N/A      N/A,   Unnamed: 0 Percent of Students Meeting fitness Standards
+0      Grade          four of Six  five of Six  Six of Six
+1      level                 Standards Standards Standards
+2          5                            6.5%  54.8%  36.6%,           Rate Unnamed: 0   School Unnamed: 1 Unnamed: 2 District Unnamed: 3 Unnamed: 4    State Unnamed: 5
+0          NaN    2016-17  2017-18    2018-19    2016-17  2017-18    2018-19    2016-17  2017-18    2018-19
+1  Suspensions      1.60%    1.80%      1.40%      2.60%    2.70%      2.70%      3.60%    3.50%      3.50%
+2   Expulsions      0.00%    0.00%      0.00%      0.00%    0.10%      0.10%      0.10%    0.10%      0.10%,   Unnamed: 0   Avg.             2016-17 Avg..1             2017-18 Avg..2             2018-19
+0      Grade  Class  number of Classes*  Class  number of Classes*  Class  number of Classes*
+1      level   Size    1-20  21-32  33+   Size    1-20  21-32  33+   Size    1-20  21-32  33+
+2          K   22.0             2  4  0   21.0                 1 4  23.00                 1 4
+3          1   21.0             1  2  0   22.0                   5  25.00                   4
+4          2   25.0             0  4  0   23.0                   5  24.00                   4
+5          3   23.0             0  4  0   21.0                 2 2  24.00                   5
+6          4   27.0             0  4  0   28.0                   3  26.00                   3
+7          5   27.0             0  4  0   28.0                   4  31.00                   3
+8    other**   21.0             0  3  0    NaN                 NaN    NaN                 NaN,             Unnamed: 0  title  Rate
+0  Academic Counselor*    NaN     0,                                                title      number of ftE*
+0                                                NaN  Assigned to School
+1  Counselor (Academic, Social/Behavioral or Care...                   0
+2                  Library Media Teacher (Librarian)                   0
+3    Library Media Services Staff (paraprofessional)                0.98
+4                                       Psychologist                 0.8
+5                                      Social Worker                 1.0
+6                                              Nurse                 1.0
+7                 Speech/Language/Hearing Specialist                 3.3
+8                 Resource Specialist (non-teaching)                   0
+9  Other - SAI (Specialized Academic Instruction)...                 1.5,                                       Unnamed: 0 Unnamed: 1         total    Expenditures Expenditures.1    Average
+0                                            NaN      level  Expenditures       Per Pupil      Per Pupil    teacher
+1                                            NaN        NaN     Per Pupil  (Supplemental/        (Basic/     Salary
+2                                            NaN        NaN           NaN     Restricted)  unrestricted)        NaN
+3                                    School Site        NaN      $8120.70        $1066.10       $7054.60  $72950.98
+4                                       District        NaN             —               —       $8829.99  $73708.96
+5  Percent Difference – School Site and District        NaN             —               —        -15.48%     -0.69%
+6                                          State        NaN             —               —       $7506.64  $82663.00
+7     Percent Difference – School Site and State        NaN             —               —         -4.18%    -8.50%s,                                         Category District Amount State Average for Districts
+0                                            NaN             NaN            in Same Category
+1                       Beginning teacher Salary         $41,321                     $45,741
+2                       Mid-Range teacher Salary         $74,174                     $81,840
+3                         highest teacher Salary         $98,658                    $102,065
+4          Average Principal Salary (Elementary)        $115,472                    $129,221
+5              Average Principal Salary (Middle)        $120,675                    $132,874
+6                          Superintendent Salary        $228,631                    $224,581
+7         Percent of Budget for teacher Salaries           36.0%                       36.0%
+8  Percent of Budget for Administrative Salaries            4.0%                        5.0%,                                              Measure  2017-2018  2018-2019  2019-2020
+0  number of school days dedicated to Staff Devel...        3.0        2.5        2.0
+1                         and Continuous Improvement        NaN        NaN        NaN]

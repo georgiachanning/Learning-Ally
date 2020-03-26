@@ -1,0 +1,247 @@
+[                          Unnamed: 0  Entity                    Unnamed: 1  Contact Information
+0                        School Name     NaN  Union Hill Elementary School                  NaN
+1                             Street     NaN             11638 Colfax Hwy.                  NaN
+2                   City, State, Zip     NaN        Grass Valley, CA 95945                  NaN
+3                       Phone Number     NaN                (530) 273-0152                  NaN
+4                          Principal     NaN               Joseph N. Limov                  NaN
+5                      Email Address     NaN         jlimov@uhsd.k12.ca.us                  NaN
+6                            Website     NaN            www.uhsd.k12.ca.us                  NaN
+7  County-District-School (CDS) Code     NaN                29664076027197                  NaN,        Unnamed: 0                                         Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Union Hill Charter Elementary School District         NaN         NaN                  NaN         NaN
+1    Phone Number                                 (530) 273-0647         NaN         NaN                  NaN         NaN
+2  Superintendent                                    David Curry         NaN         NaN                  NaN         NaN
+3   Email Address                          dcurry@uhsd.k12.ca.us         NaN         NaN                  NaN         NaN
+4         Website                             www.uhsd.k12.ca.us         NaN         NaN                  NaN         NaN,         Grade Level  Number of Students
+0      Kindergarten                 120
+1           Grade 1                  75
+2           Grade 2                  88
+3           Grade 3                  72
+4           Grade 4                  75
+5           Grade 5                  83
+6           Grade 6                  72
+7  Total Enrollment                 585,                        Student Group  Percent of Total Enrollment
+0          Black or African American                          1.2
+1   American Indian or Alaska Native                          0.7
+2                              Asian                          0.3
+3                 Hispanic or Latino                         11.1
+4                              White                         83.4
+5                  Two or More Races                          2.9
+6    Socioeconomically Disadvantaged                         45.5
+7                   English Learners                          2.2
+8         Students with Disabilities                          9.7
+9                       Foster Youth                          0.3
+10                          Homeless                          0.5,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       25       29       29       37
+3                            Without Full Credential        NaN        0        1        0        0
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        2        4,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                            Unnamed: 1  From Most Percent Students
+0                      NaN     Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                   NaN     Recent      Lacking Own
+2                      NaN            Materials/year of Adoption        NaN              NaN
+3                      NaN                                   NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts  Houghton Mifflin Harcourt - Journeys        Yes                0
+5                      NaN                                   NaN        NaN              NaN
+6                      NaN                                   NaN        NaN              NaN
+7              Mathematics   Houghton Mifflin Harcourt - Go Math        Yes                0
+8                      NaN                                   NaN        NaN              NaN
+9                      NaN                                   NaN        NaN              NaN
+10                 Science                  Harcourt, AIMS, FOSS        Yes                0
+11                     NaN                                   NaN        NaN              NaN
+12                     NaN                                   NaN        NaN              NaN
+13  History-Social Science               Harcourt Social Studies        Yes                0,                      System Inspected Rating      Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,  XGood   Twice annually the existing septic system is
+1                                 NaN    NaN                                            NaN
+2              Mechanical/HVAC, Sewer    NaN      pumped out and the system evaluations are
+3                                 NaN    NaN           completed.  HVAC systems have active
+4                                 NaN    NaN       preventive maintenance completed and are
+5                                 NaN    NaN                             in good condition.
+6                                 NaN    NaN                                            NaN
+7                                 NaN    NaN                                            NaN
+8         Interior: Interior Surfaces  XGood  Interior surfaces are cleaned and repaired on
+9                                 NaN    NaN                                            NaN
+10                                NaN    NaN   an ongoing basis.  FRP panels were installed
+11                                NaN    NaN           in lower campus restrooms during the
+12                                NaN    NaN             summer of 2018 and winter of 2019.
+13                                NaN    NaN                                            NaN
+14                                NaN    NaN                                            NaN
+15  Cleanliness: Overall Cleanliness,  XGood       There are no active pest infestations or
+16                                NaN    NaN                                            NaN
+17           Pest/ Vermin Infestation    NaN        issues at Union Hill School.  There are
+18                                NaN    NaN       sporatic nuisance issues from the wooded
+19                                NaN    NaN                       areas surrounding campus
+20             Electrical: Electrical  XGood     One electrical transformer was replaced on
+21                                NaN    NaN                                            NaN
+22                                NaN    NaN          the lower campus during the summer of
+23                                NaN    NaN                                          2018.
+24                                NaN    NaN                                            NaN
+25                                NaN    NaN                                            NaN
+26    Restrooms/Fountains: Restrooms,  XGood    New water bottle filling stations have been
+27                                NaN    NaN                                            NaN
+28                   Sinks/ Fountains    NaN    installed in the multi-purpose room, school
+29                                NaN    NaN    gym, staff workroom, and district office in
+30                                NaN    NaN                                          2018.,                   System Inspected Rating      Repair Needed and Action Taken or Planned
+0   Safety: Fire Safety, Hazardous  XGood      We continue to have positive reviews from
+1                              NaN    NaN                                            NaN
+2                        Materials    NaN                     the local fire department.
+3                              NaN    NaN   Changes/alterations to the main fire control
+4                              NaN    NaN      panel were competed and ongoing drills to
+5                              NaN    NaN          test the system and teach appropriate
+6                              NaN    NaN    responses to students and staff continue on
+7                              NaN    NaN                               a monthly basis.
+8                              NaN    NaN                                            NaN
+9                              NaN    NaN                                            NaN
+10  Structural: Structural Damage,  XGood     Union Hill School has completed three roof
+11                             NaN    NaN                                            NaN
+12                           Roofs    NaN       replacements/repairs in recent years and
+13                             NaN    NaN               have funds set aside in deferred
+14                             NaN    NaN           maintenance to make other repairs as
+15                             NaN    NaN                                        needed.
+16                             NaN    NaN                                            NaN
+17                             NaN    NaN                                            NaN
+18     External: Playground/School  XGood      We purchased and installed Barracuda Bars
+19                             NaN    NaN                                            NaN
+20               Grounds, Windows/    NaN  in the H Building for safety during lockdown.
+21              Doors/Gates/Fences    NaN       We installed new playground equipment in
+22                             NaN    NaN      the Bearcats playground and installed new
+23                             NaN    NaN       "Poured-in-Place" rubber surface for the
+24                             NaN    NaN               elementary playground equipment.
+25                             NaN    NaN                                            NaN
+26                             NaN    NaN                                            NaN
+27                  Overall Rating  XGood                                            NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       40       52       46         50       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       38       39       42         43       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         295        292      98.98    1.02     52.40
+5                                  Male            NaN         146        145      99.32    0.68     46.21
+6                                Female            NaN         149        147      98.66    1.34     58.50
+7             Black or African American            NaN          --         --         --      --        --
+8      American Indian or Alaska Native            NaN          --         --         --      --        --
+9                                 Asian            NaN          --         --         --      --        --
+10                             Filipino            NaN         NaN        NaN        NaN     NaN       NaN
+11                   Hispanic or Latino            NaN          38         38     100.00    0.00     44.74
+12  Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+13                                White            NaN         236        234      99.15    0.85     52.14,    Student Group
+0  Student Group,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                               Two or More Races                15             15          100.00  ...        NaN        NaN        NaN         NaN
+5                 Socioeconomically Disadvantaged               135            135          100.00  ...        NaN        NaN        NaN         NaN
+6                                English Learners                12             12          100.00  ...        NaN        NaN        NaN         NaN
+7                      Students with Disabilities                35             35          100.00  ...        NaN        NaN        NaN         NaN
+8   Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                    Foster Youth                --             --              --  ...        NaN        NaN        NaN         NaN
+10                                       Homeless                --             --              --  ...        NaN        NaN        NaN         NaN
+
+[11 rows x 10 columns],   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                                    All Students               295            291           98.64  ...        NaN        NaN        NaN         NaN
+5                                            Male               146            145           99.32  ...        NaN        NaN        NaN         NaN
+6                                          Female               149            146           97.99  ...        NaN        NaN        NaN         NaN
+7                       Black or African American                --             --              --  ...        NaN        NaN        NaN         NaN
+8                American Indian or Alaska Native                --             --              --  ...        NaN        NaN        NaN         NaN
+9                                           Asian                --             --              --  ...        NaN        NaN        NaN         NaN
+10                                       Filipino               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+11                             Hispanic or Latino                38             38          100.00  ...        NaN        NaN        NaN         NaN
+12            Native Hawaiian or Pacific Islander               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+13                                          White               236            233           98.73  ...        NaN        NaN        NaN         NaN
+14                              Two or More Races                15             15          100.00  ...        NaN        NaN        NaN         NaN
+15                Socioeconomically Disadvantaged               135            135          100.00  ...        NaN        NaN        NaN         NaN
+16                               English Learners                12             12          100.00  ...        NaN        NaN        NaN         NaN
+17                     Students with Disabilities                35             35          100.00  ...        NaN        NaN        NaN         NaN
+18  Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+
+[19 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,      Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0           NaN            NaN       Total     Number    Percent     NaN       NaN
+1           NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2           NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3           NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4  Foster Youth            NaN          --         --         --      --        --
+5      Homeless            NaN          --         --         --      --        --,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   11.2                     25.0                     53.8,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      6.4      6.4      6.0      5.5        7.9        8.4      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.0        0.0        0.0      0.1      0.1      0.1,    Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0         NaN  Average # of # of # of Average # of # of # of ...                                             
+1       Grade                                                NaN                                             
+2         NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3       Level                                                NaN                                             
+4         NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5         NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6           K                                     24 5 23 5 24 5                                             
+7           1                                     26 3 23 4 19 4                                             
+8           2                                     24 2 25 3 22 4                                             
+9           3                                     22 4 23 3 24 3                                             
+10          4                                     27 1 26 3 25 3                                             
+11          5                                     27 3 27 3 28 3                                             
+12          6                         19 3 5 1 21 5 5 1 18 6 7 2                                             
+13   Othe r**                                               27 2                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN    0.0,                                            Unnamed: 0      Number of FTE*
+0                                               Title                 NaN
+1                                                 NaN  Assigned to School
+2   Counselor (Academic, Social/Behavioral or Care...                 1.0
+3                   Library Media Teacher (Librarian)                 NaN
+4     Library Media Services Staff (Paraprofessional)                 1.0
+5                                        Psychologist                 1.0
+6                                       Social Worker                 NaN
+7                                               Nurse                  .3
+8                  Speech/Language/Hearing Specialist                 1.0
+9                  Resource Specialist (non-teaching)                 1.0
+10                                              Other                 NaN,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN       9476.15       1738.93         7737.22    77595.17
+3                                       District        NaN           N/A           N/A         7597.19    74805.76
+4  Percent Difference - School Site and District        NaN           N/A           N/A             1.8         3.7
+5                                          State        NaN           N/A           N/A       $7,506.64  $64,941.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A             3.0        17.8,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN    $44,476           $45,252
+5                        Mid-Range Teacher Salary        NaN    $65,160           $65,210
+6                          Highest Teacher Salary        NaN    $84,860           $84,472
+7           Average Principal Salary (Elementary)        NaN   $115,316          $107,614
+8               Average Principal Salary (Middle)        NaN         $0          $112,242
+9                 Average Principal Salary (High)        NaN         $0                 $
+10                          Superintendent Salary        NaN   $143,486          $124,686
+11         Percent of Budget for Teacher Salaries        NaN        39%               31%
+12  Percent of Budget for Administrative Salaries        NaN         7%                7%,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        3        3      NaN]

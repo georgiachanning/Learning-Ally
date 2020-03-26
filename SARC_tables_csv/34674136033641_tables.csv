@@ -1,0 +1,86 @@
+[             Grade 2     22                        Unnamed: 0 Unnamed: 1
+0                NaN    NaN                             Asian        NaN
+1            Grade 3   18.0                               NaN        NaN
+2                NaN    NaN                          Filipino       0.8%
+3            Grade 4   22.0                               NaN        NaN
+4                NaN    NaN                Hispanic or Latino      90.1%
+5            Grade 5   17.0                               NaN        NaN
+6                NaN    NaN  Native Hawaiian/Pacific Islander        NaN
+7            Grade 6   15.0                               NaN        NaN
+8                NaN    NaN                             White       8.3%
+9   Total Enrollment  121.0                               NaN        NaN
+10               NaN    NaN                 Two or More Races       0.8%
+11               NaN    NaN                 Socioeconomically        NaN
+12               NaN    NaN                               NaN      88.4%
+13               NaN    NaN                     Disadvantaged        NaN
+14               NaN    NaN                  English Learners      52.9%,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        1        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0, Empty DataFrame
+Columns: [Bates Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                         NaN
+1                         Interior: Interior Surfaces          ✓          -          -                                         NaN
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                         NaN
+3                              Electrical: Electrical          ✓          -          -                                         NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                         NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                         NaN
+6                Structural: Structural Damage, Roofs          -          ✓          -                                         NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                         NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                         NaN
+9                                                 NaN  Exemplary       Good       Fair                                        Poor
+10                                     Overall Rating          -          ✓          -                                           -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0          NaN                Meeting                  Meeting                  Meeting
+1  Grade Level                    NaN                      NaN                      NaN
+2          NaN            Four of Six              Five of Six               Six of Six
+3          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+4            5                 11.80%                   11.80%                   23.50%,    Bates Elementary 2019-2020 School Accountability Report Card
+0   Average Class Size and Class Size Distribution...          
+1                                             2016-17          
+2      Grade Level Avg. Class Size Number of Classes*          
+3                                      1-20 21-32 33+          
+4                                              K 22 1          
+5                                                   1          
+6                                              2 22 1          
+7                                              3 18 1          
+8                                              4 17 1          
+9                                              5 20 1          
+10                                             6 33 1          
+11                                       Other** 21 1          
+12  * Number of classes indicates how many classes...          
+13  * * “Other” category is for multi-grade level ...          
+14  Average Class Size and Class Size Distribution...          
+15                                            2017-18          
+16     Grade Level Avg. Class Size Number of Classes*          
+17                                     1-20 21-32 33+          
+18                                             K 17 1          
+19                                             1 19 1          
+20                                             2 19 1          
+21                                             3 24 1          
+22                                             4 19 1          
+23                                             5 15 1          
+24                                             6 20 1          ,                                            Level Expenditures     Per Pupil     Per Pupil.1  Teacher
+0                                            NaN    Per Pupil  (Restricted)  (Unrestricted)   Salary
+1                                    School Site      $10,747        $2,188          $8,559  $64,027
+2                                       District          N/A           N/A          $7,755  $61,590
+3  Percent Difference – School Site and District          N/A           N/A           9.86%    3.88%
+4                                          State          N/A           N/A        $7506.64   $72949
+5     Percent Difference – School Site and State          N/A           N/A          13.11%   13.03%, Empty DataFrame
+Columns: [Bates Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Category District Amount State Average For Districts\rIn Same Category Unnamed: 0
+0                            Beginning Teacher Salary          $45601                                        $46208        NaN
+1                            Mid-Range Teacher Salary          $61431                                        $72218        NaN
+2                              Highest Teacher Salary          $81218                                        $92742        NaN
+3               Average Principal Salary (Elementary)         $106906                                       $134864        NaN
+4                   Average Principal Salary (Middle)         $104012                                       $118220        NaN
+5                     Average Principal Salary (High)         $121662                                       $127356        NaN
+6                               Superintendent Salary         $165187                                       $186823        NaN
+7              Percent of Budget for Teacher Salaries             30%                                           33%        NaN
+8       Percent of Budget for Administrative Salaries              6%                                            6%        NaN
+9   or detailed information on salaries, see the C...             NaN                                           NaN        NaN
+10                                            Measure         2017–18                                       2018–19    2019–20
+11  Number of school days dedicated to Staff Devel...               3                                             3        1.5]

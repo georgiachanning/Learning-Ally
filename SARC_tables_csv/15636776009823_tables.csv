@@ -1,0 +1,133 @@
+[                          Unnamed: 0  Entity                           Contact Information
+0                        School Name     NaN            Robert P. Ulrich Elementary School
+1                             Street     NaN                           9124 Catalpa Avenue
+2                   City, State, Zip     NaN                     California City, CA 93505
+3                       Phone Number     NaN                                (760) 373-4824
+4                          Principal     NaN                                 Cheryl Bailey
+5                      Email Address     NaN                 cherylbailey@mojave.k12.ca.us
+6                            Website     NaN  http://www.mojave.k12.ca.us/schools/rpu.html
+7  County-District-School (CDS) Code     NaN                              15-63677-6009823,        Unnamed: 0                          Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Mojave Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                  (661) 824-4001         NaN         NaN                  NaN         NaN
+2  Superintendent                  Aaron Haughton         NaN         NaN                  NaN         NaN
+3   Email Address  aaronhaughton@mojave.k12.ca.us         NaN         NaN                  NaN         NaN
+4         Website            www.mojave.k12.ca.us         NaN         NaN                  NaN         NaN,         Grade Level  Number of Students
+0      Kindergarten                 187
+1           Grade 1                 165
+2           Grade 2                 175
+3  Total Enrollment                 527,                           Student Group  Percent of Total Enrollment
+0             Black or African American                         34.2
+1      American Indian or Alaska Native                          0.2
+2                                 Asian                          0.6
+3                              Filipino                          0.2
+4                    Hispanic or Latino                         41.7
+5   Native Hawaiian or Pacific Islander                          0.4
+6                                 White                         16.7
+7                     Two or More Races                          5.9
+8       Socioeconomically Disadvantaged                         90.3
+9                      English Learners                         12.5
+10           Students with Disabilities                          9.3
+11                         Foster Youth                          1.7
+12                             Homeless                          3.2,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       19       19       15      119
+3                            Without Full Credential        NaN        1        4        5       18
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        1,                Unnamed: 0                                   Unnamed: 1  From Most Percent Students
+0                     NaN            Textbooks and Other Instructional        NaN              NaN
+1                 Subject                                          NaN     Recent      Lacking Own
+2                     NaN                   Materials/year of Adoption        NaN              NaN
+3                     NaN                                          NaN  Adoption?    Assigned Copy
+4   Reading/Language Arts   All students are provided with the adopted        Yes               0%
+5                     NaN     Houghton Mifflin reading series Houghton        NaN              NaN
+6                     NaN   Mifflin Harcourt Journeys Reading Program,        NaN              NaN
+7                     NaN  2017, includes support for English learners        NaN              NaN
+8             Mathematics   All students are provided with the adopted        Yes               0%
+9                     NaN       mathematics program Eureka Math (Great        NaN              NaN
+10                    NaN                                Minds), 2017.        NaN              NaN
+11                Science     All students are provided with the State        Yes               0%
+12                    NaN       approved science series Harcourt Brace        NaN              NaN
+13                    NaN                               Science, 2008.        NaN              NaN,                Unnamed: 0                                    Unnamed: 1  From Most Percent Students
+0                     NaN             Textbooks and Other Instructional        NaN              NaN
+1                 Subject                                           NaN     Recent      Lacking Own
+2                     NaN                    Materials/year of Adoption        NaN              NaN
+3                     NaN                                           NaN  Adoption?    Assigned Copy
+4  History-Social Science      All students are provided with the State        Yes               0%
+5                     NaN  approved and District adopted social studies        NaN              NaN
+6                     NaN      program Harcourt Reflections, California        NaN              NaN
+7                     NaN                                 Series, 2007.        NaN              NaN,                      System Inspected      Rating Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,       XGood                                      None
+1                                 NaN         NaN                                       NaN
+2              Mechanical/HVAC, Sewer         NaN                                       NaN
+3         Interior: Interior Surfaces       XGood                                      None
+4                                 NaN         NaN                                       NaN
+5   Cleanliness: Overall Cleanliness,       XGood                                      None
+6                                 NaN         NaN                                       NaN
+7            Pest/ Vermin Infestation         NaN                                       NaN
+8              Electrical: Electrical       XGood                                      None
+9                                 NaN         NaN                                       NaN
+10    Restrooms/Fountains: Restrooms,       XGood                                      None
+11                                NaN         NaN                                       NaN
+12                   Sinks/ Fountains         NaN                                       NaN
+13     Safety: Fire Safety, Hazardous       XGood                                      None
+14                                NaN         NaN                                       NaN
+15                          Materials         NaN                                       NaN
+16     Structural: Structural Damage,       XGood                                      None
+17                                NaN         NaN                                       NaN
+18                              Roofs         NaN                                       NaN
+19        External: Playground/School       XGood                                      None
+20                                NaN         NaN                                       NaN
+21                  Grounds, Windows/         NaN                                       NaN
+22                 Doors/Gates/Fences         NaN                                       NaN
+23                     Overall Rating  XExemplary                                       NaN,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                    NaN                      NaN                      NaN,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      8.5      7.9      6.3     12.5        8.1        5.8      3.6      3.5      3.5
+3   Expulsions      0.5      0.0      0.0      0.7        0.1        0.2      0.1      0.1      0.1,   Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0        NaN  Average # of # of # of Average # of # of # of ...                                             
+1      Grade                                                NaN                                             
+2        NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3      Level                                                NaN                                             
+4        NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5        NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6          K                                     26 7 27 7 26 7                                             
+7          1                                  27 42 27 42 27 24                                             
+8          2                           22 13 47 1 24 7 42 29 24                                             
+9   Othe r**                                               11 4                                             ,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN
+5                                       Psychologist                 NaN
+6                                      Social Worker                 NaN
+7                 Speech/Language/Hearing Specialist                 NaN
+8                 Resource Specialist (non-teaching)                 NaN
+9                                              Other                 1.0,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN     $6,555.97     $1,140.58       $5,415.40  $86,963.50
+3                                       District        NaN           N/A           N/A       $5,554.17  $74,367.00
+4  Percent Difference - School Site and District        NaN           N/A           N/A            -2.5        15.6
+5                                          State        NaN           N/A           N/A       $7,506.64  $72,949.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A           -32.4        17.5,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN    $43,499           $46,208
+5                        Mid-Range Teacher Salary        NaN    $71,383           $72,218
+6                          Highest Teacher Salary        NaN    $98,516           $92,742
+7           Average Principal Salary (Elementary)        NaN   $111,295          $134,864
+8               Average Principal Salary (Middle)        NaN    $97,704          $118,220
+9                 Average Principal Salary (High)        NaN   $124,099          $127,356
+10                          Superintendent Salary        NaN   $191,003          $186,823
+11         Percent of Budget for Teacher Salaries        NaN        32%               33%
+12  Percent of Budget for Administrative Salaries        NaN         6%                6%,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...       38       38       38]

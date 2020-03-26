@@ -1,0 +1,246 @@
+[                                               Coyote        Canyon  ... Unnamed: 0                      of Business Services
+0                                           School is    located in  ...        NaN                                       NaN
+1                  # ofregion of Rancho Cucamonga and           NaN  ...        NaN                                  Contents
+2                                     serves students           NaN  ...        0.0                       Principal's Message
+3                                        transitional  kindergarten  ...        NaN                        School Description
+4                                      four following             a  ...        NaN                       Student Achievement
+5                                                 NaN           NaN  ...        NaN  Local Control Accountability Plan (LCAP)
+6                   calendar. At the beginning of the           NaN  ...        NaN                        Parent Involvement
+7   School Facilities & Maintenance2018-19 school ...           NaN  ...        NaN                     Classroom Environment
+8                                                 NaN           NaN  ...        NaN                                       NaN
+9                   were enrolled, including 10.1% in           NaN  ...        NaN                  Curriculum & Instruction
+10                                                NaN           NaN  ...        NaN                        Professional Staff
+11                                            special    education,  ...        NaN                     District Expenditures
+12                                SARC Dataqualifying   for English  ...        NaN                                       NaN
+13                                                NaN           NaN  ...        NaN                                       NaN
+14                                            Learner  support, and  ...        NaN                                       NaN
+15                                                NaN           NaN  ...        0.0                                       NaN
+16               qualifying for free or reduced price           NaN  ...        NaN                                       NaN
+17                                                NaN           NaN  ...        NaN                                       NaN
+18                                             lunch.           NaN  ...        NaN                                       NaN
+19                                                NaN           NaN  ...        NaN                                       NaN
+20                                                NaN           NaN  ...        NaN                                       NaN
+21                                                NaN           NaN  ...        NaN                                       NaN
+22                                                NaN           NaN  ...        NaN                                       NaN
+23                                                NaN           NaN  ...        NaN                                       NaN
+24                                                NaN           NaN  ...        NaN                                       NaN
+25                                                NaN           NaN  ...        NaN                                       NaN
+26                                                NaN           NaN  ...        NaN                                       NaN
+
+[27 rows x 6 columns],                                            Unnamed: 0 CAASPP Test Results in ELA by Student Group (2018-19) Unnamed: 1
+0                                 Student Achievement                                                NaN     % Meeting
+1                                                 NaN                                                NaN            or
+2                                                 NaN                                                NaN     Exceeding
+3    California Assessment of Student Performance and                                        Total % Not         State
+4                                            Progress  Student Groups Enrollment # Tested % Tested Te...     Standards
+5   The California Assessment of Student Performan...                    All Students 267 261 97.75 2.25         71.65
+6       Progress (CAASPP) System includes the Smarter                            Male 134 129 96.27 3.73         69.77
+7                                                 NaN                          Female 133 132 99.25 0.75         73.48
+8   Balanced Summative Assessments (SBAC) for stud...                                                NaN           NaN
+9                                                 NaN                          Black or 41 40 97.56 2.44         65.00
+10  the general education population, and the Cali...                                      African-Amer.           NaN
+11  Alternate Assessments (CAAs) for students with...                        Amer. Indian or -- -- -- --            --
+12  significant cognitive disabilities. Only eligi...                                      Alaska Native           NaN
+13                                                NaN                            Asian 17 15 88.24 11.76         66.67
+14  may participate in the administration of the C...                                                NaN           NaN
+15                                                NaN                               Filipino -- -- -- --            --
+16  items are aligned with alternative achievement...                                                NaN           NaN
+17                                                NaN                 Hisp. or Latino 126 124 98.41 1.59         70.97
+18  which are linked with the Common Core State St...                                                NaN           NaN
+19                                                NaN                     Native Hawaiian or -- -- -- --            --
+20  (CCSS).  CAASPP results are a measure of how well                                   Pacific Islander           NaN
+21  students are mastering California's standards ...                             White 56 55 98.21 1.79         76.36
+22  language arts/literacy (ELA) and mathematics, ...                Two or More Races 14 14 100.00 0.00         64.29
+23  given to grades three through eight and grade ...                  English Learners 53 49 92.45 7.55         65.31
+24  SBAC tests assess student performance in ELA/L...               Socioeconomically 158 155 98.10 1.90         69.03
+25                                                NaN                                      Disadvantaged           NaN
+26  and mathematics utilizing computer-adaptive te...                                                NaN           NaN
+27                                                NaN                    Students with 26 26 100.00 0.00         46.15
+28  performance tasks, and CAAs test items are ali...                                       Disabilities           NaN
+29  alternative achievement standards which are li...                                 Students Receiving           NaN
+30                                                NaN                               Migrant Ed. Services           NaN
+31            the Common Core State Standards (CCSS).                                                NaN           NaN
+32                                                NaN                           Foster Youth -- -- -- --            --
+33                                                NaN                               Homeless -- -- -- --            --,    results comparing the school, district and state scores as                                     Unnamed: 0
+0   CAASPP Test Results in Mathematics by Student ...                                                    NaN
+1   well as the school's overall score in each app...                                                    NaN
+2                                                 NaN                                              % Meeting
+3   subgroup. Results are shown only for subgroups...                                                     or
+4   students or more taking the exam. For those ca...                                              Exceeding
+5                                                 NaN                                      Total % Not State
+6   that are blank in the tables, no students met ...          Enrollment # Tested % Tested Tested Standards
+7   criteria. More information on CAASPP can be fo...                               267 266 99.63 0.37 64.66
+8   California Department of Education's website Male                              134 134 100.00 0.00 68.66
+9                    www.cde.ca.gov/ta/tg/ca/. Female                               133 132 99.25 0.75 60.61
+10                                                NaN                                                    NaN
+11                                           Black or                                 41 40 97.56 2.44 65.00
+12                                      African-Amer.                                                    NaN
+13  CAASPP Test Results in ELA and Mathematics - A...                                                    NaN
+14                                    Amer. Indian or                                         -- -- -- -- --
+15  Percent of Students Scoring at Proficient or A...                                                    NaN
+16                                           Advanced                                                    NaN
+17                                              Asian                                17 17 100.00 0.00 76.47
+18         (meeting or exceeding the state standards)                                                    NaN
+19                                           Filipino                                         -- -- -- -- --
+20                              School District State                                                    NaN
+21                                    Hisp. or Latino                              126 126 100.00 0.00 61.90
+22                17-18 18-19 17-18 18-19 17-18 18-19                                                    NaN
+23                                 Native Hawaiian or                                         -- -- -- -- --
+24  English-Language Arts/Literacy Pacific Islande...                                                    NaN
+25                                (grades 3-8 and 11)                                                    NaN
+26                                              White                                56 56 100.00 0.00 66.07
+27                                        Mathematics                                                    NaN
+28    59.0 65.0 43.0 43.0 38.0 39.0 Two or More Races                                14 14 100.00 0.00 42.86
+29                                (grades 3-8 and 11)                                                    NaN
+30                                   English Learners                                53 53 100.00 0.00 62.26
+31  Note:  Percentages are not calculated when the...                                                    NaN
+32                                  Socioeconomically                               158 157 99.37 0.63 63.06
+33  less, either because the number of students in...                                                    NaN
+34  statistical accuracy or to protect student pri...                                                    NaN
+35                                      Students with                                26 26 100.00 0.00 42.31
+36                                       Disabilities                                                    NaN
+37                                 Students Receiving                                                    NaN
+38                               Migrant Ed. Services                                                    NaN
+39                                       Foster Youth                                         -- -- -- -- --
+40                                           Homeless                                         -- -- -- -- --,                                            Unnamed: 0       African-Amer. Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5
+0   CAASPP Test Results in ELA and Mathematics - A...                 NaN        NaN        NaN        NaN        NaN        NaN
+1                                                 NaN     Amer. Indian or         --         --         --         --         --
+2        Percent of Students Scoring at Proficient or       Alaska Native        NaN        NaN        NaN        NaN        NaN
+3                                            Advanced                 NaN        NaN        NaN        NaN        NaN        NaN
+4                                                 NaN               Asian         17         17     100.00       0.00      76.47
+5          (meeting or exceeding the state standards)                 NaN        NaN        NaN        NaN        NaN        NaN
+6                                                 NaN            Filipino         --         --         --         --         --
+7                               School District State                 NaN        NaN        NaN        NaN        NaN        NaN
+8                                                 NaN     Hisp. or Latino        126        126     100.00       0.00      61.90
+9                 17-18 18-19 17-18 18-19 17-18 18-19                 NaN        NaN        NaN        NaN        NaN        NaN
+10                                                NaN  Native Hawaiian or         --         --         --         --         --
+11  English-Language Arts/Literacy Pacific Islande...                 NaN        NaN        NaN        NaN        NaN        NaN
+12                                (grades 3-8 and 11)                 NaN        NaN        NaN        NaN        NaN        NaN
+13                                                NaN               White         56         56     100.00       0.00      66.07
+14                                        Mathematics                 NaN        NaN        NaN        NaN        NaN        NaN
+15                      59.0 65.0 43.0 43.0 38.0 39.0   Two or More Races         14         14     100.00       0.00      42.86
+16                                (grades 3-8 and 11)                 NaN        NaN        NaN        NaN        NaN        NaN,               • Painting of the exterior and interior Unnamed: 0                 School Facility Good Repair Status Unnamed: 1
+0                               • Upgrades to signage        NaN  Most Recent Inspection: Saturday, October 05, ...        NaN
+1                • Upgrades to door weather stripping        NaN                       Item Inspected Repair Status        NaN
+2                               • Trip hazard repairs        NaN                                          Good Fair       Poor
+3   • Installation of new flooring in the library ...         A.                                            Systems        NaN
+4                                                 NaN         B.                                           Interior        NaN
+5   Every morning before school begins, the custodian        NaN                                                NaN        NaN
+6                                                 NaN         C.                                        Cleanliness        NaN
+7   inspects facilities for safety hazards or othe...        NaN                                                NaN        NaN
+8   that need attention prior to students and staf...         D.                                         Electrical        NaN
+9   school grounds. One day custodian and two evening         E.                              Restrooms / Fountains        NaN
+10  custodians are assigned to Coyote Canyon Eleme...         F.                                             Safety        NaN
+11      School. The day custodian is responsible for:        NaN                                                NaN        NaN
+12                                                NaN         G.                                         Structural        NaN
+13                               • Classroom cleaning         H.                                           External        NaN,                    Unnamed: 0  Campus Description Unnamed: 1                                         Unnamed: 2
+0                  Year Built                 NaN       1987  Coyote Canyon Elementary School is a closed ca...
+1                     Acreage                 NaN       8.67  During school hours, all visitors must show th...
+2              Square Footage                 NaN      43626  issued identification at the school's office t...
+3                         NaN                 NaN   Quantity  through the Lobbyguard system and wear the pri...
+4        Permanent Classrooms                 NaN         37    identification sticker while on school grounds.
+5         Portable Classrooms                 NaN          0                                                NaN
+6            Restrooms (sets)                 NaN          6                            School Site Safety Plan
+7             Computer Lab(s)                 NaN          2      The Comprehensive School Site Safety Plan was
+8               Playground(s)                 NaN          2   developed for Coyote Canyon Elementary School in
+9                     Library                 NaN          1  collaboration with local agencies and the dist...
+10  Multipurpose Room/Kitchen                 NaN          1  fulfill Senate Bill 187 requirements. Componen...
+11  Staff Administrative Area                 NaN          1  plan include child abuse reporting procedures,...,              Unnamed: 0 Suspensions & Expulsions Unnamed: 1 Unnamed: 2                          • Active Shooter Training
+0                   NaN                    16-17      17-18      18-19                      • Common Core State Standards
+1                   NaN                      NaN     School        NaN                                    • Data Analysis
+2  % Students Suspended                      0.5        0.7        0.5  • Next Generation Science Standards Implementa...
+3   % Students Expelled                      0.0        0.0        0.0       • Professional Learning Communities Training
+4                   NaN                      NaN   District        NaN                                    • School Safety
+5  % Students Suspended                      1.7        1.3        1.7                • Trauma Informed Behavior Training
+6   % Students Expelled                      0.0        0.0        0.0                 • Universal Access/Differentiation
+7                   NaN                      NaN      State        NaN                                 • Visible Learning
+8  % Students Suspended                      3.6        3.5        3.5                                                NaN
+9   % Students Expelled                      0.1        0.1        0.1  Decisions concerning selection of staff develo...,    Average Class Size and Class Size Distribution Unnamed: 0                           development workshops or  Unnamed: 1    training session  as   1)    a
+0                                         2016-17        NaN                           supplement to site-based         NaN  staff development, NaN   2)  for
+1                                            Avg.        NaN  reinforcement of or follow-up on previous trai...         NaN                 NaN NaN  NaN  NaN
+2                         Class Number of Classes        NaN                             follow-up training for         NaN   newly implemented NaN  NaN  NaN
+3                           Grade Size 1-20 21-32        33+                                programs/curricula.         NaN                 NaN NaN  NaN  NaN
+4                                      K 23.0 1 6        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+5                                        1 26.0 5        NaN  During the 2017-18, 2018-19, and 2019-20 schoo...         NaN                 NaN NaN  NaN  NaN
+6                                        2 25.0 6        NaN  Coyote Canyon Elementary School's teachers att...         NaN                 NaN NaN  NaN  NaN
+7                                        3 25.0 6        NaN  the following events hosted by the Central Sch...         NaN                 NaN NaN  NaN  NaN
+8                                        4 26.0 4          1                                                NaN         NaN                 NaN NaN  NaN  NaN
+9                                         2017-18        NaN                                  2017-18 Training:         NaN                 NaN NaN  NaN  NaN
+10                                           Avg.        NaN                             • California Dashboard         NaN                 NaN NaN  NaN  NaN
+11                        Class Number of Classes        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+12                                            NaN        NaN                                     • LCAP Updates         NaN                 NaN NaN  NaN  NaN
+13                          Grade Size 1-20 21-32        33+                                                NaN         NaN                 NaN NaN  NaN  NaN
+14                                            NaN        NaN                                           • Safety         NaN                 NaN NaN  NaN  NaN
+15                                     K 24.0 1 5        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+16                                            NaN        NaN                                 • Visible Learning         NaN                 NaN NaN  NaN  NaN
+17                                       1 25.0 5        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+18                                       2 26.0 5        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+19                                            NaN        NaN                                  2018-19 Training:         NaN                 NaN NaN  NaN  NaN
+20                                       3 25.0 6        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+21                                            NaN        NaN  • Behavior and the Healing Power of Relationsh...         NaN                 NaN NaN  NaN  NaN
+22                                       4 25.0 1          4                                                NaN         NaN                 NaN NaN  NaN  NaN
+23                                            NaN        NaN                                             Powell         NaN                 NaN NaN  NaN  NaN
+24                                        2018-19        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+25                                            NaN        NaN                                           • Trauma         NaN                 NaN NaN  NaN  NaN
+26                                           Avg.        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+27                        Class Number of Classes        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+28                          Grade Size 1-20 21-32        33+                                  2019-20 Training:         NaN                 NaN NaN  NaN  NaN
+29                                       K 25.0 6        NaN                                    • GATE Training         NaN                 NaN NaN  NaN  NaN
+30                                       1 25.0 5        NaN                                    • Math Training         NaN                 NaN NaN  NaN  NaN
+31                                       2 26.0 5        NaN                                                NaN         NaN                 NaN NaN  NaN  NaN
+32                                       3 25.0 5        NaN  Coyote Canyon Elementary School offers support...         NaN                 NaN NaN  NaN  NaN
+33                                       4 25.0 5        NaN                       and veteran teachers through         NaN       peer coaching NaN  NaN  and,    Unnamed: 0 Number of School Days Dedicated to Staff Development and Continuous\rImprovement  Unnamed: 1  ...  Unnamed: 5 Unnamed: 6  Unnamed: 7
+0         NaN                                            2017-18                                       NaN  ...         NaN    2019-20         NaN
+1       333.0                                                NaN                                       NaN  ...         NaN        NaN         NaN
+
+[2 rows x 9 columns],                                           Unnamed: 0          Academic Counselors & Other Support Staff     Unnamed: 1  Unnamed: 2 Unnamed: 3
+0                                                NaN          (Nonteaching Professional Staff)\r2018-19            NaN         NaN        NaN
+1                                                NaN                                                NaN  No. of\rStaff         NaN        FTE
+2                                                NaN                                                NaN            FTE         NaN        NaN
+3  Academic Counselor\rAdaptive PE Specialist\rCo...  00\r10.2\r10.6\r11.0\r11.0\r10.4\r10.4\r10.2\r...            NaN         NaN        NaN,    FTE Unnamed: 0
+0  NaN        FTE,                                           Unnamed: 0           Textbooks                 Unnamed: 1
+0                                      Adoption Year  Publisher & Series  Pupils Lacking\rTextbooks
+1                              English Language Arts                 NaN                        NaN
+2  2017Houghton Mifflin, Journeys0 %\r2016Pearson...                 NaN                        NaN
+3                             History-Social Science                 NaN                        NaN
+4  2007Scott Foresman, History-Social Studies for...                 NaN                        NaN
+5                                        Mathematics                 NaN                        NaN
+6                         2015Great Minds, Eureka0 %                 NaN                        NaN
+7                                            Science                 NaN                        NaN
+8   2008Macmillan/McGraw-Hill, California Science0 %                 NaN                        NaN,                                           Unnamed: 0 Teacher Credentials & Assignments Unnamed: 1  Unnamed: 2  Unnamed: 3 Unnamed: 4  Unnamed: 5
+0                                                NaN                               NaN     School         NaN         NaN   District         NaN
+1  Total Teachers\rTeachers With Full Credentials...                   17-1818-1919-20      19-20         NaN         NaN        NaN         NaN
+2            302829\r302828\r001\r000\r000\r000\r001          210\r205\r5\r17\r0\r0\r2        NaN         NaN         NaN        NaN         NaN,                                        information to                                   be  ...                                         Unnamed: 2 Unnamed: 3
+0                                                 NaN                                  NaN  ...  Expenditures Per Pupil and School Site Teacher...        NaN
+1   comparison purposes, the State Department of E...                                  NaN  ...                                            2017-18        NaN
+2   has provided average salary data from school d...                                  NaN  ...                          Dollars Spent per Student        NaN
+3   having similar average daily attendance throug...                                  NaN  ...                                            % Diff.    % Diff.
+4                               state. (Note: 2017-18                                  NaN  ...                                           School &   School &
+5                                                 NaN                                  NaN  ...                        School District Dist. State      State
+6   most recent data available at the time this re...                                  NaN  ...                                                NaN        NaN
+7                                                 NaN                                  NaN  ...                                 $7,293 N/A N/A N/A        N/A
+8                                         published.)                                  NaN  ...                                                NaN        NaN
+9                                                 NaN                                  NaN  ...                                 $1,367 N/A N/A N/A        N/A
+10                                                NaN                                  NaN  ...                         $5,927 $6,130 96.69 $7,507      78.95
+11                                                NaN  Teacher and Administrative Salaries  ...                                                NaN        NaN
+12                                                NaN                                  NaN  ...                      $74,361 $74,776 99.45 $77,619      95.80
+13                                                NaN                                  NaN  ...                                                NaN        NaN
+
+[14 rows x 12 columns],                              Unnamed: 0         Unnamed: 1                                Unrestricted $5,927    $6,130       96.69 $7,507       78.95
+0   Teacher and Administrative Salaries                NaN                                                NaN       NaN                NaN         NaN
+1                                   NaN                NaN                                    Average $74,361   $74,776      99.45 $77,619       95.80
+2                               2017-18                NaN                                    Teacher  Salary       NaN                NaN         NaN
+3                                   NaN   State Average of                                                NaN       NaN                NaN         NaN
+4                                   NaN  Districts in Same   Note: Cells with N/A values do not require data.       NaN                NaN         NaN
+5                              District           Category                                                NaN       NaN                NaN         NaN
+6      Beginning Teacher Salary $40,844            $49,378                                          SARC Data       NaN                NaN         NaN
+7      Mid-Range Teacher Salary $72,185            $77,190                                                NaN       NaN                NaN         NaN
+8        Highest Teacher Salary $92,162            $96,607                                          DataQuest       NaN                NaN         NaN
+9        Superintendent Salary $179,563           $189,346                                    DataQuest is an    online  data tool located          at
+10          Average Principal Salaries:                NaN                    http://dq.cde.ca.gov/dataquest/       NaN      that contains  additional
+11           Elementary School $111,984           $122,074  information about Coyote Canyon Elementary Sch...       NaN                NaN         NaN
+12               Middle School $116,136           $126,560  comparisons of the school to the district, the...       NaN                NaN         NaN
+13                      High School N/A           $126,920                               the state. DataQuest  provides        reports for      school
+14                Percentage of Budget:                NaN                          accountability, including       but    not limited to,      CAASPP
+15                 Teacher Salaries 37%                36%                          results, Physical Fitness  results,        Suspensions         and
+16           Administrative Salaries 5%                 6%  Expulsions, Dropout & Graduation Rates, enroll...       NaN                NaN         NaN]

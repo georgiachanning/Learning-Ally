@@ -1,0 +1,241 @@
+[                          Unnamed: 0  Entity                  Contact Information
+0                        School Name     NaN  George Washington Elementary School
+1                             Street     NaN                      1420 Second St.
+2                   City, State, Zip     NaN                Selma, Ca, 93662-3925
+3                       Phone Number     NaN                         559-898-6720
+4                          Principal     NaN                  Mrs. Raquel Hammond
+5                      Email Address     NaN                rhammond@selmausd.org
+6                            Website     NaN                  http://selmausd.org
+7  County-District-School (CDS) Code     NaN                      106924306007272,        Unnamed: 0                         Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Selma Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                 (559) 898-6500         NaN         NaN                  NaN         NaN
+2  Superintendent                   Tanya Fisher         NaN         NaN                  NaN         NaN
+3   Email Address           tfisher@selmausd.org         NaN         NaN                  NaN         NaN
+4         Website       http://www.selmausd.org/         NaN         NaN                  NaN         NaN,          Unnamed: 0  Grade Level  Unnamed: 1  Unnamed: 2  Number of Students  Unnamed: 3
+0      Kindergarten           98         NaN         NaN                 NaN         NaN
+1           Grade 1           88         NaN         NaN                 NaN         NaN
+2  Total Enrollment          186         NaN         NaN                 NaN         NaN,                         Unnamed: 0  Student Group  Percent of Total Enrollment
+0                            Asian            NaN                          1.6
+1               Hispanic or Latino            NaN                         97.8
+2                            White            NaN                          0.5
+3  Socioeconomically Disadvantaged            NaN                         96.8
+4                 English Learners            NaN                         72.0
+5       Students with Disabilities            NaN                          8.6
+6                         Homeless            NaN                          1.6,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       11        9      9.5      324
+3                            Without Full Credential        NaN        0        0        0        9
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        2,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                Unnamed: 0                                    Unnamed: 1  From Most Percent Students
+0                     NaN             Textbooks and Other Instructional        NaN              NaN
+1                 Subject                                           NaN     Recent      Lacking Own
+2                     NaN                    Materials/year of Adoption        NaN              NaN
+3                     NaN                                           NaN  Adoption?    Assigned Copy
+4   Reading/Language Arts       State-adopted textbooks are supplied to        Yes            0.0 %
+5                     NaN            each student at Washington School,        NaN              NaN
+6                     NaN    including English Learners. In addition, a        NaN              NaN
+7                     NaN      teacher resource kit is provided to each        NaN              NaN
+8                     NaN       classroom teacher to provide additional        NaN              NaN
+9                     NaN  instructional materials that support the use        NaN              NaN
+10                    NaN    of the textbook. Selma Unified has adopted        NaN              NaN
+11                    NaN         the state approved program, Benchmark        NaN              NaN
+12                    NaN               Advance, published by Benchmark        NaN              NaN
+13                    NaN   Education, as its Reading/Language Arts/ELD        NaN              NaN
+14                    NaN    core curriculum for Kindergarten and first        NaN              NaN
+15                    NaN             grade. Textbooks and supplemental        NaN              NaN
+16                    NaN    instructional materials w ere purchased in        NaN              NaN
+17                    NaN     2017 for use in the 2017-2018 school year        NaN              NaN
+18                    NaN                  and subsequent school years.        NaN              NaN
+19            Mathematics       State adopted textbooks are supplied to        Yes            0.0 %
+20                    NaN            each student at Washington School,        NaN              NaN
+21                    NaN    including English Learners. In addition, a        NaN              NaN
+22                    NaN      teacher resource kit is provided to each        NaN              NaN
+23                    NaN       classroom teacher to provide additional        NaN              NaN
+24                    NaN  instructional materials that support the use        NaN              NaN
+25                    NaN    of the textbook. Selma Unified has adopted        NaN              NaN
+26                    NaN   the state approved program, Go Math! as its        NaN              NaN
+27                    NaN    Mathematics core curriculum in grades K-6.        NaN              NaN
+28                    NaN            The K-6 curriculum is published by        NaN              NaN
+29                    NaN      Houghton-Mifflin/Harcourt. This textbook        NaN              NaN
+30                    NaN    series is aligned to the California Common        NaN              NaN
+31                    NaN   Core State Standards (CCCSS). Textbooks and        NaN              NaN
+32                    NaN     supplemental instructional materials were        NaN              NaN
+33                    NaN      purchased in 2014 for use in the 2014-15        NaN              NaN
+34                    NaN      school year and subsequent school years.        NaN              NaN,                 Unnamed: 0 Unnamed: 1                                       Unnamed: 2  From Most Percent Students
+0                      NaN        NaN                Textbooks and Other Instructional        NaN              NaN
+1                      NaN    Subject                                              NaN     Recent      Lacking Own
+2                      NaN        NaN                       Materials/year of Adoption        NaN              NaN
+3                      NaN        NaN                                              NaN  Adoption?    Assigned Copy
+4                  Science        NaN          State adopted textbooks are supplied to        Yes            0.0 %
+5                      NaN        NaN               each student at Washington School,        NaN              NaN
+6                      NaN        NaN       including English Learners. In addition, a        NaN              NaN
+7                      NaN        NaN         teacher resource kit is provided to each        NaN              NaN
+8                      NaN        NaN          classroom teacher to provide additional        NaN              NaN
+9                      NaN        NaN     instructional materials that support the use        NaN              NaN
+10                     NaN        NaN       of the textbook. Selma Unified has adopted        NaN              NaN
+11                     NaN        NaN           the state approved program, California        NaN              NaN
+12                     NaN        NaN    Science, published by Scott-Foresman, for its        NaN              NaN
+13                     NaN        NaN       K-6 core Science curriculum. Textbooks and        NaN              NaN
+14                     NaN        NaN       supplemental instructional materials w ere        NaN              NaN
+15                     NaN        NaN         purchased in 2007 for use in the 2007-08        NaN              NaN
+16                     NaN        NaN         school year and subsequent school years.        NaN              NaN
+17  History-Social Science        NaN          State adopted textbooks are supplied to        Yes            0.0 %
+18                     NaN        NaN               each student at Washington School,        NaN              NaN
+19                     NaN        NaN       including English Learners. In addition, a        NaN              NaN
+20                     NaN        NaN         teacher resource kit is provided to each        NaN              NaN
+21                     NaN        NaN          classroom teacher to provide additional        NaN              NaN
+22                     NaN        NaN     instructional materials that support the use        NaN              NaN
+23                     NaN        NaN       of the textbook. Selma Unified has adopted        NaN              NaN
+24                     NaN        NaN       the state approved programs History Social        NaN              NaN
+25                     NaN        NaN  Studies for California in grades K-5, published        NaN              NaN
+26                     NaN        NaN     by Scott-Foresman. For grades K-5, textbooks        NaN              NaN
+27                     NaN        NaN       and supplemental instructional materials w        NaN              NaN
+28                     NaN        NaN       ere purchased in 2006 for use in the 2006-        NaN              NaN
+29                     NaN        NaN           2007 school year and subsequent school        NaN              NaN
+30                     NaN        NaN                                           years.        NaN              NaN,          System Inspected Rating  Repair Needed and Action Taken or Planned
+0     Systems: Gas Leaks,  XGood                                        NaN
+1                     NaN    NaN                                        NaN
+2  Mechanical/HVAC, Sewer    NaN                                        NaN,                      System Inspected Rating       Repair Needed and Action Taken or Planned
+0         Interior: Interior Surfaces  XGood  K boys RR: partitions rusting; plaster peeling
+1                                 NaN    NaN                                             NaN
+2   Cleanliness: Overall Cleanliness,  XGood                                             NaN
+3                                 NaN    NaN                                             NaN
+4            Pest/ Vermin Infestation    NaN                                             NaN
+5              Electrical: Electrical  XGood                                             NaN
+6                                 NaN    NaN                                             NaN
+7     Restrooms/Fountains: Restrooms,  XFair                                             NaN
+8                                 NaN    NaN                                             NaN
+9                    Sinks/ Fountains    NaN  K boys RR: partitions rusting; plaster peeling
+10                                NaN    NaN                                             NaN
+11     Safety: Fire Safety, Hazardous  XGood                                             NaN
+12                                NaN    NaN                                             NaN
+13                          Materials    NaN                                             NaN
+14     Structural: Structural Damage,  XGood                                             NaN
+15                                NaN    NaN                                             NaN
+16                              Roofs    NaN                                             NaN
+17        External: Playground/School  XGood                                             NaN
+18                                NaN    NaN                                             NaN
+19                  Grounds, Windows/    NaN                                             NaN
+20                 Doors/Gates/Fences    NaN                                             NaN
+21                     Overall Rating  XGood                                             NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN      NaN      NaN      NaN        NaN      NaN      NaN
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN      NaN      NaN      NaN        NaN      NaN      NaN
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                                        Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                             NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                             NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                                    All Students            NaN         NaN        NaN        NaN     NaN       NaN
+5                       Black or African American            NaN         NaN        NaN        NaN     NaN       NaN
+6                American Indian or Alaska Native            NaN         NaN        NaN        NaN     NaN       NaN
+7                                        Filipino            NaN         NaN        NaN        NaN     NaN       NaN
+8                              Hispanic or Latino            NaN         NaN        NaN        NaN     NaN       NaN
+9             Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+10                              Two or More Races            NaN         NaN        NaN        NaN     NaN       NaN
+11                Socioeconomically Disadvantaged            NaN         NaN        NaN        NaN     NaN       NaN
+12                               English Learners            NaN         NaN        NaN        NaN     NaN       NaN
+13                     Students with Disabilities            NaN         NaN        NaN        NaN     NaN       NaN
+14  Students Receiving Migrant Education Services            NaN         NaN        NaN        NaN     NaN       NaN
+15                                   Foster Youth            NaN         NaN        NaN        NaN     NaN       NaN
+16                                       Homeless            NaN         NaN        NaN        NaN     NaN       NaN,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         NaN        NaN        NaN     NaN       NaN
+5             Black or African American            NaN         NaN        NaN        NaN     NaN       NaN
+6      American Indian or Alaska Native            NaN         NaN        NaN        NaN     NaN       NaN
+7                              Filipino            NaN         NaN        NaN        NaN     NaN       NaN
+8                    Hispanic or Latino            NaN         NaN        NaN        NaN     NaN       NaN
+9   Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+10                    Two or More Races            NaN         NaN        NaN        NaN     NaN       NaN,    Student Group
+0  Student Group,                                    Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                            NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                  Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                            NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                            NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                Socioeconomically Disadvantaged               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+5                               English Learners               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+6                     Students with Disabilities               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+7  Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+8                                   Foster Youth               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                       Homeless               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+
+[10 rows x 10 columns],   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,    Subject
+0  Subject,                                  Subject Unnamed: 0   School Unnamed: 1 Unnamed: 2 School.1  ... Unnamed: 8  State  Unnamed: 9  Unnamed: 10  State.1  Unnamed: 11
+0                                Subject        NaN      NaN        NaN        NaN      NaN  ...        NaN    NaN         NaN          NaN      NaN          NaN
+1                                    NaN    2017-18  2018-19    2017-18    2018-19  2017-18  ...        NaN    NaN         NaN          NaN      NaN          NaN
+2  Science (grades 5, 8 and high school)        N/A      N/A        N/A        N/A      N/A  ...        NaN    NaN         NaN          NaN      NaN          NaN
+
+[3 rows x 19 columns],    Grade Level
+0  Grade Level,    Grade Level           Unnamed: 0 Percentage of Students          Unnamed: 1  ...  Unnamed: 3  Unnamed: 4  Percentage of Students.2  Unnamed: 5
+0  Grade Level  Meeting Four of Six    Meeting Five of Six  Meeting Six of Six  ...         NaN         NaN                       NaN         NaN
+1          NaN    Fitness Standards      Fitness Standards   Fitness Standards  ...         NaN         NaN                       NaN         NaN
+2            5                  NaN                    NaN                 NaN  ...         NaN         NaN                       NaN         NaN
+
+[3 rows x 10 columns],     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      0.0      0.0      0.5      5.7        5.6        6.0      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.2        0.2        0.1      0.1      0.1      0.1,   Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0        NaN  Average # of # of # of Average # of # of # of ...                                             
+1      Grade                                                NaN                                             
+2        NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3      Level                                                NaN                                             
+4        NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5        NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6          K                                 21 2 2 22 4 20 1 4                                             
+7          1                                     22 4 22 4 22 4                                             
+8          2                                                1 1                                             
+9   Othe r**                                                NaN                                             ,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN
+3                  Library Media Teacher (Librarian)                  .5
+4    Library Media Services Staff (Paraprofessional)                 NaN
+5                                       Psychologist                 NaN
+6                                      Social Worker                 NaN
+7                 Speech/Language/Hearing Specialist                 NaN
+8                 Resource Specialist (non-teaching)                 2.0,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN         14705          2283           12421       84277
+3                                       District        NaN           N/A           N/A           10020       80543
+4  Percent Difference - School Site and District        NaN           N/A           N/A            21.4         4.5
+5                                          State        NaN           N/A           N/A       $7,506.64  $78,059.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A            49.3         7.7,                                Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                     NaN        NaN   District               NaN
+1                                     NaN   Category        NaN     For Districts
+2                                     NaN        NaN     Amount               NaN
+3                                     NaN        NaN        NaN  In Same Category
+4                Beginning Teacher Salary        NaN          $           $49,084
+5                Mid-Range Teacher Salary        NaN          $           $76,091
+6                  Highest Teacher Salary        NaN          $           $95,728
+7   Average Principal Salary (Elementary)        NaN          $          $118,990
+8       Average Principal Salary (Middle)        NaN          $          $125,674
+9         Average Principal Salary (High)        NaN          $          $137,589
+10                  Superintendent Salary        NaN          $          $230,096,                                         Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                                            NaN         District               NaN            NaN         NaN
+1                                       Category    For Districts               NaN            NaN         NaN
+2                                            NaN           Amount               NaN            NaN         NaN
+3                                            NaN              NaN  In Same Category            NaN         NaN
+4         Percent of Budget for Teacher Salaries              35%               35%            NaN         NaN
+5  Percent of Budget for Administrative Salaries               6%                6%            NaN         NaN,    Category
+0  Category,   District\rAmount
+0         District
+1           Amount,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...          3        3          3      NaN        NaN      NaN        NaN]

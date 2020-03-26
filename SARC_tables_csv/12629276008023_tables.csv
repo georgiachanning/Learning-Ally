@@ -1,0 +1,102 @@
+[                          Unnamed: 0  Entity                    Unnamed: 1  Contact Information
+0                        School Name     NaN       Loleta Union Elementary                  NaN
+1                             Street     NaN                700 Loleta Dr.                  NaN
+2                   City, State, Zip     NaN         Loleta, CA 95551-0547                  NaN
+3                       Phone Number     NaN                  707.733-5705                  NaN
+4                          Principal     NaN                Autumn Chapman                  NaN
+5                      Email Address     NaN           achapman@loleta.org                  NaN
+6                            Website     NaN  http://www.loletaschool.com/                  NaN
+7  County-District-School (CDS) Code     NaN                12629270000000                  NaN,        Unnamed: 0                                   Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Loleta Union Elementary School District         NaN         NaN                  NaN         NaN
+1    Phone Number                             707.733.5705         NaN         NaN                  NaN         NaN
+2  Superintendent                           Autumn Chapman         NaN         NaN                  NaN         NaN
+3   Email Address                      achapman@loleta.org         NaN         NaN                  NaN         NaN
+4         Website                         loletaschool.org         NaN         NaN                  NaN         NaN,      Unnamed: 0  Grade Level  Unnamed: 1  Unnamed: 2  Number of Students  Unnamed: 3
+0  Kindergarten          NaN         NaN         NaN                 NaN         NaN,   Unnamed: 0  Student Group  Unnamed: 1  Unnamed: 2  Percent of Total Enrollment  Unnamed: 3
+0   Homeless            NaN         NaN         NaN                          NaN         NaN,                                             Teachers Unnamed: 0   School Unnamed: 1 Unnamed: 2  ...  School.2  Unnamed: 5  Unnamed: 6  District  Unnamed: 7
+0                                           Teachers        NaN      NaN        NaN        NaN  ...       NaN         NaN         NaN       NaN         NaN
+1                                                NaN    2017-18  2018-19    2019-20    2019-20  ...       NaN         NaN         NaN       NaN         NaN
+2                               With Full Credential          8        8          8          8  ...       NaN         NaN         NaN       NaN         NaN
+3                            Without Full Credential          0        1          2          2  ...       NaN         NaN         NaN       NaN         NaN
+4  Teaching Outside Subject Area of Competence (w...          0        0          0          0  ...       NaN         NaN         NaN       NaN         NaN
+
+[5 rows x 13 columns],    Teachers
+0  Teachers,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                                     Unnamed: 1  From Most Percent Students
+0                      NaN              Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                            NaN     Recent      Lacking Own
+2                      NaN                     Materials/year of Adoption        NaN              NaN
+3                      NaN                                            NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts    Houghton Mifflin Reading, McDougall Littell         No             0.0%
+5                      NaN      Literature, Houghton Mifflin The Nation's        NaN              NaN
+6                      NaN      Choice 2003, McDougall Littell Literature        NaN              NaN
+7              Mathematics     Grades T K-5 “Go Math” by Houghton Mifflin        Yes             0.0%
+8                      NaN         Harcourt, purchased in 2015 Grades 6-8        NaN              NaN
+9                      NaN  California Big Ideas also by Houghton Mifflin        NaN              NaN
+10                     NaN     Harcourt, purchased in 2015 supplement the        NaN              NaN
+11                     NaN        above programs with a web based program        NaN              NaN
+12                     NaN                        called Accelerated Math        NaN              NaN
+13                 Science     Harcourt Brace Science 2000, Prentice Hall         No             0.0%
+14                     NaN           General Science, Houghton Mifflin CA        NaN              NaN
+15                     NaN                 Science, CPO Science (6-8),EEI        NaN              NaN
+16  History-Social Science  McMillan McGraw California Vistas, Holt,  EEI         No             0.0%,                      System Inspected Rating  Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,  XGood                                        NaN
+1                                 NaN    NaN                                        NaN
+2              Mechanical/HVAC, Sewer    NaN                                        NaN
+3         Interior: Interior Surfaces  XGood                                        NaN
+4                                 NaN    NaN                                        NaN
+5   Cleanliness: Overall Cleanliness,  XGood                                        NaN
+6                                 NaN    NaN                                        NaN
+7            Pest/ Vermin Infestation    NaN                                        NaN
+8              Electrical: Electrical  XGood                                        NaN
+9                                 NaN    NaN                                        NaN
+10    Restrooms/Fountains: Restrooms,  XGood                                        NaN
+11                                NaN    NaN                                        NaN
+12                   Sinks/ Fountains    NaN                                        NaN
+13     Safety: Fire Safety, Hazardous  XGood                                        NaN
+14                                NaN    NaN                                        NaN
+15                          Materials    NaN                                        NaN
+16     Structural: Structural Damage,  XFair    We anticipate the need to create a more
+17                                NaN    NaN                                        NaN
+18                              Roofs    NaN  permanent fix for our roofs. Currently we
+19                                NaN    NaN  have patched areas so there is no leakage
+20                                NaN    NaN              but this is a temporary step.
+21        External: Playground/School  XGood                                        NaN
+22                                NaN    NaN                                        NaN
+23                  Grounds, Windows/    NaN                                        NaN
+24                 Doors/Gates/Fences    NaN                                        NaN
+25                     Overall Rating  XGood                                        NaN,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions     28.9     28.2     23.7      9.3       28.2       23.7      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.0        0.0        0.0      0.1      0.1      0.1,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN    0.0,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN      $15797.0       $4268.0        6,355.09      44,176
+3                                       District        NaN           N/A           N/A        $11529.0      44,176
+4  Percent Difference - School Site and District        NaN           N/A           N/A           -57.9         0.0
+5                                          State        NaN           N/A           N/A       $7,506.64  $64,941.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A           -16.6       -38.1,                  Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                       NaN        NaN   District               NaN
+1                       NaN   Category        NaN     For Districts
+2                       NaN        NaN     Amount               NaN
+3                       NaN        NaN        NaN  In Same Category
+4  Beginning Teacher Salary        NaN          $           $45,252,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Mid-Range Teacher Salary        NaN          $           $65,210
+5                          Highest Teacher Salary        NaN          $           $84,472
+6           Average Principal Salary (Elementary)        NaN          $          $107,614
+7               Average Principal Salary (Middle)        NaN          $          $112,242
+8                           Superintendent Salary        NaN          $          $124,686
+9          Percent of Budget for Teacher Salaries        NaN        22%               31%
+10  Percent of Budget for Administrative Salaries        NaN         6%                7%,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        2        3        5]

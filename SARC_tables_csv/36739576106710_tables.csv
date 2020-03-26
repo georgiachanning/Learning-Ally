@@ -1,0 +1,325 @@
+[                          Unnamed: 0  Entity                Contact Information
+0                        School Name     NaN       Baldy Mesa Elementary School
+1                             Street     NaN              10376 Baldy Mesa Road
+2                   City, State, Zip     NaN                   Phelan, CA 92371
+3                       Phone Number     NaN                       760-868-2500
+4                          Principal     NaN                      Shad Grijalva
+5                      Email Address     NaN  shad_grijalva@snowlineschools.com
+6                            Website     NaN            www.snowlineschools.com
+7  County-District-School (CDS) Code     NaN                   36-73957-6106710,        Unnamed: 0                                  Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Snowline Joint Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                          (760) 868-5817         NaN         NaN                  NaN         NaN
+2  Superintendent                      Ryan Holman, Ed.D.         NaN         NaN                  NaN         NaN
+3   Email Address         ryan_holman@snowlineschools.com         NaN         NaN                  NaN         NaN
+4         Website                 www.snowlineschools.com         NaN         NaN                  NaN         NaN,    Grade Level
+0  Grade Level,         Grade Level  Number of Students
+0       Grade Level  Number of Students
+1      Kindergarten                 149
+2           Grade 1                 156
+3           Grade 2                 125
+4           Grade 3                 153
+5           Grade 4                 138
+6           Grade 5                 163
+7  Total Enrollment                 884,    Number of Students
+0  Number of Students,                           Student Group  Percent of Total Enrollment
+0             Black or African American                          0.9
+1      American Indian or Alaska Native                          0.2
+2                                 Asian                          0.5
+3                              Filipino                          0.3
+4                    Hispanic or Latino                         52.1
+5   Native Hawaiian or Pacific Islander                          0.3
+6                                 White                         33.9
+7                     Two or More Races                          0.5
+8       Socioeconomically Disadvantaged                         69.1
+9                      English Learners                         12.1
+10           Students with Disabilities                         13.7
+11                         Foster Youth                          1.0
+12                             Homeless                          0.8,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       36       35       35      317
+3                            Without Full Credential        NaN        0        3        4       19
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                Unnamed: 0                                    Unnamed: 1  From Most Percent Students
+0                     NaN             Textbooks and Other Instructional        NaN              NaN
+1                 Subject                                           NaN     Recent      Lacking Own
+2                     NaN                    Materials/year of Adoption        NaN              NaN
+3                     NaN                                           NaN  Adoption?    Assigned Copy
+4   Reading/Language Arts        McGraw-Hill School Education: World of        Yes                0
+5                     NaN                             Wonders TK (2017)        NaN              NaN
+6                     NaN         McGraw-Hill School Education: Reading        NaN              NaN
+7                     NaN                            Wonders K-6 (2017)        NaN              NaN
+8                     NaN                                           NaN        NaN              NaN
+9             Mathematics                    McGraw Hill My Math (2019)         No                0
+10                Science            Houghton Mifflin, Houghton Mifflin        Yes                0
+11                    NaN               California Science @2007 (2007)        NaN              NaN
+12                    NaN  Houghton Mifflin Harcourt, Splash Into Pre-K        NaN              NaN
+13                    NaN                                 (2014) for TK        NaN              NaN,                 Unnamed: 0                                     Unnamed: 1  From Most Percent Students
+0                      NaN              Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                            NaN     Recent      Lacking Own
+2                      NaN                     Materials/year of Adoption        NaN              NaN
+3                      NaN                                            NaN  Adoption?    Assigned Copy
+4   History-Social Science       Harcourt School Publishers, Reflections:         No                0
+5                      NaN                       California Series (2006)        NaN              NaN
+6                      NaN   Houghton Mifflin Harcourt, Splash Into Pre-K        NaN              NaN
+7                      NaN                                  (2014) for TK        NaN              NaN
+8                      NaN                                            NaN        NaN              NaN
+9                      NaN    Although the current history/social science        NaN              NaN
+10                     NaN   materials are not from the most recent state        NaN              NaN
+11                     NaN     adoption, our district has determined they        NaN              NaN
+12                     NaN  are similarly aligned to the state standards.        NaN              NaN
+13                     NaN        The teachers use supplemental units and        NaN              NaN
+14                     NaN     materials to fill any gaps. Our math teams        NaN              NaN
+15                     NaN        continue to meet collaboratively around        NaN              NaN
+16                     NaN  essential standard instruction, learning, and        NaN              NaN
+17                     NaN                                    assessment.        NaN              NaN,                      System Inspected Rating       Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,  XGood                                             NaN
+1                                 NaN    NaN                                             NaN
+2              Mechanical/HVAC, Sewer    NaN                                             NaN
+3         Interior: Interior Surfaces  XFair    ROOM 10: Clock missing. Fire ext. not signed
+4                                 NaN    NaN                                             NaN
+5                                 NaN    NaN                                        all year
+6                                 NaN    NaN      ROOM 29 / STORAGE: fire ext not signed all
+7                                 NaN    NaN         year, paper on walls room is a disaster
+8                                 NaN    NaN          ROOM 45: fire ext. not signed all year
+9                                 NaN    NaN              ROOM 46: Carpet seams. Curtains on
+10                                NaN    NaN          windows, fire ext. not signed all year
+11                                NaN    NaN           ROOM 48: curtains on the windows room
+12                                NaN    NaN    very cluttered wires running in ceiling high
+13                                NaN    NaN    storage danger fire ext. not signed all year
+14                                NaN    NaN     SPEECH/BACK OFFICE: Ceiling tile out; needs
+15                                NaN    NaN  carpet; old paneling; threshold. Fire ext. not
+16                                NaN    NaN                                 signed all year
+17                                NaN    NaN                                             NaN
+18  Cleanliness: Overall Cleanliness,  XGood     ROOM 25: ceiling to floor paper.rear window
+19                                NaN    NaN                                             NaN
+20           Pest/ Vermin Infestation    NaN     covered with paper, fire ext not signed all
+21                                NaN    NaN                                            year
+22                                NaN    NaN      ROOM 29 / STORAGE: fire ext not signed all
+23                                NaN    NaN         year, paper on walls room is a disaster
+24                                NaN    NaN         ROOM 30: .fire ext not signed all year,
+25                                NaN    NaN       curtains on windows, front window blocked
+26                                NaN    NaN                                       by shelfs
+27                                NaN    NaN                                             NaN
+28                                NaN    NaN                                             NaN
+29             Electrical: Electrical  XGood     ROOM 43: Cords through ceiling. Curtains on
+30                                NaN    NaN                                             NaN
+31                                NaN    NaN  windows, fire ext. not signed all year no fire
+32                                NaN    NaN                                            ext.
+33                                NaN    NaN       ROOM 49: Cords through ceiling. Fire ext.
+34                                NaN    NaN                             not signed all year
+35                                NaN    NaN           ROOM 9: fire ext. not signed all year
+36                                NaN    NaN                                             NaN
+37    Restrooms/Fountains: Restrooms,  XGood        ROOM 13: Sink faucet loose.fire ext. not
+38                                NaN    NaN                                             NaN
+39                   Sinks/ Fountains    NaN                                 signed all year,    Unnamed: 0                                 Unnamed: 1  Unnamed: 2 Unnamed: 3  Unnamed: 4                                         Unnamed: 5  Unnamed: 6
+0         NaN  Safety: Fire Safety, Hazardous\rMaterials         NaN      XGood         NaN  222: Fire extinguisher not signed at all not\r...         NaN
+1         NaN                                        NaN         NaN        NaN         NaN                                                NaN         NaN
+2         NaN                                        NaN         NaN        NaN         NaN                                                NaN         NaN
+3         NaN                                        NaN         NaN        NaN         NaN                                                NaN         NaN,    XGood
+0    NaN,                   System Inspected Rating       Repair Needed and Action Taken or Planned
+0                              NaN    NaN      ROOM 40: Fire extinguisher hanger missing.
+1                              NaN    NaN                             Not signed all year
+2                              NaN    NaN          ROOM 41: fire ext. not mounted has not
+3                              NaN    NaN                            been signed all year
+4                              NaN    NaN        ROOM 42: . Fire ext. not signed all year
+5                              NaN    NaN     ROOM 43: Cords through ceiling. Curtains on
+6                              NaN    NaN  windows, fire ext. not signed all year no fire
+7                              NaN    NaN                                            ext.
+8                              NaN    NaN          ROOM 44: fire ext. not mounted has not
+9                              NaN    NaN                            been signed all year
+10                             NaN    NaN          ROOM 45: fire ext. not signed all year
+11                             NaN    NaN              ROOM 46: Carpet seams. Curtains on
+12                             NaN    NaN          windows, fire ext. not signed all year
+13                             NaN    NaN          ROOM 47: Fire ext. not signed all year
+14                             NaN    NaN           ROOM 48: curtains on the windows room
+15                             NaN    NaN    very cluttered wires running in ceiling high
+16                             NaN    NaN    storage danger fire ext. not signed all year
+17                             NaN    NaN       ROOM 49: Cords through ceiling. Fire ext.
+18                             NaN    NaN                             not signed all year
+19                             NaN    NaN           ROOM 5: fire ext. not signed all year
+20                             NaN    NaN          ROOM 51: fire ext. not mounted has not
+21                             NaN    NaN      been signed all year curtains and paper on
+22                             NaN    NaN                                     rear window
+23                             NaN    NaN     Room 52: fire ext. not mounted has not been
+24                             NaN    NaN                                 signed all year
+25                             NaN    NaN          ROOM 53: fire ext. not signed all year
+26                             NaN    NaN          ROOM 54: fire ext. not signed all year
+27                             NaN    NaN          ROOM 55: fire ext. not signed all year
+28                             NaN    NaN                           ROOM 56: no fire ext.
+29                             NaN    NaN                           ROOM 57: no fire ext.
+30                             NaN    NaN           ROOM 6: fire ext. not signed all year
+31                             NaN    NaN           ROOM 7: fire ext. not signed all year
+32                             NaN    NaN           ROOM 8: fire ext. not signed all year
+33                             NaN    NaN           ROOM 9: fire ext. not signed all year
+34                             NaN    NaN   ROOM K-1: Fire extinguisher not signed at all
+35                             NaN    NaN   ROOM K-2: Fire extinguisher not signed at all
+36                             NaN    NaN    ROOMS 220 & 221: Fire ext. not signed at all
+37                             NaN    NaN                                    not one time
+38                             NaN    NaN     SPEECH/BACK OFFICE: Ceiling tile out; needs
+39                             NaN    NaN  carpet; old paneling; threshold. Fire ext. not
+40                             NaN    NaN                                 signed all year
+41                             NaN    NaN                                             NaN
+42                             NaN    NaN                                             NaN
+43  Structural: Structural Damage,  XGood                                             NaN
+44                             NaN    NaN                                             NaN
+45                           Roofs    NaN                                             NaN,                System Inspected Rating       Repair Needed and Action Taken or Planned
+0   External: Playground/School  XGood           ROOM 2: fire ext. not signed all year
+1                           NaN    NaN                                             NaN
+2             Grounds, Windows/    NaN        ROOM 23 STORAGE: fire ext not signed all
+3            Doors/Gates/Fences    NaN                                            year
+4                           NaN    NaN     ROOM 25: ceiling to floor paper.rear window
+5                           NaN    NaN     covered with paper, fire ext not signed all
+6                           NaN    NaN                                            year
+7                           NaN    NaN    ROOM 26: .fire ext not signed all year, rear
+8                           NaN    NaN                windo covered with a white board
+9                           NaN    NaN         ROOM 30: .fire ext not signed all year,
+10                          NaN    NaN       curtains on windows, front window blocked
+11                          NaN    NaN                                       by shelfs
+12                          NaN    NaN        ROOM 42: . Fire ext. not signed all year
+13                          NaN    NaN     ROOM 43: Cords through ceiling. Curtains on
+14                          NaN    NaN  windows, fire ext. not signed all year no fire
+15                          NaN    NaN                                            ext.
+16                          NaN    NaN          ROOM 51: fire ext. not mounted has not
+17                          NaN    NaN      been signed all year curtains and paper on
+18                          NaN    NaN                                     rear window
+19                          NaN    NaN     SPEECH/BACK OFFICE: Ceiling tile out; needs
+20                          NaN    NaN  carpet; old paneling; threshold. Fire ext. not
+21                          NaN    NaN                                 signed all year
+22                          NaN    NaN                                           YMCA:
+23                          NaN    NaN                                             NaN
+24                          NaN    NaN                                             NaN
+25               Overall Rating  XGood                                             NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       40       41       44         43       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       28       32       33         34       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         466        462      99.14    0.86     40.69
+5                                  Male            NaN         226        226     100.00    0.00     33.19
+6                                Female            NaN         240        236      98.33    1.67     47.88
+7             Black or African American            NaN          --         --         --      --        --
+8      American Indian or Alaska Native            NaN          --         --         --      --        --
+9                                 Asian            NaN          --         --         --      --        --
+10                             Filipino            NaN          --         --         --      --        --
+11                   Hispanic or Latino            NaN         243        240      98.77    1.23     38.33
+12  Native Hawaiian or Pacific Islander            NaN          --         --         --      --        --
+13                                White            NaN         180        179      99.44    0.56     44.69,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                               Two or More Races                --             --              --  ...        NaN        NaN        NaN         NaN
+5                 Socioeconomically Disadvantaged               328            325           99.09  ...        NaN        NaN        NaN         NaN
+6                                English Learners                74             72           97.30  ...        NaN        NaN        NaN         NaN
+7                      Students with Disabilities                81             80           98.77  ...        NaN        NaN        NaN         NaN
+8   Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                    Foster Youth                --             --              --  ...        NaN        NaN        NaN         NaN
+10                                       Homeless                --             --              --  ...        NaN        NaN        NaN         NaN
+
+[11 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                                    All Students               468            465           99.36  ...        NaN        NaN        NaN         NaN
+5                                            Male               227            227          100.00  ...        NaN        NaN        NaN         NaN
+6                                          Female               241            238           98.76  ...        NaN        NaN        NaN         NaN
+7                       Black or African American                --             --              --  ...        NaN        NaN        NaN         NaN
+8                American Indian or Alaska Native                --             --              --  ...        NaN        NaN        NaN         NaN
+9                                           Asian                --             --              --  ...        NaN        NaN        NaN         NaN
+10                                       Filipino                --             --              --  ...        NaN        NaN        NaN         NaN
+11                             Hispanic or Latino               244            242           99.18  ...        NaN        NaN        NaN         NaN
+12            Native Hawaiian or Pacific Islander                --             --              --  ...        NaN        NaN        NaN         NaN
+13                                          White               181            180           99.45  ...        NaN        NaN        NaN         NaN
+14                              Two or More Races                --             --              --  ...        NaN        NaN        NaN         NaN
+15                Socioeconomically Disadvantaged               328            326           99.39  ...        NaN        NaN        NaN         NaN
+16                               English Learners                75             74           98.67  ...        NaN        NaN        NaN         NaN
+17                     Students with Disabilities                81             80           98.77  ...        NaN        NaN        NaN         NaN
+18  Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+
+[19 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,      Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0           NaN            NaN       Total     Number    Percent     NaN       NaN
+1           NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2           NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3           NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4  Foster Youth            NaN          --         --         --      --        --
+5      Homeless            NaN          --         --         --      --        --,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   20.6                     16.1                      9.0,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      1.4      0.6      1.5      5.6        5.5        5.2      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.5        0.3        0.8      0.1      0.1      0.1,    Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0         NaN  Average # of # of # of Average # of # of # of ...                                             
+1       Grade                                                NaN                                             
+2         NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3       Level                                                NaN                                             
+4         NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5         NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6           K                                 20 3 3 26 1 5 25 6                                             
+7           1                                   27 5 22 1 4 25 6                                             
+8           2                                     22 6 23 6 24 5                                             
+9           3                                   28 5 23 6 23 1 6                                             
+10          4                                   27 1 5 29 5 26 5                                             
+11          5                                 26 1 5 27 1 5 31 5                                             
+12   Othe r**                                          14 1 14 1                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN  884.0,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 1.0
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN
+5                                       Psychologist                 NaN
+6                                      Social Worker                 NaN
+7                 Speech/Language/Hearing Specialist                 NaN
+8                 Resource Specialist (non-teaching)                 NaN
+9                                              Other                 3.5,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN        $6,937        $1,005          $5,932     $79,503
+3                                       District        NaN           N/A           N/A        $4724.55  $77,941.00
+4  Percent Difference - School Site and District        NaN           N/A           N/A            22.7         2.0
+5                                          State        NaN           N/A           N/A       $7,506.64  $78,059.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A           -23.4         1.8,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN    $45,859           $49,084
+5                        Mid-Range Teacher Salary        NaN    $80,093           $76,091
+6                          Highest Teacher Salary        NaN    $95,751           $95,728
+7           Average Principal Salary (Elementary)        NaN   $113,137          $118,990
+8               Average Principal Salary (Middle)        NaN   $115,253          $125,674
+9                 Average Principal Salary (High)        NaN   $121,760          $137,589
+10                          Superintendent Salary        NaN   $180,258          $230,096
+11         Percent of Budget for Teacher Salaries        NaN        36%               35%
+12  Percent of Budget for Administrative Salaries        NaN         9%                6%,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...       32       32       53]

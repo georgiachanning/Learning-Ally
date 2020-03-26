@@ -1,0 +1,308 @@
+[                                  Unnamed: 0            Arellanes Elementary School  ... Student Enrollment by Student Group / Grade Level  Unnamed: 2
+0                    District Administration             located in Santa Maria and  ...                                           2018-19         NaN
+1                             Luke Ontiveros        students in grades transitional  ...         Student Group % of Total Grade Level # of         NaN
+2                  Superintendent of Schools                                    NaN  ...                                               NaN         NaN
+3                                        NaN              kindergarten through six.  ...                               Enrollment Students         NaN
+4                                        NaN  beginning of the 2018-19 school year,  ...                       Black or 0.00% Transitional        26.0
+5                                        NaN                                    NaN  ...                        African-Amer. Kindergarten         NaN
+6                                   Contents  284 students were enrolled, including  ...                                               NaN         NaN
+7                        Principal's Message            10.6% in special education,  ...                Amer. Indian or 0.40% Kindergarten        25.0
+8                                        NaN                                    NaN  ...                                     Alaska Native         NaN
+9                         School Description        qualifying for English Language  ...                                               NaN         NaN
+10                       Student Achievement                                    NaN  ...                               Asian 0.00% Grade 1        29.0
+11  Local Control Accountability Plan (LCAP)  Learner support, and 88.7% qualifying  ...                                               NaN         NaN
+12                        Parent Involvement       for free or reduced price lunch.  ...                            Filipino 0.40% Grade 2        45.0
+13           School Facilities & Maintenance                                    NaN  ...                                               NaN         NaN
+14                   37Classroom Environment                                    NaN  ...                    Hisp. or Latino 96.80% Grade 3         NaN
+15                  Curriculum & Instruction                                    NaN  ...                     Native Hawaiian 0.00% Grade 4        37.0
+16                        Professional Staff                                    NaN  ...                               or Pacific Islander         NaN
+17                     District Expenditures                                    NaN  ...                                               NaN         NaN
+18                                 SARC Data                                    NaN  ...                               White 2.50% Grade 5        43.0
+19                                       NaN                                    NaN  ...                                               NaN         NaN
+20                                       NaN                                    NaN  ...                         Two or More 0.00% Grade 6        42.0
+21                                       NaN                                    NaN  ...                                             Races         NaN
+22                                       NaN                                    NaN  ...                     Students with 10.60% Ungraded         0.0
+23                                       NaN                                    NaN  ...                                      Disabilities         NaN
+24                                       NaN                                    NaN  ...                          Socioeconomically 88.70%         NaN
+25                                       NaN                                    NaN  ...                                     Disadvantaged         NaN
+26                                       NaN                                    NaN  ...                           English Learners 52.10%         NaN
+27                                       NaN                                    NaN  ...                                Foster Youth 0.00%         NaN
+28                                       NaN                                    NaN  ...                                   Homeless 23.90%         NaN
+29                                       NaN                                    NaN  ...                                  Total Enrollment       284.0
+
+[30 rows x 6 columns], Empty DataFrame
+Columns: [(805) 928-1783, I'd like to welcome you to Arellanes Elementary School's Annual School Accountability Report]
+Index: [],                                                In the  ... Unnamed: 1
+0   required by the state to administer a physical...  ...  % Meeting
+1   students in grade five. The physical fitness t...  ...         or
+2                                                 NaN  ...  Exceeding
+3   student's ability to complete fitness tasks in...  ...        NaN
+4                                                 NaN  ...      State
+5   Students who either meet or exceed the standar...  ...  Standards
+6   fitness areas are considered to be in the "hea...  ...      28.40
+7   The chart reported in this document reports on...  ...        NaN
+8                                                 NaN  ...      26.97
+9                                             in each  ...        NaN
+10                                                NaN  ...      30.14
+11  categories 4 of 6 and 5 of 6. Comparative dist...  ...        NaN
+12                                                NaN  ...        NaN
+13         results can be found at the CDE's website.  ...        NaN
+14                                                NaN  ...         --
+15                                                NaN  ...        NaN
+16                                                NaN  ...        NaN
+17                                                NaN  ...        NaN
+18                                                NaN  ...        NaN
+19                                                NaN  ...      27.56
+20                                        Grade Level  ...        NaN
+21                                             Tested  ...        NaN
+22                                              Fifth  ...         --
+23  Note: Percentages are not calculated and doubl...  ...        NaN
+24  when the number of students tested is ten or l...  ...      25.83
+25  students in this category is too small for sta...  ...        NaN
+26                                           privacy.  ...      28.77
+27                                                NaN  ...        NaN
+28                                                NaN  ...        NaN
+29                                                NaN  ...      14.81
+30   California Assessment of Student Performance and  ...        NaN
+31                                           Progress  ...      40.00
+32                                     The California  ...        NaN
+33                                           Progress  ...        NaN
+34                                          Summative  ...      18.42
+
+[35 rows x 12 columns],                                Physical Fitness Test       Alaska Native Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4
+0  Percentage of Students Meeting California Fitn...               Asian        NaN        NaN        NaN        NaN        NaN
+1                                            2018-19                 NaN        NaN        NaN        NaN        NaN        NaN
+2                                                NaN            Filipino        NaN        NaN        NaN        NaN        NaN
+3           Percentage of Students Meeting Standards     Hisp. or Latino        160        156      97.50       2.50      27.56
+4  Grade Level Four of Six Fitness Five of Six Fi...  Native Hawaiian or        NaN        NaN        NaN        NaN        NaN
+5               Tested Standards Standards Standards    Pacific Islander        NaN        NaN        NaN        NaN        NaN
+6                               Fifth 19.6 26.1 17.4               White         --         --         --         --         --,                                            (CAAs) for  ... CAASPP Test Results in Mathematics by Student Group (2018-19)
+0                                       disabilities.  ...                                                NaN           
+1                                                 NaN  ...                                          % Meeting           
+2                                      administration  ...                                                 or           
+3                             alternative achievement  ...                                          Exceeding           
+4   Common Core State Standards (CCSS).  CAASPP re...  ...                                  Total % Not State           
+5                                                 NaN  ...  Student Groups Enrollment # Tested % Tested Te...           
+6                                          measure of  ...                                                NaN           
+7                                        standards in  ...              All Students 167 163 97.60 2.40 24.54           
+8   mathematics, and are given to grades three thr...  ...                        Male 92 90 97.83 2.17 27.78           
+9                                       grade eleven.  ...                      Female 75 73 97.33 2.67 20.55           
+10  ELA/Literacy and mathematics utilizing compute...  ...                                           Black or           
+11  and performance tasks, and CAAs test items are...  ...                                      African-Amer.           
+12                            alternative achievement  ...                     Amer. Indian or -- -- -- -- --           
+13                                                NaN  ...                                      Alaska Native           
+14                Common Core State Standards (CCSS).  ...                                                NaN           
+15                                                NaN  ...                                              Asian           
+16  The CAASPP results shown in this report includ...  ...                                           Filipino           
+17  comparing the school, district and state score...  ...           Hisp. or Latino 160 157 98.13 1.87 24.20           
+18  school's overall score in each applicable subg...  ...                                 Native Hawaiian or           
+19                                                NaN  ...                                   Pacific Islander           
+20  shown only for subgroups with ten students or ...  ...                                                NaN           
+21                                    exam. For those  ...                               White -- -- -- -- --           
+22  students met subgroup criteria. More informati...  ...                                  Two or More Races           
+23                                       can be found  ...          English Learners 123 121 98.37 1.63 24.79           
+24                  website www.cde.ca.gov/ta/tg/ca/.  ...         Socioeconomically 151 147 97.35 2.65 25.17           
+25                                                NaN  ...                                      Disadvantaged           
+26                                                NaN  ...               Students with 28 27 96.43 3.57 14.81           
+27  CAASPP Test Results in ELA and Mathematics - A...  ...                                       Disabilities           
+28                                                NaN  ...         Students Receiving 11 11 100.00 0.00 27.27           
+29                                                NaN  ...                               Migrant Ed. Services           
+30                                                NaN  ...                                       Foster Youth           
+31                                                NaN  ...                   Homeless 39 39 100.00 0.00 20.51           
+
+[32 rows x 9 columns],                                            Unnamed: 0                                   Students with 28    27  96.43  3.57  14.81
+0   CAASPP Test Results in ELA and Mathematics - A...                                       Disabilities   NaN    NaN   NaN    NaN
+1        Percent of Students Scoring at Proficient or                              Students Receiving 11  11.0  100.0   0.0  27.27
+2                                            Advanced                               Migrant Ed. Services   NaN    NaN   NaN    NaN
+3          (meeting or exceeding the state standards)                                       Foster Youth   NaN    NaN   NaN    NaN
+4                               School District State                                        Homeless 39  39.0  100.0   0.0  20.51
+5                 17-18 18-19 17-18 18-19 17-18 18-19  Note:  ELA/Mathematics test results include th...   NaN    NaN   NaN    NaN
+6                      English-Language Arts/Literacy  Assessment and the CAA.  The "Percent Met or E...   NaN    NaN   NaN    NaN
+7                       25.0 28.0 31.0 34.0 50.0 50.0                                                NaN   NaN    NaN   NaN    NaN
+8                                 (grades 3-8 and 11)  the total number of students who met or exceed...   NaN    NaN   NaN    NaN
+9                                                 NaN  Balanced Summative Assessment plus the total n...   NaN    NaN   NaN    NaN
+10                                        Mathematics                                                NaN   NaN    NaN   NaN    NaN
+11                      23.0 25.0 23.0 26.0 38.0 39.0  standard (i.e., achieved Level 3 – Alternate) ...   NaN    NaN   NaN    NaN
+12                                (grades 3-8 and 11)                                                NaN   NaN    NaN   NaN    NaN
+13                                                NaN  number of students who participated in both as...   NaN    NaN   NaN    NaN,       Unnamed: 0    CAASPP Test Results in Science for All Students                                    subject areas.  ... Unnamed: 1 including     the
+0            NaN                                                NaN                      Physical Fitness Test chart.  ...        NaN       NaN     NaN
+1            NaN  Percent of Students Scoring at Proficient or A...                                               NaN  ...        NaN       NaN     NaN
+2            NaN         (meeting or exceeding the state standards)                                               NaN  ...        NaN       NaN     NaN
+3            NaN                                                NaN                                   The most recent  ...        NaN  District   Local
+4            NaN                              School District State                            Control Accountability  ...         be   located  on the
+5            NaN                17-18 18-19 17-18 18-19 17-18 18-19  district's website at http://www.smbsd.org/LCAP.  ...        NaN       NaN     NaN
+6        Science                                                NaN                                               NaN  ...        NaN       NaN     NaN
+7  (grades 5, 8,                            N/A N/A N/A N/A N/A N/A                                Parent Involvement  ...        NaN       NaN     NaN
+8        and 10)                                                NaN                                               NaN  ...        NaN       NaN     NaN
+
+[9 rows x 9 columns],                                  Every morning before       school  Unnamed: 0  ... Unnamed: 3               School Facility Good Repair Status Unnamed: 4
+0                               facilities for safety      hazards         NaN  ...        NaN  Most Recent Inspection: Monday, August 12, 2019        NaN
+1   attention prior to students and staff entering...          NaN         NaN  ...        NaN                     Item Inspected Repair Status        NaN
+2                                   day custodian and  one evening         NaN  ...        NaN                                        Good Fair       Poor
+3   Arellanes Elementary School. The day custodian...          NaN         NaN  ...         A.                                          Systems        NaN
+4                                                for:          NaN         NaN  ...        NaN                                              NaN        NaN
+5                                                 NaN          NaN         NaN  ...         B.                                         Interior        NaN
+6                           • Cafeteria setup/cleanup          NaN         NaN  ...         C.                                      Cleanliness        NaN
+7                              • Office area cleaning          NaN         NaN  ...        NaN                                              NaN        NaN
+8                                 • Restroom cleaning          NaN         NaN  ...         D.                                       Electrical        NaN
+9                                                 NaN          NaN         NaN  ...         E.                            Restrooms / Fountains        NaN
+10  Restrooms are checked throughout the day for c...          NaN         NaN  ...        NaN                                              NaN        NaN
+11                                                NaN          NaN         NaN  ...         F.                                           Safety        NaN
+12                               subsequently cleaned   as needed.         NaN  ...        NaN                                              NaN        NaN
+13                                   responsible for:          NaN         NaN  ...         G.                                       Structural        NaN
+14                                                NaN          NaN         NaN  ...         H.                                         External        NaN
+15                               • Classroom cleaning          NaN         NaN  ...        NaN                                              NaN        NaN
+
+[16 rows x 11 columns],                                       Unnamed: 0  Campus Description Unnamed: 1                               (H) Deficiency noted    Unnamed: 2
+0                                     Year Built                 NaN       1961                                                NaN           NaN
+1                                        Acreage                 NaN      13.25  Overall Summary of School Facility Good Repair...           NaN
+2                                 Square Footage                 NaN          -                           Exemplary Good Fair Poor           NaN
+3                                            NaN                 NaN   Quantity                                                NaN           NaN
+4                                            NaN                 NaN        NaN                                                NaN           NaN
+5                           Permanent Classrooms                 NaN         12                                                NaN           NaN
+6                            Portable Classrooms                 NaN          0                                 Rating Description           NaN
+7                                            NaN                 NaN        NaN  Good: The school is maintained in good repair ...  non-critical
+8                               Restrooms (sets)                 NaN          3  deficiencies noted. These deficiencies are iso...           NaN
+9                                Staff Lounge(s)                 NaN          1  and tear, and/or are in the process of being m...           NaN
+10                                       Library                 NaN          1                                                NaN           NaN
+11                                           NaN                 NaN        NaN                                 Campus Supervision           NaN
+12                                  Computer Lab                 NaN          1                                                NaN           NaN
+13                                           NaN                 NaN        NaN  School administration and staff place a high p...           NaN
+14  Multipurpose Room/Cafeteria (shared with JH)                 NaN          1                                                NaN           NaN
+15                                           NaN                 NaN        NaN  adequate adult supervision on campus before, d...           NaN
+16                                 School Office                 NaN          1  school. As students arrive on campus each morn...           NaN,                                           Unnamed: 0                                         Unnamed: 1
+0                                                NaN  supervisors are strategically assigned to desi...
+1                                                NaN  areas and the playground. During recess, yard ...
+2                               Deferred Maintenance  supervise playground activity. The principal a...
+3  Arellanes Elementary School participates in th...  supervisors monitor lunch time activity in the...
+4  Deferred Maintenance Program, which provides d...  playground. At the end of the day when student...
+5  matching funds to assist school districts with...  teachers monitor student behavior to ensure a ...,                                    Unnamed: 0            Unnamed: 1 Unnamed: 2  Unnamed: 3
+0                    Suspensions & Expulsions                   NaN        NaN         NaN
+1                                         NaN                   NaN        NaN         NaN
+2                                         NaN       16-1717-1818-19        NaN         NaN
+3                                         NaN                   NaN        NaN         NaN
+4                                         NaN                   NaN     School         NaN
+5                                         NaN                   NaN        NaN         NaN
+6   % Students Suspended\r% Students Expelled  3.93.02.8\r0.00.00.0        NaN         NaN
+7                                         NaN                   NaN        NaN         NaN
+8                                         NaN                   NaN   District         NaN
+9                                         NaN                   NaN        NaN         NaN
+10  % Students Suspended\r% Students Expelled  3.63.43.2\r0.00.00.0        NaN         NaN
+11                                        NaN                   NaN        NaN         NaN
+12                                        NaN                 State        NaN         NaN
+13                                        NaN                   NaN        NaN         NaN
+14  % Students Suspended\r% Students Expelled  3.63.53.5\r0.10.10.1        NaN         NaN,        Average Class Size and Class Size Distribution  ... Unnamed: 2
+0      Average Class Size and Class Size Distribution  ...        NaN
+1                                                 NaN  ...        NaN
+2                                                 NaN  ...        NaN
+3                                                 NaN  ...        NaN
+4                                               Grade  ...        NaN
+5   K\r1\r2\r3\r4\r5\r6\rCombo K-3\rCombo 3-4\rOth...  ...        NaN
+6                                                 NaN  ...        NaN
+7                                                 NaN  ...        NaN
+8                                                 NaN  ...        NaN
+9                                               Grade  ...        NaN
+10                       K\r1\r2\r3\r4\r5\r6\rOther**  ...        NaN
+11                                                NaN  ...        NaN
+12                                                NaN  ...        NaN
+13                                                NaN  ...        NaN
+14                                              Grade  ...        NaN
+15                                K\r1\r2\r3\r4\r5\r6  ...        NaN
+
+[16 rows x 4 columns],                                          Unnamed: 0  Unnamed: 1  Textbooks      Unnamed: 2 and remediation programs to support students' efforts to achieve
+0                                               NaN         NaN        NaN  Pupils Lacking  academic success and reach grade level expecta...              
+1                  Adoption Year Publisher & Series         NaN        NaN       Textbooks                                                NaN              
+2                                               NaN         NaN        NaN             NaN  district benchmark assessments, and end-of-uni...              
+3                             English Language Arts         NaN        NaN             NaN  teachers and administrators can identify stude...              
+4       2017 Benchmark Education, Benchmark Advance         NaN        NaN             0 %  struggling or performing below state proficien...              
+5                            History-Social Science         NaN        NaN             NaN  standards. For those students who need extra h...              
+6    2017 Pearson Scott Foresman and Prentice Hall,         NaN        NaN             0 %  subject area, a Student Study Team pulls toget...              
+7         California History-Social Science myWorld         NaN        NaN             NaN  family resources to identify and develop strat...              
+8                                       Interactive         NaN        NaN             NaN                                                NaN              
+9                                               NaN         NaN        NaN             NaN  students improve academic and/or behavioral pe...              
+10                                      Mathematics         NaN        NaN             NaN                                                NaN              
+11                                              NaN         NaN        NaN             NaN                   Intervention strategies include:              
+12         2015 Houghton Mifflin Harcourt, Go Math!         NaN        NaN             0 %                                                NaN              
+13                                          Science         NaN        NaN             NaN           • ASES (After School Education & Safety)              
+14          2008 Harcourt Brace, California Science         NaN        NaN             0 %                                        • Math Bowl              
+15  2008 Pearson Scott Foresman, California Science         NaN        NaN             0 %                            • Migrant Homework Club              ,    designates a full-time position and the employee is on campus Teacher and Administrative Salaries         Unnamed: 0
+0   and available all day every day of the week; a...                                                               NaN
+1   indicates that the staff member is available a...                                                  State Average of
+2                          portion (50%) of the week.                                                 Districts in Same
+3                                            District                                                          Category
+4   $45,741Academic Counselors & Other Support Sta...                                                               NaN
+5   (Nonteaching Professional Staff) Mid-Range Tea...                                                           $81,840
+6                                             2018-19                                                               NaN
+7                     Highest Teacher Salary $105,613                                                          $102,065
+8                                              No. of                                                               NaN
+9                      Superintendent Salary $211,493                                                          $224,581
+10                                          Staff FTE                                                               NaN
+11                        Average Principal Salaries:                                                               NaN
+12                             Academic Counselor 0 0                                                               NaN
+13                         Elementary School $126,405                                                          $129,221
+14                            Community Liaison 1 1.0                                                               NaN
+15                             Middle School $125,999                                                          $132,874
+16                      Computer Lab Technician 1 0.5                                                               NaN
+17                                    High School N/A                                                          $128,660
+18                             Health Assistant 1 0.5                                                               NaN
+19                              Percentage of Budget:                                                               NaN
+20                          Library Media Clerk 1 1.0                                                               NaN
+21                               Teacher Salaries 34%                                                               36%
+22                  Marriage & Family Therapist 1 0.2                                                               NaN
+23                         Administrative Salaries 4%                                                                5%,    $45,741Academic Counselors & Other Support StaffBeginning Teacher Salary $46,728 Unnamed: 0
+0   (Nonteaching Professional Staff) Mid-Range Tea...                                  $81,840
+1                                             2018-19                                      NaN
+2                     Highest Teacher Salary $105,613                                 $102,065
+3                                              No. of                                      NaN
+4                      Superintendent Salary $211,493                                 $224,581
+5                                           Staff FTE                                      NaN
+6                         Average Principal Salaries:                                      NaN
+7                              Academic Counselor 0 0                                      NaN
+8                          Elementary School $126,405                                 $129,221
+9                             Community Liaison 1 1.0                                      NaN
+10                             Middle School $125,999                                 $132,874
+11                      Computer Lab Technician 1 0.5                                      NaN
+12                                    High School N/A                                 $128,660
+13                             Health Assistant 1 0.5                                      NaN
+14                              Percentage of Budget:                                      NaN
+15                          Library Media Clerk 1 1.0                                      NaN
+16                               Teacher Salaries 34%                                      36%
+17                  Marriage & Family Therapist 1 0.2                                      NaN
+18                         Administrative Salaries 4%                                       5%
+19                                        Nurse 1 0.2                                      NaN
+20  Outreach Mentor 1 1.0 For detailed information...                                      NaN
+21       Web page at http://www.cde.ca.gov/ds/fd/cs/.                                      NaN
+22                                   Psychologist 1 *                                      NaN
+23                                                NaN                                      NaN
+24                             Speech Therapist 1 0.5                                      NaN,                         Unnamed: 0 Teacher Credentials & Assignments Unnamed: 1 Unnamed: 2 received categorical, special education, and support programs
+0                              NaN                               NaN        NaN        NaN                                         funds for:           
+1                              NaN                            School        NaN   District                                                NaN           
+2                              NaN                       17-18 18-19      19-20      19-20                                                NaN           
+3                              NaN                               NaN        NaN        NaN           • After School Education & Safety (ASES)           
+4                   Total Teachers                             12 12         11        627                 • California Clean Energy Jobs Act           
+5   Teachers With Full Credentials                             12 12         11        625                     • Education Protection Account           
+6            Teachers Without Full                               0 0          0          2                 • Lottery: Instructional Materials           
+7                      Credentials                               NaN        NaN        NaN                    • Other Local:  Locally defined           
+8        Teachers Teaching Outside                               0 0          0          2                                • Special Education           
+9       Subject Area of Competence                               NaN        NaN        NaN                                                NaN           
+10                             NaN                               NaN        NaN        NaN                                    • State Lottery           
+11          (With Full Credential)                               NaN        NaN        NaN                                                NaN           
+12                             NaN                               NaN        NaN        NaN             • STRS On-Behalf Pension Contributions           
+13   Misassignments of Teachers of                               0 0          0          0                                                NaN           
+14                English Learners                               NaN        NaN        NaN                                          • Title I           
+15                             NaN                               NaN        NaN        NaN                                         • Title II           
+16   Total Teacher Misassignments*                               0 0          0          2                                                NaN           
+17                             NaN                               NaN        NaN        NaN                                        • Title III           
+18        Vacant Teacher Positions                               0 0          0          0                                                NaN           ,   report illustrates the availability of non-instructional support staff throughout the state. (Note: 2017-18 salary comparison data was
+0  to Arellanes Elementary School's students. Ful...                      the most recent data available at the time thi...             
+1  (FTE) is a standard measurement used to identi...                                                            published.)             
+2  regular work load on a weekly basis. For examp...                                                                    NaN             ,                                           Unnamed: 0 Expenditures Per Pupil and School Site Teacher Salaries\r2017-18  ... Unnamed: 7 Unnamed: 8
+0                                                NaN                                                NaN                ...        NaN        NaN
+1                                                NaN                          Dollars Spent per Student                ...        NaN        NaN
+2                                                NaN                                             School                ...        NaN        NaN
+3                                                NaN                                                NaN                ...        NaN        NaN
+4                                                NaN                                             School                ...        NaN        NaN
+5  Total**\rRestricted\rUnrestricted\rAverage\rTe...                    $9,171\r$1,266\r$7,905\r$65,812                ...        NaN        NaN
+
+[6 rows x 10 columns],    School
+0  School]

@@ -1,0 +1,99 @@
+[                          Unnamed: 0  Entity                      Contact Information
+0                        School Name     NaN  Marcum-Illinois Union Elementary School
+1                             Street     NaN                     2452 El Centro Blvd.
+2                   City, State, Zip     NaN                  East Nicolaus, CA 95659
+3                       Phone Number     NaN                           (530) 656-2407
+4                          Principal     NaN                            Jimmie Eggers
+5                      Email Address     NaN                 jimmiee@sutter.k12.ca.us
+6                            Website     NaN                      marcum-illinois.org
+7  County-District-School (CDS) Code     NaN                                 51 71407,        Unnamed: 0                                            Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Marcum-Illinois Union Elementary School Distirct         NaN         NaN                  NaN         NaN
+1    Phone Number                                      530-656-2407         NaN         NaN                  NaN         NaN
+2  Superintendent                                     Jimmie Eggers         NaN         NaN                  NaN         NaN
+3   Email Address                          jimmiee@sutter.k12.ca.us         NaN         NaN                  NaN         NaN
+4         Website                           www.marcum-illinois.org         NaN         NaN                  NaN         NaN,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       10       10       10       10
+3                            Without Full Credential        NaN        0        0        0        0
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,               Unnamed: 0                         Unnamed: 1  From Most Percent Students
+0                    NaN  Textbooks and Other Instructional        NaN              NaN
+1                Subject                                NaN     Recent      Lacking Own
+2                    NaN         Materials/year of Adoption        NaN              NaN
+3                    NaN                                NaN  Adoption?    Assigned Copy
+4  Reading/Language Arts      McGraw Hill:  Studysinc (6-8)        Yes               0%
+5                    NaN                                NaN        NaN              NaN
+6                    NaN                McGraw Hill:  (K-5)        NaN              NaN
+7                    NaN                    Adopted in 2016        NaN              NaN,                 Unnamed: 0 Unnamed: 1                            Unnamed: 2  From Most Percent Students
+0                      NaN        NaN     Textbooks and Other Instructional        NaN              NaN
+1                      NaN    Subject                                   NaN     Recent      Lacking Own
+2                      NaN        NaN            Materials/year of Adoption        NaN              NaN
+3                      NaN        NaN                                   NaN  Adoption?    Assigned Copy
+4              Mathematics        NaN                        Go Math  (K-5)        Yes               0%
+5                      NaN        NaN                       Adopted in 2015        NaN              NaN
+6                      NaN        NaN                                   NaN        NaN              NaN
+7                      NaN        NaN  College Preparatory Mathematics Core        NaN              NaN
+8                      NaN        NaN                     Connection  (6-8)        NaN              NaN
+9                      NaN        NaN                       Adopted in 2013        NaN              NaN
+10                     NaN        NaN                                   NaN        NaN              NaN
+11                 Science        NaN                     McGraw-Hill (K-5)        Yes               0%
+12                     NaN        NaN                       Adopted in 2008        NaN              NaN
+13                     NaN        NaN                                   NaN        NaN              NaN
+14                     NaN        NaN                            Holt (6-8)        NaN              NaN
+15                     NaN        NaN                       Adopted in 2004        NaN              NaN
+16                     NaN        NaN                                   NaN        NaN              NaN
+17                     NaN        NaN                                   NaN        NaN              NaN
+18  History-Social Science        NaN                  (K-5) Studies Weekly        Yes               0%
+19                     NaN        NaN                       Adopted in 2019        NaN              NaN
+20                     NaN        NaN                                   NaN        NaN              NaN
+21                     NaN        NaN    (6-8) Cengage, National Geographic        NaN              NaN
+22                     NaN        NaN                       Adopted in 2019        NaN              NaN
+23                     NaN        NaN                                   NaN        NaN              NaN
+24                  Health        NaN                  Health Glencoe (6-8)        Yes               0%
+25                     NaN        NaN                          Adopted 2009        NaN              NaN,                      System Inspected      Rating Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,       XGood                               none needed
+1                                 NaN         NaN                                       NaN
+2              Mechanical/HVAC, Sewer         NaN                                       NaN
+3         Interior: Interior Surfaces       XGood                                      none
+4                                 NaN         NaN                                       NaN
+5   Cleanliness: Overall Cleanliness,       XGood                                      none
+6                                 NaN         NaN                                       NaN
+7            Pest/ Vermin Infestation         NaN                                       NaN
+8              Electrical: Electrical       XGood                                      none
+9                                 NaN         NaN                                       NaN
+10    Restrooms/Fountains: Restrooms,       XGood                               none needed
+11                                NaN         NaN                                       NaN
+12                   Sinks/ Fountains         NaN                                       NaN
+13     Safety: Fire Safety, Hazardous       XGood                               none needed
+14                                NaN         NaN                                       NaN
+15                          Materials         NaN                                       NaN
+16     Structural: Structural Damage,       XGood                                non needed
+17                                NaN         NaN                                       NaN
+18                              Roofs         NaN                                       NaN
+19        External: Playground/School       XGood                               none needed
+20                                NaN         NaN                                       NaN
+21                  Grounds, Windows/         NaN                                       NaN
+22                 Doors/Gates/Fences         NaN                                       NaN
+23                     Overall Rating  XExemplary                                       NaN
+24                                NaN       XGood                                       NaN,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   20.0                     26.7                     40.0
+3            7                   35.3                      5.9                     41.2,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN       $14,188        $2.293         $11,894  $48,483.68
+3                                       District        NaN           N/A           N/A         $11,894         NaN
+4  Percent Difference - School Site and District        NaN           N/A           N/A             0.0         0.0
+5                                          State        NaN           N/A           N/A             NaN         NaN
+6     Percent Difference - School Site and State        NaN           N/A           N/A            45.9       -26.4,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...   4 full   4 full   4 full
+1                                                NaN  days, 9  days, 9  days, 9
+2                                                NaN   minimu   minimu   minimu
+3                                                NaN   m days   m days   m days]

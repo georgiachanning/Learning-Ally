@@ -1,0 +1,117 @@
+[   Grade 2  50
+0  Grade 3  47
+1  Grade 4  79
+2  Grade 5  61, Empty DataFrame
+Columns: [D. H. White Elementary 2019-2020School Accountability Report Card]
+Index: [],    A.CONDITIONS OF LEARNING\rTATE PRIORITY: BASIC\rhe SARC provides the following information relevant to the State priority: Basic (Priority 1):\rDegree to which teachers are appropriately assigned and fully credentialed in the subject area and for the pupils they\rare teaching;\rPupils have access to standards-aligned instructional materials; and\rSchool facilities are maintained in good repair.\reacher Credentials  ...         Unnamed: 5
+0                                            Teachers                                                                                                                                                                                                                                                                                                                                                                                 ...  District\r2019-20
+1                                With Full Credential                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+2                             Without Full Credential                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+3   Teaching Outside Subject Area of Competence (w...                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+4   eacher Misassignments and Vacant Teacher Posit...                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+5                                           Indicator                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+6      Misassignments of Teachers of English Learners                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+7                       Total Teacher Misassignments*                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+8                            Vacant Teacher Positions                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+9   OTE:“Misassignments” refers to the number of p...                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+10                                            Subject                                                                                                                                                                                                                                                                                                                                                                                 ...                NaN
+
+[11 rows x 7 columns], Empty DataFrame
+Columns: [D. H. White Elementary 2019-2020School Accountability Report Card]
+Index: [],                        Subject  ... % Students\rlacking own\rassigned\rcopy
+0      Reading/Languag\re Arts  ...                                      0%
+1                  Mathematics  ...                                      0%
+2                      Science  ...                                      0%
+3      History-Social\rScience  ...                                      0%
+4            Foreign\rLanguage  ...                                      0%
+5                       Health  ...                                      0%
+6  Visual and\rPerforming Arts  ...                                      0%
+
+[7 rows x 4 columns], Empty DataFrame
+Columns: [D. H. White Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                         NaN
+1                         Interior: Interior Surfaces          ✓          -          -                                         NaN
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                         NaN
+3                              Electrical: Electrical          ✓          -          -                                         NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                         NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                         NaN
+6                Structural: Structural Damage, Roofs          ✓          -          -                                         NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                         NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                         NaN
+9                                                 NaN  Exemplary       Good       Fair                                        Poor
+10                                     Overall Rating          -          ✓          -                                           -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,    D. H. White Elementary 2019-2020 School Accountability Report Card
+0   Average Class Size and Class Size Distribution...                
+1                                             2016-17                
+2      Grade Level Avg. Class Size Number of Classes*                
+3                                      1-20 21-32 33+                
+4                                            K 20 1 2                
+5                                              1 23 2                
+6                                              2 21 3                
+7                                              3 19 3                
+8                                              4 23 3                
+9                                              5 30 2                
+10                                        Other** 5 1                
+11  * Number of classes indicates how many classes...                
+12  * * “Other” category is for multi-grade level ...                
+13  Average Class Size and Class Size Distribution...                
+14                                            2017-18                
+15     Grade Level Avg. Class Size Number of Classes*                
+16                                     1-20 21-32 33+                
+17                                           K 21 1 2                
+18                                             1 24 1                
+19                                             2 16 3                
+20                                           3 21 1 2                
+21                                             4 29 2                
+22                                             5 22 3                
+23                                     Other** 16 1 1                ,   D. H. White Elementary 2019-2020 School Accountability Report Card Unnamed: 0
+0  Average Class Size and Class Size Distribution...                        NaN
+1                                            2018-19                        NaN
+2     Grade Level Avg. Class Size Number of Classes*                        NaN
+3                                         1-20 21-32                        33+
+4                                           K 21 1 2                        NaN
+5                                             1 24 2                        NaN
+6                                             2 16 3                        NaN
+7                                             3 24 2                        NaN
+8                                             4 25 3                        NaN
+9                                             5 30 2                        NaN,    D. H. White Elementary 2019-2020 School Accountability Report Card
+0   Expenditures Per Pupil and School Site Teacher...                
+1             Total Expenditures Expenditures Average                
+2      Level Expenditures Per Pupil Per Pupil Teacher                
+3        Per Pupil (Restricted) (Unrestricted) Salary                
+4            School Site $7,823 $1,662 $6,161 $63,889                
+5                     District N/A N/A $7,755 $61,590                
+6   Percent Difference – School Site and District ...                
+7                       State N/A N/A $7506.64 $72949                
+8   Percent Difference – School Site and State N/A...                
+9    NOTE: Cells with N/A values do not require data.                
+10     Types of Services Funded (Fiscal Year 2018-19)                
+11  Our Special Education services are district-fu...                
+12  a Mild-Moderate credential while the second te...                
+13  We have a full-time intervention teacher, who ...                
+14  Title I funds and district Title I,II, and III...                
+15  We also offer site-funded after school enrichm...                
+16                                    Lottery (1100).                
+17  DH White received Title I, Lottery and LCFF fu...                
+18                                           Council.                
+19  Teacher and Administrative Salaries (Fiscal Ye...                
+20  This data is typically provided by the CDE and...                
+21                        State Average For Districts                
+22                           Category District Amount                
+23                                   In Same Category                
+24             Beginning Teacher Salary $45601 $46208                
+25             Mid-Range Teacher Salary $61431 $72218                
+26               Highest Teacher Salary $81218 $92742                
+27  Average Principal Salary (Elementary) $106906 ...                
+28  Average Principal Salary (Middle) $104012 $118220                
+29    Average Principal Salary (High) $121662 $127356                
+30              Superintendent Salary $165187 $186823                
+31     Percent of Budget for Teacher Salaries 30% 33%                
+32  Percent of Budget for Administrative Salaries ...                , Empty DataFrame
+Columns: [D. H. White Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Measure  2017–18  2018–19  2019–20
+0  Number of school days dedicated to Staff Devel...        3        3      1.5]

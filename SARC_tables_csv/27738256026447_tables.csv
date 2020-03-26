@@ -1,0 +1,141 @@
+[Empty DataFrame
+Columns: [Prunedale Elementary 2019-2020School Accountability Report Card]
+Index: [],                                             Indicator  ...                                  2019-20
+0      Misassignments of Teachers of English Learners  ...                                        0
+1                       Total Teacher Misassignments*  ...                                        0
+2                            Vacant Teacher Positions  ...                                        0
+3   OTE:“Misassignments” refers to the number of p...  ...                                      NaN
+4                                             Subject  ...  % Students\rlacking own\rassigned\rcopy
+5                             Reading/Languag\re Arts  ...                                       0%
+6                                         Mathematics  ...                                       0%
+7                                             Science  ...                                       0%
+8                             History-Social\rScience  ...                                       0%
+9                                   Foreign\rLanguage  ...                                       0%
+10                                             Health  ...                                       0%
+11                        Visual and\rPerforming Arts  ...                                       0%
+12      Science\rLaboratory\rEquipment\r(grades 9-12)  ...                                       0%
+
+[13 rows x 4 columns], Empty DataFrame
+Columns: [Prunedale Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor   Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                           NaN
+1                         Interior: Interior Surfaces          -          ✓          -  Ceiling tiles replaced\rand carpets repaired
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                           NaN
+3                              Electrical: Electrical          ✓          -          -                                           NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                           NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                           NaN
+6                Structural: Structural Damage, Roofs          ✓          -          -                                           NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                           NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                           NaN
+9                                                 NaN  Exemplary       Good       Fair                                          Poor
+10                                     Overall Rating          -          ✓          -                                             -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,                     Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not    Percent
+0                Student Group         NaN  Number Tested  Percent Tested         NaN        NaN
+1                          NaN  Enrollment            NaN             NaN      Tested  or Exceed
+2                 All Students         366            366         100.00%       0.00%     40.71%
+3                         Male         185            185         100.00%       0.00%     35.14%
+4                       Female         181            181         100.00%       0.00%     46.41%
+5             Black or African         NaN            NaN             NaN         NaN        NaN
+6                          NaN          --             --              --          --         --
+7                     American         NaN            NaN             NaN         NaN        NaN
+8           American Indian or         NaN            NaN             NaN         NaN        NaN
+9                          NaN          --             --              --          --         --
+10               Alaska Native         NaN            NaN             NaN         NaN        NaN
+11                       Asian         NaN            NaN             NaN         NaN        NaN
+12                    Filipino         NaN            NaN             NaN         NaN        NaN
+13          Hispanic or Latino         308            308         100.00%       0.00%     36.36%
+14  Native Hawaiian or Pacific         NaN            NaN             NaN         NaN        NaN
+15                         NaN          --             --              --          --         --
+16                    Islander         NaN            NaN             NaN         NaN        NaN
+17                       White          52             52         100.00%       0.00%     65.38%
+18           Two or More Races         NaN            NaN             NaN         NaN        NaN
+19           Socioeconomically         NaN            NaN             NaN         NaN        NaN
+20                         NaN         300            300         100.00%       0.00%     36.33%
+21               Disadvantaged         NaN            NaN             NaN         NaN        NaN
+22            English Learners         219            219         100.00%       0.00%     32.42%
+23  Students with Disabilities          37             37         100.00%       0.00%      8.11%
+24          Students Receiving         NaN            NaN             NaN         NaN        NaN
+25           Migrant Education          --             --              --          --         --
+26                    Services         NaN            NaN             NaN         NaN        NaN
+27                Foster Youth          --             --              --          --         --
+28                    Homeless         133            133         100.00%       0.00%     38.35%,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,                     Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not    Percent
+0                Student Group         NaN  Number Tested  Percent Tested         NaN        NaN
+1                          NaN  Enrollment            NaN             NaN      Tested  or Exceed
+2                 All Students         367            367         100.00%       0.00%     32.97%
+3                         Male         186            186         100.00%       0.00%     33.33%
+4                       Female         181            181         100.00%       0.00%     32.60%
+5             Black or African         NaN            NaN             NaN         NaN        NaN
+6                          NaN          --             --              --          --         --
+7                     American         NaN            NaN             NaN         NaN        NaN
+8           American Indian or         NaN            NaN             NaN         NaN        NaN
+9                          NaN          --             --              --          --         --
+10               Alaska Native         NaN            NaN             NaN         NaN        NaN
+11                       Asian         NaN            NaN             NaN         NaN        NaN
+12                    Filipino         NaN            NaN             NaN         NaN        NaN
+13          Hispanic or Latino         309            309         100.00%       0.00%     28.48%
+14  Native Hawaiian or Pacific         NaN            NaN             NaN         NaN        NaN
+15                         NaN          --             --              --          --         --
+16                    Islander         NaN            NaN             NaN         NaN        NaN
+17                       White          52             52         100.00%       0.00%     57.69%
+18           Two or More Races         NaN            NaN             NaN         NaN        NaN
+19           Socioeconomically         NaN            NaN             NaN         NaN        NaN
+20                         NaN         300            300         100.00%       0.00%     28.33%
+21               Disadvantaged         NaN            NaN             NaN         NaN        NaN
+22            English Learners         220            220         100.00%       0.00%     29.09%
+23  Students with Disabilities          37             37         100.00%       0.00%      5.41%
+24          Students Receiving         NaN            NaN             NaN         NaN        NaN
+25           Migrant Education          --             --              --          --         --
+26                    Services         NaN            NaN             NaN         NaN        NaN
+27                Foster Youth          --             --              --          --         --
+28                    Homeless         133            133         100.00%       0.00%     29.32%, Empty DataFrame
+Columns: [Prunedale Elementary 2019-2020School Accountability Report Card]
+Index: [],                                                Rate*   School District    State Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5
+0                                                NaN  2016-17  2017-18  2018-19    2016-17    2017-18    2018-19    2016-17    2017-18    2018-19
+1                                        Suspensions      1.9      3.1      0.7        4.0        4.3        4.1        3.6        3.5        3.5
+2                                         Expulsions      0.0      0.0      0.0        0.0        0.1        0.1        0.1        0.1        0.1
+3  chool Safety Plan (School Year 2019-20)\rhe ad...      NaN      NaN      NaN        NaN        NaN        NaN        NaN        NaN        NaN,    Prunedale Elementary 2019-2020 School Accountability Report Card
+0   Average Class Size and Class Size Distribution...              
+1                                             2016-17              
+2      Grade Level Avg. Class Size Number of Classes*              
+3                                      1-20 21-32 33+              
+4                                            K 22 1 5              
+5                                              1 23 5              
+6                                              2 24 4              
+7                                              3 26 3              
+8                                              4 31 3              
+9                                              5 29 3              
+10                                             6 28 3              
+11                                            Other**              
+12  * Number of classes indicates how many classes...              
+13  * * “Other” category is for multi-grade level ...              
+14  Average Class Size and Class Size Distribution...              
+15                                            2017-18              
+16     Grade Level Avg. Class Size Number of Classes*              
+17                                     1-20 21-32 33+              
+18                                             K 25 5              
+19                                             1 23 5              
+20                                           2 22 1 4              
+21                                             3 25 4              
+22                                             4 26 3              
+23                                             5 34 3              
+24                                             6 28 3              ,                                            Level Expenditures     Per Pupil     Per Pupil.1  Teacher
+0                                            NaN    Per Pupil  (Restricted)  (Unrestricted)   Salary
+1                                    School Site       $7,464        $1,702          $5,762  $66,553
+2                                       District          N/A           N/A          $6,472   $73512
+3  Percent Difference – School Site and District          N/A           N/A          11.61%    9.94%
+4                                          State          N/A           N/A        $7506.64   $72949
+5     Percent Difference – School Site and State          N/A           N/A          26.29%    9.17%,                         Beginning Teacher Salary   $46245   $46208
+0                       Mid-Range Teacher Salary   $68183   $72218
+1                         Highest Teacher Salary   $96988   $92742
+2          Average Principal Salary (Elementary)  $121761  $134864
+3              Average Principal Salary (Middle)  $118391  $118220
+4                Average Principal Salary (High)  $133499  $127356
+5                          Superintendent Salary  $187292  $186823
+6         Percent of Budget for Teacher Salaries      33%      33%
+7  Percent of Budget for Administrative Salaries       7%       6%, Empty DataFrame
+Columns: [Prunedale Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Measure  2017–18  2018–19  2019–20
+0  Number of school days dedicated to Staff Devel...       37       48       38]

@@ -1,0 +1,103 @@
+[Empty DataFrame
+Columns: [Castroville Elementary 2019-2020School Accountability Report Card]
+Index: [],   A.CONDITIONS OF LEARNING\rTATE PRIORITY: BASIC\rhe SARC provides the following information relevant to the State priority: Basic (Priority 1):\rDegree to which teachers are appropriately assigned and fully credentialed in the subject area and for the pupils they\rare teaching;\rPupils have access to standards-aligned instructional materials; and\rSchool facilities are maintained in good repair.\reacher Credentials  ...         Unnamed: 3
+0                                           Teachers                                                                                                                                                                                                                                                                                                                                                                                 ...  District\r2019-20
+1                               With Full Credential                                                                                                                                                                                                                                                                                                                                                                                 ...                187
+2                            Without Full Credential                                                                                                                                                                                                                                                                                                                                                                                 ...                 19
+3  Teaching Outside Subject Area of Competence (w...                                                                                                                                                                                                                                                                                                                                                                                 ...                  0
+
+[4 rows x 5 columns], Empty DataFrame
+Columns: [Castroville Elementary 2019-2020School Accountability Report Card]
+Index: [],                                             Indicator  ...                                  2019-20
+0      Misassignments of Teachers of English Learners  ...                                        0
+1                       Total Teacher Misassignments*  ...                                        0
+2                            Vacant Teacher Positions  ...                                        0
+3   OTE:“Misassignments” refers to the number of p...  ...                                      NaN
+4                                             Subject  ...  % Students\rlacking own\rassigned\rcopy
+5                             Reading/Languag\re Arts  ...                                       0%
+6                                         Mathematics  ...                                       0%
+7                                             Science  ...                                       0%
+8                             History-Social\rScience  ...                                       0%
+9                                   Foreign\rLanguage  ...                                       0%
+10                                             Health  ...                                       0%
+11                        Visual and\rPerforming Arts  ...                                       0%
+12      Science\rLaboratory\rEquipment\r(grades 9-12)  ...                                       0%
+
+[13 rows x 4 columns], Empty DataFrame
+Columns: [Castroville Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor        Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                                NaN
+1                         Interior: Interior Surfaces          -          ✓          -  Ceiling tiles\rreplaced, floor and\rwall repai...
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                                NaN
+3                              Electrical: Electrical          ✓          -          -                                                NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                                NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                                NaN
+6                Structural: Structural Damage, Roofs          ✓          -          -                                                NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                                NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                                NaN
+9                                                 NaN  Exemplary       Good       Fair                                               Poor
+10                                     Overall Rating          -          ✓          -                                                  -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded, Empty DataFrame
+Columns: [Castroville Elementary 2019-2020School Accountability Report Card]
+Index: [],   D.OTHER SARC INFORMATION\rhe information in this section is required to be in the SARC but is not included in the state priorities for LCFF.\rverage Class Size and Class Size Distribution (Elementary)  ... Unnamed: 3
+0                                        Grade Level                                                                                                                                                        ...        NaN
+1                                                NaN                                                                                                                                                        ...        NaN
+2                                                  K                                                                                                                                                        ...        NaN
+3                                                  1                                                                                                                                                        ...        NaN
+4                                                  2                                                                                                                                                        ...        NaN
+5                                                  3                                                                                                                                                        ...        NaN
+6                                                  4                                                                                                                                                        ...        NaN
+7                                                  5                                                                                                                                                        ...        NaN
+8                                                  6                                                                                                                                                        ...        3.0
+9                                            Other**                                                                                                                                                        ...        NaN
+
+[10 rows x 5 columns],    Castroville Elementary 2019-2020 School Accountability Report Card
+0   Average Class Size and Class Size Distribution...                
+1                                             2017-18                
+2      Grade Level Avg. Class Size Number of Classes*                
+3                                      1-20 21-32 33+                
+4                                            K 23 1 4                
+5                                              1 24 3                
+6                                              2 22 4                
+7                                            3 21 1 3                
+8                                              4 32 3                
+9                                              5 30 3                
+10                                             6 31 3                
+11                                            Other**                
+12  * Number of classes indicates how many classes...                
+13  * * “Other” category is for multi-grade level ...                
+14  Average Class Size and Class Size Distribution...                
+15                                            2018-19                
+16     Grade Level Avg. Class Size Number of Classes*                
+17                                     1-20 21-32 33+                
+18                                           K 20 2 3                
+19                                             1 24 4                
+20                                             2 23 3                
+21                                             3 23 4                
+22                                             4 29 3                
+23                                             5 31 3                
+24                                             6 30 3                ,                                       Unnamed: 0         Total  Expenditures  Expenditures.1  Average
+0                                          Level  Expenditures     Per Pupil       Per Pupil  Teacher
+1                                            NaN     Per Pupil  (Restricted)  (Unrestricted)   Salary
+2                                    School Site        $7,977        $2,443          $5,534  $64,054
+3                                       District           N/A           N/A          $6,472   $73512
+4  Percent Difference – School Site and District           N/A           N/A          15.63%   13.75%
+5                                          State           N/A           N/A        $7506.64   $72949
+6     Percent Difference – School Site and State           N/A           N/A          30.25%   12.99%, Empty DataFrame
+Columns: [Castroville Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Category District Amount State Average For Districts\rIn Same Category Unnamed: 0
+0                            Beginning Teacher Salary          $46245                                        $46208        NaN
+1                            Mid-Range Teacher Salary          $68183                                        $72218        NaN
+2                              Highest Teacher Salary          $96988                                        $92742        NaN
+3               Average Principal Salary (Elementary)         $121761                                       $134864        NaN
+4                   Average Principal Salary (Middle)         $118391                                       $118220        NaN
+5                     Average Principal Salary (High)         $133499                                       $127356        NaN
+6                               Superintendent Salary         $187292                                       $186823        NaN
+7              Percent of Budget for Teacher Salaries             33%                                           33%        NaN
+8       Percent of Budget for Administrative Salaries              7%                                            6%        NaN
+9   or detailed information on salaries, see the C...             NaN                                           NaN        NaN
+10                                            Measure         2017–18                                       2018–19    2019–20
+11  Number of school days dedicated to Staff Devel...              37                                            48         38]

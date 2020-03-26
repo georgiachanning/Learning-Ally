@@ -1,0 +1,153 @@
+[                          Unnamed: 0  Entity                Unnamed: 1  Contact Information
+0                        School Name     NaN  Shiloh Elementary School                  NaN
+1                             Street     NaN         6633 Paradise Rd.                  NaN
+2                   City, State, Zip     NaN         Modesto, CA 95358                  NaN
+3                       Phone Number     NaN            (209) 522-2261                  NaN
+4                          Principal     NaN               Seth Ehrler                  NaN
+5                      Email Address     NaN  sehrler@shiloh.k12.ca.us                  NaN
+6                            Website     NaN      www.shiloh.k12.ca.us                  NaN
+7  County-District-School (CDS) Code     NaN          50-71274-6053045                  NaN,        Unnamed: 0                             Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Shiloh Elementary School District         NaN         NaN                  NaN         NaN
+1    Phone Number                     (209) 522-2261         NaN         NaN                  NaN         NaN
+2  Superintendent                        Seth Ehrler         NaN         NaN                  NaN         NaN
+3   Email Address           sehrler@shiloh.k12.ca.us         NaN         NaN                  NaN         NaN
+4         Website               www.shiloh.k12.ca.us         NaN         NaN                  NaN         NaN,          Unnamed: 0  Grade Level  Unnamed: 1  Unnamed: 2  Number of Students  Unnamed: 3
+0      Kindergarten           11         NaN         NaN                 NaN         NaN
+1           Grade 1           10         NaN         NaN                 NaN         NaN
+2           Grade 2           14         NaN         NaN                 NaN         NaN
+3  Total Enrollment           35         NaN         NaN                 NaN         NaN,                         Unnamed: 0  Student Group  Unnamed: 1  Unnamed: 2  Percent of Total Enrollment  Unnamed: 3
+0               Hispanic or Latino           60.0         NaN         NaN                          NaN         NaN
+1                            White           40.0         NaN         NaN                          NaN         NaN
+2  Socioeconomically Disadvantaged           71.4         NaN         NaN                          NaN         NaN
+3                 English Learners           51.4         NaN         NaN                          NaN         NaN
+4       Students with Disabilities            2.9         NaN         NaN                          NaN         NaN
+5                         Homeless            NaN         NaN         NaN                          NaN         NaN,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN        8        7        3      9.4
+3                            Without Full Credential        NaN        0        1        0        0
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,               Unnamed: 0                               Unnamed: 1  From Most Percent Students
+0                    NaN        Textbooks and Other Instructional        NaN              NaN
+1                Subject                                      NaN     Recent      Lacking Own
+2                    NaN               Materials/year of Adoption        NaN              NaN
+3                    NaN                                      NaN  Adoption?    Assigned Copy
+4  Reading/Language Arts  McGraw-Hill Reading Wonders (K-6) 2016-        Yes               0%
+5                    NaN                                     2017        NaN              NaN
+6                    NaN              EMC Windows & Mirrors (7-8)        NaN              NaN,                 Unnamed: 0 Unnamed: 1                               Unnamed: 2  From Most Percent Students
+0                      NaN        NaN        Textbooks and Other Instructional        NaN              NaN
+1                      NaN    Subject                                      NaN     Recent      Lacking Own
+2                      NaN        NaN               Materials/year of Adoption        NaN              NaN
+3                      NaN        NaN                                      NaN  Adoption?    Assigned Copy
+4              Mathematics        NaN      The Math Learning Center Bridges to        Yes               0%
+5                      NaN        NaN                        Mathematics (K-5)        NaN              NaN
+6                      NaN        NaN           Illustrative Mathematics (6-8)        NaN              NaN
+7                      NaN        NaN                                      NaN        NaN              NaN
+8                  Science        NaN  MacMillan/McGraw/Hill (K-5) - 2006-2007        Yes               0%
+9                      NaN        NaN                   Holt (6-8) - 2006-2007        NaN              NaN
+10                     NaN        NaN                                      NaN        NaN              NaN
+11  History-Social Science        NaN      Studies Weekly Social Studies (K-6)        Yes               0%
+12                     NaN        NaN          McDougal Littel (7-8) 2005-2006        NaN              NaN,                      System Inspected      Rating       Repair Needed and Action Taken or Planned
+0                 Systems: Gas Leaks,       XGood             Three HVAC units were maintained in
+1                                 NaN         NaN                                             NaN
+2              Mechanical/HVAC, Sewer         NaN                              working condition.
+3         Interior: Interior Surfaces       XGood     Carpets were replaced in most of the school
+4                                 NaN         NaN                                             NaN
+5                                 NaN         NaN              in 2017 except for the two modular
+6                                 NaN         NaN            classrooms which are scheduled to be
+7                                 NaN         NaN        moved to a different location in 2020 at
+8                                 NaN         NaN       which time carpets will be replaced.  All
+9                                 NaN         NaN            carpets were professionally cleaned.
+10  Cleanliness: Overall Cleanliness,       XGood            AAI Pest Control services and school
+11                                NaN         NaN                                             NaN
+12           Pest/ Vermin Infestation         NaN       maintenance monitor and address issues as
+13                                NaN         NaN                          per the IPM regularly.
+14             Electrical: Electrical       XGood               Maintenance monitors and services
+15                                NaN         NaN                                             NaN
+16                                NaN         NaN               electrical conditions as needed..
+17    Restrooms/Fountains: Restrooms,       XGood     Bathroom stalls have been recently adjusted
+18                                NaN         NaN                                             NaN
+19                   Sinks/ Fountains         NaN       to meet 2010 ADA Standards for Accessible
+20                                NaN         NaN                  Design. and renovated in 2019.
+21     Safety: Fire Safety, Hazardous       XGood           The Fire Marshall conducted an annual
+22                                NaN         NaN                                             NaN
+23                          Materials         NaN        review; extinguishers were scheduled for
+24                                NaN         NaN             maintenance and replaced as needed.
+25     Structural: Structural Damage,       XGood        The roof was resurfaced with a Dura-last
+26                                NaN         NaN                                             NaN
+27                              Roofs         NaN        product with a 20 year warranty in 2015-
+28                                NaN         NaN                                           2016.
+29        External: Playground/School       XGood  The cement corridor area in front of the staff
+30                                NaN         NaN                                             NaN
+31                  Grounds, Windows/         NaN      room and office was replaced to update the
+32                 Doors/Gates/Fences         NaN          grade to current code to meet 2010 ADA
+33                                NaN         NaN     Standards for Accessible Design in 2015 and
+34                                NaN         NaN     other sidewalk areas have been addressed as
+35                                NaN         NaN       well to meet code.  Additional paving was
+36                                NaN         NaN                 added around school to meet ADA
+37                                NaN         NaN    requirements.  The district anticipates that
+38                                NaN         NaN      additional identified requirements will be
+39                                NaN         NaN                 addressed when new construction
+40                                NaN         NaN                              commences in 2020.
+41                     Overall Rating  XExemplary                                             NaN,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                    NaN                      NaN                      NaN,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      0.0      0.0      0.0      0.6        1.7        0.0      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.0        0.0        0.0      0.1      0.1      0.1,   Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0        NaN  Average # of # of # of Average # of # of # of ...                                             
+1      Grade                                                NaN                                             
+2        NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3      Level                                                NaN                                             
+4        NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5        NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6          K                                     15 1 11 1 11 1                                             
+7          1                                     14 1 14 1 10 1                                             
+8          2                                      9 1 14 1 14 1                                             
+9   Othe r**                                                NaN                                             ,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN,                                 Title          Unnamed: 0  Number of FTE*  Unnamed: 1
+0                               Title                 NaN             NaN         NaN
+1                                 NaN  Assigned to School             NaN         NaN
+2                        Psychologist                 NaN             NaN         NaN
+3                       Social Worker                 NaN             NaN         NaN
+4  Speech/Language/Hearing Specialist                 NaN             NaN         NaN
+5  Resource Specialist (non-teaching)                 0.1             NaN         NaN,    Title
+0  Title,    Level
+0  Level,                                            Level    Unnamed: 0         Total      Unnamed: 1  ... Unnamed: 5  Unnamed: 6  Average  Unnamed: 7
+0                                          Level  Expenditures     Per Pupil       Per Pupil  ...        NaN         NaN      NaN         NaN
+1                                            NaN     Per Pupil  (Restricted)  (Unrestricted)  ...        NaN         NaN      NaN         NaN
+2                                    School Site    $12,566.73     $1,958.20      $10,608.53  ...        NaN         NaN      NaN         NaN
+3                                       District           N/A           N/A      $10,608.53  ...        NaN         NaN      NaN         NaN
+4  Percent Difference - School Site and District           N/A           N/A             0.0  ...        NaN         NaN      NaN         NaN
+5                                          State           N/A           N/A       $7,506.64  ...        NaN         NaN      NaN         NaN
+6     Percent Difference - School Site and State           N/A           N/A            34.2  ...        NaN         NaN      NaN         NaN
+
+[7 rows x 13 columns],    Category
+0  Category,                                          Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                                             NaN         District               NaN            NaN         NaN
+1                                        Category    For Districts               NaN            NaN         NaN
+2                                             NaN           Amount               NaN            NaN         NaN
+3                                             NaN              NaN  In Same Category            NaN         NaN
+4                        Beginning Teacher Salary          $48,033           $45,252            NaN         NaN
+5                        Mid-Range Teacher Salary          $64,618           $65,210            NaN         NaN
+6                          Highest Teacher Salary          $81,842           $84,472            NaN         NaN
+7           Average Principal Salary (Elementary)               $0          $107,614            NaN         NaN
+8               Average Principal Salary (Middle)               $0          $112,242            NaN         NaN
+9                 Average Principal Salary (High)               $0                 $            NaN         NaN
+10                          Superintendent Salary         $113,906          $124,686            NaN         NaN
+11         Percent of Budget for Teacher Salaries              27%               31%            NaN         NaN
+12  Percent of Budget for Administrative Salaries               7%                7%            NaN         NaN,   District\rAmount
+0         District
+1           Amount,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...         10       10         10      NaN        NaN      NaN        NaN]

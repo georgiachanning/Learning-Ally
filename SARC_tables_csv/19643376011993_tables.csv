@@ -1,0 +1,385 @@
+[                          Unnamed: 0  Entity                Contact Information
+0                        School Name     NaN      Providencia Elementary School
+1                             Street     NaN             1919 North Ontario St.
+2                   City, State, Zip     NaN             Burbank, CA 91505-1231
+3                       Phone Number     NaN                       818-729-3100
+4                          Principal     NaN                Jennifer Culbertson
+5                      Email Address     NaN  jenniferculbertson@burbankusd.org
+6                            Website     NaN             www.burbankusd.org/pes
+7  County-District-School (CDS) Code     NaN                 19- 64337- 6011993,        Unnamed: 0  Entity              Contact Information
+0   District Name     NaN  Burbank Unified School District
+1    Phone Number     NaN                     818-729-4400
+2  Superintendent     NaN                 Matt Hill, Ed.D.
+3   Email Address     NaN          MattHill@burbankusd.org
+4         Website     NaN               www.burbankusd.org,         Grade Level  Number of Students
+0      Kindergarten                  94
+1           Grade 1                  48
+2           Grade 2                  63
+3           Grade 3                  59
+4           Grade 4                  65
+5           Grade 5                  78
+6  Total Enrollment                 407,                           Student Group  Percent of Total Enrollment
+0             Black or African American                          3.4
+1                                 Asian                          3.7
+2                              Filipino                          4.7
+3                    Hispanic or Latino                         54.5
+4   Native Hawaiian or Pacific Islander                          0.2
+5                                 White                         26.3
+6                     Two or More Races                          5.4
+7       Socioeconomically Disadvantaged                         51.4
+8                      English Learners                         17.2
+9            Students with Disabilities                         17.9
+10                         Foster Youth                          0.7
+11                             Homeless                          0.5,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       20       20       20      702
+3                            Without Full Credential        NaN        0        0        0        5
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                Unnamed: 0                                Unnamed: 1  From Most Percent Students
+0                     NaN         Textbooks and Other Instructional        NaN              NaN
+1                 Subject                                       NaN     Recent      Lacking Own
+2                     NaN                Materials/year of Adoption        NaN              NaN
+3                     NaN                                       NaN  Adoption?    Assigned Copy
+4   Reading/Language Arts                 English/Language Arts/K-5        Yes               0%
+5                     NaN                                       NaN        NaN              NaN
+6                     NaN            Kindergarten Benchmark Advance        NaN              NaN
+7                     NaN              9781512578683 2017 4/21/2016        NaN              NaN
+8                     NaN  Deluxe Pkg. - California Edition– 0-618-        NaN              NaN
+9                     NaN                                  17716-7.        NaN              NaN
+10                    NaN                                       NaN        NaN              NaN
+11                    NaN        Grade 1, Benchmark Advance Grade 1        NaN              NaN
+12                    NaN    Benchmark 9781512578690 2017 4/21/2016        NaN              NaN
+13                    NaN         Deluxe Pkg. - California Edition.        NaN              NaN
+14                    NaN                                       NaN        NaN              NaN
+15                    NaN        Grade 2, Benchmark Advance Grade 2        NaN              NaN
+16                    NaN    Benchmark 9781512578706 2017 4/21/2016        NaN              NaN
+17                    NaN         Deluxe Pkg. - California Edition.        NaN              NaN
+18                    NaN                                       NaN        NaN              NaN
+19                    NaN        Grade 3, Benchmark Advance Grade 3        NaN              NaN
+20                    NaN    Benchmark 9781512578713 2017 4/21/2016        NaN              NaN
+21                    NaN         Deluxe Pkg. - California Edition.        NaN              NaN
+22                    NaN                                       NaN        NaN              NaN
+23                    NaN        Grade 4, Benchmark Advance Grade 4        NaN              NaN
+24                    NaN    Benchmark 9781512578720 2017 4/21/2016        NaN              NaN
+25                    NaN         Deluxe Pkg. - California Edition.        NaN              NaN
+26                    NaN                                       NaN        NaN              NaN
+27                    NaN        Grade 5, Benchmark Advance Grade 5        NaN              NaN
+28                    NaN    Benchmark 9781512578737 2017 4/21/2016        NaN              NaN
+29                    NaN         Deluxe Pkg. - California Edition.        NaN              NaN
+30                    NaN                                       NaN        NaN              NaN
+31                    NaN             Reviewed for Adoption 2015-16        NaN              NaN
+32                    NaN               Full Implementation 2016-17        NaN              NaN
+33                    NaN                                       NaN        NaN              NaN
+34                    NaN         Date of Adoption:  April 21, 2016        NaN              NaN
+35                    NaN                                       NaN        NaN              NaN
+36            Mathematics                              Kindergarten        Yes               0%
+37                    NaN      Go Math! Premium Plus CA Edition - 8        NaN              NaN
+38                    NaN    Yr Print/8 Yr Digital Houghton-Mifflin        NaN              NaN
+39                    NaN               9780544542839 2015 5/7/2015        NaN              NaN
+40                    NaN                                   Grade 1        NaN              NaN
+41                    NaN      Go Math! Premium Plus CA Edition - 8        NaN              NaN
+42                    NaN    Yr Print/8 Yr Digital Houghton-Mifflin        NaN              NaN
+43                    NaN               9780544542938 2015 5/7/2015        NaN              NaN,    Unnamed: 0 Unnamed: 1                                     Unnamed: 2  From Most Percent Students
+0         NaN        NaN              Textbooks and Other Instructional        NaN              NaN
+1         NaN    Subject                                            NaN     Recent      Lacking Own
+2         NaN        NaN                     Materials/year of Adoption        NaN              NaN
+3         NaN        NaN                                            NaN  Adoption?    Assigned Copy
+4         NaN        NaN                                        Grade 2        NaN              NaN
+5         NaN        NaN           Go Math! Premium Plus CA Edition - 8        NaN              NaN
+6         NaN        NaN         Yr Print/8 Yr Digital Houghton-Mifflin        NaN              NaN
+7         NaN        NaN                    9780544543010 2015 5/7/2015        NaN              NaN
+8         NaN        NaN                                        Grade 3        NaN              NaN
+9         NaN        NaN           Go Math! Premium Plus CA Edition - 8        NaN              NaN
+10        NaN        NaN         Yr Print/8 Yr Digital Houghton-Mifflin        NaN              NaN
+11        NaN        NaN                    9780544543119 2015 5/7/2015        NaN              NaN
+12        NaN        NaN                                        Grade 4        NaN              NaN
+13        NaN        NaN           Go Math! Premium Plus CA Edition - 8        NaN              NaN
+14        NaN        NaN         Yr Print/8 Yr Digital Houghton-Mifflin        NaN              NaN
+15        NaN        NaN                    9780544548206 2015 5/7/2015        NaN              NaN
+16        NaN        NaN                                        Grade 5        NaN              NaN
+17        NaN        NaN           Go Math! Premium Plus CA Edition - 8        NaN              NaN
+18        NaN        NaN         Yr Print/8 Yr Digital Houghton-Mifflin        NaN              NaN
+19        NaN        NaN                    9780544548275 2015 5/7/2015        NaN              NaN
+20        NaN        NaN                                            NaN        NaN              NaN
+21    Science        NaN                                   Science/K-5:        Yes               0%
+22        NaN        NaN                                            NaN        NaN              NaN
+23        NaN        NaN           Adopted for Use Beginning 2007-2008.        NaN              NaN
+24        NaN        NaN                                            NaN        NaN              NaN
+25        NaN        NaN       California Science c. 2006, published by        NaN              NaN
+26        NaN        NaN  Houghton Mifflin, with the following specific        NaN              NaN
+27        NaN        NaN              information for each grade level:        NaN              NaN
+28        NaN        NaN                                            NaN        NaN              NaN
+29        NaN        NaN   Kindergarten California Science Kindergarten        NaN              NaN
+30        NaN        NaN                        Kit, ISBN 0-618-76747-9        NaN              NaN
+31        NaN        NaN      Grade 1 California Science Pupil Edition,        NaN              NaN
+32        NaN        NaN                 Level 1, ISBN 0-618-68615-0 or        NaN              NaN
+33        NaN        NaN   Big Book Student Edition Complete Set, Level        NaN              NaN
+34        NaN        NaN                          1, ISBN 0-618-76737-1        NaN              NaN
+35        NaN        NaN      Grade 2 California Science Pupil Edition,        NaN              NaN
+36        NaN        NaN                    Level 2, ISBN 0-618-68616-9        NaN              NaN
+37        NaN        NaN      Grade 3 California Science Pupil Edition,        NaN              NaN
+38        NaN        NaN                    Level 3, ISBN 0-618-68617-7        NaN              NaN
+39        NaN        NaN      Grade 4 California Science Pupil Edition,        NaN              NaN
+40        NaN        NaN                    Level 4, ISBN 0-618-68618-5        NaN              NaN
+41        NaN        NaN      Grade 5 California Science Pupil Edition,        NaN              NaN
+42        NaN        NaN                    Level 5, ISBN 0-618-68619-3        NaN              NaN
+43        NaN        NaN                                            NaN        NaN              NaN
+44        NaN        NaN                  Date of Adoption:May 17, 2007        NaN              NaN
+45        NaN        NaN                                            NaN        NaN              NaN
+46        NaN        NaN   Harcourt Science K-5, California Edition, c.        NaN              NaN
+47        NaN        NaN        2000, Harcourt, Inc. Grade K, ISBN 015-        NaN              NaN
+48        NaN        NaN    317908-2; 1, 015-317649-0; 2, 015-317651-2;        NaN              NaN
+49        NaN        NaN      3, 015-317652-0; 4, 015-317654-7; 5, 015-        NaN              NaN
+50        NaN        NaN                                       317655-5        NaN              NaN
+51        NaN        NaN               Date of Adoption:  April 5, 2001        NaN              NaN,                     Unnamed: 0                                      Unnamed: 1  From Most Percent Students
+0                          NaN               Textbooks and Other Instructional        NaN              NaN
+1                      Subject                                             NaN     Recent      Lacking Own
+2                          NaN                      Materials/year of Adoption        NaN              NaN
+3                          NaN                                             NaN  Adoption?    Assigned Copy
+4       History-Social Science       Social Science/Grades K-5 ADOPTED FOR 06-        Yes               0%
+5                          NaN                                  07 SCHOOL YEAR        NaN              NaN
+6                          NaN                                             NaN        NaN              NaN
+7                          NaN   California Reflections, c. 2005, published by        NaN              NaN
+8                          NaN            Harcourt School Publishers, with the        NaN              NaN
+9                          NaN   following specific information for each grade        NaN              NaN
+10                         NaN                                          level:        NaN              NaN
+11                         NaN          Kindergarten – California Kindergarten        NaN              NaN
+12                         NaN                      Program, ISBN 015-344135-6        NaN              NaN
+13                         NaN  Grade 1 – California Unit Big Book Collection:        NaN              NaN
+14                         NaN           A Child’s View, ISBN 015-3426543-5 or        NaN              NaN
+15                         NaN     California Student Edition; A Child’s View,        NaN              NaN
+16                         NaN                               ISBN 015-338498-0        NaN              NaN
+17                         NaN  Grade 2 – California Unit Big Book Collection:        NaN              NaN
+18                         NaN            People We Know, ISBN 015-348967-7 or        NaN              NaN
+19                         NaN     California Student Edition: People We Know,        NaN              NaN
+20                         NaN                               ISBN 015-338499-9        NaN              NaN
+21                         NaN       Grade 3 – California Student Edition: Our        NaN              NaN
+22                         NaN                  Communities, ISBN 015-338501-4        NaN              NaN
+23                         NaN         Grade 4 – California Student Edition: A        NaN              NaN
+24                         NaN               Changing State, ISBN 015-338502-2        NaN              NaN
+25                         NaN       Grade 5 – California Student Edition: The        NaN              NaN
+26                         NaN             United States: Making a New Nation,        NaN              NaN
+27                         NaN                               ISBN 015-338503-0        NaN              NaN
+28                         NaN                  Date of Adoption:  May 4, 2006        NaN              NaN
+29                         NaN                                             NaN        NaN              NaN
+30  Visual and Performing Arts                                      Music/K-5:        Yes               0%
+31                         NaN                                             NaN        NaN              NaN
+32                         NaN            Adopted for Use Beginning 2007-2008.        NaN              NaN
+33                         NaN                                             NaN        NaN              NaN
+34                         NaN          California Spotlight on Music c. 2006,        NaN              NaN
+35                         NaN          published by Macmillan/McGraw Hill and        NaN              NaN
+36                         NaN     Silver Burdett, with the following specific        NaN              NaN
+37                         NaN               information for each grade level:        NaN              NaN
+38                         NaN                                             NaN        NaN              NaN
+39                         NaN         Grade 2 Pupil Edition, ISBN 002-2965513        NaN              NaN
+40                         NaN              Audio CD Package, ISBN 002-2964614        NaN              NaN
+41                         NaN         Grade 3 Pupil Edition, ISBN 002-2965521        NaN              NaN
+42                         NaN              Audio CD Package, ISBN 002-2964622        NaN              NaN
+43                         NaN         Grade 4 Pupil Edition, ISBN 002-296553X        NaN              NaN
+44                         NaN              Audio CD Package, ISBN 002-2964630        NaN              NaN
+45                         NaN         Grade 5 Pupil Edition, ISBN 002-2965548        NaN              NaN
+46                         NaN              Audio CD Package, ISBN 002-2964649        NaN              NaN
+47                         NaN                                             NaN        NaN              NaN
+48                         NaN                 Date of Adoption:  May 21, 2007        NaN              NaN
+49                         NaN                                             NaN        NaN              NaN
+50                         NaN                    Share the Music, McGraw Hill        NaN              NaN
+51                         NaN                                             NaN        NaN              NaN
+52                         NaN              Date of Adoption:  August 19, 1999        NaN              NaN,    Unnamed: 0  Unnamed: 1  Unnamed: 2
+0         NaN         NaN         NaN,     Unnamed: 0                                         Unnamed: 1  ...                                 Unnamed: 8 Unnamed: 9
+0          NaN                                                NaN  ...                                        NaN        NaN
+1          NaN                                   System Inspected  ...  Repair Needed and Action Taken or Planned        NaN
+2          NaN                                   System Inspected  ...                                        NaN        NaN
+3          NaN                                                NaN  ...                                        NaN        NaN
+4          NaN        Systems: Gas Leaks,\rMechanical/HVAC, Sewer  ...                                        NaN        NaN
+5          NaN                                                NaN  ...                                        NaN        NaN
+6          NaN                                                NaN  ...                                        NaN        NaN
+7          NaN                                                NaN  ...                                        NaN        NaN
+8          NaN                        Interior: Interior Surfaces  ...                                        NaN        NaN
+9          NaN                                                NaN  ...                                        NaN        NaN
+10         NaN                                                NaN  ...                                        NaN        NaN
+11         NaN                                                NaN  ...                                        NaN        NaN
+12         NaN  Cleanliness: Overall Cleanliness,\rPest/ Vermi...  ...                                        NaN        NaN
+13         NaN                                                NaN  ...                                        NaN        NaN
+14         NaN                                                NaN  ...                                        NaN        NaN
+15         NaN                                                NaN  ...                                        NaN        NaN
+16         NaN                             Electrical: Electrical  ...                                        NaN        NaN
+17         NaN                                                NaN  ...                                        NaN        NaN
+18         NaN                                                NaN  ...                                        NaN        NaN
+19         NaN                                                NaN  ...                                        NaN        NaN
+20         NaN  Restrooms/Fountains: Restrooms,\rSinks/ Fountains  ...                                        NaN        NaN
+21         NaN                                                NaN  ...                                        NaN        NaN
+22         NaN                                                NaN  ...                                        NaN        NaN
+23         NaN                                                NaN  ...                                        NaN        NaN
+24         NaN          Safety: Fire Safety, Hazardous\rMaterials  ...                                        NaN        NaN
+25         NaN                                                NaN  ...                                        NaN        NaN
+26         NaN                                                NaN  ...                                        NaN        NaN
+27         NaN                                                NaN  ...                                        NaN        NaN
+28         NaN              Structural: Structural Damage,\rRoofs  ...                                        NaN        NaN
+29         NaN                                                NaN  ...                                        NaN        NaN
+30         NaN                                                NaN  ...                                        NaN        NaN
+31         NaN                                                NaN  ...                                        NaN        NaN
+32         NaN  External: Playground/School\rGrounds, Windows/...  ...                                        NaN        NaN
+33         NaN                                                NaN  ...                                        NaN        NaN
+34         NaN                                                NaN  ...                                        NaN        NaN
+35         NaN                                                NaN  ...                                        NaN        NaN
+36         NaN                                     Overall Rating  ...                                        NaN        NaN
+37         NaN                                                NaN  ...                                        NaN        NaN
+38         NaN                                                NaN  ...                                        NaN        NaN
+39         NaN                                                NaN  ...                                        NaN        NaN
+
+[40 rows x 10 columns],    System Inspected
+0  System Inspected, Empty DataFrame
+Columns: [Rating, Rating.1]
+Index: [], Empty DataFrame
+Columns: [Repair Needed and Action Taken or Planned, Repair Needed and Action Taken or Planned.1]
+Index: [],    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       69       73       63         65       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       52       56       50         51       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         204        187      91.67    8.33     73.26
+5                                  Male            NaN         107         93      86.92   13.08     70.97
+6                                Female            NaN          97         94      96.91    3.09     75.53
+7             Black or African American            NaN          --         --         --      --        --
+8      American Indian or Alaska Native            NaN         NaN        NaN        NaN     NaN       NaN
+9                                 Asian            NaN          11         10      90.91    9.09    100.00
+10                             Filipino            NaN          --         --         --      --        --
+11                   Hispanic or Latino            NaN         113        106      93.81    6.19     69.81
+12  Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+13                                White            NaN          55         47      85.45   14.55     76.60,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                               Two or More Races                --             --              --  ...        NaN        NaN        NaN         NaN
+5                 Socioeconomically Disadvantaged               117            109           93.16  ...        NaN        NaN        NaN         NaN
+6                                English Learners                49             44           89.80  ...        NaN        NaN        NaN         NaN
+7                      Students with Disabilities                44             30           68.18  ...        NaN        NaN        NaN         NaN
+8   Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                    Foster Youth                --             --              --  ...        NaN        NaN        NaN         NaN
+10                                       Homeless                --             --              --  ...        NaN        NaN        NaN         NaN
+
+[11 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                                    All Students               204            186           91.18  ...        NaN        NaN        NaN         NaN
+5                                            Male               107             93           86.92  ...        NaN        NaN        NaN         NaN
+6                                          Female                97             93           95.88  ...        NaN        NaN        NaN         NaN
+7                       Black or African American                --             --              --  ...        NaN        NaN        NaN         NaN
+8                American Indian or Alaska Native               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                           Asian                11             10           90.91  ...        NaN        NaN        NaN         NaN
+10                                       Filipino                --             --              --  ...        NaN        NaN        NaN         NaN
+11                             Hispanic or Latino               113            105           92.92  ...        NaN        NaN        NaN         NaN
+12            Native Hawaiian or Pacific Islander               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+13                                          White                55             47           85.45  ...        NaN        NaN        NaN         NaN
+14                              Two or More Races                --             --              --  ...        NaN        NaN        NaN         NaN
+15                Socioeconomically Disadvantaged               117            109           93.16  ...        NaN        NaN        NaN         NaN
+16                               English Learners                49             44           89.80  ...        NaN        NaN        NaN         NaN
+17                     Students with Disabilities                44             29           65.91  ...        NaN        NaN        NaN         NaN
+18  Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+
+[19 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,      Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0           NaN            NaN       Total     Number    Percent     NaN       NaN
+1           NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2           NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3           NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4  Foster Youth            NaN          --         --         --      --        --
+5      Homeless            NaN          --         --         --      --        --,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   20.0                     22.7                     21.3,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      2.0      0.5      0.0      1.9        3.0        2.7      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.0        0.0        0.0      0.1      0.1      0.1,    Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0         NaN  Average # of # of # of Average # of # of # of ...                                             
+1       Grade                                                NaN                                             
+2         NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3       Level                                                NaN                                             
+4         NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5         NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6           K                                   21 1 2 23 3 24 4                                             
+7           1                                     26 2 25 2 24 2                                             
+8           2                                     24 3 24 3 25 2                                             
+9           3                                     23 3 24 3 24 3                                             
+10          4                                     34 2 28 2 26 2                                             
+11          5                                 33 1 1 26 3 31 2 1                                             
+12   Othe r**                                                NaN                                             ,              Unnamed: 0  Title  Unnamed: 1  Unnamed: 2  Ratio  Unnamed: 3
+0  Academic Counselors*    0.0         NaN         NaN    NaN         NaN,    Title
+0  Title,                                                Title          Unnamed: 0  Number of FTE*  Unnamed: 1
+0                                              Title                 NaN             NaN         NaN
+1                                                NaN  Assigned to School             NaN         NaN
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN             NaN         NaN
+3                  Library Media Teacher (Librarian)                 NaN             NaN         NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN             NaN         NaN
+5                                       Psychologist                 NaN             NaN         NaN
+6                                      Social Worker                 NaN             NaN         NaN
+7                 Speech/Language/Hearing Specialist                 NaN             NaN         NaN
+8                 Resource Specialist (non-teaching)                 5.0             NaN         NaN
+9                                              Other                 2.2             NaN         NaN,                                            Level    Unnamed: 0         Total      Unnamed: 1  ... Unnamed: 5  Unnamed: 6  Average  Unnamed: 7
+0                                          Level  Expenditures     Per Pupil       Per Pupil  ...        NaN         NaN      NaN         NaN
+1                                            NaN     Per Pupil  (Restricted)  (Unrestricted)  ...        NaN         NaN      NaN         NaN
+2                                    School Site    $12,849.57     $2,022.60       $8,515.79  ...        NaN         NaN      NaN         NaN
+3                                       District           N/A           N/A       $7,104.28  ...        NaN         NaN      NaN         NaN
+4  Percent Difference - School Site and District           N/A           N/A            18.1  ...        NaN         NaN      NaN         NaN
+5                                          State           N/A           N/A       $7,506.64  ...        NaN         NaN      NaN         NaN
+6     Percent Difference - School Site and State           N/A           N/A            12.6  ...        NaN         NaN      NaN         NaN
+
+[7 rows x 13 columns],    Level
+0  Level,                                          Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                                             NaN         District               NaN            NaN         NaN
+1                                        Category    For Districts               NaN            NaN         NaN
+2                                             NaN           Amount               NaN            NaN         NaN
+3                                             NaN              NaN  In Same Category            NaN         NaN
+4                        Beginning Teacher Salary          $45,457           $51,374            NaN         NaN
+5                        Mid-Range Teacher Salary          $74,344           $80,151            NaN         NaN
+6                          Highest Teacher Salary          $94,972          $100,143            NaN         NaN
+7           Average Principal Salary (Elementary)         $129,033          $126,896            NaN         NaN
+8               Average Principal Salary (Middle)         $138,725          $133,668            NaN         NaN
+9                 Average Principal Salary (High)         $153,399          $143,746            NaN         NaN
+10                          Superintendent Salary         $248,230          $245,810            NaN         NaN
+11         Percent of Budget for Teacher Salaries              36%               35%            NaN         NaN
+12  Percent of Budget for Administrative Salaries               5%                5%            NaN         NaN,    Category
+0  Category,   District\rAmount
+0         District
+1           Amount,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...          3        3          3      NaN        NaN      NaN        NaN]

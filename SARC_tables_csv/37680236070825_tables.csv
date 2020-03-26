@@ -1,0 +1,306 @@
+[    la Vista Elementary School                                         Unnamed: 0 Unnamed: 1 Unnamed: 2  ...  Unnamed: 8 Unnamed: 9 Unnamed: 10 Unnamed: 11
+0                     District                                            The Los      Altos   academic  ...  curriculum   centered          on         the
+1             84 East J Street  California Content Standards and District adop...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+2   Chula Vista, CA 91910-6100  characterizes the work teachers and staff do e...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+3               (619) 425-9600                                                NaN        NaN        NaN  ...         NaN        NaN         NaN         NaN
+4                          NaN  standards. Los Altos is committed to providing...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+5                www.cvesd.org                                                NaN        NaN        NaN  ...         NaN        NaN         NaN         NaN
+6                          NaN    child in every classroom during the school day.        NaN        NaN  ...         NaN        NaN         NaN         NaN
+7     District Governing Board                                                NaN        NaN        NaN  ...         NaN        NaN         NaN         NaN
+8            Leslie Ray Bunker                           LOS ALTOS SCHOOL VISION:        NaN        NaN  ...         NaN        NaN         NaN         NaN
+9                          NaN  Los Altos will embrace, promote and value bili...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+10              Armando Farias  become leaders that actively serve in their co...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+11                         NaN                                                NaN        NaN        NaN  ...         NaN        NaN         NaN         NaN
+12          Laurie K. Humphrey                      LOS ALTOS ELEMENTARY MISSION:        NaN        NaN  ...         NaN        NaN         NaN         NaN
+13                         NaN  At Los Altos Elementary School, students, pare...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+14        Eduardo Reyes, Ed.D.  toward constructing and fulfilling a vision of...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+15                         NaN  learning community committed to a set of commo...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+16            Francisco Tamayo  growth, creativity, and powerful learning. Stu...        NaN        NaN  ...         NaN        NaN         NaN         NaN
+
+[17 rows x 13 columns],           consistent with data reported in the SARC. Teacher Credentials for Los Altos Elementary  17-18  18-19  19-20
+0  • For more information about SARC requirements...                                       School    NaN    NaN    NaN
+1     Department of Education (CDE) SARC web page at                         With Full Credential   18.0   17.0   17.0
+2                  https://www.cde.ca.gov/ta/ac/sa/.                      Without Full Credential    0.0    0.0    0.0
+3  • For more information about the LCFF or LCAP,...                                          NaN    NaN    NaN    NaN
+4                                                NaN  Teaching Outside Subject Area of Competence    NaN    NaN    NaN,                            community members  should             contact  the  ...  Teacher Credentials for Chula Vista Elementary  17-18  18-19   19-20
+0                           district office.     NaN                 NaN  NaN  ...                                 School District    NaN    NaN     NaN
+1                                        NaN     NaN                 NaN  NaN  ...                            With Full Credential      ♦      ♦  1261.0
+2                                        NaN     NaN                 NaN  NaN  ...                                             NaN    NaN    NaN     NaN
+3  2018-19 Student Enrollment by Grade Level     NaN                 NaN  NaN  ...                         Without Full Credential      ♦      ♦     3.0
+4                                Grade Level     NaN  Number of Students  NaN  ...     Teaching Outside Subject Area of Competence      ♦      ♦     NaN
+
+[5 rows x 13 columns],          Grade Level  Number of Students      Teaching Outside Subject Area of Competence ♦   ♦ Unnamed: 0
+0       Kindergarten                59.0                                                NaN NaN        NaN
+1                NaN                 NaN  Teacher Misassignments and Vacant Teacher Posi... NaN        NaN
+2            Grade 1                39.0                                                NaN NaN        NaN
+3                NaN                 NaN                                  Elementary School NaN        NaN
+4            Grade 2                51.0                                                NaN NaN        NaN
+5                NaN                 NaN                              Indicator 17-18 18-19 NaN      19-20
+6            Grade 3                41.0                                                NaN NaN        NaN
+7                NaN                 NaN                       Teachers of English Learners NaN        NaN
+8            Grade 4                35.0                                                NaN NaN        NaN
+9                NaN                 NaN                      Total Teacher Misassignments* NaN        NaN
+10           Grade 5                33.0                                                NaN NaN        NaN
+11               NaN                 NaN                           Vacant Teacher Positions NaN        NaN
+12           Grade 6                48.0                                                NaN NaN        NaN
+13               NaN                 NaN  * Note: “Misassignments” refers to the number ... NaN        NaN
+14  Total Enrollment               306.0  who lack legal authorization to teach that gra... NaN        NaN,                                   Group  Percent of Total Enrollment
+0             Black or African American                          0.7
+1                                 Asian                          0.3
+2                              Filipino                          3.9
+3                    Hispanic or Latino                         90.5
+4   Native Hawaiian or Pacific Islander                          0.3
+5                                 White                          3.9
+6                     Two or More Races                          0.3
+7       Socioeconomically Disadvantaged                         81.4
+8                      English Learners                         60.8
+9            Students with Disabilities                         14.4
+10                             Homeless                          0.3,       Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0    Reading/Language Arts                     Benchmark Reading ELA program.    
+1                      NaN       Guided Reading books and classroom libraries    
+2                      NaN                                                NaN    
+3                      NaN  The textbooks listed are from most recent adop...    
+4                      NaN  Percent of students lacking their own assigned...    
+5                      NaN                                                NaN    
+6              Mathematics                          Go Math!  and Eureka Math    
+7                      NaN  The textbooks listed are from most recent adop...    
+8                      NaN  Percent of students lacking their own assigned...    
+9                      NaN                                                NaN    
+10                 Science  Houghton-Mifflin Science series for Kindergart...    
+11                     NaN                               Adopted Spring 2008.    
+12                     NaN                                                NaN    
+13                     NaN  The textbooks listed are from most recent adop...    
+14                     NaN  Percent of students lacking their own assigned...    
+15                     NaN                                                NaN    
+16  History-Social Science  Benchmark ELA materials are intergrated with S...    
+17                     NaN  The textbooks listed are from most recent adop...    
+18                     NaN  Percent of students lacking their own assigned...    ,                                        Unnamed: 0                      Unnamed: 1  Unnamed: 2                                Repair Needed and
+0                                             NaN  System Inspected Repair Status         NaN                                              NaN
+1                                             NaN                             NaN         NaN                          Action Taken or Planned
+2                                        Systems:                           XGood         NaN                                              NaN
+3               Gas Leaks, Mechanical/HVAC, Sewer                             NaN         NaN           Kitchen: Blower weak on entrance door.
+4                                             NaN                             NaN         NaN                                              NaN
+5                                       Interior:                           XPoor         NaN           300 ext. Boys RR: sink needs chaulking
+6                               Interior Surfaces                             NaN         NaN  ,holes in wall tile , partitions rusty , inside
+7                                             NaN                             NaN         NaN              corner of tile cracked , vent dirty
+8                                             NaN                             NaN         NaN         300 ext. girls RR: sink needs chaulking,
+9                                             NaN                             NaN         NaN      partitions dirty and have holes , walls and
+10                                            NaN                             NaN         NaN                                      door dirty.
+11                                            NaN                             NaN         NaN               400 ext. Girls RR: left sink needs
+12                                            NaN                             NaN         NaN                chaulking, door vents rusted seam
+13                                            NaN                             NaN         NaN                 cracking on wall, mirror peeling
+14                                            NaN                             NaN         NaN     Admin reception: (4) Stained ceiling tile; 2
+15                                            NaN                             NaN         NaN       cracked ceiling tile , holes in tackboard,
+16                                            NaN                             NaN         NaN                         dirty walls, dirty vent.
+17                                            NaN                             NaN         NaN        CR 202: #1 R/R toilet seat loose, 1 light
+18                                            NaN                             NaN         NaN        out, door trim scratch, 2 restroom stains
+19                                            NaN                             NaN         NaN                     on walls, sink low pressure.
+20                                            NaN                             NaN         NaN             CR 302: Dirty door and doesn’t close
+21                                            NaN                             NaN         NaN                properly, 1 ceiling tile cracked.
+22                                            NaN                             NaN         NaN                      CR 306: Dirty walls by sink
+23                                            NaN                             NaN         NaN           CR 408: Walls and door dirty, stain on
+24                                            NaN                             NaN         NaN                                          carpet.
+25                                            NaN                             NaN         NaN         CR 501: 2 Ceiling tile cracked and small
+26                                            NaN                             NaN         NaN              holes on tackboard, missing knob on
+27                                            NaN                             NaN         NaN                                         cabinet.
+28                                            NaN                             NaN         NaN       CR 503: Inside door doesn’t shut properly,
+29                                            NaN                             NaN         NaN                              cabinet door loose.
+30                                            NaN                             NaN         NaN        CR 603 rsp: Cleaners under sink , stained
+31                                            NaN                             NaN         NaN    ceiling tile, vents dirty, ceiling tile warp,
+32                                            NaN                             NaN         NaN                     bookcase not secure to wall.
+33                                            NaN                             NaN         NaN          Kitchen girls RR: sinks need chaulking;
+34                                            NaN                             NaN         NaN              door doesn't shut all the way, door
+35                                            NaN                             NaN         NaN       rusting, chip on wall, ceiling paint chip,
+36                                            NaN                             NaN         NaN                        old stain on floor tiles.
+37                                            NaN                             NaN         NaN            Kitchen storage office: Small hole on
+38                                            NaN                             NaN         NaN                       ceiling tile and 1 scratch
+39                                            NaN                             NaN         NaN      Lep aide office: 2 lights off, ceiling tile
+40                                            NaN                             NaN         NaN                                          scratch
+41                                            NaN                             NaN         NaN       Library: Sink handles missing, 1 has a pin
+42                                            NaN                             NaN         NaN                                    sticking out.
+43                                            NaN                             NaN         NaN           Lounge: Cabinets has stains and broken
+44                                            NaN                             NaN         NaN                                formaica by sink.
+45                                            NaN                             NaN         NaN                         MP womens RR: Vent dirty
+46                                            NaN                             NaN         NaN                                              NaN
+47                                   Cleanliness:                           XGood         NaN                                              NaN
+48  Overall Cleanliness, Pest/ Vermin Infestation                             NaN         NaN            YMCA Portable: big stains on rug, few
+49                                            NaN                             NaN         NaN         ceiling tiles loose from brackets, dirty
+50                                            NaN                             NaN         NaN                          walls, cobwebs spiders.,                                            Unnamed: 0                      Unnamed: 1  Unnamed: 2                                Repair Needed and
+0                                                 NaN  System Inspected Repair Status         NaN                                              NaN
+1                                                 NaN                             NaN         NaN                          Action Taken or Planned
+2                                         Electrical:                           XGood         NaN     CR 204: Sink missing door, 1 light off, vent
+3                                          Electrical                             NaN         NaN                                            dirty
+4                                                 NaN                             NaN         NaN                              CR 403: 1 light off
+5                                                 NaN                             NaN         NaN           Kinder storage: Plastic cover on ligth
+6                                                 NaN                             NaN         NaN               loose, door doesn’t shut properly.
+7                                                 NaN                             NaN         NaN                                              NaN
+8                                Restrooms/Fountains:                           XFair         NaN           300 ext. Boys RR: sink needs chaulking
+9                         Restrooms, Sinks/ Fountains                             NaN         NaN  ,holes in wall tile , partitions rusty , inside
+10                                                NaN                             NaN         NaN              corner of tile cracked , vent dirty
+11                                                NaN                             NaN         NaN         300 ext. girls RR: sink needs chaulking,
+12                                                NaN                             NaN         NaN      partitions dirty and have holes , walls and
+13                                                NaN                             NaN         NaN                                      door dirty.
+14                                                NaN                             NaN         NaN               400 ext. Girls RR: left sink needs
+15                                                NaN                             NaN         NaN                chaulking, door vents rusted seam
+16                                                NaN                             NaN         NaN                 cracking on wall, mirror peeling
+17                                                NaN                             NaN         NaN        CR 202: #1 R/R toilet seat loose, 1 light
+18                                                NaN                             NaN         NaN        out, door trim scratch, 2 restroom stains
+19                                                NaN                             NaN         NaN                     on walls, sink low pressure.
+20                                                NaN                             NaN         NaN            CR 305: cleaners under sink , cabinet
+21                                                NaN                             NaN         NaN           under sink missing 2 handles, drinking
+22                                                NaN                             NaN         NaN                      fountain too much pressure.
+23                                                NaN                             NaN         NaN                Kitchen boys RR: right sink needs
+24                                                NaN                             NaN         NaN                                       chaulking.
+25                                                NaN                             NaN         NaN          Kitchen girls RR: sinks need chaulking;
+26                                                NaN                             NaN         NaN              door doesn't shut all the way, door
+27                                                NaN                             NaN         NaN       rusting, chip on wall, ceiling paint chip,
+28                                                NaN                             NaN         NaN                        old stain on floor tiles.
+29                                                NaN                             NaN         NaN                                              NaN
+30                                            Safety:                           XGood         NaN                CR 304: cleaners under sink, fire
+31                   Fire Safety, Hazardous Materials                             NaN         NaN               extinguisher and fire alarm handle
+32                                                NaN                             NaN         NaN                                         blocked.
+33                                                NaN                             NaN         NaN            CR 305: cleaners under sink , cabinet
+34                                                NaN                             NaN         NaN           under sink missing 2 handles, drinking
+35                                                NaN                             NaN         NaN                      fountain too much pressure.
+36                                                NaN                             NaN         NaN        CR 603 rsp: Cleaners under sink , stained
+37                                                NaN                             NaN         NaN    ceiling tile, vents dirty, ceiling tile warp,
+38                                                NaN                             NaN         NaN                     bookcase not secure to wall.
+39                                                NaN                             NaN         NaN      Lep aide office: 2 lights off, ceiling tile
+40                                                NaN                             NaN         NaN                                          scratch
+41                                                NaN                             NaN         NaN                                              NaN
+42                                        Structural:                           XGood         NaN                                              NaN
+43                           Structural Damage, Roofs                             NaN         NaN                                              NaN
+44                                          External:                           XGood         NaN       CR 503: Inside door doesn’t shut properly,
+45  Playground/School Grounds, Windows/ Doors/Gate...                             NaN         NaN                              cabinet door loose.
+46                                                NaN                             NaN         NaN                Kitchen boys RR: right sink needs
+47                                                NaN                             NaN         NaN                                       chaulking.
+48                                                NaN                             NaN         NaN          Kitchen girls RR: sinks need chaulking;
+49                                                NaN                             NaN         NaN              door doesn't shut all the way, door
+50                                                NaN                             NaN         NaN       rusting, chip on wall, ceiling paint chip,
+51                                                NaN                             NaN         NaN                        old stain on floor tiles.
+52                                                NaN                             NaN         NaN                         Play Toy: alittle rusted
+53                                                NaN                             NaN         NaN        Playground: basketball court (near soccer
+54                                                NaN                             NaN         NaN     goal) asphalt cracks - trip hazard, a lot of
+55                                                NaN                             NaN         NaN          cracks on black top, kids digging under
+56                                                NaN                             NaN         NaN     fence line their holes upper field by tether
+57                                                NaN                             NaN         NaN                                      ball court.
+58                                                NaN                             NaN         NaN                                              NaN
+59                                     Overall Rating                             NaN         NaN                                              NaN,    Unnamed: 0        Unnamed: 1     Unnamed: 2                         Repair Needed and
+0         NaN  System Inspected  Repair Status                                       NaN
+1         NaN               NaN            NaN                   Action Taken or Planned
+2  ----------               NaN          XGood          Met with Principal, who spoke to
+3         NaN               NaN            NaN  custodial staff regarding expectations &
+4         NaN               NaN            NaN  quality standards with electrical needs,
+5         NaN               NaN            NaN   repair issues and work orders submitted
+6         NaN               NaN            NaN               for maintenance and repairs,   The SARC provides the following information relevant to the State priority: Unnamed: 0 School School.1 District District.1  State State.1
+0                                                NaN                             Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1                    Pupil Achievement (Priority 4):                                 NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2  • Statewide assessments (i.e., California Asse...                             Science    N/A      N/A      N/A        N/A    N/A     N/A,             education sequences or programs of study    Grade Unnamed: 0 Unnamed: 1 Unnamed: 2
+0                                                NaN      NaN     4 of 6     5 of 6     6 of 6
+1                                                NaN    Level        NaN        NaN        NaN
+2  CAASPP Test Results in ELA and Mathematics for...      NaN        NaN        NaN        NaN
+3                                                NaN  ---5---       15.6       34.4        3.1,   Unnamed: 0 School School.1 District District.1  State State.1 students in this category is too small for statistical accuracy or to protect student
+0    Subject    NaN      NaN      NaN        NaN    NaN     NaN                                                NaN                                   
+1        NaN  17-18    18-19    17-18      18-19  17-18   18-19                                           privacy.                                   
+2        ELA     41       43       65         64     50      50                                                NaN                                   
+3       Math     24       35       51         51     38      39                                                NaN                                   ,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN         167     160   95.81            42.50
+3                              Male            NaN          93      87   93.55            33.33
+4                            Female            NaN          74      73   98.65            53.42
+5         Black or African American            NaN          --      --      --               --
+6                          Filipino            NaN          --      --      --               --
+7                Hispanic or Latino            NaN         158     152   96.20            42.11
+8                             White            NaN          --      --      --               --
+9   Socioeconomically Disadvantaged            NaN         140     133   95.00            39.85
+10                 English Learners            NaN         120     113   94.17            43.36
+11       Students with Disabilities            NaN          24      23   95.83            17.39
+12                         Homeless            NaN          --      --      --               --,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN         167     166   99.40            34.94
+3                              Male            NaN          93      92   98.92            34.78
+4                            Female            NaN          74      74  100.00            35.14
+5         Black or African American            NaN          --      --      --               --
+6                          Filipino            NaN          --      --      --               --
+7                Hispanic or Latino            NaN         158     157   99.37            35.67
+8                             White            NaN          --      --      --               --
+9   Socioeconomically Disadvantaged            NaN         140     139   99.29            32.37
+10                 English Learners            NaN         120     119   99.17            36.13
+11       Students with Disabilities            NaN          24      23   95.83             4.35
+12                         Homeless            NaN          --      --      --               --,   Suspensions and Expulsions for the School  2016-17  2017-18  2018-19
+0                          Suspensions Rate      0.4      0.2      0.8
+1                           Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the District  2016-17  2017-18  2018-19
+0                            Suspensions Rate      0.6      0.7      0.8
+1                             Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the State  2016-17  2017-18  2018-19
+0                         Suspensions Rate      3.6      3.5      3.5
+1                          Expulsions Rate      0.1      0.1      0.1,                    Unnamed: 0  Title  Ratio
+0  Academic Counselor*-------    NaN  306.0,                                            Unnamed: 0 Number of Full-Time Equivalent
+0                                               Title                            NaN
+1                                                 NaN                          (FTE)
+2   Counselor (Social/Behavioral or Career Develop...                            1.0
+3                   Library Media Teacher (Librarian)                            NaN
+4     Library Media Services Staff (Paraprofessional)                            NaN
+5                                 Psychologist-------                             .6
+6                                Social Worker-------                            NaN
+7                                        Nurse-------                             .5
+8                  Speech/Language/Hearing Specialist                             .6
+9           Resource Specialist (non-teaching)-------                             .8
+10                                       Other-------                            3.0,    Unnamed: 0  2016-17 2016-17.1 2016-17.2 2016-17.3  2017-18 2017-18.1 2017-18.2 2017-18.3  2018-19 2018-19.1 2018-19.2 2018-19.3
+0         NaN  Average      # of      # of      # of  Average      # of      # of      # of  Average      # of      # of      # of
+1       Grade      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+2         NaN    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*
+3       Level      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+4         NaN     Size      Size      Size      Size     Size      Size      Size      Size     Size      Size      Size      Size
+5         NaN      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+
+6           K       21         1         3       NaN       22       NaN         3       NaN       18         2         1       NaN
+7         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+8           1       23       NaN         2       NaN       23       NaN         2       NaN       19         2       NaN       NaN
+9         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+10          2       20         2       NaN       NaN       19         2       NaN       NaN       24       NaN         2       NaN
+11        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+12          3       18         2       NaN       NaN       18         2       NaN       NaN       19         2       NaN       NaN
+13        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+14          4       22         1         1       NaN       19         1         1       NaN       15         1       NaN       NaN
+15        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+16          5       25       NaN         2       NaN       25       NaN         2       NaN       25       NaN         2       NaN
+17        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+18          6       19         2         1       NaN       21         1         1       NaN       19         2         1       NaN
+19        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+20    Other**      NaN       NaN       NaN       NaN        9         2       NaN       NaN       10         1       NaN       NaN,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...      NaN      NaN      NaN,                        Unnamed: 0 Unnamed: 1  State Average for                 Unnamed: 2  Unnamed: 3 Unnamed: 4      Unnamed: 5     Average
+0                             NaN   District                NaN                        NaN         NaN        NaN             NaN         NaN
+1                        Category        NaN  Districts In Same                Level Total  Restricted        NaN    Unrestricted     Teacher
+2                             NaN     Amount                NaN                        NaN         NaN        NaN             NaN         NaN
+3                             NaN        NaN           Category                        NaN         NaN        NaN             NaN      Salary
+4        Beginning Teacher Salary    $50,150            $45,741    School Site- $13,142.39   $4,644.15        NaN       $8,498.25  $65,626.00
+5        Mid-Range Teacher Salary    $75,662            $81,840  -D--is--t-r ict------ N/A         NaN        N/A     $166,094,33  $78,751.00
+6          Highest Teacher Salary   $100,783           $102,065         S- tate------- N/A         NaN        N/A  $7,45.0661. 64  $82,663.00
+7   Average Principal Salary (ES)   $134,097           $129,221                        NaN         NaN        NaN             NaN         NaN
+8   Average Principal Salary (MS)         $0           $132,874                        NaN         NaN        NaN             NaN     Average
+9                             NaN        NaN                NaN        Percent Differences         NaN        NaN    Unrestricted     Teacher
+10  Average Principal Salary (HS)         $0           $128,660                        NaN         NaN        NaN             NaN         NaN
+11                            NaN        NaN                NaN                        NaN         NaN        NaN             NaN      Salary
+12          Superintendent Salary   $299,627           $224,581                        NaN         NaN        NaN             NaN         NaN,                  Unnamed: 0 Unnamed: 1  State Average for             Unnamed: 2  Unnamed: 3  Unnamed: 4      Unnamed: 5     Average
+0                       NaN   District                NaN                    NaN         NaN         NaN             NaN         NaN
+1                  Category        NaN  Districts In Same                  Level       Total  Restricted    Unrestricted     Teacher
+2                       NaN     Amount                NaN                    NaN         NaN         NaN             NaN         NaN
+3                       NaN        NaN           Category                    NaN         NaN         NaN             NaN      Salary
+4  Beginning Teacher Salary    $50,150            $45,741           School Site-  $13,142.39   $4,644.15       $8,498.25  $65,626.00
+5  Mid-Range Teacher Salary    $75,662            $81,840  -D--is--t-r ict------         N/A         N/A     $166,094,33  $78,751.00
+6    Highest Teacher Salary   $100,783           $102,065         S- tate-------         N/A         N/A  $7,45.0661. 64  $82,663.00,    Average Principal Salary (MS)        $0  $132,874            Unnamed: 0    Unnamed: 1  Average
+0                            NaN       NaN       NaN   Percent Differences  Unrestricted  Teacher
+1  Average Principal Salary (HS)        $0  $128,660                   NaN           NaN      NaN
+2                            NaN       NaN       NaN                   NaN           NaN   Salary
+3          Superintendent Salary  $299,627  $224,581                   NaN           NaN      NaN
+4                            NaN       NaN       NaN  School Site/District        -200.0    -16.4
+5                            NaN       NaN       NaN    School Site/ State         -30.4    -20.9,                    Unnamed: 0 Unnamed: 1         Unnamed: 2                           School Site/ State -30.4  -20.9
+0                         NaN        NaN  State Average for                                                NaN    NaN
+1                         NaN   District                NaN   Note: Cells with N/A values do not require data.    NaN
+2  Percent of District Budget        NaN  Districts In Same                                                NaN    NaN
+3                         NaN     Amount                NaN                                                NaN    NaN
+4                         NaN        NaN           Category  The California Department of Education issued ...    NaN
+5            Teacher Salaries        37%                36%  2018, regarding how to calculate school-level ...    NaN
+6                         NaN        NaN                NaN                  reported on 2018-19 report cards.    NaN
+7     Administrative Salaries         5%                 5%                                                NaN    NaN]

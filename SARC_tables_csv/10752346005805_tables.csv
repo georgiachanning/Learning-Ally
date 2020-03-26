@@ -1,0 +1,354 @@
+[   La ley estatal requiere que cada escuela en el estado de California publique                              Unnamed: 0 Porcentaje de Inscripción
+0                                                 NaN                                                 Grupo Estudiantil                       NaN
+1   un informe de responsabilidad escolar (SARC, p...                                                               NaN                     Total
+2   el 1 de febrero de cada año. El SARC contiene ...                                                     Afroamericano                       NaN
+3   condición y desempeño de cada escuela pública ...                                                               NaN                       NaN
+4                                                 NaN                            Nativos americanos o nativos de Alaska                       NaN
+5   fórmula de financiamiento bajo control local (...                                                               NaN                       NaN
+6   todas las agencias educativas locales (LEA, po...                                                          Asiático                       NaN
+7   requeridas preparar un plan de responsabilidad...                                                          Filipino                       NaN
+8   por sus siglas en inglés), que describe como i...                                                               NaN                       NaN
+9                                                 NaN                                                  Hispano o Latino                      99.4
+10  anuales específicas a la escuela para todos lo...                                                               NaN                       NaN
+11  específicas para abordar prioridades estatales...                             Nativo de Hawái o Isleño del Pacífico                       NaN
+12  reportados en un LCAP debe ser consistente con...                                                             White                       0.6
+13                                           el SARC.                                                               NaN                       NaN
+14                                                NaN                                        Dos o más orígenes étnicos                       NaN
+15  • Para mayores informes sobre los requisitos d...                                                               NaN                       NaN
+16  consultar la página web del SARC del Departame...                                    De escasos recursos económicos                      94.4
+17     California (CDE, por sus siglas en inglés), en                                            Estudiantes del inglés                      78.3
+18                  https://www.cde.ca.gov/ta/ac/sa/.                                        Alumnos con discapacidades                       8.7
+19  • Para más información sobre el LCFF o LCAP, c...                                                               NaN                       NaN
+20        de CDE en https://www.cde.ca.gov/fg/aa/lc/.                                       Jóvenes de crianza temporal                       NaN
+21  • Si los padres y el público general desean re...                                                        Indigentes                      19.9,                         Unnamed: 0  Nivel de Año  Cantidad de Alumnos  ...       la.1 prioridad  Unnamed: 1
+0                              NaN           NaN                  NaN  ...        NaN       NaN         NaN
+1                           Kínder           NaN                 15.0  ...  asignados       NaN           y
+2                         1° Grado           NaN                 19.0  ...        NaN       NaN         NaN
+3                         2° Grado           NaN                 19.0  ...        NaN       NaN         NaN
+4                              NaN           NaN                  NaN  ...        NaN       NaN         NaN
+5                         3° Grado           NaN                 16.0  ...        NaN       NaN         NaN
+6                              NaN           NaN                  NaN  ...        NaN       NaN         NaN
+7                         4° Grado           NaN                 17.0  ...        NaN       NaN         NaN
+8                              NaN           NaN                  NaN  ...        NaN     19-20         NaN
+9                         5° Grado           NaN                 19.0  ...        NaN       NaN         NaN
+10                        6° Grado           NaN                 22.0  ...          6         6         NaN
+11                        7° Grado           NaN                 21.0  ...          3         3         NaN
+12                        8° Grado           NaN                 13.0  ...        NaN       NaN         NaN
+13                             NaN           NaN                  NaN  ...          0         0         NaN
+14    Primaria sin división de año           NaN                  NaN  ...        NaN       NaN         NaN
+15                        9° Grado           NaN                  NaN  ...        NaN       NaN         NaN
+16                       10° Grado           NaN                  NaN  ...        NaN     19-20         NaN
+17                             NaN           NaN                  NaN  ...        NaN       NaN         NaN
+18                       11° Grado           NaN                  NaN  ...        NaN       NaN         NaN
+19                             NaN           NaN                  NaN  ...          ♦       NaN         NaN
+20                       12° Grado           NaN                  NaN  ...        NaN       NaN         NaN
+21                             NaN           NaN                  NaN  ...          ♦       NaN         NaN
+22  Secundaria sin división de año           NaN                  NaN  ...        NaN       NaN         NaN
+23                             NaN           NaN                  NaN  ...        NaN       NaN         NaN
+24               Inscripción Total           NaN                161.0  ...          ♦       NaN         NaN
+
+[25 rows x 10 columns],                         10° Grado  Unnamed: 0 Acreditaciones Docentes para Distrito Escolar 17-18 18-19  19-20
+0                             NaN         NaN                       Unificado Golden Plains   NaN   NaN    NaN
+1                       11° Grado         NaN                                           NaN   NaN   NaN    NaN
+2                             NaN         NaN                       Con certificación total     ♦     ♦    NaN
+3                       12° Grado         NaN                                           NaN   NaN   NaN    NaN
+4                             NaN         NaN                       Sin certificación total     ♦     ♦    NaN
+5  Secundaria sin división de año         NaN                                           NaN   NaN   NaN    NaN
+6                             NaN         NaN              Enseñando fuera de su materia de   NaN   NaN    NaN
+7               Inscripción Total       161.0                                           NaN     ♦     ♦    NaN
+8                             NaN         NaN                                   competencia   NaN   NaN    NaN,                      Indicador  17-18  18-19  19-20
+0  Maestros de Estudiantes del    NaN    NaN    NaN
+1                          NaN    0.0    0.0    0.0
+2                       Inglés    NaN    NaN    NaN
+3        Total de asignaciones    NaN    NaN    NaN
+4                          NaN    0.0    0.0    0.0
+5     incorrectas de maestros*    NaN    NaN    NaN
+6    Puestos docentes vacantes    0.0    0.0    0.0,      Área del Currículo Básico Libros de Texto y Otros Materiales Instructivos/Año de Adopción
+0   Lectura/Artes Lingüísticas  Benchmark Advance, Benchmark Education Company...             
+1                          NaN                                   Adoptado en 2018             
+2                          NaN                                                NaN             
+3                          NaN  California Reading And Language; Pearson Prent...             
+4                          NaN                                   Adoptado en 2010             
+5                          NaN                                                NaN             
+6                          NaN  Language Central/ELD, Pearson Prentice Hall (6...             
+7                          NaN                                   Adoptado en 2010             
+8                          NaN                                                NaN             
+9                          NaN  Porcentaje de alumnos a quienes no se les asig...             
+10                         NaN                             propio libro de texto:             
+11                         NaN                                                NaN             
+12                 Matemáticas  Kínder-6to año, Houghton Mifflin Harcourt, CA ...             
+13                         NaN                                   Adoptado en 2015             
+14                         NaN                                                NaN             
+15                         NaN  7mo-8vo año, Houghton Mifflin Harcourt, CA GO ...             
+16                         NaN                                Adoptado en en 2015             
+17                         NaN                                                NaN             
+18                         NaN  Porcentaje de alumnos a quienes no se les asig...             
+19                         NaN                             propio libro de texto:             
+20                         NaN                                                NaN             
+21                    Ciencias  California Science, Scott Foresman (Kínder-5to...             
+22                         NaN                                   Adoptado en 2007             
+23                         NaN                                                NaN             
+24                         NaN  California Earth, Life & Physical Science, Pre...             
+25                         NaN                                   Adoptado en 2008             
+26                         NaN                                                NaN             
+27                         NaN  Porcentaje de alumnos a quienes no se les asig...             
+28                         NaN                             propio libro de texto:             
+29                         NaN                                                NaN             
+30  Historia-Ciencias Sociales  History-Social Science for California, Scott-F...             
+31                         NaN                                      Adoptado 2006             
+32                         NaN                                                NaN             
+33                         NaN  History-Social Science, Glencoe-McGraw-Hill (6...             
+34                         NaN                                      Adoptado 2006             
+35                         NaN                                                NaN             
+36                         NaN  Porcentaje de alumnos a quienes no se les asig...             
+37                         NaN                             propio libro de texto:             ,                                            Unnamed: 0                               Unnamed: 1  Unnamed: 2  Reparación Necesaria y Acción Tomada o
+0                                                 NaN  Sistema Inspeccionado Estatus de Reparo         NaN                                     NaN
+1                                                 NaN                                      NaN         NaN                                Planeada
+2                                           Sistemas:                                   XBueno         NaN                                     NaN
+3   Fugas de gas, Calefacción, Ventilación y Aire ...                                      NaN         NaN                                     NaN
+4           (HVAC)/Sistemas Mecánicos, Alcantarillado                                      NaN         NaN                                     NaN
+5                                           Interior:                               XAceptable         NaN   EDIFICIO DE ADMINISTRACIÓN: 4. LOSETA
+6                              Superficies Interiores                                      NaN         NaN   DE TECHO ESTA SUELTA 7. EL DIFUSOR DE
+7                                                 NaN                                      NaN         NaN                         LUZ ESTA SUELTO
+8                                                 NaN                                      NaN         NaN        BAÑOS DE NIÑOS: 4. LOSETAS DE LA
+9                                                 NaN                                      NaN         NaN       PARED ESTÁN QUEBRADAS/HACEN FALTA
+10                                                NaN                                      NaN         NaN                           EN LA ENTRADA
+11                                                NaN                                      NaN         NaN         SALÓN DE MULTI USOS/CAFÉ: 4. LA
+12                                                NaN                                      NaN         NaN         MOLDURA DE PLASTICO FALTA EN LA
+13                                                NaN                                      NaN         NaN                                   PARED
+14                                                NaN                                      NaN         NaN       OFICINA: 4. FALTA LOSETA DE TECHO
+15                                                NaN                                      NaN         NaN           SALÓN 14: 4. LOSETAS DE TECHO
+16                                                NaN                                      NaN         NaN                       MANCHADAS DE AGUA
+17                                                NaN                                      NaN         NaN           SALÓN 15: 4. LOSETAS DE TECHO
+18                                                NaN                                      NaN         NaN         MANCHADAS DE AGUA 14. RIESGO DE
+19                                                NaN                                      NaN         NaN   TROPIEZO EN LOS PASILLO HACIA EL ÁREA
+20                                                NaN                                      NaN         NaN                               DE JUEGOS
+21                                                NaN                                      NaN         NaN      SALÓN 16/BIBLIOTECA: 4. LOSETAS DE
+22                                                NaN                                      NaN         NaN                 TECHO MANCHADAS DE AGUA
+23                                                NaN                                      NaN         NaN                   SALÓN 17/LABORATIO DE
+24                                                NaN                                      NaN         NaN         COMPUTADORA: 4 LOSETAS DE TECHO
+25                                                NaN                                      NaN         NaN                       MANCHADAS DE AGUA
+26                                                NaN                                      NaN         NaN       SALÓN 22: 4. HACE FALTA LOSETA DE
+27                                                NaN                                      NaN         NaN                                   TECHO
+28                                                NaN                                      NaN         NaN      SALÓN 3/KÍNDER: 4 LOSETAS DE TECHO
+29                                                NaN                                      NaN         NaN          MANCHADAS DE AGUA ARRIBA DE LA
+30                                                NaN                                      NaN         NaN      UNIDAD DE ESTANTE Y VENTANA 11. LA
+31                                                NaN                                      NaN         NaN      PINTURA ESTA ASTILLADA EN EL PISO.
+32                                                NaN                                      NaN         NaN  SALÓN 8: 4. LAS LOSETAS DEL PISO TIENE
+33                                                NaN                                      NaN         NaN     HOYIS 11. LA PINTURA ESTA ASTILLADA
+34                                                NaN                                      NaN         NaN                             EN EL PISO.
+35                                                NaN                                      NaN         NaN            SALÓN 6: 4. LOSETAS DE TECHO
+36                                                NaN                                      NaN         NaN          MANCHADAS DE AGUA 12. CEMENTRO
+37                                                NaN                                      NaN         NaN         AGRIETADO EN LA PUERTA TRASERA/
+38                                                NaN                                      NaN         NaN  RIESGO DE TROPIEZO // 18. 4 LOSETAS DE
+39                                                NaN                                      NaN         NaN    TECHO ESTAN SUELTAS O HACEN FALTA 7.
+40                                                NaN                                      NaN         NaN       2 DIFUSOR DE LUS ESTAN AGRIETADOS
+41                                                NaN                                      NaN         NaN                              CON HOYOS.
+42                                                NaN                                      NaN         NaN        SALÓN DE MAESTROS: 4. LOSETAS DE
+43                                                NaN                                      NaN         NaN           TECHO MANCHADAS DE AGUA  7. 5,                                        Unnamed: 0  Unnamed: 1          DIFUSOR DE LUZ HACEN FALTA/ 1
+0                                             NaN         NaN                                SUELTOS
+1                                             NaN         NaN                                    NaN
+2                                Limpieza: XBueno         NaN           SALÓN 4: 4. LOSETAS DE TECHO
+3   Limpieza General, Invasión de Insectos/Plagas         NaN          MANCHADAS DE AGUA 11. PINTURA
+4                                             NaN         NaN                 ASTILLADA EN LA PUERTA
+..                                            ...         ...                                    ...
+57                                            NaN         NaN                         APROPIADAMENTE
+58                                            NaN         NaN  SALÓN 2 / KÍNDER: 13. PINTURA SE ESTA
+59                                            NaN         NaN              DESPEGANDO EN LA ENTRADA/
+60                                            NaN         NaN      MANCHAS DE AGUA EN LAS LOSETAS DE
+61                                            NaN         NaN                                  TECHO
+
+[62 rows x 3 columns],                           Unnamed: 0  Unnamed: 1      SALÓN 6: 4. LOSETAS DE TECHO ESTAN
+0                                NaN         NaN           MANCHADAS DE AGUA 12. CEMENTO
+1                                NaN         NaN             ESTA AGRIETADO EN LA PUERTA
+2                                NaN         NaN             TRASERA/ RIESGO DE TROPIEZO
+3                                NaN         NaN                                     NaN
+4                   Exterior: XBueno         NaN        BAÑO DE NIÑOS: 14. 2 HACEN FALTA
+5   Patio de Recreo/Plantel Escolar,         NaN    CUBIERTAS DE LUZ  EN EL CORREDOR 15.
+6   Ventanas/Puertas/Portones/Cercos         NaN      LA PUERTA NO CIERRA APROPIADAMENTE
+7                                NaN         NaN       BAÑO DE NIÑAS: 14. 1o FUENTE PARA
+8                                NaN         NaN        BEBER AGUA NO ESTRA FUNCIONANDO,
+9                                NaN         NaN                          EN EL CORREDOR
+10                               NaN         NaN       HOGAR EC/ADULTO ED/ 19: 12. HOYOS
+11                               NaN         NaN    EN EL ALERO EN LA ENTRADA 15. PUERTA
+12                               NaN         NaN                NO CIERRA APROPIADAMENTE
+13                               NaN         NaN           SALÓN 15: 4. LOSETAS DE TECHO
+14                               NaN         NaN         MANCHADAS DE AGUA 14. RIESGO DE
+15                               NaN         NaN        TROPIEZO EN EL CORREDOR HACIA EL
+16                               NaN         NaN                          ÁREA DE JUEGOS
+17                               NaN         NaN  SALÓN 20: 14. RIESGO DE TROPIEZO EN EL
+18                               NaN         NaN                                CORREDOR
+19                               NaN         NaN    SALÓN 5: 11. PINTURA DEL MARCO DE LA
+20                               NaN         NaN     PUERTA ESTA ASTILLADA 15. LA PUERTA
+21                               NaN         NaN         ESTA DEFORMADA/SUELTA/NO CIERRA
+22                               NaN         NaN                         APROPIADAMENTE.
+23                               NaN         NaN                                     NaN
+24             Clasificación General         NaN                                     NaN
+25                            XBueno         NaN                                     NaN
+26                        ----------         NaN                                     NaN,     Unnamed: 0 Unnamed: 1 Escuela Escuela.1 Distrito Distrito.1 Estado Estado.1
+0          NaN    Materia     NaN       NaN      NaN        NaN    NaN      NaN
+1          NaN        NaN   17-18     18-19    17-18      18-19  17-18    18-19
+2          ELA        NaN      23        30       20         20     50       50
+3  Matemáticas        NaN      24        23       12         12     38       39,   Unnamed: 0 Escuela Escuela.1 Distrito Distrito.1 Estado Estado.1
+0    Materia     NaN       NaN      NaN        NaN    NaN      NaN
+1        NaN   17-18     18-19    17-18      18-19  17-18    18-19
+2    Ciencia     N/A       N/A      N/A        N/A    N/A      N/A,   Nivel de Año  4 de 6  5 de 6  6 de 6
+0      ---5---    42.1    10.5    10.5
+1      ---7---    20.0    15.0    15.0,                                            Unnamed: 0         Unnamed: 1   Unnamed: 2         Unnamed: 3         Unnamed: 4    Porcentaje
+0                                                 NaN                NaN  Inscripción           Cantidad         Porcentaje           NaN
+1                                                 NaN  Grupo Estudiantil          NaN                NaN                NaN  Cumpliendo o
+2                                                 NaN                NaN        Total  Realizando Prueba  Realizando Prueba           NaN
+3                                                 NaN                NaN          NaN                NaN                NaN     Superando
+4                                   Todos los alumnos                NaN          110                106              96.36         30.19
+5                                          Masculinos                NaN           53                 50              94.34         30.00
+6                                           Femeninas                NaN           57                 56              98.25         30.36
+7                                      Afroamericanos                NaN          NaN                NaN                NaN           NaN
+8                 Nativo Americano o Nativo de Alaska                NaN          NaN                NaN                NaN           NaN
+9                                            Asiático                NaN          NaN                NaN                NaN           NaN
+10                                           Filipino                NaN          NaN                NaN                NaN           NaN
+11                                   Hispano o Latino                NaN          110                106              96.36         30.19
+12              Nativo de Hawái o Isleño del Pacífico                NaN          NaN                NaN                NaN           NaN
+13                         Dos o más orígenes étnicos                NaN          NaN                NaN                NaN           NaN
+14                     De escasos recursos económicos                NaN          107                104              97.20         28.85
+15                             Estudiantes del inglés                NaN           95                 91              95.79         26.37
+16                         Alumnos con discapacidades                NaN           --                 --                 --            --
+17  Alumnos recibiendo servicios de educación migr...                NaN           14                 14             100.00         35.71
+18                        Jóvenes de crianza temporal                NaN          NaN                NaN                NaN           NaN
+19                                         Indigentes                NaN           13                 13             100.00          0.00,                                            Unnamed: 0         Unnamed: 1   Unnamed: 2         Unnamed: 3         Unnamed: 4    Porcentaje
+0                                                 NaN                NaN  Inscripción           Cantidad         Porcentaje           NaN
+1                                                 NaN  Grupo Estudiantil          NaN                NaN                NaN  Cumpliendo o
+2                                                 NaN                NaN        Total  Realizando Prueba  Realizando Prueba           NaN
+3                                                 NaN                NaN          NaN                NaN                NaN     Superando
+4                                   Todos los alumnos                NaN          110                107              97.27         23.36
+5                                          Masculinos                NaN           53                 51              96.23         21.57
+6                                           Femeninas                NaN           57                 56              98.25         25.00
+7                                      Afroamericanos                NaN          NaN                NaN                NaN           NaN
+8                 Nativo Americano o Nativo de Alaska                NaN          NaN                NaN                NaN           NaN
+9                                            Asiático                NaN          NaN                NaN                NaN           NaN
+10                                           Filipino                NaN          NaN                NaN                NaN           NaN
+11                                   Hispano o Latino                NaN          110                107              97.27         23.36
+12              Nativo de Hawái o Isleño del Pacífico                NaN          NaN                NaN                NaN           NaN
+13                         Dos o más orígenes étnicos                NaN          NaN                NaN                NaN           NaN
+14                     De escasos recursos económicos                NaN          107                105              98.13         21.90
+15                             Estudiantes del inglés                NaN           95                 92              96.84         19.57
+16                         Alumnos con discapacidades                NaN           --                 --                 --            --
+17  Alumnos recibiendo servicios de educación migr...                NaN           14                 14             100.00         35.71
+18                        Jóvenes de crianza temporal                NaN          NaN                NaN                NaN           NaN
+19                                         Indigentes                NaN           13                 13             100.00          0.00,   Suspensiones y Expulsiones para la Escuela  2016-17  2017-18  2018-19
+0                       Tasa de Suspensiones      4.2      1.6      4.5
+1                        Tasa de Expulsiones      0.0      0.0      0.0,   Suspensiones y Expulsiones para el Distrito  2016-17  2017-18  2018-19
+0                        Tasa de Suspensiones      5.8      4.9      8.6
+1                         Tasa de Expulsiones      0.1      0.0      0.0,   Suspensiones y Expulsiones para el Estado  2016-17  2017-18  2018-19
+0                      Tasa de Suspensiones      3.6      3.5      3.5
+1                       Tasa de Expulsiones      0.1      0.1      0.1,                                            Unnamed: 0 Cantidad de FTE * Asignados a
+0                                               Cargo                           NaN
+1                                                 NaN                    la Escuela
+2   Orientador (Académico, Social/Conductual o Des...                           NaN
+3   Maestro/a de Medios Bibliotecarios (Biblioteca...                           NaN
+4   Personal de Servicios Bibliotecarios (Auxiliar...                           NaN
+5                                 Psicólogo/a--------                           NaN
+6                         Trabajador/a Social--------                           NaN
+7                                 Enfermera/o--------                           NaN
+8   Especialista en Problemas de Audición/Lenguaje...                           NaN
+9      Especialista de Recursos (no docente) --------                           NaN
+10                                       Otro--------                           NaN,                   2016-17 2016-17.1 2016-17.2 2016-17.3   2017-18 2017-18.1 2017-18.2 2017-18.3   2018-19 2018-19.1 2018-19.2 2018-19.3
+0                  Tamaño      # de      # de      # de    Tamaño      # de      # de      # de    Tamaño      # de      # de      # de
+1   Nivel de Año Promedio   Clases*   Clases*   Clases*  Promedio   Clases*   Clases*   Clases*  Promedio   Clases*   Clases*   Clases*
+2                      de    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño
+3                   Clase      1-20     21-32       33+       NaN      1-20     21-32       33+       NaN      1-20     21-32       33+
+4               Kínder 20         1       NaN       NaN        21       NaN         1       NaN        15         1       NaN       NaN
+5                     NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+6                   1° 15         1       NaN       NaN        25       NaN         1       NaN        19         1       NaN       NaN
+7                     NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+8                   2° 16         1       NaN       NaN        15         1       NaN       NaN        19         1       NaN       NaN
+9                     NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+10                  3° 23       NaN         1       NaN        15         1       NaN       NaN        16         1       NaN       NaN
+11                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+12                  4° 21       NaN         1       NaN        24       NaN         1       NaN        17         1       NaN       NaN
+13                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+14                  5° 21       NaN         1       NaN        19         1       NaN       NaN        19         1       NaN       NaN
+15                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+16                  6° 13         2       NaN       NaN        21       NaN         1       NaN        22       NaN         1       NaN
+17                    NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+18              Otro** 12         1       NaN       NaN         9         1       NaN       NaN       NaN       NaN       NaN       NaN,        Unnamed: 0   2016-17 2016-17.1 2016-17.2 2016-17.3   2017-18 2017-18.1 2017-18.2 2017-18.3   2018-19 2018-19.1 2018-19.2 2018-19.3
+0             NaN    Tamaño      # de      # de      # de    Tamaño      # de      # de      # de    Tamaño      # de      # de      # de
+1         Materia  Promedio   Clases*   Clases*   Clases*  Promedio   Clases*   Clases*   Clases*  Promedio   Clases*   Clases*   Clases*
+2             NaN        de    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño    Tamaño
+3             NaN     Clase      1-20     21-32       33+       NaN      1-20     21-32       33+       NaN      1-20     21-32       33+
+4     Matemáticas       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN
+5  Ciencia Social       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN       NaN,                                               Medida  2017-18  2018-19  2019-20
+0  Cantidad de días escolares dedicados a Formaci...       10       10       10,                         Unnamed: 0 Unnamed: 1   Promedio Estatal                                     Fiscal 2017-18 Unnamed: 2 Unnamed: 3  Unnamed: 4
+0                              NaN   Cantidad  Para Distritos en                                                NaN        NaN        NaN      Sueldo
+1                        Categoría        NaN                NaN                                                NaN        NaN        NaN         NaN
+2                              NaN  Distrital           la Misma                                        Nivel Total   Limitado  Ilimitado    Promedio
+3                              NaN        NaN          Categoría                                                NaN        NaN        NaN     Docente
+4   Sueldo de Maestro Principiante    $43,071            $46,208                             Sitio Escolar-- $6,295     $1,252     $5,043     $55,581
+5    Sueldo de Maestro en el Nivel        NaN                NaN                          D---is--t rito------- N/A        N/A     $6,258  $64,007.00
+6                              NaN    $66,644            $72,218                                                NaN        NaN        NaN         NaN
+7                       Intermedio        NaN                NaN                                  Estado------- N/A        N/A  $7,506.64  $72,949.00
+8    Sueldo de Maestro en el Nivel        NaN                NaN                                                NaN        NaN        NaN         NaN
+9                              NaN    $91,136            $92,742                                                NaN        NaN        NaN         NaN
+10                        Superior        NaN                NaN                                                NaN        NaN        NaN      Sueldo
+11     Sueldo Promedio de Director        NaN                NaN                              Diferencia Porcentual        NaN  Ilimitado    Promedio
+12                             NaN    $93,079           $134,864                                                NaN        NaN        NaN         NaN
+13                      (primaria)        NaN                NaN                                                NaN        NaN        NaN     Docente
+14     Sueldo Promedio de Director        NaN                NaN                             Sitio Escolar/Distrito        NaN      -19.4         2.7
+15                             NaN    $93,079           $118,220                                                NaN        NaN        NaN         NaN
+16                    (secundaria)        NaN                NaN                               Sitio Escolar/Estado        NaN        7.5       -11.8
+17     Sueldo Promedio de Director        NaN                NaN  Nota: Celdas con valor de “N/A” no requieren d...        NaN        NaN         NaN
+18                             NaN    $93,079           $127,356                                                NaN        NaN        NaN         NaN
+19                  (preparatoria)        NaN                NaN                                                NaN        NaN        NaN         NaN
+20                             NaN        NaN                NaN  El Departamento de Educación de California pro...        NaN        NaN         NaN
+21      Sueldo del Superintendente   $159,359           $186,823                                                NaN        NaN        NaN         NaN,                   Unnamed: 0 Unnamed: 1   Promedio Estatal
+0  Porcentaje de Presupuesto   Cantidad  Para Distritos en
+1                  Distrital  Distrital           la Misma
+2                        NaN        NaN          Categoría
+3        Sueldos de Maestros        28%                33%
+4    Sueldos Administrativos         6%                 6%,                              Sueldos de Maestros 28%  33%                                         Unnamed: 0
+0                         Sueldos Administrativos 6%   6%                                                NaN
+1  * Puede encontrar mayores informes sobre los s...  NaN                                                NaN
+2  CDE bajo Beneficios y Salarios Certificados en...  NaN                                                NaN
+3                                                NaN  NaN                                                NaN
+4                     Tipos de Servicios Financiados  NaN                                                NaN
+5  Varios programas y servicios suplementarios so...  NaN                                                NaN
+6                                    • Título I, III  NaN  • Programa Extracurricular del Siglo XXI 9no-1...
+7     • Título I, Servicios Escolares Suplementarios  NaN      • Ayuda con Apoyo para Maestros Principiantes
+8     • Programa Extracurricular ASES kínder-8vo año  NaN                    • Reducción del Tamaño de Clase
+9               • Educación Migrante kínder-12vo año  NaN                             • Mejoramiento Escolar,   Tasa para Escuela Primaria Cantua  2015-16  2016-17  2017-18            (CSU)/Universidad de California (UC)  Unnamed: 0
+0                               NaN      NaN      NaN      NaN                    Medida del curso para UC/CSU  Porcentaje
+1                     Tasa Abandono      NaN      NaN      NaN                                             NaN         NaN
+2                               NaN      NaN      NaN      NaN  Alumnos matriculados en cursos requeridos para         NaN
+3                   Tasa Graduación      NaN      NaN      NaN                                             NaN           0,                              Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3                    Medida del curso para UC/CSU  Porcentaje
+0                         Tasa Abandono        NaN        NaN        NaN                                             NaN         NaN
+1                                   NaN        NaN        NaN        NaN  Alumnos matriculados en cursos requeridos para         NaN
+2                       Tasa Graduación        NaN        NaN        NaN                                             NaN         0.0
+3                                   NaN        NaN        NaN        NaN              su admisión a UC/CSU en el 2018-19         NaN
+4                                   NaN        NaN        NaN        NaN  Egresados quienes completaron todos los cursos         NaN
+5  Tasa para Distrito Escolar Unificado    2015-16    2016-17    2017-18      requeridos para su admisión a UC/CSU en el         NaN
+6                         Golden Plains        NaN        NaN        NaN                                         2017-18         NaN,   Tasa para Distrito Escolar Unificado  2015-16  2016-17  2017-18 requeridos para su admisión a UC/CSU en el
+0          Golden Plains Tasa Abandono      NaN      NaN      NaN                                    2017-18
+1                                  NaN      NaN      NaN      NaN                                        NaN
+2                      Tasa Graduación      NaN      NaN      NaN                                        NaN,                                            Unnamed: 0       Unnamed: 1 Unnamed: 2  Unnamed: 3            Unnamed: 4   Unnamed: 5     Unnamed: 6
+0                                                 NaN              NaN        NaN         NaN                   NaN  Cantidad de  Porcentaje de
+1                        Tasa para California 2015-16          2016-17    2017-18         NaN               Materia    Cursos AP        Alumnos
+2                                       Tasa Abandono              NaN        NaN         NaN                   NaN   Ofrecidos*   en Cursos AP
+3                                     Tasa Graduación              NaN        NaN         NaN           Computación          NaN            N/A
+4   Para la fórmula para calcular la tasa ajustada...              NaN        NaN         NaN            Inglés----          NaN            N/A
+5   17 y 2017-18, consulte el documento Definicion...              NaN        NaN         NaN                   NaN          NaN            NaN
+6   2018-19 ubicado en el sitio web SARC en https:...              NaN        NaN         NaN  Bellas artes y artes          NaN            N/A
+7                                                 NaN              NaN        NaN         NaN             escénicas          NaN            NaN
+8   C Participación en Educación para Carrera Técnica              NaN        NaN         NaN     Idioma extranjero          NaN            N/A
+9                                                 NaN    Participación        NaN         NaN           Matemáticas          NaN            N/A
+10                                             Medida              NaN        NaN         NaN                   NaN          NaN            NaN
+11                                                NaN  en Programa CTE        NaN         NaN          Ciencias----          NaN            N/A
+12          Cantidad de alumnos que participan en CTE              NaN          0         NaN     Ciencias sociales          NaN            N/A
+13        % de alumnos que completaron un programa de              NaN        NaN         NaN      Todos los cursos          NaN            NaN,                                           Unnamed: 0    Participación                                    Matemáticas N/A
+0                                             Medida              NaN                                                NaN
+1                                                NaN  en Programa CTE                                   Ciencias---- N/A
+2          Cantidad de alumnos que participan en CTE                0                              Ciencias sociales N/A
+3        % de alumnos que completaron un programa de              NaN                                                NaN
+4                                                NaN                0                                   Todos los cursos
+5        CTE y obtuvieron el diploma de preparatoria              NaN  Nota: Celdas con valor de “N/A” no requieren d...
+6  % de cursos CTE secuenciales o articulados ent...              NaN                                                NaN
+7           escuela y las instituciones de educación                0  * Donde hay matriculas estudiantiles en el cur...
+8                                     postsecundaria              NaN                                                NaN]

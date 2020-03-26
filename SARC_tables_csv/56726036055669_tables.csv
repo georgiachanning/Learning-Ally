@@ -1,0 +1,192 @@
+[                 simi Valley unified school disTricT                                         Unnamed: 0
+0  101 W. Cochran Street •  Simi Valley, CA  9306...                                                NaN
+1                                                NaN                                                NaN
+2  Big sPrings elemenTary school\ra california Bu...                                                NaN
+3  3401 Big Springs Avenue, Simi Valley, CA 93063...                                                NaN
+4  school accounTaBiliTy rePorT card\r2018-19 sch...                                                NaN
+5  PrinciPal’s Message\rWelcome to Big Springs El...  Board of TrusTees\rDawn Smollen, President\rKa...,                                            Unnamed: 0 Unnamed: 1  ... Unnamed: 4                            Classroom Support
+0                               Student Enrollment by        NaN  ...        NaN                                          NaN
+1                       Student Group and Grade Level        NaN  ...        NaN                             Computer Support
+2                                             2018-19        NaN  ...        NaN                       Fundraising Activities
+3                                          % of Total       # of  ...        NaN                              Library Support
+4                Student Group Enrollment Grade Level   Students  ...        NaN                                  Room Parent
+5                                    Black or African        NaN  ...        NaN                                          NaN
+6                                                0.3%        NaN  ...        NaN                                          NaN
+7                               American Kindergarten         79  ...        NaN                                   Committees
+8                          American Indian or Grade 1         82  ...        NaN                                          NaN
+9                                                0.2%        NaN  ...        NaN  District English Learner Advisory Committee
+10                             Alaskan Native Grade 2         95  ...        NaN           English Learner Advisory Committee
+11                                Asian 13.8% Grade 3         91  ...        NaN                                          NaN
+12                              Filipino 1.3% Grade 4        101  ...        NaN                   Parent Teacher Association
+13                        Hawaiian or Pacific Grade 5         96  ...        NaN                          School Site Council
+14                                               0.2%        NaN  ...        NaN                                          NaN
+15                                   Islander Grade 6         50  ...        NaN                            School Activities
+16                   Hispanic or Latino 22.9% Grade 7        NaN  ...        NaN                                          NaN
+17  White 54.1% Parental Involvement – State Prior...        NaN  ...        NaN                         Back to School Night
+18                             Two or More Races 7.2%        NaN  ...        NaN                                    Book Fair
+19                                  Socioeconomically        NaN  ...        NaN                                          NaN
+20                                              17.8%        NaN  ...        NaN                          Family Picnic Night
+21                                      Disadvantaged        NaN  ...        NaN                                          NaN
+22                                                NaN        NaN  ...        NaN                            Family Game Night
+23                              English Learners 6.2%        NaN  ...        NaN                                          NaN
+24                                                NaN        NaN  ...        NaN                                 Family Dance
+25                                      Students with        NaN  ...        NaN                                          NaN
+26                                               6.6%        NaN  ...        NaN                                          NaN
+27                                       Disabilities        NaN  ...        NaN                         Family Reading Night
+28                                           Homeless        NaN  ...        NaN                                          NaN
+29                                              Total        NaN  ...        NaN                        Health & Fitness Week
+30                       Foster Youth 0.3% Enrollment        595  ...        NaN                                          NaN
+
+[31 rows x 7 columns],                                Assessments (SBAC) for students           in  Unnamed: 0  the  Unnamed: 1                                         Unnamed: 2
+0                               general education  population,          and         NaN  the         NaN  California Assessment of Student Performance a...
+1     California Alternate Assessments (CAAs) for          NaN          NaN         NaN  NaN         NaN                                       All Students
+2    students with the most significant cognitive          NaN          NaN         NaN  NaN         NaN  Percentage of Students Meeting or Exceeding th...
+3                     disabilities. Only eligible     students          NaN         NaN  may         NaN                                      BSES SVUSD CA
+4  participate in the administration of the CAAs.          NaN          NaN         NaN  NaN         NaN                17-18 18-19 17-18 18-19 17-18 18-19
+5                          CAAs items are aligned         with  alternative         NaN  NaN         NaN  Science (Grades 5, 8, & 10) N/A N/A N/A N/A N/...,                                       (ELA) and     mathematics,          and  ...                                         Unnamed: 0 Unnamed: 1 Unnamed: 2
+0  grades three through eight and grade eleven.              NaN          NaN  ...  California Assessment of Student Performance a...        NaN        NaN
+1                                    SBAC tests   assess student  performance  ...  Test Results in English Language Arts/Literacy...        NaN        NaN
+2                                  ELA/Literacy  and mathematics          NaN  ...                                                NaN        NaN        NaN
+3                             computer-adaptive            tests          and  ...  Percentage of Students Meeting or Exceeding th...        NaN        NaN
+4   tasks, and CAAs test items are aligned with              NaN          NaN  ...                                         BSES SVUSD         CA        NaN
+5                                   alternative      achievement    standards  ...                      17-18 18-19 17-18 18-19 17-18        NaN      18-19
+6                                  50are linked  with the Common          NaN  ...      English-Language Arts/Literacy 69 65 55 54 50        NaN        NaN
+7                                           NaN              NaN          NaN  ...                         Mathematics 62 62 43 43 38        NaN         39
+
+[8 rows x 9 columns],                          Unnamed: 0 CAASPP Test Results in ELA & Mathematics by Student Group (Grades 3-8)   Unnamed: 1   Unnamed: 2   Unnamed: 3
+0                               NaN                                            2018-19                              NaN          NaN          NaN
+1                               NaN                     English Language Arts/Literacy                      Mathematics          NaN          NaN
+2                               NaN  Total Number Percent Percent Not Percent Met T...                          Percent  Percent Not  Percent Met
+3                               NaN  Enrollment Tested Tested Tested or Exceeded En...                           Tested       Tested  or Exceeded
+4               All Students Tested                340 331 97.35% 2.65% 65.26% 340 329                           96.76%        3.24%       62.31%
+5                              Male                164 159 96.95% 3.05% 58.49% 164 157                           95.73%        4.27%       62.42%
+6                            Female                176 172 97.73% 2.27% 71.51% 176 172                           97.73%        2.27%       62.21%
+7         Black or African American                               -- -- -- -- -- -- --                               --           --           --
+8                             Asian                   53 53 100.00% 0.00% 73.58% 53 53                          100.00%        0.00%       75.47%
+9                          Filipino                               -- -- -- -- -- -- --                               --           --           --
+10               Hispanic or Latino                   65 65 100.00% 0.00% 50.77% 65 65                          100.00%        0.00%       46.15%
+11     Hawaiian or Pacific Islander                               -- -- -- -- -- -- --                               --           --           --
+12                            White                190 182 95.79% 4.21% 68.68% 190 180                           94.74%        5.26%       64.44%
+13                Two or More Races                    26 25 96.15% 3.85% 64.00% 26 25                           96.15%        3.85%       60.00%
+14  Socioeconomically Disadvantaged                    61 59 96.72% 3.28% 49.15% 61 59                           96.72%        3.28%       28.81%
+15                 English Learners                   31 31 100.00% 0.00% 58.06% 31 31                          100.00%        0.00%       48.39%
+16       Students with Disabilities                   32 27 84.38% 15.63% 25.93% 32 27                           84.38%       15.63%       25.93%
+17                     Foster Youth                               -- -- -- -- -- -- --                               --           --           --,                                         school news The CAASPP results shown in this report include overall results comparing the school, district
+0          Parents stay informed on upcoming events  and state scores as well as the school’s overa...                                            
+1          and school activities through Blackboard  shown only for subgroups with ten students or ...                                            
+2    Connect, email, flyers, principal newsletters,  that are blank in the tables, no students met ...                                            
+3           text messages, monthly PTA newsletters,  can be found on the California Department of E...                                            
+4         parent conferences, progress reports, the                                   Physical fitness                                            
+5              school marquee, Facebook, the school            In the spring of each year, Big Springs                                            
+6           website, Aeries Portal, and Parent Link  California Physical Fitness Test ResultsElemen...                                            
+7             (automated telephone message delivery  2017-18administer a physical fitness test to a...                                            
+8       system). Contact the PTA President, Joselyn  % of Standards Met:in grade five. The physical...                                            
+9   Shmaeff, or the Principal, Sean Platt, at (805)  each student’s ability to complete fitness tas...                                            
+10          520-6710 for more information on how to  in six major areas. Students who either meet o...                                            
+11         become involved in your child’s learning  exceed the standards in all six fitness areas ...                                            ,                                   provide adequate  space       for  ...                   Unnamed: 1  Unnamed: 2   from school, sexual harassment policy, and
+0   staff. District maintenance and site custodial    NaN       NaN  ...     Indoor Food Service Area           1  dress code policy. The school’s most recent
+1  staff ensure that the repairs necessary to keep    NaN       NaN  ...                      Library           1    school safety plan was reviewed, updated,
+2       the school in good condition are completed    NaN       NaN  ...  Multipurpose Room/Cafeteria           1   and discussed with school staff in October
+3                          in a timely manner. The    NaN  District  ...        Outdoor Covered Patio           1                                        2019.
+4     Board has adopted cleaning standards for all    NaN       NaN  ...                 Staff Lounge           1                                          NaN
+5     schools in the District.  A summary of these    NaN       NaN  ...              Staff Work Room           1                           school insPections
+6  standards is available at the school office, at    NaN       NaN  ...                Resource Room           1     On an annual basis, schools are required
+
+[7 rows x 9 columns],         Unnamed: 0 Unnamed: 1 Suspensions and Expulsions Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Number of School Days/Topics Dedicated
+0              NaN        NaN                 BSES SVUSD        NaN        NaN         CA        NaN      to Staff Development & Continuous
+1              NaN        NaN                        NaN        NaN        NaN        NaN        NaN                            Improvement
+2              NaN      16-17    17-18 18-19 16-17 17-18      18-19      16-17      17-18      18-19                                    NaN
+3  Suspensions (%)      0.10%    0.00% 1.20% 3.00% 1.40%      3.20%      3.60%      3.50%      3.50%                         2017-18 3 days
+4              NaN        NaN                        NaN        NaN        NaN        NaN        NaN       Math Standards & Implementation
+5   Expulsions (%)      0.00%    0.16% 0.00% 0.15% 0.12%      0.00%      0.09%      0.08%      0.10%             Medal of Honor Curriculum,        class size DistriBUtion Average Class Size and                              Renaissance Training
+0   The Class Size Distribution table in this repo...                        Digital Educator Institute
+1   illustrates the distribution of class sizes by...                             Intervention Training
+2        grade level, the average class size, and the                 Next Generation Science Standards
+3                                             Average                                                NaN
+4   number of classes that contain 1-20 students, ...                                        Technology
+5   21-32 students, and 33 or more students. Grade...                                     2019-20 3 days
+6   Calculations exclude classrooms of 50 or more ...                 Achieve 3000 & Suicide Prevention
+7                                  students. 1 26.0 3                                   Aeries Training
+8                                            2 27.0 4                               Assessment Training
+9                c UrricUlUM  & i nstrUction 3 26.0 4   BBURST Training Classroom Instruction That ...
+10                                           4 32.0 3                                                NaN
+11                         staff DeVeloPMent 5 34.0 3                               Digital Citizenship
+12   All training and curriculum development 6 30.0 2                ELA/ELD Textbook Adoption Training
+13                                                NaN                                    ELPAC Training
+14  activities at Big Springs Elementary revolve 2...                                   Google Training
+15    around the California State Standards. K 26.0 3                                    Growth Mindset
+16  During the 2018-19 school year, Big Springs 1 ...          History/Social Science Textbook Adoption
+17  Elementary held staff development devoted 2 26...                                           Training
+18                                       to: 3 26.0 4                   Math Textbook Adoption Training
+19                                           4 33.0 3                                                NaN
+20  • CAASPP Data  MobyMax Training• Classroom In...   Medal of Honor Next Generation Science Stan...
+21                      • Digital Citizenship 2018-19                Panorama Social Emotional Learning
+22                     • Interim Assessments K 26.0 3                       Project Management Training
+23                       • Mandated Reporter 1 27.0 3                          Response to Intervention
+24                        • Math Instruction 2 24.0 4                Science Textbook Adoption Training
+25                     • Panorama Education 3 22.0 20                                   Shmoop Training
+26           • Professional Accountability 4 33.0 3 9                        Word Recognition & Fluency
+27             • Response to Intervention 5 33.0 11 2                                                NaN
+28                                          6 25.0 10                                                NaN,                • Response to Intervention                                      Unnamed: 0  ... Unnamed: 2 Unnamed: 3
+0                  • ELA / ELD Curriculum                                             NaN  ...      SVUSD        NaN
+1   • History / Social Science Curriculum                                             NaN  ...        NaN        NaN
+2                                     NaN                                             NaN  ...      18-19      19-20
+3                           • Mathematics                                  Total Teachers  ...        788        794
+4     • Next Generation Science Standards                   Teachers with Full Credential  ...        779        787
+5                 • Formative Assessments                Teachers without Full Credential  ...          9          7
+6      • Classroom Instruction that Works                   Teaching Outside Subject Area  ...         78         73
+7             • Medal of Honor Curriculum                          (with full credential)  ...        NaN        NaN
+8                                     NaN  Misassignments of Teachers of English Learners  ...          0          0
+9                • Educational Technology                                             NaN  ...        NaN        NaN
+10                                    NaN                   Total Teacher Misassignments*  ...          0          0
+11   • English Language Development (ELD)                                             NaN  ...        NaN        NaN
+12                                    NaN                               Teacher Vacancies  ...          0          0
+
+[13 rows x 6 columns],                                                by the         district’s  ...                                   Textbooks            Unnamed: 2
+0     district follows the State Board of Education’s                NaN  ...                                         NaN                   NaN
+1       adoption cycle for core content materials and                NaN  ...                                         NaN     Percent of Pupils
+2         for textbook adoptions in foreign language,                NaN  ...                                         NaN    Who Lack Their Own
+3             visual and performing arts, and health.                NaN  ...                                         NaN    Assigned Textbooks
+4                                                 NaN                NaN  ...                                         NaN  and/or Instructional
+5         On October 8, 2019, the Simi Valley Unified                NaN  ...                        Publisher and Series             Materials
+6         School District’s Board of Education held a                NaN  ...                       Reading/Language Arts                   NaN
+7       public hearing to certify the extent to which                NaN  ...         Houghton Mifflin Harcourt: Journeys                    0%
+8                                           textbooks  and instructional  ...                                         NaN                   NaN
+9                                                 NaN                NaN  ...    Santillana: Santillana Intensive English                    0%
+10                                      been provided                 to  ...                                         NaN                   NaN
+11          Education adopted Resolution No. 09-19/20                NaN  ...               McGraw-Hill: World of Wonders                    0%
+12                                    which certifies                 as  ...                                        Math                   NaN
+13                                        Code §60119               that  ...                        McGraw-Hill: My Math                    0%
+14                                  and instructional                NaN  ...                                         NaN                   NaN
+15  Scienceprovided to each student, including Eng...                NaN  ...                                         NaN                   NaN
+16                                        0%learners,           that are  ...  Delta Education: FOSS (Full Option Science                   NaN
+17                                                NaN                NaN  ...                                     System)                   NaN
+18                                            content          standards  ...                                         NaN                   NaN
+19                                         the cycles        and context  ...                              Social Science                   NaN
+20                                         frameworks                 in  ...                   California Studies Weekly                    0%
+
+[21 rows x 10 columns],                              Academic Counselors and  Unnamed: 0  ... Unnamed: 2     Teacher and Administrative Salaries
+0                                Other Support Staff         NaN  ...        NaN                                 2017-18
+1                                            2018-19         NaN  ...        NaN                                   State
+2                                                NaN         NaN  ...        NaN                              Average of
+3                                             No. of         NaN  ...        NaN                            Districts in
+4                                         Staff FTE*         NaN  ...        NaN                                    Same
+5                           Academic Counselor 0 0.0         NaN  ...        NaN                          SVUSD Category
+6                   Adaptive PE Specialist As Needed         NaN  ...        NaN  Beginning Teacher Salary 45,641 51,374
+7                                Library Clerk 1 0.5         NaN  ...        NaN  Mid-Range Teacher Salary 71,843 80,151
+8                                    Nurse As Needed         NaN  ...        NaN   Highest Teacher Salary 92,830 100,143
+9                                                NaN         NaN  ...        NaN             Average Principal Salaries:
+10                  Occupational Therapist As Needed         NaN  ...        NaN                                     NaN
+11                                               NaN         NaN  ...        NaN       Elementary School 101,380 126,896
+12                                Psychologist 1 0.4         NaN  ...        NaN                                     NaN
+13                                               NaN         NaN  ...        NaN           Middle School 112,898 133,668
+14                        Resource Officer As Needed         NaN  ...        NaN                                     NaN
+15                                               NaN         NaN  ...        NaN             High School 121,964 143,746
+16                            Speech Therapist 1 0.5         NaN  ...        NaN                                     NaN
+17                                               NaN         NaN  ...        NaN   Superintendent Salary 227,665 245,810
+18  *One Full Time Equivalent (FTE) equals one staff         NaN  ...        NaN               Percentage of Budget For:
+19      member working full time; one FTE could also         NaN  ...        NaN                                     NaN
+20                                               NaN         NaN  ...        NaN                  Teacher Salaries 34 35
+21  represent two staff members who each work 50% of         NaN  ...        NaN             Administrative Salaries 5 5
+
+[22 rows x 6 columns]]

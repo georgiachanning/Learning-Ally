@@ -1,0 +1,105 @@
+[            District Contact Information                School Contact Information
+0                       Most Recent Year                          Most Recent Year
+1           District Name: Castaic Union   School Name: Northlake Hills Elementary
+2           Phone Number: (661) 257-4500             Street: 32545 Ridge Route Rd.
+3           Superintendent: Steven Doyle  City, State, Zip: Castaic, CA 91384-4133
+4  E-mail Address: sdoyle@castaicusd.com              Phone Number: (661) 257-4560
+5           Web Site: www.castaicusd.com         Principal: Vivian Fiss, Principal, Empty DataFrame
+Columns: [Northlake Hills Elementary 2019-2020School Accountability Report Card]
+Index: [],   A.CONDITIONS OF LEARNING\rTATE PRIORITY: BASIC\rhe SARC provides the following information relevant to the State priority: Basic (Priority 1):\rDegree to which teachers are appropriately assigned and fully credentialed in the subject area and for the pupils they\rare teaching;\rPupils have access to standards-aligned instructional materials; and\rSchool facilities are maintained in good repair.\reacher Credentials  ...         Unnamed: 3
+0                                           Teachers                                                                                                                                                                                                                                                                                                                                                                                 ...  District\r2019-20
+1                               With Full Credential                                                                                                                                                                                                                                                                                                                                                                                 ...                 85
+2                            Without Full Credential                                                                                                                                                                                                                                                                                                                                                                                 ...                  3
+3  Teaching Outside Subject Area of Competence (w...                                                                                                                                                                                                                                                                                                                                                                                 ...                  0
+
+[4 rows x 5 columns], Empty DataFrame
+Columns: [Northlake Hills Elementary 2019-2020School Accountability Report Card]
+Index: [],                                             Indicator  ...                                  2019-20
+0      Misassignments of Teachers of English Learners  ...                                        0
+1                       Total Teacher Misassignments*  ...                                        0
+2                            Vacant Teacher Positions  ...                                        0
+3   OTE:“Misassignments” refers to the number of p...  ...                                      NaN
+4                                             Subject  ...  % Students\rlacking own\rassigned\rcopy
+5                             Reading/Languag\re Arts  ...                                       0%
+6                                         Mathematics  ...                                       0%
+7                                             Science  ...                                       0%
+8                             History-Social\rScience  ...                                       0%
+9                                   Foreign\rLanguage  ...                                       0%
+10                                             Health  ...                                       0%
+11                        Visual and\rPerforming Arts  ...                                       0%
+12      Science\rLaboratory\rEquipment\r(grades 9-12)  ...                                       0%
+
+[13 rows x 4 columns], Empty DataFrame
+Columns: [Northlake Hills Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                         NaN
+1                         Interior: Interior Surfaces          -          ✓          -                                         NaN
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                         NaN
+3                              Electrical: Electrical          ✓          -          -                                         NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                         NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                         NaN
+6                Structural: Structural Damage, Roofs          ✓          -          -                                         NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                         NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                         NaN
+9                                                 NaN  Exemplary       Good       Fair                                        Poor
+10                                     Overall Rating          -          ✓          -                                           -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,    Northlake Hills Elementary 2019-2020 School Accountability Report Card
+0   Average Class Size and Class Size Distribution...                    
+1                                             2016-17                    
+2      Grade Level Avg. Class Size Number of Classes*                    
+3                                      1-20 21-32 33+                    
+4                                          K 24 1 1 1                    
+5                                              1 26 3                    
+6                                              2 31 2                    
+7                                              3 27 3                    
+8                                              4 32 2                    
+9                                              5 31 3                    
+10                                           6 24 1 4                    
+11                                            Other**                    
+12  * Number of classes indicates how many classes...                    
+13  * * “Other” category is for multi-grade level ...                    
+14  Average Class Size and Class Size Distribution...                    
+15                                            2017-18                    
+16     Grade Level Avg. Class Size Number of Classes*                    
+17                                     1-20 21-32 33+                    
+18                                             K 24 4                    
+19                                             1 26 2                    
+20                                             2 29 3                    
+21                                         3 22 1 1 1                    
+22                                           4 33 1 1                    
+23                                           5 33 1 2                    
+24                                             6 36 3                    ,    Northlake Hills Elementary 2019-2020 School Accountability Report Card Unnamed: 0
+0   Average Class Size and Class Size Distribution...                            NaN
+1                                             2018-19                            NaN
+2      Grade Level Avg. Class Size Number of Classes*                            NaN
+3                                          1-20 21-32                            33+
+4                                              K 24 4                            NaN
+5                                              1 26 3                            NaN
+6                                              2 23 2                            NaN
+7                                              3 28 3                            NaN
+8                                            4 22 1 1                              1
+9                                              5 29 2                            NaN
+10                                             6 34 1                              2,                                            Level Expenditures     Per Pupil     Per Pupil.1  Teacher
+0                                            NaN    Per Pupil  (Restricted)  (Unrestricted)   Salary
+1                                    School Site       $4,774          $199          $4,428  $69,300
+2                                       District          N/A           N/A         $707.23   $69300
+3  Percent Difference – School Site and District          N/A           N/A         144.93%    0.00%
+4                                          State          N/A           N/A        $7506.64   $77619
+5     Percent Difference – School Site and State          N/A           N/A          51.58%   11.32%, Empty DataFrame
+Columns: [Northlake Hills Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Category District Amount State Average For Districts\rIn Same Category Unnamed: 0
+0                            Beginning Teacher Salary          $40938                                        $49378        NaN
+1                            Mid-Range Teacher Salary          $66346                                        $77190        NaN
+2                              Highest Teacher Salary          $81469                                        $96607        NaN
+3               Average Principal Salary (Elementary)         $116504                                       $122074        NaN
+4                   Average Principal Salary (Middle)         $123474                                       $126560        NaN
+5                     Average Principal Salary (High)              $0                                       $126920        NaN
+6                               Superintendent Salary         $182052                                       $189346        NaN
+7              Percent of Budget for Teacher Salaries             35%                                           36%        NaN
+8       Percent of Budget for Administrative Salaries              8%                                            6%        NaN
+9   or detailed information on salaries, see the C...             NaN                                           NaN        NaN
+10                                            Measure         2017–18                                       2018–19    2019–20
+11  Number of school days dedicated to Staff Devel...               2                                             2          2]

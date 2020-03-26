@@ -1,0 +1,280 @@
+[                          Unnamed: 0  Entity                 Unnamed: 1  Contact Information
+0                        School Name     NaN      Washington Elementary                  NaN
+1                             Street     NaN            565 Wine Street                  NaN
+2                   City, State, Zip     NaN    Richmond, CA 94801-4054                  NaN
+3                       Phone Number     NaN               510-231-1417                  NaN
+4                          Principal     NaN                  Lisa Levi                  NaN
+5                      Email Address     NaN           llevi@wccusd.net                  NaN
+6                            Website     NaN  www.wccusd.net/washington                  NaN
+7  County-District-School (CDS) Code     NaN             07617966005037                  NaN,        Unnamed: 0                     Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  West Contra Costa Unified         NaN         NaN                  NaN         NaN
+1    Phone Number             (510) 231-1101         NaN         NaN                  NaN         NaN
+2  Superintendent              Matthew Duffy         NaN         NaN                  NaN         NaN
+3   Email Address   matthew.duffy@wccusd.net         NaN         NaN                  NaN         NaN
+4         Website             www.wccusd.net         NaN         NaN                  NaN         NaN,          Unnamed: 0  Grade Level  Unnamed: 1  Unnamed: 2  Number of Students  Unnamed: 3
+0      Kindergarten           64         NaN         NaN                 NaN         NaN
+1           Grade 1           65         NaN         NaN                 NaN         NaN
+2           Grade 2           70         NaN         NaN                 NaN         NaN
+3           Grade 3           71         NaN         NaN                 NaN         NaN
+4           Grade 4           75         NaN         NaN                 NaN         NaN
+5           Grade 5           57         NaN         NaN                 NaN         NaN
+6           Grade 6           63         NaN         NaN                 NaN         NaN
+7  Total Enrollment          465         NaN         NaN                 NaN         NaN,                        Student Group  Percent of Total Enrollment
+0          Black or African American                         12.3
+1   American Indian or Alaska Native                          0.6
+2                              Asian                          1.5
+3                           Filipino                          1.9
+4                 Hispanic or Latino                         66.9
+5                              White                         14.4
+6                  Two or More Races                          2.4
+7    Socioeconomically Disadvantaged                         60.2
+8                   English Learners                         39.1
+9         Students with Disabilities                         10.1
+10                      Foster Youth                          0.2
+11                          Homeless                          1.9,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       18       19       20     1241
+3                            Without Full Credential        NaN        4        4        3      111
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0       21,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                                    Unnamed: 1  From Most Percent Students
+0                      NaN             Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                           NaN     Recent      Lacking Own
+2                      NaN                    Materials/year of Adoption        NaN              NaN
+3                      NaN                                           NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts    McGraw Hill Treasures, Tesoros & Triumphs,        Yes            0.0 %
+5                      NaN                          c2010 - adopted 2012        NaN              NaN
+6                      NaN    McGraw Hill Treasures ELD Wonders, c2010 -        NaN              NaN
+7                      NaN                                  adopted 2012        NaN              NaN
+8                      NaN  Teachers College Reading, Writing & Phonics,        NaN              NaN
+9                      NaN                          c2015 - adopted 2019        NaN              NaN
+10                     NaN                                           NaN        NaN              NaN
+11             Mathematics     McGraw Hill My Math, grades TK-5, c2013 -        Yes            0.0 %
+12                     NaN                                  adopted 2016        NaN              NaN
+13                     NaN      Larsen Brothers Big Ideas Math, grade 6,        NaN              NaN
+14                     NaN                            c2015 adopted 2017        NaN              NaN
+15                     NaN                                           NaN        NaN              NaN
+16                 Science       Scott Foresman Science, c2008 - adopted        Yes            0.0 %
+17                     NaN                                           200        NaN              NaN
+18  History-Social Science        McGraw Hill California Vistas, c2007 -        Yes            0.0 %
+19                     NaN                                  adopted 2007        NaN              NaN
+20                     NaN       TCI History Alive, grade 6 DLI, c2005 -        NaN              NaN
+21                     NaN                                  adopted 2005        NaN              NaN,          System Inspected Rating  Repair Needed and Action Taken or Planned
+0     Systems: Gas Leaks,  XGood                                        NaN
+1                     NaN    NaN                                        NaN
+2  Mechanical/HVAC, Sewer    NaN                                        NaN,                      System Inspected Rating         Repair Needed and Action Taken or Planned
+0         Interior: Interior Surfaces  XPoor         Repair the rubber base at the ramp at the
+1                                 NaN    NaN                                               NaN
+2                                 NaN    NaN                                      front lobby.
+3                                 NaN    NaN                                               NaN
+4                                 NaN    NaN           Check the carpet in the lobby of the K-
+5                                 NaN    NaN     building. It may be necessary to remove it an
+6                                 NaN    NaN                                    install tiles.
+7                                 NaN    NaN                                               NaN
+8                                 NaN    NaN      Paint the walls of the K-building in back by
+9                                 NaN    NaN                            the drinking fountain.
+10                                NaN    NaN                                               NaN
+11                                NaN    NaN        Replace the front lobby mat at both doors.
+12                                NaN    NaN                                               NaN
+13  Cleanliness: Overall Cleanliness,  XGood                                               NaN
+14                                NaN    NaN                                               NaN
+15           Pest/ Vermin Infestation    NaN                                               NaN
+16             Electrical: Electrical  XFair   Check the light fixture in room 135. It is out.
+17                                NaN    NaN                                               NaN
+18                                NaN    NaN                                               NaN
+19                                NaN    NaN     A light fixture is out in the MPR. The lights
+20                                NaN    NaN        are really high and a lift will be needed.
+21                                NaN    NaN                                               NaN
+22    Restrooms/Fountains: Restrooms,  XGood           The drinking fountain in back of the K-
+23                                NaN    NaN                                               NaN
+24                   Sinks/ Fountains    NaN                        building is leaking a lot.
+25     Safety: Fire Safety, Hazardous  XGood      Replace the exit sign in the back of the MPR
+26                                NaN    NaN                                               NaN
+27                          Materials    NaN                                 by the restrooms.
+28                                NaN    NaN                                               NaN
+29                                NaN    NaN        Tell the teachers there should be no boxes
+30                                NaN    NaN                   on top of the storage cabinets.
+31                                NaN    NaN                                               NaN
+32                                NaN    NaN              Tell the teachers there should be no
+33                                NaN    NaN             chemicals store under the sink in the
+34                                NaN    NaN    cabinets. Any chemicals (i.e. ant spray, Ajax,
+35                                NaN    NaN     Comet, etc.) need to be out of student reach.
+36                                NaN    NaN                                               NaN
+37     Structural: Structural Damage,  XGood            Check the exterior wall in back of the
+38                                NaN    NaN                                               NaN
+39                              Roofs    NaN        computer room facing the garden.  The wall
+40                                NaN    NaN                       looks like it is all moldy.
+41                                NaN    NaN                                               NaN
+42                                NaN    NaN    Check the exterior wall in back of the library
+43                                NaN    NaN  facing the garden. The wall looks like it is all
+44                                NaN    NaN                                            moldy.,                System Inspected Rating      Repair Needed and Action Taken or Planned
+0   External: Playground/School  XFair  Replace the exterior doors (2 each) at the K-
+1                           NaN    NaN                                            NaN
+2             Grounds, Windows/    NaN                                      building.
+3            Doors/Gates/Fences    NaN                                            NaN
+4                           NaN    NaN    Replace the exterior doors at the custodial
+5                           NaN    NaN                                          room.
+6                           NaN    NaN                                            NaN
+7                           NaN    NaN      Replace the exterior doors at the utility
+8                           NaN    NaN                                          room.
+9                           NaN    NaN                                            NaN
+10                          NaN    NaN    Paint the basketball boards and poles, they
+11                          NaN    NaN                                are all rusted.
+12                          NaN    NaN                                            NaN
+13                          NaN    NaN    The playground lines have all faded. It may
+14                          NaN    NaN       be necessary to resurface and re-stripe.
+15                          NaN    NaN                                            NaN
+16                          NaN    NaN      Paint the window sills and exterior doors
+17                          NaN    NaN                  that do not have an overhang.
+18                          NaN    NaN                                            NaN
+19                          NaN    NaN  The mats at the K-building play structure are
+20                          NaN    NaN        in bad shape. They need to be replaced.
+21                          NaN    NaN                                            NaN
+22                          NaN    NaN     The steps are breaking up on the main play
+23                          NaN    NaN                                     structure.
+24                          NaN    NaN                                            NaN
+25               Overall Rating  XFair                                            NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       19       30       36         36       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       19       24       24         25       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         247        243      98.38    1.62     29.63
+5                                  Male            NaN         102        101      99.02    0.98     25.74
+6                                Female            NaN         145        142      97.93    2.07     32.39
+7             Black or African American            NaN          31         31     100.00    0.00      9.68
+8      American Indian or Alaska Native            NaN         NaN        NaN        NaN     NaN       NaN
+9                                 Asian            NaN          --         --         --      --        --
+10                             Filipino            NaN          --         --         --      --        --
+11                   Hispanic or Latino            NaN         161        159      98.76    1.24     24.53
+12  Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+13                                White            NaN          42         40      95.24    4.76     60.00,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                               Two or More Races                --             --              --  ...        NaN        NaN        NaN         NaN
+5                 Socioeconomically Disadvantaged               162            160           98.77  ...        NaN        NaN        NaN         NaN
+6                                English Learners               114            113           99.12  ...        NaN        NaN        NaN         NaN
+7                      Students with Disabilities                27             27          100.00  ...        NaN        NaN        NaN         NaN
+8   Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                    Foster Youth               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+10                                       Homeless                --             --              --  ...        NaN        NaN        NaN         NaN
+
+[11 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,                                     Student Group Total\rEnrollment Number\rTested Percent\rTested  ... Unnamed: 1 Unnamed: 2  Percent.1  Unnamed: 3
+0                                             NaN             Total         Number         Percent  ...        NaN        NaN        NaN         NaN
+1                                   Student Group               Not         Met or             NaN  ...        NaN        NaN        NaN         NaN
+2                                             NaN        Enrollment         Tested          Tested  ...        NaN        NaN        NaN         NaN
+3                                             NaN               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+4                                    All Students               248            246           99.19  ...        NaN        NaN        NaN         NaN
+5                                            Male               103            103          100.00  ...        NaN        NaN        NaN         NaN
+6                                          Female               145            143           98.62  ...        NaN        NaN        NaN         NaN
+7                       Black or African American                32             32          100.00  ...        NaN        NaN        NaN         NaN
+8                American Indian or Alaska Native               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+9                                           Asian                --             --              --  ...        NaN        NaN        NaN         NaN
+10                                       Filipino                --             --              --  ...        NaN        NaN        NaN         NaN
+11                             Hispanic or Latino               161            160           99.38  ...        NaN        NaN        NaN         NaN
+12            Native Hawaiian or Pacific Islander               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+13                                          White                42             41           97.62  ...        NaN        NaN        NaN         NaN
+14                              Two or More Races                --             --              --  ...        NaN        NaN        NaN         NaN
+15                Socioeconomically Disadvantaged               163            162           99.39  ...        NaN        NaN        NaN         NaN
+16                               English Learners               114            114          100.00  ...        NaN        NaN        NaN         NaN
+17                     Students with Disabilities                28             28          100.00  ...        NaN        NaN        NaN         NaN
+18  Students Receiving Migrant Education Services               NaN            NaN             NaN  ...        NaN        NaN        NaN         NaN
+
+[19 rows x 10 columns],    Student Group
+0  Student Group,   Total\rEnrollment
+0             Total
+1        Enrollment,   Number\rTested
+0         Number
+1         Tested,   Percent\rTested
+0         Percent
+1          Tested,      Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0           NaN            NaN       Total     Number    Percent     NaN       NaN
+1           NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2           NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3           NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4  Foster Youth            NaN         NaN        NaN        NaN     NaN       NaN
+5      Homeless            NaN          --         --         --      --        --,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   32.7                     18.2                        0,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      4.1      6.5      2.8      5.9        5.8        5.6      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.0        0.0        0.0      0.1      0.1      0.1,    Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0         NaN  Average # of # of # of Average # of # of # of ...                                             
+1       Grade                                                NaN                                             
+2         NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3       Level                                                NaN                                             
+4         NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5         NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6           K                                   24 3 21 3 21 1 2                                             
+7           1                                   23 3 23 1 2 22 3                                             
+8           2                                   22 1 2 24 3 23 3                                             
+9           3                                 22 1 2 22 1 2 24 3                                             
+10          4                                     29 2 28 2 29 2                                             
+11          5                                 32 1 1 27 3 24 1 2                                             
+12          6                                 26 1 1 27 2 22 1 2                                             
+13   Othe r**                                          12 1 10 1                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN    0.0,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN
+3                  Library Media Teacher (Librarian)                 NaN,    Title
+0  Title,                                              Title          Unnamed: 0  Number of FTE*  Unnamed: 1
+0                                            Title                 NaN             NaN         NaN
+1                                              NaN  Assigned to School             NaN         NaN
+2  Library Media Services Staff (Paraprofessional)                 NaN             NaN         NaN
+3                                     Psychologist                 NaN             NaN         NaN
+4                                    Social Worker                 NaN             NaN         NaN
+5                                            Nurse                 NaN             NaN         NaN
+6               Speech/Language/Hearing Specialist                 NaN             NaN         NaN
+7               Resource Specialist (non-teaching)                 NaN             NaN         NaN
+8                                            Other                 1.0             NaN         NaN,                                            Level    Unnamed: 0         Total      Unnamed: 1  ... Unnamed: 5  Unnamed: 6  Average  Unnamed: 7
+0                                          Level  Expenditures     Per Pupil       Per Pupil  ...        NaN         NaN      NaN         NaN
+1                                            NaN     Per Pupil  (Restricted)  (Unrestricted)  ...        NaN         NaN      NaN         NaN
+2                                    School Site     $6,094.84       $889.08       $5,205.76  ...        NaN         NaN      NaN         NaN
+3                                       District           N/A           N/A       $7,641.88  ...        NaN         NaN      NaN         NaN
+4  Percent Difference - School Site and District           N/A           N/A           -37.9  ...        NaN         NaN      NaN         NaN
+5                                          State           N/A           N/A       $7,506.64  ...        NaN         NaN      NaN         NaN
+6     Percent Difference - School Site and State           N/A           N/A           -36.2  ...        NaN         NaN      NaN         NaN
+
+[7 rows x 13 columns],    Level
+0  Level,    Category
+0  Category,                                          Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                                             NaN         District               NaN            NaN         NaN
+1                                        Category    For Districts               NaN            NaN         NaN
+2                                             NaN           Amount               NaN            NaN         NaN
+3                                             NaN              NaN  In Same Category            NaN         NaN
+4                        Beginning Teacher Salary          $46,360           $48,612            NaN         NaN
+5                        Mid-Range Teacher Salary          $72,730           $74,676            NaN         NaN
+6                          Highest Teacher Salary          $94,500           $99,791            NaN         NaN
+7           Average Principal Salary (Elementary)         $106,868          $125,830            NaN         NaN
+8               Average Principal Salary (Middle)         $116,689          $131,167            NaN         NaN
+9                 Average Principal Salary (High)         $129,673          $144,822            NaN         NaN
+10                          Superintendent Salary         $260,000          $275,796            NaN         NaN
+11         Percent of Budget for Teacher Salaries              27%               34%            NaN         NaN
+12  Percent of Budget for Administrative Salaries               5%                5%            NaN         NaN,   District\rAmount
+0         District
+1           Amount,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...         33       34         34      NaN        NaN      NaN        NaN]

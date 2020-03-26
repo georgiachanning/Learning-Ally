@@ -1,0 +1,248 @@
+[Empty DataFrame
+Columns: [California Department of EducationSchool Accountability Report CardCalifornia Montessori Project – Shingle Springs CampusReported Using Data from the 2018-2019 School Year, Unnamed: 0]
+Index: [],                   Charter School Contact Information
+0  School Name: California Montessori Project – S...
+1                       Superintendent: Brett Barley
+2  Central Office: 5330-A Gibbons Drive, Carmicha...
+3                            Principal: Kim Zawilski
+4  Address: 4645 Buckeye Road, Shingle Springs, C...
+5                         Phone Number: 530-672-3095
+6                         Email: kzawilski@cacmp.org
+7                             Website: www.cacmp.org
+8  County-District-School (CDS) Code: 09-61838-01...,   Authorizing District Contact Information
+0  District Name: Buckeye Union Elementary
+1               Phone Number: 530-677-2261
+2               Superintendent: David Roth
+3      Email Address: droth@buckeyeuse.org
+4              Website: www.buckeyeusd.org,          Grade Level  Number of Students    70
+0                NaN                 NaN   NaN
+1       Kindergarten                53.0  60.0
+2            Grade 1                53.0   NaN
+3                NaN                 NaN  50.0
+4            Grade 2                53.0   NaN
+5                NaN                 NaN   NaN
+6            Grade 3                62.0  40.0
+7            Grade 4                53.0  30.0
+8            Grade 5                54.0  20.0
+9            Grade 6                54.0  10.0
+10           Grade 7                45.0   NaN
+11               NaN                 NaN   0.0
+12           Grade 8                38.0   NaN
+13  Total Enrollment               465.0   NaN,                              Unnamed: 0                   Unnamed: 1 Unnamed: 2
+0                         Student Group  Percent of Total Enrollment     90.00%
+1             Black or African American                         0.0%     80.00%
+2                                   NaN                          NaN     70.00%
+3      American Indian or Alaska Native                         0.2%     60.00%
+4                                 Asian                         3.9%     50.00%
+5                                   NaN                          NaN     40.00%
+6                              Filipino                         0.0%        NaN
+7                                   NaN                          NaN     30.00%
+8                    Hispanic or Latino                        10.5%     20.00%
+9   Native Hawaiian or Pacific Islander                         0.2%     10.00%
+10                                  NaN                          NaN      0.00%
+11                                White                        76.3%        NaN
+12                    Two or More Races                         8.8%        NaN
+13      Socioeconomically Disadvantaged                        14.6%        NaN
+14                     English Learners                         0.4%        NaN
+15           Students with Disabilities                        14.6%        NaN
+16                         Foster Youth                         0.0%        NaN,                                           Unnamed: 0  Teachers Unnamed: 1 CMP-Shingle Springs Unnamed: 2
+0                                                NaN       NaN    2017-18             2018-19    2019-20
+1                               With Full Credential       NaN         27                  23         30
+2                            Without Full Credential       NaN          0                   0          1
+3  Teachers Teaching Outside Subject Area of Comp...       NaN          0                   0          0,                         Indicator  2017-2018  2018-2019  2019-2020
+0   Misassignments of Teachers of        0.0        0.0        0.0
+1                English Learners        NaN        NaN        NaN
+2  Total Teacher Misassignments**        0.0        0.0        0.0
+3        Vacant Teacher Positions        0.0        0.0        0.0,                    Subject              Textbooks and Instructional Materials
+0    Reading/Language Arts      Montessori Albanesi Language Arts Curriculum
+1   Kindergarten-3rd Grade          iReady Reading Program & Teacher Toolbox
+2                      NaN   Scholastic StoryWorks Jr. Informational Text...
+3                      NaN                                Accelerated Reader
+4                      NaN                McGraw Hill SRA Reading Laboratory
+5                      NaN              Instructional Level Spelling Program
+6                      NaN                         Handwriting Without Tears
+7                      NaN                                  Writing Pathways
+8                      NaN                         Keyboarding Without Tears
+9                      NaN   Systematic Instruction in Phonological Aware...
+10   Reading/Language Arts      Montessori Albanesi Language Arts Curriculum
+11     4th Grade-6th Grade          iReady Reading Program & Teacher Toolbox
+12                     NaN   Scholastic StoryWorks Informational Text Series
+13                     NaN                        Historic Literature Novels
+14                     NaN                          Literature Circle Novels
+15                     NaN                McGraw Hill SRA Reading Laboratory
+16                     NaN              Instructional Level Spelling Program
+17                     NaN                         Handwriting Without Tears
+18                     NaN                                  Writing Pathways
+19                     NaN                         Keyboarding Without Tears
+20   Reading/Language Arts         Houston Montessori Reproducible Materials
+21     7th Grade-8th Grade                  iReady Reading & Teacher Toolbox
+22                     NaN                        Historic Literature Novels
+23                     NaN                          Literature Circle Novels
+24                     NaN                                  Writing Pathways
+25                     NaN                         Keyboarding Without Tears,                   Mathematics                    Montessori Albanesi Math Curriculum
+0      Kindergarten-3rd Grade                          iReady Math & Teacher Toolbox
+1                 Mathematics                    Montessori Albanesi Math Curriculum
+2         4th Grade-6th Grade                          iReady Math & Teacher Toolbox
+3                 Mathematics                            Pearson Digits Math Program
+4         7th Grade-8th Grade                                        Pearson Algebra
+5                         NaN                                       Pearson Geometry
+6                         NaN                          iReady Math & Teacher Toolbox
+7                     Science         Teacher’s Curriculum Institute, Science Alive!
+8         4th Grade-8th Grade                                  Montessori Curriculum
+9      History-Social Science      Teacher's Curriculum Institute, Social Studies...
+10        4th Grade-8th Grade         Teacher’s Curriculum Institute, History Alive!
+11           Foreign Language                                          Rosetta Stone
+12   Kindergarten - 8th Grade  NaN                                                NaN
+13  Social-Emotional Learning                                           Second Steps
+14   Kindergarten – 8th Grade                                    Mindfulness Program,                                          Subject Percent of Students Meeting or Exceeding the State Standards
+0                                            NaN                              School District State          
+1                                            NaN    2017-18 2018-19 2017-18 2018-19 2017-18 2018-19          
+2  English Language Arts / Literacy (grades 3-8)                            65% 68% 67% 69% 50% 50%          
+3                       Mathematics (grades 3-8)                            54% 55% 60% 61% 38% 39%          ,                        Student Group Total Enrollment Number Tested Percent Tested Percent Not Tested Percent Met or Exceeded
+0                                NaN              NaN           NaN            NaN                NaN                     NaN
+1                       All Students              306           305         99.67%              0.33%                  67.87%
+2                               Male              162           161         99.38%              0.62%                  62.11%
+3                             Female              144           144        100.00%              0.00%                  74.31%
+4          Black or African American               --            --             --                 --                      --
+5   American Indian or Alaska Native               --            --             --                 --                      --
+6                              Asian               15            15        100.00%              0.00%                  93.33%
+7                           Filipino               --            --             --                 --                      --
+8                 Hispanic or Latino               34            34        100.00%              0.00%                  73.53%
+9         Native Hawaiian or Pacific               --            --             --                 --                      --
+10                             White              227           226         99.56%              0.44%                   67.7%
+11                 Two or More Races               29            29        100.00%              0.00%                  51.72%
+12                 Socioeconomically               44            43         97.73%              2.27%                  62.79%
+13                     Disadvantaged              NaN           NaN            NaN                NaN                     NaN
+14                  English Learners               --            --             --                 --                      --
+15        Students with Disabilities               53            53        100.00%              0.00%                  58.49%,                              Unnamed: 0        Unnamed: 1     Unnamed: 2      Unnamed: 3          Unnamed: 4               Unnamed: 5
+0                         Student Group  Total Enrollment  Number Tested  Percent Tested  Percent Not Tested  Percent Met or Exceeded
+1                          All Students               306            305          99.67%               0.33%                   55.12%
+2                                  Male               162            161          99.38%               0.62%                   54.38%
+3                                Female               144            144         100.00%               0.00%                   55.94%
+4             Black or African American                --             --              --                  --                       --
+5      American Indian or Alaska Native                --             --              --                  --                       --
+6                                 Asian                15             15         100.00%               0.00%                   93.33%
+7                              Filipino                --             --              --                  --                       --
+8                    Hispanic or Latino                34             34         100.00%               0.00%                   41.18%
+9   Native Hawaiian or Pacific Islander                --             --              --                  --                       --
+10                                White               227            226          99.56%               0.44%                   56.25%
+11                    Two or More Races                29             29         100.00%               0.00%                   44.83%
+12      Socioeconomically Disadvantaged                44             43          97.73%               2.27%                   48.84%
+13                     English Learners                --             --              --                  --                       --
+14           Students with Disabilities                53             53         100.00%               0.00%                   37.74%,   Unnamed: 0 Percentage of Students Scoring at Proficient or Advanced Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5
+0        NaN                                             School         District      State        NaN        NaN        NaN
+1        NaN                                            2017-18          2018-19    2017-18    2018-19    2017-18    2018-19
+2    Science                                                N/A              N/A        N/A        N/A        N/A        N/A, Empty DataFrame
+Columns: [Unnamed: 0]
+Index: [],    Unnamed: 0            Grade Level Percentage of Students Meeting Fitness Standards            Unnamed: 1 Unnamed: 2
+0         NaN  Four of Six Standards                            Five of Six Standards  Six of Six Standards        NaN
+1         NaN                      5                                            11.1%                 29.6%      46.3%
+2         NaN                      7                                             8.9%                 31.1%      57.8%, Empty DataFrame
+Columns: [Unnamed: 0]
+Index: [],    Unnamed: 0        Unnamed: 1 CMP – Shingle Springs Buckeye Union School District    State  ... Unnamed: 5 Unnamed: 6 Unnamed: 7 Unnamed: 8 Unnamed: 9
+0         NaN              Rate               2016-17                       2017-18  2018-19  ...    2016-17    2017-18    2018-19        NaN        NaN
+1         NaN       Suspensions                  1.1%                          1.5%     1.1%  ...       1.3%       3.7%       3.5%       3.5%        NaN
+2         NaN               NaN                   NaN                           NaN      NaN  ...        NaN        NaN        NaN        NaN        NaN
+3         NaN  Rate\rExpulsions                  0.0%                          0.0%     0.0%  ...       0.1%       0.1%       0.1%        NaN        NaN
+
+[4 rows x 13 columns],     Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA  ...  Unnamed: 15
+0                                                 NaN                                                                           ...          NaN
+1                                                 NaN                                                                           ...          NaN
+2                                                 NaN                                                                           ...          NaN
+3                                                 NaN                                                                           ...          NaN
+4                                                 NaN                                                                           ...          NaN
+5                                                 NaN                                                                           ...          NaN
+6                                                 NaN                                                                           ...          NaN
+7                                                 NaN                                                                           ...          NaN
+8                                                 NaN                                                                           ...          NaN
+9                                                 NaN                                                                           ...          NaN
+10                                                NaN                                                                           ...          NaN
+11                                                NaN                                                                           ...          NaN
+
+[12 rows x 17 columns],    Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                         ,    Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                         ,    Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                         
+1                                                NaN                                                                         ,     Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA  ...  Unnamed: 15
+0                                                 NaN                                                                           ...          NaN
+1                                                 NaN                                                                           ...          NaN
+2                                                 NaN                                                                           ...          NaN
+3                                                 NaN                                                                           ...          NaN
+4                                                 NaN                                                                           ...          NaN
+5                                                 NaN                                                                           ...          NaN
+6                                                 NaN                                                                           ...          NaN
+7                                                 NaN                                                                           ...          NaN
+8                                                 NaN                                                                           ...          NaN
+9                                                 NaN                                                                           ...          NaN
+10                                                NaN                                                                           ...          NaN
+
+[11 rows x 17 columns],    Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                         
+1                                                NaN                                                                         ,    Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                         
+1                                                NaN                                                                         ,    Suspension Percentages\r4\r3.5\r3\r2.5\r2\r1.5\r1\r0.5\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                         ,    Expulsion Percentages\r0.12\r0.1\r0.08\r0.06\r0.04\r0.02\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA  ...  Unnamed: 5
+0                                                NaN                                                                             ...         NaN
+1                                                NaN                                                                             ...         NaN
+2                                                NaN                                                                             ...         NaN
+3                                                NaN                                                                             ...         NaN
+4                                                NaN                                                                             ...         NaN
+5                                                NaN                                                                             ...         NaN
+
+[6 rows x 7 columns],    Expulsion Percentages\r0.12\r0.1\r0.08\r0.06\r0.04\r0.02\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                           ,    Expulsion Percentages\r0.12\r0.1\r0.08\r0.06\r0.04\r0.02\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA  ...  Unnamed: 5
+0                                                NaN                                                                             ...         NaN
+1                                                NaN                                                                             ...         NaN
+2                                                NaN                                                                             ...         NaN
+3                                                NaN                                                                             ...         NaN
+4                                                NaN                                                                             ...         NaN
+5                                                NaN                                                                             ...         NaN
+6                                                NaN                                                                             ...         NaN
+
+[7 rows x 7 columns],    Expulsion Percentages\r0.12\r0.1\r0.08\r0.06\r0.04\r0.02\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                           ,    Expulsion Percentages\r0.12\r0.1\r0.08\r0.06\r0.04\r0.02\r0\r2016-20172017-20182018-2019\rCMP-Shingle SpringsBUSDState of CA
+0                                                NaN                                                                           ,     Unnamed: 0 Unnamed: 1            2016-17 Unnamed: 2  ...        Unnamed: 5  Unnamed: 6 Unnamed: 7                2018-19
+0          NaN  Avg Class  Number of Classes          A  ...  A  v  gCl a  s s         NaN        NaN  Nu  mbe  r of Classes
+1        Grade        NaN                NaN        NaN  ...               NaN         NaN        NaN                    NaN
+2          NaN       Size       1-2021-3233+        NaN  ...              Size         NaN        NaN           1-2021-3233+
+3            K         17              3 0 0        NaN  ...                17         NaN        NaN                  2 0 0
+4        K-1st          0              0 0 0        NaN  ...                20         NaN        NaN                  2 0 0
+5          1st         20              3 0 0        NaN  ...                16         NaN        NaN                  2 0 0
+6      2nd-3rd         22              0 5 0        NaN  ...                23         NaN        NaN                  0 5 0
+7  4th-5th-6th         18              6 2 0        NaN  ...                20         NaN        NaN                  4 4 0
+
+[8 rows x 11 columns],        Unnamed: 0 Unnamed: 1            2016-17 Unnamed: 2  ... Unnamed: 5  Unnamed: 6 Unnamed: 7                2018-19
+0             NaN  Avg Class  Number of Classes          A  ...   A  v  gC    l a  s s        NaN  Nu  mbe  r of Classes
+1         Subject       Size       1-2021-3233+        NaN  ...       Size         NaN        NaN           1-2021-3233+
+2         English         21              2 2 0        NaN  ...         21         NaN        NaN                  1 3 0
+3            Math         16              4 1 0        NaN  ...         17         NaN        NaN                  4 1 0
+4         Science         21              2 2 0        NaN  ...         21         NaN        NaN                  1 3 0
+5  Social Science         21              2 2 0        NaN  ...         21         NaN        NaN                  1 3 0
+
+[6 rows x 11 columns],                    Number of FTE* Assigned to School
+0  Counselor (Social/Behavioral or Career Develop...
+1                  Library Media Teacher (librarian)
+2    Library Media Services Staff (paraprofessional)
+3                                  Psychologist 0.16,                                  Social Worker
+0                                        Nurse
+1         Speech/Language/Hearing Specialist 1
+2          Resource  Specialist (non-teaching)
+3                                      Other 1
+4  Average Number of Students per Staff Member
+5                           Academic Counselor,                        Unnamed: 0    Unnamed: 1        Expenditures Expenditures Unnamed: 2
+0                             NaN         Total                              NaN    Average
+1                             NaN           NaN              Per Pupil Per Pupil        NaN
+2                           Level  Expenditures  Teacher (Supplemental/  (Basic/        NaN
+3                             NaN     Per Pupil                              NaN     Salary
+4                             NaN           NaN        Restricted) Unrestricted)        NaN
+5           CMP – Shingle Springs        $9,938                   $2,723  $7,216    $48,570
+6                 District - BUSD           N/A                       N/A $7,187    $75,112
+7            Percent Difference –           NaN                              NaN        NaN
+8                             NaN           N/A                           N/A 0%       -35%
+9    CMP-Shingle Springs and BUSD           NaN                              NaN        NaN
+10                          State           N/A                       N/A $7,507    $82,403
+11           Percent Difference –           NaN                              NaN        NaN
+12                            NaN           N/A                          N/A -4%       -41%
+13  CMP-Shingle Springs and State           NaN                              NaN        NaN,     Unnamed: 0 Unnamed: 1  Unnamed: 2 Unnamed: 3             Measure   Unnamed: 4 Unnamed: 5  Unnamed: 6  2017-2018  2018-2019  2019-2020
+0    Number of     school         NaN       days  dedicated to Staff  Development        and  Continuous       19.0       19.0       19.0
+1  Improvement        NaN         NaN        NaN                 NaN          NaN        NaN         NaN        NaN        NaN        NaN]

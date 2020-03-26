@@ -1,0 +1,116 @@
+[        Kindergarten     26         Black or African American   4.1%
+0            Grade 1   26.0         American Indian or Alaska    NaN
+1                NaN    NaN                            Native    NaN
+2            Grade 2   30.0                               NaN    NaN
+3                NaN    NaN                             Asian    NaN
+4            Grade 3   24.0                               NaN    NaN
+5                NaN    NaN                          Filipino   3.6%
+6            Grade 4   23.0                               NaN    NaN
+7                NaN    NaN                Hispanic or Latino  80.5%
+8            Grade 5   18.0                               NaN    NaN
+9                NaN    NaN  Native Hawaiian/Pacific Islander   0.6%
+10           Grade 6   22.0                               NaN    NaN
+11               NaN    NaN                             White  10.1%
+12  Total Enrollment  169.0                               NaN    NaN
+13               NaN    NaN                 Two or More Races    NaN
+14               NaN    NaN                 Socioeconomically    NaN
+15               NaN    NaN                               NaN  82.2%
+16               NaN    NaN                     Disadvantaged    NaN
+17               NaN    NaN                  English Learners    45%
+18               NaN    NaN        Students with Disabilities  13.6%, Empty DataFrame
+Columns: [Walnut Grove Elementary 2019-2020School Accountability Report Card]
+Index: [],                                            Indicator  ...                                  2019-20
+0     Misassignments of Teachers of English Learners  ...                                        0
+1                      Total Teacher Misassignments*  ...                                        0
+2                           Vacant Teacher Positions  ...                                        0
+3  OTE:“Misassignments” refers to the number of p...  ...                                      NaN
+4                                            Subject  ...  % Students\rlacking own\rassigned\rcopy
+5                            Reading/Languag\re Arts  ...                                       0%
+6                                        Mathematics  ...                                       0%
+
+[7 rows x 4 columns], Empty DataFrame
+Columns: [Walnut Grove Elementary 2019-2020School Accountability Report Card]
+Index: [],                                          Subject  ... % Students\rlacking own\rassigned\rcopy
+0                                            NaN  ...                                     NaN
+1                        History-Social\rScience  ...                                      0%
+2                              Foreign\rLanguage  ...                                     NaN
+3                                         Health  ...                                     NaN
+4                    Visual and\rPerforming Arts  ...                                     NaN
+5  Science\rLaboratory\rEquipment\r(grades 9-12)  ...                                     NaN
+
+[6 rows x 4 columns], Empty DataFrame
+Columns: [Walnut Grove Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                         NaN
+1                         Interior: Interior Surfaces          ✓          -          -                                         NaN
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                         NaN
+3                              Electrical: Electrical          ✓          -          -                                         NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                         NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                         NaN
+6                Structural: Structural Damage, Roofs          ✓          -          -                                         NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                         NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                         NaN
+9                                                 NaN  Exemplary       Good       Fair                                        Poor
+10                                     Overall Rating          ✓          -          -                                           -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,    Walnut Grove Elementary 2019-2020 School Accountability Report Card
+0                          D.  OTHER SARC INFORMATION                 
+1   The information in this section is required to...                 
+2   Average Class Size and Class Size Distribution...                 
+3                                             2016-17                 
+4      Grade Level Avg. Class Size Number of Classes*                 
+5                                      1-20 21-32 33+                 
+6                                              K 23 2                 
+7                                              1 24 1                 
+8                                              2 23 1                 
+9                                              3 22 1                 
+10                                             4 22 1                 
+11                                             5 16 1                 
+12                                             6 18 1                 
+13                                            Other**                 
+14  * Number of classes indicates how many classes...                 
+15  * * “Other” category is for multi-grade level ...                 
+16  Average Class Size and Class Size Distribution...                 
+17                                            2017-18                 
+18     Grade Level Avg. Class Size Number of Classes*                 
+19                                     1-20 21-32 33+                 
+20                                           K 18 1 1                 
+21                                             1 24 1                 
+22                                             2 24 1                 
+23                                             3 24 1                 
+24                                             4 18 1                 
+25                                             5 23 1                 
+26                                             6 17 1                 ,    Walnut Grove Elementary 2019-2020 School Accountability Report Card Unnamed: 0
+0   Average Class Size and Class Size Distribution...                         NaN
+1                                             2018-19                         NaN
+2      Grade Level Avg. Class Size Number of Classes*                         NaN
+3                                          1-20 21-32                         33+
+4                                            K 17 1 1                         NaN
+5                                                   1                         NaN
+6                                              2 24 2                         NaN
+7                                              3 24 1                         NaN
+8                                              4 23 1                         NaN
+9                                              5 18 1                         NaN
+10                                             6 22 1                         NaN,                                            Level Expenditures     Per Pupil     Per Pupil.1  Teacher
+0                                            NaN    Per Pupil  (Restricted)  (Unrestricted)   Salary
+1                                    School Site       $9,198        $1,988          $7,210  $61,442
+2                                       District          N/A           N/A          $7,755  $61,590
+3  Percent Difference – School Site and District          N/A           N/A           7.28%    0.24%
+4                                          State          N/A           N/A        $7506.64   $72949
+5     Percent Difference – School Site and State          N/A           N/A           4.02%   17.12%, Empty DataFrame
+Columns: [Walnut Grove Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Category District Amount State Average For Districts\rIn Same Category Unnamed: 0
+0                            Beginning Teacher Salary          $45601                                        $46208        NaN
+1                            Mid-Range Teacher Salary          $61431                                        $72218        NaN
+2                              Highest Teacher Salary          $81218                                        $92742        NaN
+3               Average Principal Salary (Elementary)         $106906                                       $134864        NaN
+4                   Average Principal Salary (Middle)         $104012                                       $118220        NaN
+5                     Average Principal Salary (High)         $121662                                       $127356        NaN
+6                               Superintendent Salary         $165187                                       $186823        NaN
+7              Percent of Budget for Teacher Salaries             30%                                           33%        NaN
+8       Percent of Budget for Administrative Salaries              6%                                            6%        NaN
+9   or detailed information on salaries, see the C...             NaN                                           NaN        NaN
+10                                            Measure         2017–18                                       2018–19    2019–20
+11  Number of school days dedicated to Staff Devel...               3                                             3        1.5]

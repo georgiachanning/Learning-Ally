@@ -1,0 +1,117 @@
+[                          Unnamed: 0  Entity                              Contact Information
+0                        School Name     NaN  Buckeye Union Mandarin Immersion Charter School
+1                             Street     NaN                        7701 Silva Valley Parkway
+2                   City, State, Zip     NaN                        El Dorado Hills, CA 96762
+3                       Phone Number     NaN                                   (916) 933-9746
+4                          Principal     NaN                                    Tracy Linyard
+5                      Email Address     NaN                          tlinyard@buckeyeusd.org
+6                            Website     NaN                  https://www.buckeyeusd.org/omes
+7  County-District-School (CDS) Code     NaN                                 09-61838-0137919,        Unnamed: 0                                    Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Buckeye Union Elementary School District         NaN         NaN                  NaN         NaN
+1    Phone Number                            (916) 985-2183         NaN         NaN                  NaN         NaN
+2  Superintendent                                David Roth         NaN         NaN                  NaN         NaN
+3   Email Address                      droth@buckeyeusd.org         NaN         NaN                  NaN         NaN
+4         Website                        www.buckeyeusd.org         NaN         NaN                  NaN         NaN,                                             Teachers  Unnamed: 0   School Unnamed: 1 Unnamed: 2  ... School.2  Unnamed: 5  Unnamed: 6  District  Unnamed: 7
+0                                           Teachers         NaN      NaN        NaN        NaN  ...      NaN         NaN         NaN       NaN         NaN
+1                                                NaN         NaN  2017-18    2018-19    2019-20  ...      NaN         NaN         NaN       NaN         NaN
+2                               With Full Credential         NaN        3          4        NaN  ...      NaN         NaN         NaN       NaN         NaN
+3                            Without Full Credential         NaN        0          0        NaN  ...      NaN         NaN         NaN       NaN         NaN
+4  Teaching Outside Subject Area of Competence (w...         NaN        0          0        NaN  ...      NaN         NaN         NaN       NaN         NaN
+
+[5 rows x 13 columns],    Teachers
+0  Teachers,                                        Unnamed: 0  Indicator  Unnamed: 1  Unnamed: 2  Unnamed: 3  ...  2018-19  Unnamed: 6  Unnamed: 7  2019-20  Unnamed: 8
+0  Misassignments of Teachers of English Learners        NaN         NaN           0           0  ...      NaN         NaN         NaN      NaN         NaN
+1                   Total Teacher Misassignments*        NaN         NaN           0           0  ...      NaN         NaN         NaN      NaN         NaN
+2                        Vacant Teacher Positions        NaN         NaN           0           0  ...      NaN         NaN         NaN      NaN         NaN
+
+[3 rows x 13 columns],                 Unnamed: 0                                     Unnamed: 1  From Most Percent Students
+0                      NaN              Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                            NaN     Recent      Lacking Own
+2                      NaN                     Materials/year of Adoption        NaN              NaN
+3                      NaN                                            NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts      Benchmark Education Leveled Texts Adopted        Yes                0
+5                      NaN                                        in 2015        NaN              NaN
+6                      NaN       Fountas and Pinnell Benchmark Assessment        NaN              NaN
+7                      NaN                         System Adopted in 2015        NaN              NaN
+8                      NaN      SIPPS (Systematic Instruction in Phonics,        NaN              NaN
+9                      NaN       Phonological Awareness, and Sight Words)        NaN              NaN
+10                     NaN                          Adopted in 2015 (K-3)        NaN              NaN
+11                     NaN       Reading Fundamentals – Schoolwide, Inc.,        NaN              NaN
+12                     NaN                                Adopted in 2016        NaN              NaN
+13                     NaN      Close Reading Portfolios; SNAP! Learning,        NaN              NaN
+14                     NaN                                Adopted in 2016        NaN              NaN
+15                     NaN           Fountas and Pinnell Leveled Literacy        NaN              NaN
+16                     NaN                  Intervention, Adopted in 2015        NaN              NaN
+17                     NaN           Being A Writer (K-5) Adopted in 2014        NaN              NaN
+18                     NaN                                            NaN        NaN              NaN
+19             Mathematics      Math In Focus (K) and Envision Math (1st-        Yes                0
+20                     NaN                          5th), Adopted in 2014        NaN              NaN
+21                 Science               Amplify Science, Adopted in 2018        Yes                0
+22  History-Social Science  Reflections; Harcourt School Publishers (K-3)        Yes                0
+23                     NaN                                Adopted in 2007        NaN              NaN
+24                     NaN   History-Social Science for California; Scott        NaN              NaN
+25                     NaN             Foresman (4th-5th) Adopted in 2006        NaN              NaN
+26                     NaN                                            NaN        NaN              NaN
+27        Foreign Language                    Better Immersion - Mandarin        NaN                0,    Unnamed: 0  Unnamed: 1  Unnamed: 2
+0         NaN         NaN         NaN,     Unnamed: 0                                         Unnamed: 1  ...                                 Unnamed: 8 Unnamed: 9
+0          NaN                                                NaN  ...                                        NaN        NaN
+1          NaN                                   System Inspected  ...  Repair Needed and Action Taken or Planned        NaN
+2          NaN                                   System Inspected  ...                                        NaN        NaN
+3          NaN                                                NaN  ...                                        NaN        NaN
+4          NaN        Systems: Gas Leaks,\rMechanical/HVAC, Sewer  ...                                        NaN        NaN
+5          NaN                                                NaN  ...                                        NaN        NaN
+6          NaN                                                NaN  ...                                        NaN        NaN
+7          NaN                                                NaN  ...                                        NaN        NaN
+8          NaN                        Interior: Interior Surfaces  ...                                        NaN        NaN
+9          NaN                                                NaN  ...                                        NaN        NaN
+10         NaN                                                NaN  ...                                        NaN        NaN
+11         NaN                                                NaN  ...                                        NaN        NaN
+12         NaN  Cleanliness: Overall Cleanliness,\rPest/ Vermi...  ...                                        NaN        NaN
+13         NaN                                                NaN  ...                                        NaN        NaN
+14         NaN                                                NaN  ...                                        NaN        NaN
+15         NaN                                                NaN  ...                                        NaN        NaN
+16         NaN                             Electrical: Electrical  ...                                        NaN        NaN
+17         NaN                                                NaN  ...                                        NaN        NaN
+18         NaN                                                NaN  ...                                        NaN        NaN
+19         NaN                                                NaN  ...                                        NaN        NaN
+20         NaN  Restrooms/Fountains: Restrooms,\rSinks/ Fountains  ...                                        NaN        NaN
+21         NaN                                                NaN  ...                                        NaN        NaN
+22         NaN                                                NaN  ...                                        NaN        NaN
+23         NaN                                                NaN  ...                                        NaN        NaN
+
+[24 rows x 10 columns],    System Inspected
+0  System Inspected, Empty DataFrame
+Columns: [Rating, Rating.1]
+Index: [], Empty DataFrame
+Columns: [Repair Needed and Action Taken or Planned, Repair Needed and Action Taken or Planned.1]
+Index: [],    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,                   System Inspected      Rating  Repair Needed and Action Taken or Planned
+0   Safety: Fire Safety, Hazardous       XGood                                        NaN
+1                              NaN         NaN                                        NaN
+2                        Materials         NaN                                        NaN
+3   Structural: Structural Damage,       XGood                                        NaN
+4                              NaN         NaN                                        NaN
+5                            Roofs         NaN                                        NaN
+6      External: Playground/School       XGood                                        NaN
+7                              NaN         NaN                                        NaN
+8                Grounds, Windows/         NaN                                        NaN
+9               Doors/Gates/Fences         NaN                                        NaN
+10                  Overall Rating  XExemplary                                        NaN,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                    NaN                      NaN                      NaN,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1  Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil  Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)   Salary
+2                                    School Site        NaN             0             0               0        0
+3                                       District        NaN           N/A           N/A          $7,187      NaN
+4  Percent Difference - School Site and District        NaN           N/A           N/A          -200.0      NaN
+5                                          State        NaN           N/A           N/A             NaN      NaN
+6     Percent Difference - School Site and State        NaN           N/A           N/A             NaN      NaN,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        3        3        3]

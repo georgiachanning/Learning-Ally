@@ -1,0 +1,60 @@
+[                          Unnamed: 0  Entity                   Unnamed: 1  Contact Information
+0                        School Name     NaN     Denton Elementary School                  NaN
+1                             Street     NaN     2231 North Denton Avenue                  NaN
+2                   City, State, Zip     NaN                      Visalia                  NaN
+3                       Phone Number     NaN                 559-931-8050                  NaN
+4                          Principal     NaN            Stephanie Gendron                  NaN
+5                      Email Address     NaN            sgendron@vusd.org                  NaN
+6                            Website     NaN  https://www.vusd.org/denton                  NaN
+7  County-District-School (CDS) Code     NaN             54-72256-0000000                  NaN,        Unnamed: 0                           Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Visalia Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                     559-730-7300         NaN         NaN                  NaN         NaN
+2  Superintendent               Dr. Tamara Ravalín         NaN         NaN                  NaN         NaN
+3   Email Address                travalin@vusd.org         NaN         NaN                  NaN         NaN
+4         Website             https://www.vusd.org         NaN         NaN                  NaN         NaN,      Unnamed: 0  Grade Level  Unnamed: 1  Unnamed: 2  Number of Students  Unnamed: 3
+0  Kindergarten          NaN         NaN         NaN                 NaN         NaN,   Unnamed: 0  Student Group  Unnamed: 1  Unnamed: 2  Percent of Total Enrollment  Unnamed: 3
+0   Homeless            NaN         NaN         NaN                          NaN         NaN,    Teachers
+0  Teachers,                                             Teachers  Unnamed: 0   School Unnamed: 1 Unnamed: 2  ... School.2  Unnamed: 5  Unnamed: 6  District  Unnamed: 7
+0                                           Teachers         NaN      NaN        NaN        NaN  ...      NaN         NaN         NaN       NaN         NaN
+1                                                NaN         NaN  2017-18    2018-19    2019-20  ...      NaN         NaN         NaN       NaN         NaN
+2                               With Full Credential         NaN      NaN         16       1293  ...      NaN         NaN         NaN       NaN         NaN
+3                            Without Full Credential         NaN      NaN          6        152  ...      NaN         NaN         NaN       NaN         NaN
+4  Teaching Outside Subject Area of Competence (w...         NaN      NaN          0         53  ...      NaN         NaN         NaN       NaN         NaN
+
+[5 rows x 13 columns],                                        Unnamed: 0  Indicator  Unnamed: 1  Unnamed: 2  Unnamed: 3  ...  2018-19  Unnamed: 6  Unnamed: 7  2019-20  Unnamed: 8
+0  Misassignments of Teachers of English Learners        NaN         NaN         NaN           0  ...      NaN         NaN         NaN      NaN         NaN
+1                   Total Teacher Misassignments*        NaN         NaN         NaN           0  ...      NaN         NaN         NaN      NaN         NaN
+2                        Vacant Teacher Positions        NaN         NaN         NaN           1  ...      NaN         NaN         NaN      NaN         NaN
+
+[3 rows x 13 columns],                  Subject Textbooks and Other Instructional\rMaterials/year of Adoption   Unnamed: 0  ... Unnamed: 2  Percent Students  Unnamed: 3
+0                    NaN                  Textbooks and Other Instructional                     NaN  ...        NaN               NaN         NaN
+1                Subject                                             Recent             Lacking Own  ...        NaN               NaN         NaN
+2                    NaN                         Materials/year of Adoption                     NaN  ...        NaN               NaN         NaN
+3                    NaN                                                NaN               Adoption?  ...        NaN               NaN         NaN
+4  Reading/Language Arts  Reading Language Arts\rMcGraw Hill Wonders K-5...                     Yes  ...        NaN               NaN         NaN
+
+[5 rows x 8 columns],    Subject
+0  Subject,   Textbooks and Other Instructional\rMaterials/year of Adoption
+0                  Textbooks and Other Instructional           
+1                         Materials/year of Adoption           ,    Subject
+0  Subject,                       Subject Textbooks and Other Instructional\rMaterials/year of Adoption   Unnamed: 0  ... Unnamed: 2  Percent Students  Unnamed: 3
+0                         NaN                  Textbooks and Other Instructional                     NaN  ...        NaN               NaN         NaN
+1                     Subject                                             Recent             Lacking Own  ...        NaN               NaN         NaN
+2                         NaN                         Materials/year of Adoption                     NaN  ...        NaN               NaN         NaN
+3                         NaN                                                NaN               Adoption?  ...        NaN               NaN         NaN
+4                 Mathematics          Houghton Mifflin Harcourt Go Math! (2015)                     Yes  ...        NaN               NaN         NaN
+5                     Science  Base:\rMacMillan/McGraw Hill (2007)\r\rSupplem...                     Yes  ...        NaN               NaN         NaN
+6      History-Social Science  Base:\rHarcourt School Publishers (2006)\r\rSu...                     Yes  ...        NaN               NaN         NaN
+7                      Health                   Materials based on Health Topics                     Yes  ...        NaN               NaN         NaN
+8  Visual and Performing Arts  Silver Burdett (Classroom Music) (Fourth\rthro...                     Yes  ...        NaN               NaN         NaN
+
+[9 rows x 8 columns],   Textbooks and Other Instructional\rMaterials/year of Adoption
+0                  Textbooks and Other Instructional           
+1                         Materials/year of Adoption           ,                                  Subject Unnamed: 0   School Unnamed: 1 Unnamed: 2 School.1  ... Unnamed: 8  State  Unnamed: 9  Unnamed: 10  State.1  Unnamed: 11
+0                                Subject        NaN      NaN        NaN        NaN      NaN  ...        NaN    NaN         NaN          NaN      NaN          NaN
+1                                    NaN    2017-18  2018-19    2017-18    2018-19  2017-18  ...        NaN    NaN         NaN          NaN      NaN          NaN
+2  Science (grades 5, 8 and high school)        N/A      N/A        N/A        N/A      N/A  ...        NaN    NaN         NaN          NaN      NaN          NaN
+
+[3 rows x 19 columns],    Subject
+0  Subject,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...      NaN      NaN      NaN]

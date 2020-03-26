@@ -1,0 +1,168 @@
+[                          Unnamed: 0  Entity                 Unnamed: 1  Contact Information
+0                        School Name     NaN         Harmony Elementary                  NaN
+1                             Street     NaN          1935 Bohemian Hwy                  NaN
+2                   City, State, Zip     NaN  Occidental, CA 95465-0279                  NaN
+3                       Phone Number     NaN               707-874-1205                  NaN
+4                          Principal     NaN         Mr. Matthew Morgan                  NaN
+5                      Email Address     NaN     mmorgan@harmonyusd.org                  NaN
+6                            Website     NaN         www.harmonyusd.org                  NaN
+7  County-District-School (CDS) Code     NaN             49707306051775                  NaN,        Unnamed: 0                         Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Harmony Union School District         NaN         NaN                  NaN         NaN
+1    Phone Number                 (707) 874-1205         NaN         NaN                  NaN         NaN
+2  Superintendent                 Matthew Morgan         NaN         NaN                  NaN         NaN
+3   Email Address         mmorgan@harmonyusd.org         NaN         NaN                  NaN         NaN
+4         Website             www.harmonyusd.org         NaN         NaN                  NaN         NaN,         Grade Level  Number of Students
+0      Kindergarten                  38
+1           Grade 1                  20
+2  Total Enrollment                  58,                         Unnamed: 0  Student Group  Percent of Total Enrollment
+0               Hispanic or Latino            NaN                         13.8
+1                            White            NaN                         70.7
+2                Two or More Races            NaN                         13.8
+3  Socioeconomically Disadvantaged            NaN                         37.9
+4       Students with Disabilities            NaN                          3.4
+5                         Homeless            NaN                          NaN,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN      3.5      4.3      4.8       18
+3                            Without Full Credential        NaN        0        0        0        0
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                                    Unnamed: 1  From Most Percent Students
+0                      NaN             Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                           NaN     Recent      Lacking Own
+2                      NaN                    Materials/year of Adoption        NaN              NaN
+3                      NaN                                           NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts    Grades TK-1: Reading California, published        Yes                0
+5                      NaN     by Houghton- Mifflin. Board adopted 2005.        NaN              NaN
+6                      NaN          Differentiated Reading Program using        NaN              NaN
+7                      NaN       Guided Reading and Daily 5. Grades K-1:        NaN              NaN
+8                      NaN   Writing by Design, A Systematic Approach to        NaN              NaN
+9                      NaN           School-Wide Standards Based Writing        NaN              NaN
+10                     NaN           Instruction, published by Education        NaN              NaN
+11                     NaN                                  Consultants.        NaN              NaN
+12                     NaN             Board Approved 2011. Transitional        NaN              NaN
+13                     NaN       Kindergarten: Handwriting Without Tears        NaN              NaN
+14                     NaN         and incorporated Learning Foundations        NaN              NaN
+15                     NaN        Teachers are transitioning into Common        NaN              NaN
+16                     NaN                         Core State Standards.        NaN              NaN
+17                     NaN                                           NaN        NaN              NaN
+18             Mathematics    Grades TK-1: Bridgesl: Board adopted 2017.        Yes                0
+19                     NaN     Teachers have transitioned into CA Common        NaN              NaN
+20                     NaN                         Core State Standards.        NaN              NaN
+21                     NaN                                           NaN        NaN              NaN
+22                 Science  Grades TK-1: FOSS, Lawrence Hall of Science,        Yes                0
+23                     NaN    distributed by Delta Education, Inc. Board        NaN              NaN
+24                     NaN                                 adopted 2006.        NaN              NaN
+25  History-Social Science  Grades TK-5: California Vistas, published by        Yes                0
+26                     NaN         Macmillan/McGraw -Hill. Board adopted        NaN              NaN
+27                     NaN                                          2006        NaN              NaN
+28                  Health         Health is taught through the physical        Yes                0
+29                     NaN                              education class.        NaN              NaN,    Unnamed: 0  Unnamed: 1  Unnamed: 2
+0         NaN         NaN         NaN,     Unnamed: 0                                         Unnamed: 1  ...                                 Unnamed: 8 Unnamed: 9
+0          NaN                                                NaN  ...                                        NaN        NaN
+1          NaN                                   System Inspected  ...  Repair Needed and Action Taken or Planned        NaN
+2          NaN                                   System Inspected  ...                                        NaN        NaN
+3          NaN                                                NaN  ...                                        NaN        NaN
+4          NaN        Systems: Gas Leaks,\rMechanical/HVAC, Sewer  ...                                        NaN        NaN
+5          NaN                                                NaN  ...                                        NaN        NaN
+6          NaN                                                NaN  ...                                        NaN        NaN
+7          NaN                                                NaN  ...                                        NaN        NaN
+8          NaN                        Interior: Interior Surfaces  ...                                        NaN        NaN
+9          NaN                                                NaN  ...                                        NaN        NaN
+10         NaN                                                NaN  ...                                        NaN        NaN
+11         NaN                                                NaN  ...                                        NaN        NaN
+12         NaN  Cleanliness: Overall Cleanliness,\rPest/ Vermi...  ...                                        NaN        NaN
+13         NaN                                                NaN  ...                                        NaN        NaN
+14         NaN                                                NaN  ...                                        NaN        NaN
+15         NaN                                                NaN  ...                                        NaN        NaN
+16         NaN                             Electrical: Electrical  ...                                        NaN        NaN
+17         NaN                                                NaN  ...                                        NaN        NaN
+18         NaN                                                NaN  ...                                        NaN        NaN
+19         NaN                                                NaN  ...                                        NaN        NaN
+20         NaN  Restrooms/Fountains: Restrooms,\rSinks/ Fountains  ...                                        NaN        NaN
+21         NaN                                                NaN  ...                                        NaN        NaN
+22         NaN                                                NaN  ...                                        NaN        NaN
+23         NaN                                                NaN  ...                                        NaN        NaN
+24         NaN          Safety: Fire Safety, Hazardous\rMaterials  ...                                        NaN        NaN
+25         NaN                                                NaN  ...                                        NaN        NaN
+26         NaN                                                NaN  ...                                        NaN        NaN
+27         NaN                                                NaN  ...                                        NaN        NaN
+28         NaN              Structural: Structural Damage,\rRoofs  ...                                        NaN        NaN
+29         NaN                                                NaN  ...                                        NaN        NaN
+30         NaN                                                NaN  ...                                        NaN        NaN
+31         NaN                                                NaN  ...                                        NaN        NaN
+32         NaN  External: Playground/School\rGrounds, Windows/...  ...                                        NaN        NaN
+33         NaN                                                NaN  ...                                        NaN        NaN
+34         NaN                                                NaN  ...                                        NaN        NaN
+35         NaN                                                NaN  ...                                        NaN        NaN
+36         NaN                                     Overall Rating  ...                                        NaN        NaN
+37         NaN                                                NaN  ...                                        NaN        NaN
+38         NaN                                                NaN  ...                                        NaN        NaN
+39         NaN                                                NaN  ...                                        NaN        NaN
+
+[40 rows x 10 columns],    System Inspected
+0  System Inspected, Empty DataFrame
+Columns: [Rating, Rating.1]
+Index: [], Empty DataFrame
+Columns: [Repair Needed and Action Taken or Planned, Repair Needed and Action Taken or Planned.1]
+Index: [],    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XExemplary
+0         NaN,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      0.0      0.0      0.0      0.7        1.4        0.4      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.1        0.0        0.0      0.1      0.1      0.1,   Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0        NaN  Average # of # of # of Average # of # of # of ...                                             
+1      Grade                                                NaN                                             
+2        NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3      Level                                                NaN                                             
+4        NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5        NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6          K                                   12 3 13 2 19 1 1                                             
+7          1                                   17 2 17 1 1 20 1                                             
+8   Othe r**                                                NaN                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN  290.0,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                  .2
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN
+5                                       Psychologist                 NaN
+6                                      Social Worker                 NaN
+7                 Speech/Language/Hearing Specialist                 NaN
+8                 Resource Specialist (non-teaching)                 NaN,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN       $35,989       $14,440         $21,549       72933
+3                                       District        NaN           N/A           N/A         $15,382    70633.56
+4  Percent Difference - School Site and District        NaN           N/A           N/A            33.4         3.2
+5                                          State        NaN           N/A           N/A       $7,506.64  $64,941.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A            96.7        11.6,                                          Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                                             NaN         District               NaN            NaN         NaN
+1                                        Category    For Districts               NaN            NaN         NaN
+2                                             NaN           Amount               NaN            NaN         NaN
+3                                             NaN              NaN  In Same Category            NaN         NaN
+4                        Beginning Teacher Salary                $           $45,252            NaN         NaN
+5                        Mid-Range Teacher Salary                $           $65,210            NaN         NaN
+6                          Highest Teacher Salary                $           $84,472            NaN         NaN
+7           Average Principal Salary (Elementary)                $          $107,614            NaN         NaN
+8               Average Principal Salary (Middle)                $          $112,242            NaN         NaN
+9                 Average Principal Salary (High)                $                 $            NaN         NaN
+10                          Superintendent Salary                $          $124,686            NaN         NaN
+11         Percent of Budget for Teacher Salaries              24%               31%            NaN         NaN
+12  Percent of Budget for Administrative Salaries               5%                7%            NaN         NaN,    Category
+0  Category,   District\rAmount
+0         District
+1           Amount,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...          2        2          2      NaN        NaN      NaN        NaN]

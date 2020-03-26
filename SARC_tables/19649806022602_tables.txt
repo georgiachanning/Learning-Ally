@@ -1,0 +1,115 @@
+[   Jon Kean, President Santa Monica-Malibu Unified School District. We were founded in July of 2019 by merging former
+0                                                 NaN                                                                
+1   Juan Cabrillo Elementary and Point Dume Marine...                                                                
+2   Laurie Lieberman, Vice-President traditions an...                                                                
+3                                                 NaN                                                                
+4   belonging, programs help students become more ...                                                                
+5   District Administration on Marine Stewardship....                                                                
+6                                    Ben Drati, Ed.D.                                                                
+7   Superintendent Malibu Elementary is a school w...                                                                
+8   Dr. Jacqueline Mora are a welcoming, safe, and...                                                                
+9   Asst. Superintendent, Educational that familie...                                                                
+10  Services are encouraged to volunteer at school...                                                                ,                  Maria Leon-Vazquez
+0                               NaN
+1  Dr. Richard Tahvildaran-Jesswein
+2                               NaN
+3                      Ralph Mechur,                 Dr. Mark Kelly                                  organization. Our  dedicated  and  talented  ...  support  staff  are  experienced  and.2
+0  Asst. Superintendent, Human  enthusiastic about helping children grow and a...        NaN  NaN       NaN  ...      NaN    NaN  NaN          NaN    NaN
+1                    Resources  their children’s education to us!  Together wi...        NaN  NaN       NaN  ...      NaN    NaN  NaN          NaN    NaN
+
+[2 rows x 12 columns], Empty DataFrame
+Columns: [Fiscal Services, Our website was designed to support students, staff, and parents.  Please use this website to access]
+Index: [],   Teacher Credentials for Malibu Elementary School  17-18  18-19  19-20
+0                             With Full Credential    NaN    NaN     15
+1                          Without Full Credential    NaN    NaN      0
+2      Teaching Outside Subject Area of Competence    NaN    NaN      0,   Teacher Credentials for Santa Monica-Malibu Unified School District 17-18 18-19  19-20
+0                               With Full Credential                      ♦     ♦    NaN
+1                            Without Full Credential                      ♦     ♦    NaN
+2        Teaching Outside Subject Area of Competence                      ♦     ♦    NaN,                       Unnamed: 0  Indicator  17-18  18-19  19-20
+0   Teachers of English Learners        NaN    NaN    NaN      0
+1  Total Teacher Misassignments*        NaN    NaN    NaN      0
+2       Vacant Teacher Positions        NaN    NaN    NaN      0,       Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0    Reading/Language Arts          Benchmark Advance Reading, adopted 6/2017    
+1                      NaN  The textbooks listed are from most recent adop...    
+2                      NaN  Percent of students lacking their own assigned...    
+3                      NaN                                                NaN    
+4              Mathematics       My Math, McGraw Hill, 2013, adopted 3/5/2015    
+5                      NaN  The textbooks listed are from most recent adop...    
+6                      NaN  Percent of students lacking their own assigned...    
+7                      NaN                                                NaN    
+8                  Science          Science, Harcourt 2007, adopted 4/19/2007    
+9                      NaN  The textbooks listed are from most recent adop...    
+10                     NaN  Percent of students lacking their own assigned...    
+11                     NaN                                                NaN    
+12  History-Social Science  Reflections, California Series; Harcourt 2006,...    
+13                     NaN  The textbooks listed are from most recent adop...    
+14                     NaN  Percent of students lacking their own assigned...    ,                            Unnamed: 0                      Unnamed: 1  Unnamed: 2                      Repair Needed and
+0                                 NaN  System Inspected Repair Status         NaN                                    NaN
+1                                 NaN                             NaN         NaN                Action Taken or Planned
+2                            Systems:                           XGood         NaN                                    NaN
+3   Gas Leaks, Mechanical/HVAC, Sewer                             NaN         NaN      BOYS REST ROOM: 2. EXHAUST FAN IS
+4                                 NaN                             NaN         NaN                           NOT WORKING.
+5                                 NaN                             NaN         NaN                                    NaN
+6                           Interior:                           XPoor         NaN      10/ OCEAN LAB: 4. CEILING TILE IS
+7                   Interior Surfaces                             NaN         NaN                               MISSING.
+8                                 NaN                             NaN         NaN   11: 4. CEILING TILE IS LOOSE. RUBBER
+9                                 NaN                             NaN         NaN  MOLDING IS LOOSE. 7. ELECTRICAL COVER
+10                                NaN                             NaN         NaN                              IS LOOSE.,                                        Unnamed: 0                      Unnamed: 1  Unnamed: 2                      Repair Needed and
+0                                             NaN  System Inspected Repair Status         NaN                                    NaN
+1                                             NaN                             NaN         NaN                Action Taken or Planned
+2                                             NaN                             NaN         NaN     13: 4. WOOD PANELING IS PEELING ON
+3                                             NaN                             NaN         NaN  SINK CABINETS. 5. UNSECURED ITEMS ARE
+4                                             NaN                             NaN         NaN                       STORED TOO HIGH.
+..                                            ...                             ...         ...                                    ...
+58                                            NaN                             NaN         NaN                            HAS A HOLE.
+59                                            NaN                             NaN         NaN                                    NaN
+60                                   Cleanliness:                           XGood         NaN  1: 6. ANTS PRESENT IN SINK BASIN. 11.
+61  Overall Cleanliness, Pest/ Vermin Infestation                             NaN         NaN             IMPROPERLY STORED CLEANING
+62                                            NaN                             NaN         NaN      SUPPLIES. PESTICIDES ARE PRESENT.
+
+[63 rows x 4 columns],    Unnamed: 0                      Unnamed: 1  Unnamed: 2                          Repair Needed and
+0         NaN  System Inspected Repair Status         NaN                                        NaN
+1         NaN                             NaN         NaN                    Action Taken or Planned
+2         NaN                             NaN         NaN         13: 4. WOOD PANELING IS PEELING ON
+3         NaN                             NaN         NaN      SINK CABINETS. 5. UNSECURED ITEMS ARE
+4         NaN                             NaN         NaN                           STORED TOO HIGH.
+..        ...                             ...         ...                                        ...
+58        NaN                             NaN         NaN  16: 4. CEILING TILE IS MISSING. 9. FAUCET
+59        NaN                             NaN         NaN           HAS A LOW FLOW, LEAKS AT HANDLE,
+60        NaN                             NaN         NaN               AND THE HANDLE IS LOOSE. 11.
+61        NaN                             NaN         NaN                 IMPROPERLY STORED CLEANING
+62        NaN                             NaN         NaN                                  SUPPLIES.
+
+[63 rows x 4 columns],                   Unnamed: 0                      Unnamed: 1  Unnamed: 2                          Repair Needed and
+0                        NaN  System Inspected Repair Status         NaN                                        NaN
+1                        NaN                             NaN         NaN                    Action Taken or Planned
+2                        NaN                             NaN         NaN  17: 4. CEILING TILE IS LOOSE. 7. EXTERIOR
+3                        NaN                             NaN         NaN       OUTLET COVER IS MISSING. 9. DRINKING
+4                        NaN                             NaN         NaN                 FOUNTAIN HANDLE IS BROKEN.
+..                       ...                             ...         ...                                        ...
+58               Structural:                           XGood         NaN         CUSTODIAL: 13. HOLE RUSTED THROUGH
+59  Structural Damage, Roofs                             NaN         NaN                           COVERED WALKWAY.
+60                       NaN                             NaN         NaN          LEARNING CENTER C (OLD ADMIN): 7.
+61                       NaN                             NaN         NaN     ELECTRICAL COVER IS MISSING. 13. HOLES
+62                       NaN                             NaN         NaN            RUSTED THROUGH COVERED WALKWAY.
+
+[63 rows x 4 columns],                                            Unnamed: 0                      Unnamed: 1  Unnamed: 2                       Repair Needed and
+0                                                 NaN  System Inspected Repair Status         NaN                                     NaN
+1                                                 NaN                             NaN         NaN                 Action Taken or Planned
+2                                                 NaN                             NaN         NaN    MPR: 4. CEILING TILES HAVE HOLES. 7.
+3                                                 NaN                             NaN         NaN           WIRE HANGING THROUGH CEILING.
+4                                                 NaN                             NaN         NaN  MULTIPLE LIGHT BULBS ARE OUT. 10. FIRE
+5                                                 NaN                             NaN         NaN    EXTINGUISHER IS MISSING (STAGE). 11.
+6                                                 NaN                             NaN         NaN  PAINT IS PEELING ON EXTERIOR WALL. 12.
+7                                                 NaN                             NaN         NaN     DRY ROT ON EXTERIOR STORAGE SIDING.
+8                                                 NaN                             NaN         NaN            PSYCH: 12. CRACKS IN STUCCO.
+9                                                 NaN                             NaN         NaN                                     NaN
+10                                          External:                           XGood         NaN                                     NaN
+11  Playground/School Grounds, Windows/ Doors/Gate...                             NaN         NaN     PE STORAGE: 7. ACCESS TO ELECTRICAL
+12                                                NaN                             NaN         NaN   PANEL IS BLOCKED. 15. DRY ROT AT BASE
+13                                                NaN                             NaN         NaN                          OF DOOR FRAME.
+14                                                NaN                             NaN         NaN                                     NaN
+15                                     Overall Rating                             NaN         NaN                                     NaN
+16                                                NaN                           XFair         NaN                                     NaN
+17                                         ----------                             NaN         NaN                                     NaN,                                              Measure 2017-18 2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...     N/A     N/A      NaN]

@@ -1,0 +1,228 @@
+[                                           Unnamed: 0  Unnamed: 1                          Unnamed: 2  Grupo Porcentaje de
+0               Nivel de Grado  Número de Estudiantes         NaN                                 NaN    NaN     Matrícula
+1                                      Preescolar 18*         NaN                      Afro-Americano    NaN          0.6%
+2                                     Kindergarten 54         NaN  Indo-Americano o Natural de Alaska    NaN          0.3%
+3                                          Grado 1 47         NaN                            Asiático    NaN         0.03%
+4                                          Grado 2 60         NaN                            Filipino    NaN         11.3%
+5                                          Grado 3 53         NaN                    Hispano o latino    NaN         23.2%
+6                                          Grado 4 55         NaN                 Blanco (no hispano)    NaN           58%
+7                                          Grado 5 50         NaN                           Dos o más    NaN          6.3%
+8                                 Matrícula Total 319         NaN  Desaventajado socio-económicamente    NaN         49.8%
+9   *No forma parte de los datos - La información ...         NaN                Aprendices de Inglés    NaN         12.9%
+10                                                NaN         NaN          Estudiantes Deshabilitados    NaN         18.2%,     Unnamed: 0 Unnamed: 1        2016-2017 Unnamed: 2          2017-18 Unnamed: 3         2018--19
+0          NaN       Tama              NaN        NaN              NaN        NaN              NaN
+1     Nivel de      ño de  Número de Aulas     Tamaño  Número de Aulas     Tamaño  Número de Aulas
+2        Grado      clase              NaN   de clase              NaN   de clase              NaN
+3          NaN      prome   1-20 21-32 33+   promedio   1-20 21-32 33+   promedio   1-20 21-32 33+
+4          NaN        dio              NaN        NaN              NaN        NaN              NaN
+5   Preescolar        NaN              NaN        NaN              NaN         18                1
+6            K         20                3         22                2         25                2
+7            1         28                2         26                2         22              1 1
+8            2         26                2         22                2         27                2
+9            3         21                2         28                2         27                2
+10           4         29                2         24                2         33              1 1
+11           5         23              1 2         22                2         24              1 1
+12           6        NaN              NaN        NaN              NaN        NaN              NaN,      Unnamed: 0 Unnamed: 1  Escuela Unnamed: 2 Unnamed: 3 Distrito Unnamed: 4
+0          Tasa        NaN      NaN        NaN        NaN      NaN        NaN
+1           NaN    2016-17  2017-18    2018-19    2016-17  2017-18    2018-19
+2  Suspensiones       0.3%     0.9%       1.2%       2.2%     2.4%       2.7%
+3   Expulsiones         0%       0%       0.0%       0.1%    0. 2%       0.1%,                                            Unnamed: 0 Unnamed: 1 Unnamed: 2 Unnamed: 3   Reparo Necesario y
+0                               Sistema Inspeccionado      Bueno    Regular      Pobre      Acción Tomada o
+1                                                 NaN        NaN        NaN        NaN             planeada
+2     Sistemas: fugas de gas, Mecánico/HVAC, Desagües                 NaN        NaN                  NaN
+3                   Interior:  superficies interiores                  NaN        NaN                  NaN
+4   Limpieza: Limpieza en general, Plagas de Insec...                  NaN        NaN                  NaN
+5                                Eléctrico: Eléctrico                  NaN        NaN  La acción t omada o
+6             Baños/fuentes: Baños, Lavamanos/fuentes                  NaN        NaN    planeada se sigue
+7   Seguridad: Seguridad contra fuego, Materiales ...                  NaN        NaN   con el programa de
+8               Estructural: Daño estructural, techos                  NaN        NaN       “School Dude”.
+9   Externa: Patio de Recreo, Terrenos escolares, ...                  NaN        NaN                  NaN
+10                                             Cercas        NaN        NaN        NaN                  NaN
+11                            Calificación en General                  NaN        NaN                  NaN,                                           Unnamed: 0 Unnamed: 1 Unnamed: 2  Escuela Unnamed: 3 Distrito
+0                                                NaN   Maestros        NaN      NaN        NaN      NaN
+1                                                NaN        NaN    2016-17  2017-18    2018-19  2018-19
+2                            Con Credencial Completa        NaN         20     18.5      18.35    373.7
+3                            Sin Credencial Completa        NaN          0        0          0        1
+4  Instruyendo Fuera del Área de la Materia de Co...        NaN          0        0          0     5.55,                                              Índice  2017-18  2018-19  2019-20
+0  Des-asignación- Maestros de Aprendices de Inglés        0        0        0
+1                  Total de Maestro Des-asignados *        0        0        0
+2                   Posiciones de Maestros Vacantes        0        0        0,                                            Unnamed: 0 Unnamed: 1 Número de ETC Asignado a Número del Promedios de Estudiantes
+0                                                 NaN     Título                      NaN                                 NaN
+1                                                 NaN        NaN               la Escuela                       por Consejero
+2                                        Orientador/a        NaN                     0.50                                 638
+3                  Bibliotecario/a y Maestro de Media        NaN                      NaN                                 NaN
+4   Personal (Para-profesional) Servicios de Media en        NaN                      NaN                                 NaN
+5                                          Biblioteca        NaN                        1                                 NaN
+6                                         Psicólogo/a        NaN                    0.475                                 NaN
+7                                         Enfermera/o        NaN                     0.17                                 NaN
+8        Logopeda/especialista en audición y lenguaje        NaN                      NaN                                 NaN
+9                                     (fonoaudiólogo)        NaN                   0.6625                                 NaN
+10                        Educación Física Adaptativa        NaN                   0.0625                                 NaN
+11                              Terapeuta ocupacional        NaN                     0.15                                 NaN,                                       Unnamed: 0   Calidad, Actualidad y Disponibilidad                 Unnamed: 1
+0                      Áreas de Currículo Básico                                    NaN  Áreas de Currículo Básico
+1                                            NaN  de Libros y Materiales de Instrucción                        NaN
+2                       Lectura/Arte de Lenguaje                       1 por estudiante                          0
+3                                    Matemáticas                       1 por estudiante                          0
+4                                        Ciencia                       1 por estudiante                          0
+5                     Historia/Ciencias Sociales                       1 por estudiante                          0
+6                            Lenguaje Extranjero                       1 por estudiante                          0
+7                                          Salud                       1 por estudiante                          0
+8                  Artes Visuales y Bellas Artes  Suficientes Materiales de Instrucción                          0
+9  Equipo  Laboratorio de Ciencias (Grados 9-12)  Suficientes Materiales de Instrucción                          0,               Materia  Adoptado       Niveles                Publicador                                         Título
+0    Lectura/Artes de    2016.0  K-6 (ciudad)                 Heinemann            Units of Study for Teaching Reading
+1            Lenguaje    2003.0    6(LOMS)7,8          McDougal Littell                         Language of Literature
+2         Matemáticas    2014.0           K-2      Math Learning Center                           Bridges, 2nd Edition
+3                 NaN    2015.0           3-5      Math Learning Center                           Bridges, 2nd Edition
+4                 NaN    2016.0             6       College Preparatory                     Core Connections, Course 1
+5                 NaN       NaN           NaN               Mathematics                                            NaN
+6                 NaN    2016.0           7-8       College Preparatory          Core Connections, Course 2 & Course 3
+7                 NaN       NaN           NaN               Mathematics                                            NaN
+8   Historia/Ciencias    2007.0           K-5          Houghton Mifflin        Houghton Mifflin History/Social Science
+9            Sociales    2007.0             6  Holt, Rinehart & Winston           World History: Ancient Civilizations
+10                NaN    2007.0             7  Holt, Rinehart & Winston        World History: Medieval to Early Modern
+11                NaN       NaN           NaN                       NaN                                          Times
+12                NaN    2007.0             8  Holt, Rinehart & Winston               US History: Independence to 1914
+13           Ciencias    2016.0           K-5           Delta Education                           FOSS Next Generation
+14                NaN    2008.0             6     MacMillan/McGraw-Hill                       California Earth Science
+15                NaN    2008.0             7             Prentice Hall      Focus on Life Science, California Edition
+16                NaN    2008.0             8             Prentice Hall  Focus on Physical Science, California Edition,               Materia  Adoptado Niveles                 Publicador                                             Título
+0              Inglés    2003.0    9-12           McDougal Littell                             Language of Literature
+1         Matemáticas    2015.0    9-12        College Preparatory                        Core Connections, Algebra I
+2                 NaN       NaN     NaN                Mathematics                                                NaN
+3                 NaN    2015.0    9-12        College Preparatory                         Core Connections, Geometry
+4                 NaN       NaN     NaN                Mathematics                                                NaN
+5                 NaN    2015.0    9-12        College Preparatory                       Core Connections, Algebra II
+6                 NaN       NaN     NaN                Mathematics                                                NaN
+7                 NaN    1995.0    9-12     PWS Publishing Company            Analytic Trigonometry with Applications
+8                 NaN    2001.0    9-12    Addison Wesley Longman,                              Elementary Statistics
+9                 NaN       NaN     NaN                       Inc.                                                NaN
+10                NaN    2005.0    9-12              Prentice Hall          Calculus: Graphical, Numerical, Algebraic
+11                NaN    2010.0    9-12     Pearson/Addison Wesley                                        Precalculus
+12                NaN    2019.0      10  Houghton Mifflin Harcourt           Modern World History: California Edition
+13  Historia/Ciencias    2019.0      11  Houghton Mifflin Harcourt    American History, Reconstruction to the Present
+14           Sociales    2019.0      12                    Pearson                     Magruder’s American Government
+15                NaN    2019.0      12                McGraw-Hill   Principles of Economics-Impact California Social
+16                NaN       NaN     NaN                        NaN                                            Studies
+17           Ciencias    2018.0       9                  Lab-Aides        Biology: Science Global Issues, 2nd Edition
+18                NaN    2018.0      10     Heath/McDougal Littell  Introductory Chemistry: A Foundation, 4th Edition
+19                NaN       NaN     NaN                        NaN                    & Chemistry, 5th Edition Honors
+20                NaN    2014.0   11-12                    Pearson                 Physics for Scientists & Engineers
+21                NaN    2014.0   11-12                    Pearson      College Physics: A Strategic Approach, AP Ed.,   Materia  Año Adoptado  Niveles de Grado                Publicador           Título
+0   Salud          2006                 9  Holt, Rinehart & Winston  Lifetime Health,    Materia  Año Adoptado Niveles de Grado             Publicista                                         Unnamed: 0  Título
+0  Español          2018             9-12  Vista Higher Learning                                           Descubre     NaN
+1  Francés          2018             9-12  Vista Higher Learning                                         D’accord I     NaN
+2    Latín          2005             9-12              Cambridge  Cambridge Latin Course, North American, 4th Ed...     NaN
+3      NaN          2005             9-12               Bolchazy                 Libros Suplementales para el latín     NaN,                   Unnamed: 0 Gastos Totales Por Gastos Por Estudiante           Gastos Por Promedio del Salario
+0                      Nivel                NaN                   NaN                  NaN                  NaN
+1                        NaN         Estudiante         (Suplemental)  Estudiante (Básico)          de Maestros
+2              Sitio Escolar            $15,081                $4,395              $10,686              $68,559
+3                   Distrito                NaN                   NaN                  NaN              $12,305
+4  Porciento de Diferencia –                NaN                   NaN                  NaN                  NaN
+5  Sitio Escolar y  Distrito                NaN                   NaN                  NaN              -13.16%
+6                     Estado                NaN                   NaN                  NaN               $7,507
+7  Porciento de Diferencia –                NaN                   NaN                  NaN                  NaN
+8    Sitio Escolar y  Estado                NaN                   NaN                  NaN               42.35%,                                         Unnamed: 0 Unnamed: 1           Unnamed: 2
+0                                              NaN   Cantidad  Promedio del Estado
+1                                              NaN        NaN                  NaN
+2                                        Categoría        del   para Distritos  En
+3                                              NaN   Distrito      Misma Categoría
+4                                              NaN        NaN                  NaN
+5                Salario de Maestro/a Principiante    $46,980              $49,084
+6                                              NaN        NaN                  NaN
+7                       Salario de Maestro/a Medio    $70,172              $76,091
+8                    Salario de Maestro/a Más Alto    $98,716              $95,728
+9        Salario Promedio de Director/a (Primaria)   $130,134             $118,990
+10  Salario Promedio de Director/a (Escuela Media)   $133,807             $125,674
+11   Salario Promedio de Director/a (Preparatoria)   $150,596             $137,589
+12                      Salario de Superintendente   $215,273             $230,096
+13      % de Presupuesto para Salarios de Maestros        33%                  35%
+14  % de Presupuesto para Salarios Administrativos         5%                   6%,                       Unnamed: 0 Porcentaje de Estudiantes Satisfaciendo o Excediendo los Estándares del Estado
+0                        Materia                            Escuela Distrito Estado                            
+1                            NaN    2017-18 2018-19 2017-18 2018-19 2017-18 2018-19                            
+2    Artes del Lenguaje Inglés /                                                NaN                            
+3  Alfabetismo (grados 3-8 y 11)          52.98% 49.34% 68.33% 70.28% 49.88% 50.87%                            
+4   Matemáticas (grados 3-8 y11)          56.29% 51.66% 61.64% 64.08% 38.65% 39.73%                            ,                         Unnamed: 0         Unnamed: 1        Unnamed: 2 Porcentaje Porcentaje alcanzado
+0            Grupos de Estudiantes  Inscripción Total  Numero Examinado  Examinado           o superado
+1            Todos los Estudiantes                 52                52       100%               59.61%
+2                        Masculino                 35                35       100%               57.14%
+3                         Femenino                 17                17       100%               64.71%
+4                         Asiático                 --                --         --                   --
+5                 Hispano o Latino                 14                14       100%               42.86%
+6                           Blanco                 30                30       100%                  70%
+7                  Dos o Más Razas                 --                --         --                   --
+8                  Con Desventajas                 26                26       100%               42.31%
+9                  Socioeconómicas                NaN               NaN        NaN                  NaN
+10            Aprendices de Inglés                 --                --         --                   --
+11  Estudiantes con Discapacidades                 --                --         --                   --,                         Unnamed: 0         Unnamed: 1        Unnamed: 2 Porcentaje Porcentaje alcanzado
+0            Grupos de Estudiantes  Inscripción Total  Numero Examinado  Examinado           o superado
+1            Todos los Estudiantes                 54                50        93%                  40%
+2                        Masculino                 27                25        93%                  24%
+3                         Femenino                 27                25        93%                  56%
+4                         Asiático                 --                --         --                   --
+5                 Hispano o Latino                 16                15        94%                  40%
+6                           Blanco                 30                27        90%               44.45%
+7                  Dos o Más Razas                 --                --         --                   --
+8                  Con Desventajas                 31                28        90%                  25%
+9                  Socioeconómicas                NaN               NaN        NaN                  NaN
+10            Aprendices de Inglés                 --                --         --                   --
+11  Estudiantes con Discapacidades                 --                --         --                   --,                         Unnamed: 0         Unnamed: 1        Unnamed: 2 Porcentaje Porcentaje alcanzado
+0            Grupos de Estudiantes  Inscripción Total  Numero Examinado  Examinado           o superado
+1            Todos los Estudiantes                 48                48       100%                  48%
+2                        Masculino                 28                28       100%               39.28%
+3                         Femenino                 20                20       100%                  60%
+4                         Asiático                 --                --         --                   --
+5                 Hispano o Latino                 12                12       100%               58.34%
+6                           Blanco                 23                23       100%               43.48%
+7                  Dos o Más Razas                 --                --         --                   --
+8                  Con Desventajas                 22                22       100%               31.82%
+9                  Socioeconómicas                NaN               NaN        NaN                  NaN
+10            Aprendices de Inglés                 --                --         --                   --
+11  Estudiantes con Discapacidades                 --                --         --                   --,                         Unnamed: 0         Unnamed: 1        Unnamed: 2 Porcentaje Porcentaje alcanzado
+0            Grupos de Estudiantes  Inscripción Total  Numero Examinado  Examinado           o superado
+1            Todos los Estudiantes                 52                52       100%               67.31%
+2                        Masculino                 35                35       100%               62.86%
+3                         Femenino                 17                17       100%               76.47%
+4                         Asiático                 --                --         --                   --
+5                 Hispano o Latino                 14                14       100%               64.28%
+6                           Blanco                 30                30       100%                  70%
+7                  Dos o Más Razas                 --                --         --                   --
+8                  Con Desventajas                 26                26       100%               58.70%
+9                  Socioeconómicas                NaN               NaN        NaN                  NaN
+10            Aprendices de Inglés                 --                --         --                   --
+11  Estudiantes con Discapacidades                 --                --         --                   --,                         Unnamed: 0         Unnamed: 1        Unnamed: 2 Porcentaje Porcentaje alcanzado
+0            Grupos de Estudiantes  Inscripción Total  Numero Examinado  Examinado           o superado
+1            Todos los Estudiantes                 54                51        94%               49.02%
+2                        Masculino                 27                25        93%                  40%
+3                         Femenino                 27                26        96%               57.69%
+4                         Asiático                 --                --         --                   --
+5                 Hispano o Latino                 16                16       100%               37.50%
+6                           Blanco                 30                27        90%               51.86%
+7                  Dos o Más Razas                 --                --         --                   --
+8                  Con Desventajas                 31                29        94%               37.93%
+9                  Socioeconómicas                NaN               NaN        NaN                  NaN
+10            Aprendices de Inglés                 --                --         --                   --
+11  Estudiantes con Discapacidades                 --                --         --                   --,                         Unnamed: 0         Unnamed: 1        Unnamed: 2 Porcentaje Porcentaje alcanzado
+0            Grupos de Estudiantes  Inscripción Total  Numero Examinado  Examinado           o superado
+1            Todos los Estudiantes                 48                48       100%                37.5%
+2                        Masculino                 28                28       100%               32.14%
+3                         Femenino                 20                20       100%                  45%
+4                         Asiático                 --                --         --                   --
+5                 Hispano o Latino                 12                12       100%               33.33%
+6                           Blanco                 23                23       100%               30.44%
+7                  Dos o Más Razas                 --                --         --                   --
+8                  Con Desventajas                 22                22       100%               22.73%
+9                  Socioeconómicas                NaN               NaN        NaN                  NaN
+10            Aprendices de Inglés                 --                --         --                   --
+11  Estudiantes con Discapacidades                 --                --         --                   --,     Unnamed: 0  Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4  Escuela Escuela.1 Distrito Distrito.1   Estado Estado.1
+0         Tema         NaN         NaN        NaN        NaN      NaN       NaN      NaN        NaN      NaN      NaN
+1          NaN         NaN         NaN        NaN        NaN  2017–18   2018–19  2017–18    2018–19  2017–18  2018–19
+2      Ciencia         NaN         NaN        NaN        NaN      NaN       NaN      NaN        NaN      NaN      NaN
+3   (Grados 5,         NaN         8.0          y    escuela      N/A       N/A      N/A        N/A      N/A      N/A
+4  secundaria)         NaN         NaN        NaN        NaN      NaN       NaN      NaN        NaN      NaN      NaN,   Unnamed: 0 Porcentaje de Estudiantes Cumpliendo con Estándares
+0        NaN                          de Buena Condición Física 
+1   Nivel de          Cuatro de Seis Cinco de Seis Seis de Seis 
+2      Grado                   Estándares Estándares Estándares 
+3          5                                  15.8% 36.8% 10.5% ,   El enfoque distrital para el desarrollo del personal ha sido concentrado en las áreas de Estándares Estadales de Núcleo
+0  Común, evaluaciones, escritura, matemáticas, l...                                                                     
+1  Carreras para instrucción de alta calidad en e...                                                                     
+2  cuando la mayoría de nuestros estudiantes está...                                                                     ]

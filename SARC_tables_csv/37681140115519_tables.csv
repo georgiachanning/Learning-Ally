@@ -1,0 +1,175 @@
+[                                    law to publish a  School Accountability Report                     Card  ... 17-18  18-19 19-20
+0                               contains information                           NaN  about the condition and  ...   NaN    NaN   NaN
+1                                                NaN                           NaN                      NaN  ...   0.0    0.0   0.0
+2  California public school. Under the Local Cont...                           NaN                      NaN  ...   NaN    NaN   NaN
+3  all local educational agencies (LEAs) are requ...                           NaN                      NaN  ...   0.0    0.0   0.0
+4  and Accountability Plan (LCAP), which describe...                           NaN                      NaN  ...   0.0    0.0   0.0
+
+[5 rows x 12 columns],         Grade Level  Number of Students
+0           Grade 8                   6
+1  Total Enrollment                   6,                              Group  Percent of Total Enrollment
+0        Black or African American                         16.7
+1               Hispanic or Latino                         83.3
+2  Socioeconomically Disadvantaged                        100.0
+3                 English Learners                         50.0
+4       Students with Disabilities                         33.3,        Teacher Credentials for Santa Margarita  17-18  18-19  19-20
+0                           Leadership Academy    NaN    NaN    NaN
+1                         With Full Credential    1.0    1.0    1.0
+2                      Without Full Credential    0.0    0.0    0.0
+3  Teaching Outside Subject Area of Competence    0.0    0.0    0.0,        Teacher Credentials for Fallbrook Union 17-18 18-19  19-20
+0                   Elementary School District   NaN   NaN    NaN
+1                         With Full Credential     ♦     ♦  262.0
+2                      Without Full Credential     ♦     ♦    0.0
+3  Teaching Outside Subject Area of Competence     ♦     ♦    1.0,           Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0        Reading/Language Arts          CA Treasures, Macmillan/McGraw-Hill (K-6)    
+1                          NaN                                    Adopted in 2011    
+2                          NaN                                                NaN    
+3                          NaN                  Holt, Rinehart, and Winston (7-8)    
+4                          NaN                                    Adopted in 2011    
+5                          NaN                                                NaN    
+6                          NaN  The textbooks listed are from most recent adop...    
+7                          NaN  Percent of students lacking their own assigned...    
+8                          NaN                                                NaN    
+9                  Mathematics       California Math, McGraw-Hill Education (6-8)    
+10                         NaN                                    Adopted in 2016    
+11                         NaN                                                NaN    
+12                         NaN  The textbooks listed are from most recent adop...    
+13                         NaN  Percent of students lacking their own assigned...    
+14                         NaN                                                NaN    
+15                     Science                        Macmillan/McGraw-Hill (K-6)    
+16                         NaN                                    Adopted in 2007    
+17                         NaN                                                NaN    
+18                         NaN           Fallbrook UESD NGSS Units of Study (7-8)    
+19                         NaN                                    Adopted in 2018    
+20                         NaN                                                NaN    
+21                         NaN  The textbooks listed are from most recent adop...    
+22                         NaN  Percent of students lacking their own assigned...    
+23                         NaN                                                NaN    
+24      History-Social Science                          Glencoe/McGraw-Hill (6-8)    
+25                         NaN                                    Adopted in 2006    
+26                         NaN                                                NaN    
+27                         NaN  The textbooks listed are from most recent adop...    
+28                         NaN  Percent of students lacking their own assigned...    
+29                         NaN                                                NaN    
+30  Visual and Performing Arts                        Macmillan/McGraw-Hill (K-6)    
+31                         NaN                                    Adopted in 2007    
+32                         NaN                                                NaN    
+33                         NaN  The textbooks listed are from most recent adop...    
+34                         NaN  Percent of students lacking their own assigned...    ,                           Unnamed: 0                      Unnamed: 1  Unnamed: 2                       Repair Needed and
+0                                NaN  System Inspected Repair Status         NaN                                     NaN
+1                                NaN                             NaN         NaN                 Action Taken or Planned
+2                           Systems:                           XGood         NaN         Office A/C unit needs adjusting
+3  Gas Leaks, Mechanical/HVAC, Sewer                             NaN         NaN                                     NaN
+4                          Interior:                           XFair         NaN  Several ceiling tiles need replacement
+5                  Interior Surfaces                             NaN         NaN             A wall surface needs repair,                                            Unnamed: 0                      Unnamed: 1  Unnamed: 2                          Repair Needed and
+0                                                 NaN  System Inspected Repair Status         NaN                                        NaN
+1                                                 NaN                             NaN         NaN                    Action Taken or Planned
+2                                        Cleanliness:                           XGood         NaN  Evidence of pests detected in a few areas
+3       Overall Cleanliness, Pest/ Vermin Infestation                             NaN         NaN                                        NaN
+4                                         Electrical:                           XGood         NaN  A few lights are out, need bulbs replaced
+5                                          Electrical                             NaN         NaN          Two diffusers need to be replaced
+6                                                 NaN                             NaN         NaN                                        NaN
+7                                Restrooms/Fountains:                           XGood         NaN     Toilet sets are loose, need tightening
+8                         Restrooms, Sinks/ Fountains                             NaN         NaN     Drinking fountains need adjustment due
+9                                                 NaN                             NaN         NaN                            to low pressure
+10                                                NaN                             NaN         NaN                     A sink faucet is loose
+11                                                NaN                             NaN         NaN                                        NaN
+12                                            Safety:                           XGood         NaN                                        NaN
+13                   Fire Safety, Hazardous Materials                             NaN         NaN                                        NaN
+14                                        Structural:                           XGood         NaN                                        NaN
+15                           Structural Damage, Roofs                             NaN         NaN                                        NaN
+16                                          External:                           XGood         NaN            Outside drinking fountain needs
+17  Playground/School Grounds, Windows/ Doors/Gate...                             NaN         NaN             adjustment due to low pressure
+18                                     Overall Rating                             NaN         NaN                                        NaN
+19                                                NaN                           XGood         NaN                                        NaN
+20                                         ----------                             NaN         NaN                                        NaN,   The SARC provides the following information relevant to the State priority: Unnamed: 0 School School.1 District District.1  State State.1
+0                                                NaN                             Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1                    Pupil Achievement (Priority 4):                                 NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2  • Statewide assessments (i.e., California Asse...                             Science    N/A      N/A      N/A        N/A    N/A     N/A,   Unnamed: 0 School School.1 District District.1  State State.1
+0    Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1        NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2        ELA     --       --       57         53     50      50
+3       Math     --       --       45         43     38      39,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN          --      --      --               --
+3                              Male            NaN          --      --      --               --
+4                            Female            NaN          --      --      --               --
+5         Black or African American            NaN          --      --      --               --
+6                Hispanic or Latino            NaN          --      --      --               --
+7                             White            NaN          --      --      --               --
+8   Socioeconomically Disadvantaged            NaN          --      --      --               --
+9                  English Learners            NaN          --      --      --               --
+10       Students with Disabilities            NaN          --      --      --               --,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN          --      --      --               --
+3                              Male            NaN          --      --      --               --
+4                            Female            NaN          --      --      --               --
+5         Black or African American            NaN          --      --      --               --
+6                Hispanic or Latino            NaN          --      --      --               --
+7                             White            NaN          --      --      --               --
+8   Socioeconomically Disadvantaged            NaN          --      --      --               --
+9                  English Learners            NaN          --      --      --               --
+10       Students with Disabilities            NaN          --      --      --               --,   Suspensions and Expulsions for the School  2016-17  2017-18  2018-19
+0                          Suspensions Rate      0.0     36.4     33.3
+1                           Expulsions Rate      8.3      0.0      8.3,   Suspensions and Expulsions for the District  2016-17  2017-18  2018-19
+0                            Suspensions Rate      1.2      1.2      1.2
+1                             Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the State  2016-17  2017-18  2018-19
+0                         Suspensions Rate      3.6      3.5      3.5
+1                          Expulsions Rate      0.1      0.1      0.1,                    Unnamed: 0  Title  Ratio
+0  Academic Counselor*-------    NaN    NaN,                                            Unnamed: 0 Number of Full-Time Equivalent
+0                                               Title                            NaN
+1                                                 NaN                          (FTE)
+2   Counselor (Social/Behavioral or Career Develop...                             .5
+3                   Library Media Teacher (Librarian)                            NaN
+4     Library Media Services Staff (Paraprofessional)                            .82
+5                                 Psychologist-------                            0.1
+6                                Social Worker-------                            NaN
+7                                        Nurse-------                           1.25
+8                  Speech/Language/Hearing Specialist                            NaN
+9           Resource Specialist (non-teaching)-------                            NaN
+10                                       Other-------                            NaN,        Unnamed: 0  2016-17 2016-17.1 2016-17.2 2016-17.3  2017-18 2017-18.1 2017-18.2 2017-18.3  2018-19 2018-19.1 2018-19.2 2018-19.3
+0             NaN  Average      # of      # of      # of  Average      # of      # of      # of  Average      # of      # of      # of
+1         Subject    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*
+2             NaN     Size      Size      Size      Size     Size      Size      Size      Size     Size      Size      Size      Size
+3             NaN      NaN      1-22     23-32       33+      NaN      1-22     23-32       33+      NaN      1-22     23-32       33+
+4         English        6         1       NaN       NaN        6         1       NaN       NaN        6         1       NaN       NaN
+5     Mathematics        6         1       NaN       NaN        6         1       NaN       NaN        6         1       NaN       NaN
+6         Science        6         1       NaN       NaN        6         1       NaN       NaN        6         1       NaN       NaN
+7  Social Science        6         1       NaN       NaN        6         1       NaN       NaN        6         1       NaN       NaN,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        3        6        6,                        Unnamed: 0 Unnamed: 1  State Average for                 Unnamed: 2  Unnamed: 3 Unnamed: 4    Unnamed: 5     Average
+0                             NaN   District                NaN                        NaN         NaN        NaN           NaN         NaN
+1                        Category        NaN  Districts In Same                Level Total  Restricted        NaN  Unrestricted     Teacher
+2                             NaN     Amount                NaN                        NaN         NaN        NaN           NaN         NaN
+3                             NaN        NaN           Category                        NaN         NaN        NaN           NaN      Salary
+4        Beginning Teacher Salary    $49,133            $49,378    School Site- $21,007.17         NaN     $36.00    $20,971.17  $89,337.00
+5        Mid-Range Teacher Salary    $76,797            $77,190  -D--is--t-r ict------ N/A         NaN        N/A     $6,620.00  $86,806.00
+6          Highest Teacher Salary   $102,373            $96,607         S- tate------- N/A         NaN        N/A     $7,506.64  $77,619.00
+7   Average Principal Salary (ES)   $124,108           $122,074                        NaN         NaN        NaN           NaN         NaN
+8   Average Principal Salary (MS)   $130,350           $126,560                        NaN         NaN        NaN           NaN     Average
+9                             NaN        NaN                NaN        Percent Differences         NaN        NaN  Unrestricted     Teacher
+10  Average Principal Salary (HS)         $0           $126,920                        NaN         NaN        NaN           NaN         NaN
+11                            NaN        NaN                NaN                        NaN         NaN        NaN           NaN      Salary
+12          Superintendent Salary   $285,670           $189,346                        NaN         NaN        NaN           NaN         NaN,                  Unnamed: 0 Unnamed: 1  State Average for             Unnamed: 2  Unnamed: 3  Unnamed: 4    Unnamed: 5     Average
+0                       NaN   District                NaN                    NaN         NaN         NaN           NaN         NaN
+1                  Category        NaN  Districts In Same                  Level       Total  Restricted  Unrestricted     Teacher
+2                       NaN     Amount                NaN                    NaN         NaN         NaN           NaN         NaN
+3                       NaN        NaN           Category                    NaN         NaN         NaN           NaN      Salary
+4  Beginning Teacher Salary    $49,133            $49,378           School Site-  $21,007.17      $36.00    $20,971.17  $89,337.00
+5  Mid-Range Teacher Salary    $76,797            $77,190  -D--is--t-r ict------         N/A         N/A     $6,620.00  $86,806.00
+6    Highest Teacher Salary   $102,373            $96,607         S- tate-------         N/A         N/A     $7,506.64  $77,619.00,    Average Principal Salary (MS)  $130,350  $126,560            Unnamed: 0    Unnamed: 1  Average
+0                            NaN       NaN       NaN   Percent Differences  Unrestricted  Teacher
+1  Average Principal Salary (HS)        $0  $126,920                   NaN           NaN      NaN
+2                            NaN       NaN       NaN                   NaN           NaN   Salary
+3          Superintendent Salary  $285,670  $189,346                   NaN           NaN      NaN
+4                            NaN       NaN       NaN  School Site/District         104.0      2.9
+5                            NaN       NaN       NaN    School Site/ State          94.6     14.0,                    Unnamed: 0 Unnamed: 1         Unnamed: 2                            School Site/ State 94.6  14.0
+0                         NaN        NaN  State Average for                                                NaN   NaN
+1                         NaN   District                NaN   Note: Cells with N/A values do not require data.   NaN
+2  Percent of District Budget        NaN  Districts In Same                                                NaN   NaN
+3                         NaN     Amount                NaN                                                NaN   NaN
+4                         NaN        NaN           Category  The California Department of Education issued ...   NaN
+5            Teacher Salaries        34%                36%  2018, regarding how to calculate school-level ...   NaN
+6                         NaN        NaN                NaN                  reported on 2018-19 report cards.   NaN
+7     Administrative Salaries         6%                 6%                                                NaN   NaN]

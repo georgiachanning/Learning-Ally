@@ -1,0 +1,155 @@
+[                          Unnamed: 0  Entity                   Unnamed: 1  Contact Information
+0                        School Name     NaN  Picard Community Day School                  NaN
+1                             Street     NaN        615 West Third Street                  NaN
+2                   City, State, Zip     NaN             Dorris, CA 96023                  NaN
+3                       Phone Number     NaN               (530) 397-4000                  NaN
+4                          Principal     NaN                  Heidi Gerig                  NaN
+5                      Email Address     NaN           hgerig@bvalusd.org                  NaN
+6                            Website     NaN              www.bvalusd.org                  NaN
+7  County-District-School (CDS) Code     NaN              47-736846114607                  NaN,        Unnamed: 0                                Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Butte Valley Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                        (530) 397-4000         NaN         NaN                  NaN         NaN
+2  Superintendent                           Heidi Gerig         NaN         NaN                  NaN         NaN
+3   Email Address                    hgerig@bvalusd.org         NaN         NaN                  NaN         NaN
+4         Website                       www.bvalusd.org         NaN         NaN                  NaN         NaN,    Grade Level
+0  Grade Level,             Grade Level  Number of Students
+0           Grade Level  Number of Students
+1          Kindergarten                   0
+2               Grade 1                   0
+3               Grade 2                   0
+4               Grade 3                   0
+5               Grade 4                   0
+6               Grade 5                   0
+7               Grade 6                   0
+8               Grade 7                   0
+9               Grade 8                   0
+10  Ungraded Elementary                   0
+11              Grade 9                 N/A
+12             Grade 10                 N/A
+13             Grade 11                 N/A
+14             Grade 12                 N/A
+15   Ungraded Secondary                 N/A
+16     Total Enrollment                   0,    Number of Students
+0  Number of Students,                           Student Group Percent of Total Enrollment
+0             Black or African American                         N/A
+1      American Indian or Alaska Native                         N/A
+2                                 Asian                         N/A
+3                              Filipino                         N/A
+4                    Hispanic or Latino                         N.A
+5   Native Hawaiian or Pacific Islander                         N/A
+6                                 White                         N/A
+7                     Two or More Races                         N/A
+8       Socioeconomically Disadvantaged                         N/A
+9                      English Learners                         N/A
+10           Students with Disabilities                         N/A
+11                         Foster Youth                         N/A
+12                             Homeless                         N/A,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN        0        0        0       17
+3                            Without Full Credential        NaN        0        0        0        4
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                                  Unnamed: 1  From Most Percent Students
+0                      NaN           Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                         NaN     Recent      Lacking Own
+2                      NaN                  Materials/year of Adoption        NaN              NaN
+3                      NaN                                         NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts              McGraw Hill  Wonders-2017(K-5)        Yes                0
+5                      NaN  Houghton Mifflin Harcourt Collections-2017        NaN              NaN
+6                      NaN                                       (6-8)        NaN              NaN
+7                      NaN                                         NaN        NaN              NaN
+8              Mathematics    Houghton Mifflin Harcourt Go Math - 2015        Yes                0
+9                      NaN                                       (K-5)        NaN              NaN
+10                     NaN   Houghton Mifflin Harcourt Big Ideas Math-        NaN              NaN
+11                     NaN                                   2015(6-8)        NaN              NaN
+12                     NaN                                         NaN        NaN              NaN
+13                 Science               Foss Science Kits-2014  (K-2)        Yes                0
+14                     NaN                        Harcourt-2000  (3-5)        NaN              NaN
+15                     NaN                            Holt-2005  (6-8)        NaN              NaN
+16                     NaN                                         NaN        NaN              NaN
+17  History-Social Science              TCI-Social Studies Alive!-2016        Yes                0
+18                  Health                                  Integrated        NaN              N/A,    Unnamed: 0  Unnamed: 1  Unnamed: 2
+0         NaN         NaN         NaN,     Unnamed: 0                                         Unnamed: 1  ...                                 Unnamed: 8 Unnamed: 9
+0          NaN                                                NaN  ...                                        NaN        NaN
+1          NaN                                   System Inspected  ...  Repair Needed and Action Taken or Planned        NaN
+2          NaN                                   System Inspected  ...                                        NaN        NaN
+3          NaN                                                NaN  ...                                        NaN        NaN
+4          NaN        Systems: Gas Leaks,\rMechanical/HVAC, Sewer  ...                                        NaN        NaN
+5          NaN                                                NaN  ...                                        NaN        NaN
+6          NaN                                                NaN  ...                                        NaN        NaN
+7          NaN                                                NaN  ...                                        NaN        NaN
+8          NaN                        Interior: Interior Surfaces  ...                                        NaN        NaN
+9          NaN                                                NaN  ...                                        NaN        NaN
+10         NaN                                                NaN  ...                                        NaN        NaN
+11         NaN                                                NaN  ...                                        NaN        NaN
+12         NaN  Cleanliness: Overall Cleanliness,\rPest/ Vermi...  ...                                        NaN        NaN
+13         NaN                                                NaN  ...                                        NaN        NaN
+14         NaN                                                NaN  ...                                        NaN        NaN
+15         NaN                                                NaN  ...                                        NaN        NaN
+16         NaN                             Electrical: Electrical  ...                                        NaN        NaN
+17         NaN                                                NaN  ...                                        NaN        NaN
+18         NaN                                                NaN  ...                                        NaN        NaN
+19         NaN                                                NaN  ...                                        NaN        NaN
+20         NaN  Restrooms/Fountains: Restrooms,\rSinks/ Fountains  ...                                        NaN        NaN
+21         NaN                                                NaN  ...                                        NaN        NaN
+22         NaN                                                NaN  ...                                        NaN        NaN
+23         NaN                                                NaN  ...                                        NaN        NaN
+24         NaN          Safety: Fire Safety, Hazardous\rMaterials  ...                                        NaN        NaN
+25         NaN                                                NaN  ...                                        NaN        NaN
+26         NaN                                                NaN  ...                                        NaN        NaN
+27         NaN                                                NaN  ...                                        NaN        NaN
+28         NaN              Structural: Structural Damage,\rRoofs  ...                                        NaN        NaN
+29         NaN                                                NaN  ...                                        NaN        NaN
+30         NaN                                                NaN  ...                                        NaN        NaN
+31         NaN                                                NaN  ...                                        NaN        NaN
+32         NaN  External: Playground/School\rGrounds, Windows/...  ...                                        NaN        NaN
+33         NaN                                                NaN  ...                                        NaN        NaN
+34         NaN                                                NaN  ...                                        NaN        NaN
+35         NaN                                                NaN  ...                                        NaN        NaN
+36         NaN                                     Overall Rating  ...                                        NaN        NaN
+37         NaN                                                NaN  ...                                        NaN        NaN
+38         NaN                                                NaN  ...                                        NaN        NaN
+39         NaN                                                NaN  ...                                        NaN        NaN
+
+[40 rows x 10 columns],    System Inspected
+0  System Inspected, Empty DataFrame
+Columns: [Rating, Rating.1]
+Index: [], Empty DataFrame
+Columns: [Repair Needed and Action Taken or Planned, Repair Needed and Action Taken or Planned.1]
+Index: [],    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XExemplary
+0         NaN,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      N/A      N/A      N/A      7.2        7.3        1.5      3.6      3.5      3.5
+3   Expulsions      N/A      N/A      N/A      0.0        0.0        0.0      0.1      0.1      0.1,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN             0             0               0           0
+3                                       District        NaN           N/A           N/A         $13,867         NaN
+4  Percent Difference - School Site and District        NaN           N/A           N/A          -200.0      -100.0
+5                                          State        NaN           N/A           N/A       $7,506.64  $64,732.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A          -200.0      -200.0,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN          $           $43,574
+5                        Mid-Range Teacher Salary        NaN          $           $63,243
+6                          Highest Teacher Salary        NaN          $           $86,896
+7           Average Principal Salary (Elementary)        NaN          $          $103,506
+8               Average Principal Salary (Middle)        NaN          $          $108,961
+9                 Average Principal Salary (High)        NaN          $          $108,954
+10                          Superintendent Salary        NaN          $          $136,125
+11         Percent of Budget for Teacher Salaries        NaN        24%               30%
+12  Percent of Budget for Administrative Salaries        NaN         4%                6%,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        3        3        3]

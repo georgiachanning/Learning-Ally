@@ -1,0 +1,319 @@
+[                                           Unnamed: 0  ... Unnamed: 2
+0                                         Mark LeNoir  ...        NaN
+1                            Assistant Superintendent  ...        NaN
+2                                  Education Services  ...        NaN
+3                                                 NaN  ...       # of
+4                                         Juan Cabral  ...   Students
+5            Assistant Superintendent Human Resources  ...         90
+6                                                 NaN  ...        108
+7                                                 NaN  ...        101
+8                                                 NaN  ...         94
+9                                                 NaN  ...        106
+10                                                NaN  ...        109
+11                                                NaN  ...        NaN
+12                                                NaN  ...        NaN
+13                                                NaN  ...        NaN
+14  The statistical information disclosed in this ...  ...        NaN
+15      is obtained from the California Department of  ...        NaN
+16                                                NaN  ...        NaN
+17         Education and the Val Verde Unified School  ...        NaN
+18  District.  At the time of publishing, this rep...  ...        NaN
+19   all SARC-related state and federal requirements,  ...        NaN
+20  using the most current data available. Instruc...  ...        NaN
+21     materials information was acquired in November  ...        NaN
+22     2019 and the school facilities information was  ...        NaN
+23                          acquired in October 2019.  ...        NaN
+24                                                NaN  ...        608
+
+[25 rows x 4 columns],                         Unnamed: 0                         Core State Standards.  Our                                         Unnamed: 1
+0                         Board of  greatest commitment is to prepare our students...                                  diStrict & School
+1                        edUcation  and 21st Century Learning. This year we opened...  deScriptionVal Verde Unified School District i...
+2                              NaN                                   and engineering.      the heart of the Inland Empire, approximately
+3       Matthew Serafin, President                                                NaN      72 miles east of Los Angeles. Neighboring the
+4   Marla Kirkland, Vice President           Avalon Elementary School is a California   district and its communities are March Air Force
+5             Marisol Roque, Clerk       Distinguished School, California Gold Ribbon        Base and the Lake Perris recreational area.
+6               Ty Liddell, Member    School and a Title 1 Academic Achieving School.     During the 2018-19 school year, the district’s
+7           Julio Gonzalez, Member  In the spirit of continuous improvement, we fo...  schools residing in the rural and suburban com...
+8                              NaN     the student, parents and the school to achieve          of Perris, Moreno Valley, and portions of
+9                              NaN         exceptional results. We are a professional     unincorporated Riverside County.  The district
+10                             NaN          learning community where staff, students,                                                NaN
+11                               d                                                NaN                                                NaN
+12                             NaN                                                NaN      currently operates a preschool, 12 elementary
+13                         iStrict  parents, and the community embrace the idea th...         schools, 4 middle schools, 3 comprehensive
+14                 a dminiStration          Avalon Elementary School provides quality  high a virtual schools, academy, a student and...
+15                             NaN      programs to enrich the educational experience                                            school.
+16            Michael R. McCormick            of our students. Our staff is comprised             During the 2018-19 school year, Avalon
+17                  Superintendent            of hardworking, dedicated professionals           Elementary School served 608 students in
+18                             NaN        determined to make a positive impact on the      grades K-5. Student enrollment included 11.5%
+19                   Stacy Coleman                        lives of Avalon’s students.         in special education, 22.4% qualifying for
+20           Deputy Superintendent   We invite you to visit our campus.  You will see       English learner support and 77.6% qualifying
+21               Business Services   focused students determined to be their personal                   for free or reduced-price meals.,                                      The principal     leads         a  ... policy changes,          special         events,
+0   professional team that delivers an educational       NaN       NaN  ...             and          helpful  student/parent
+1                                program specially  designed       NaN  ...             NaN              NaN             NaN
+2                           needs of all students.       NaN  Rigorous  ...             NaN           system   that forwards
+3    and a positive school environment establish a       NaN       NaN  ...        messages             from    school staff
+4   solid foundation to maximize opportunities for       NaN       NaN  ...           home.            Other    resources of
+..                                             ...       ...       ...  ...             ...              ...             ...
+72                                             NaN       NaN       NaN  ...          (SBAC)     for students          in the
+73                                             NaN       NaN       NaN  ...             NaN              NaN             NaN
+74                                             NaN       NaN       NaN  ...             NaN           (CAAs)    for students
+75                                             NaN       NaN       NaN  ...             NaN              NaN             NaN
+76                                             NaN       NaN       NaN  ...        students  may participate          in the
+
+[77 rows x 14 columns],                          Unnamed: 0 CAASPP Test Results in ELA & Mathematics by Student Group (Grades 3-8)   Unnamed: 1   Unnamed: 2   Unnamed: 3
+0                               NaN                                            2018-19                              NaN          NaN          NaN
+1                               NaN                     English Language Arts/Literacy                      Mathematics          NaN          NaN
+2                               NaN  Total Number Percent Percent Not Percent Met T...                          Percent  Percent Not  Percent Met
+3                               NaN  Enrollment Tested Tested Tested or Exceeded En...                           Tested       Tested  or Exceeded
+4               All Students Tested                325 321 98.77% 1.23% 61.99% 325 319                           98.15%        1.85%       50.16%
+5                              Male                179 177 98.88% 1.12% 57.06% 179 176                           98.32%        1.68%       48.00%
+6                            Female                146 144 98.63% 1.37% 68.06% 146 143                           97.95%        2.05%       52.82%
+7         Black or African American                   48 48 100.00% 0.00% 50.00% 48 48                          100.00%        0.00%       20.83%
+8                             Asian                               -- -- -- -- -- -- --                               --           --           --
+9                          Filipino                               -- -- -- -- -- -- --                               --           --           --
+10               Hispanic or Latino                230 228 99.13% 0.87% 61.40% 230 226                           98.26%        1.74%       54.02%
+11                            White                    17 16 94.12% 5.88% 81.25% 17 16                           94.12%        5.88%       50.00%
+12                Two or More Races                    15 14 93.33% 6.67% 64.29% 15 14                           93.33%        6.67%       64.29%
+13  Socioeconomically Disadvantaged                263 260 98.86% 1.14% 58.08% 263 258                           98.10%        1.90%       46.30%
+14                 English Learners                    95 94 98.95% 1.05% 57.45% 95 94                           98.95%        1.05%       50.00%
+15       Students with Disabilities                    42 39 92.86% 7.14% 35.90% 42 39                           92.86%        7.14%       28.21%
+16                     Foster Youth                               -- -- -- -- -- -- --                               --           --           --,   California Physical Fitness Test ResultsCalifornia Assessment of Student Performance and Progress Test Results in
+0  English Language Arts/Literacy (ELA) and Mathe...                                                               
+1                                % of Standards Met:                                                               
+2  Percentage of Students Meeting or Exceeding th...                                                               
+3                        Avalon VVUSD CA Grade Level                                                               
+4                            Fifth 25.9% 18.8% 12.5%                                                               
+5                17-18 18-19 17-18 18-19 17-18 18-19                                                               
+6   Note:  Percentages are not calculated and double                                                               
+7   English-Language Arts/Literacy 57 62 42 44 50 50                                                               
+8  dashes (--) appear in the table when the numbe...                                                               
+9                      Mathematics 46 50 27 28 38 39                                                               ,                                           Unnamed: 0                                 chool acilitieS Unnamed: 1
+0  California Assessment of Student Performance a...                                        & Safety        NaN
+1                                       All Students                              facilitieS profile        NaN
+2  Percentage of Students Meeting or Exceeding th...             Avalon Elementary School provides a      safe,
+3                                    Avalon VVUSD CA   clean environment for learning through proper        NaN
+4                17-18 18-19 17-18 18-19 17-18 18-19  facilities maintenance and campus supervision.        NaN
+5  Science (Grades 5, 8, & 10) N/A N/A N/A N/A N/...   Original school buildings were constructed in        NaN,    Status table illustrated in this report  identifies Unnamed: 0                 School Facility Good Repair Status Unnamed: 1
+0   the state-required inspection areas and Item I...         NaN                                      Repair Status        NaN
+1   discloses the operational status in each of th...         NaN                                                NaN        NaN
+2   areas. During fiscal year 2019-20, all restroo...         NaN                                  Repair Needed and        NaN
+3     were fully functional and available for student         NaN                            Action Taken or Planned        NaN
+4                  use at the time of the inspection.         NaN                                                NaN        NaN
+5                                             Systems                                                           NaN        NaN
+6           School Site Safety plan Interior Surfaces             Room K-1 - Formica is broken on counter; Room ...        NaN
+7           The Comprehensive School Site Safety Plan         NaN           hallway; MPR - Water stain ceiling tiles        NaN
+8   was developed for Avalon Elementary School in ...                                                           NaN        NaN
+9   collaboration with local agencies and the dist...                                                           NaN        NaN
+10  office to fulfill Senate Bill 187 requirements...                                                           NaN        NaN
+11     The Val Verde Unified School District partners         NaN                                                NaN        NaN
+12  with Hour-Zero for school emergency response ...         NaN                                                NaN        NaN
+13  planning, management, consulting, and training...                                                           NaN        NaN
+14  Hour-Zero specialists support district and Ext...                                                           NaN        NaN
+15  school staff with the ongoing development of O...         NaN                                                NaN        NaN
+16             a comprehensive emergency preparedness   Exemplary                                          Good Fair       Poor
+17          program to address critical components of         NaN                                                NaN        NaN
+18  emergency response planning and compliance Ove...         NaN                                                          NaN,     Unnamed: 0 Unnamed: 1     Suspensions and Expulsions  Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5                                  cUrricUlUm &
+0          NaN        NaN                   Avalon VVUSD         NaN        NaN         CA        NaN                                           NaN
+1          NaN      16-17  17-18 18-19 16-17 17-18 18-19         NaN      16-17      17-18      18-19                                   inStrUction
+2  Suspensions      0.30%  1.40% 0.30% 4.90% 5.10% 4.80%         NaN      3.60%      3.50%      3.50%                             Staff deVelopment
+3          NaN        NaN                            NaN         NaN        NaN        NaN        NaN  All curriculum and instructional improvement
+4   Expulsions      0.00%  0.00% 0.00% 0.11% 0.02% 0.00%         NaN      0.09%      0.08%      0.10%                                           NaN,                                              laSS ize     Unnamed: 0     Unnamed: 1 Unnamed: 2  ... development  on Unnamed: 5 the
+0                                      The Class Size   Distribution          table         in  ...         NaN NaN        NaN NaN
+1   illustrates the distribution of class sizes fo...            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+2                                    grade level, the  average class          size,        NaN  ...         NaN NaN        NaN NaN
+3   number of classes that contain 1-20 students, 21-            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+4               32 students, and 33 or more students.            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+5                                                 NaN            NaN            NaN        NaN  ...      3 days NaN        NaN NaN
+6                               enrichment actiVitieS            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+7                                        Students are     given many  opportunities        NaN  ...         NaN NaN        NaN NaN
+8                                                 NaN            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+9   participate in extracurricular activities that...            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+10  and promote individual interests outside the core            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+11             curriculum. Extracurricular/enrichment            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+12       offered at Avalon Elementary School include:            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+13                                                NaN            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+14                                    • 100 Mile Club            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+15                     • Associate Student Body (ASB)            NaN            NaN        NaN  ...      4 days NaN        NaN NaN
+16                                    • AVID Scholars            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+17                                      • Field trips            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+18                                      • Garden Club            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+19                      • Gifted & Talented Education            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+20                                        • Love Club            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+21                               • Mentorship Program            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+22                                     • Peace Patrol            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+23                                                NaN            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+24                                    • Robotics Club            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+25                       • Science & Engineering Fair            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+26                               • Sign Language Club            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+27  Barriers• Sports (Basketball, Track, Softball ...            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+28                                       • STEAM Club            NaN            NaN        NaN  ...      4 days NaN        NaN NaN
+29                                      • Talent Show            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+30                       • Visual and Performing Arts            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+31                                                NaN            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+32                                                NaN            NaN            NaN        NaN  ...         NaN NaN        NaN NaN
+
+[33 rows x 11 columns],                                          grade level,    the average  ... Average          Unnamed: 1       Number of School Days/Topics Dedicated
+0   number of classes that contain 1-20 students, 21-    NaN     NaN  ...   Class  Number of Classes*            to Staff Development & Continuous
+1               32 students, and 33 or more students.    NaN     NaN  ...    Size      1-20 21-32 33+                                  Improvement
+2                                                 NaN    NaN     NaN  ...     NaN             2016-17                               2017-18 3 days
+3                               enrichment actiVitieS    NaN     NaN  ...    14.0                   9                                          NaN
+4                                        Students are  given    many  ...     NaN                 NaN                 Tiered Supports for Reading
+5                                                 NaN    NaN     NaN  ...    24.0                 1 3                                          NaN
+6   participate in extracurricular activities that...    NaN     NaN  ...     NaN                 NaN    ELA/ELD Reading & Writing Across Content
+7   and promote individual interests outside the core    NaN     NaN  ...    29.0                   4                                        Areas
+8              curriculum. Extracurricular/enrichment    NaN     NaN  ...    27.0                 1 3                         Deep Dive Electives
+9        offered at Avalon Elementary School include:    NaN     NaN  ...    26.0                 1 4                               Future iReady
+10                                                NaN    NaN     NaN  ...    24.0                 1 4                                          NaN
+11                                    • 100 Mile Club    NaN     NaN  ...     NaN                 NaN                                          NaN
+12                     • Associate Student Body (ASB)    NaN     NaN  ...     2.0                   1                               2018-19 4 days
+13                                    • AVID Scholars    NaN     NaN  ...     NaN             2017-18                 ELD Designated & Integrated
+14                                      • Field trips    NaN     NaN  ...    14.0                   6           Grade Level Professional Learning
+15                                      • Garden Club    NaN     NaN  ...    28.0                   4                           Communities (PLCs)
+16                      • Gifted & Talented Education    NaN     NaN  ...    26.0                   4       Grade Level Professional Learning and
+17                                        • Love Club    NaN     NaN  ...    29.0                   4                                Collaboration
+18                               • Mentorship Program    NaN     NaN  ...    26.0                 1 3       Breaking Down Barriers: Return of the
+19                                     • Peace Patrol    NaN     NaN  ...     NaN                 NaN                                          NaN
+20                                                NaN    NaN     NaN  ...    24.0                 2 4                   Equity & Access Superheros
+21                                    • Robotics Club    NaN     NaN  ...     NaN                 NaN                         Deep Dive Electives
+22                       • Science & Engineering Fair    NaN     NaN  ...     3.0                   1      MTSS: Tiered Supports to Breaking Down
+23                               • Sign Language Club    NaN     NaN  ...     NaN             2018-19                                          NaN
+24  Barriers• Sports (Basketball, Track, Softball ...    NaN     NaN  ...    15.0                   6                                          NaN
+25                                       • STEAM Club    NaN     NaN  ...    27.0                 1 3                               2019-20 4 days
+26                                      • Talent Show    NaN     NaN  ...    20.0                 2 3   Integrated & Designated ELD Instructional
+27                       • Visual and Performing Arts    NaN     NaN  ...    19.0                 2 3                                    Practices
+28                                                NaN    NaN     NaN  ...    27.0                 1 3                   Early Literacy Strategies
+29                                                NaN    NaN     NaN  ...    27.0                   4                       Restorative Practices
+30                                                NaN    NaN     NaN  ...     NaN                 NaN             Common Collaborative Assessment
+31                                                NaN    NaN     NaN  ...     NaN                 NaN                                      Process
+32                                                NaN    NaN     NaN  ...     NaN                 NaN    Math Performance Tasks and Instructional
+33                                                NaN    NaN     NaN  ...     NaN                 NaN                                   Strategies
+34                                                NaN    NaN     NaN  ...     NaN                 NaN                    Instructional Technology
+35                                                NaN    NaN     NaN  ...     NaN                 NaN            Equity & Access for All Students
+36                                                NaN    NaN     NaN  ...     NaN                 NaN               Universal Design for Learning
+37                                                NaN    NaN     NaN  ...     NaN                 NaN   History Social Science Adopted Curriculum
+
+[38 rows x 11 columns],                                         During the     2019-20    school  ...    Unnamed: 2                                   Unnamed: 3              Unnamed: 4
+0   also had the opportunity to participate in the         NaN       NaN  ...           NaN                                    Textbooks                     NaN
+1    following professional development trainings:         NaN       NaN  ...           NaN                                          NaN     Percent of Pupils G
+2                                              NaN         NaN       NaN  ...           NaN                                          NaN    Who Lack Their Own r
+3    • Restorative Practices & Restorative Circles         NaN       NaN  ...     From Most                                          NaN    Assigned Textbooks a
+4                • Classroom Management Techniques         NaN       NaN  ...  Recent State                                          NaN  and/or Instructional d
+5       • K-2 Literacy Intervention: Diagnostics &         NaN       NaN  ...     Adoption?                         Publisher and Series             Materials e
+6                         Instructional Strategies         NaN       NaN  ...           NaN                                          NaN                     NaN
+7                            • Inclusive Practices         NaN       NaN  ...           NaN                        English Language Arts                     NaN
+8                        • Redefining “Giftedness”         NaN       NaN  ...           Yes                         McGraw-Hill: Wonders                     T0%
+9                            • Summer EL Institute         NaN       NaN  ...           Yes                     McGraw-Hill: WonderWorks                    KK0%
+10             • Lego Education for STEAM Learning         NaN       NaN  ...           NaN                                          NaN                       -
+11        • Math Instructional Routines “Capturing         NaN       NaN  ...           NaN                                  Mathematics                     NaN
+12                                     Quantities”         NaN       NaN  ...           Yes  Houghton Mifflin Harcourt: Math Expressions                     K0%
+13                                             NaN         NaN       NaN  ...           NaN                                          NaN                       -
+14                                             NaN         NaN       NaN  ...           NaN                                      Science                     NaN
+15                               Val Verde Unified      School  District  ...           NaN                                          NaN                       K
+16    new teachers and provides intensive training         NaN       NaN  ...           Yes  Pearson: Scott Foresman: California Science                      0%
+17                                             NaN         NaN       NaN  ...           NaN                                          NaN                       -
+18                                    to help them  experience   success  ...           NaN                               Social Science                     NaN
+19                                 new classrooms.         For   ongoing  ...           NaN                                          NaN                       K
+20                                             NaN         NaN       NaN  ...           Yes                          McGraw Hill: Impact                      0%
+
+[21 rows x 10 columns],   materials The school’s leadership team is comprised of based and approved by the district’s Board of teacher leaders who support their team members Education.  for  ... instructional
+0        On September 3, 2019, the Val Verde Unified                                                                                                                   ...           NaN
+1                                  School District’s                                                                                                                   ...           NaN
+2                                     public hearing                                                                                                                   ...         based
+3    textbooks and instructional materials have been                                                                                                                   ...           NaN
+4       provided to students. The Board of Education                                                                                                                   ...           NaN
+5     adopted Resolution No.19-20-10 which certifies                                                                                                                   ...          have
+6       as required by Education Code §60119 1) that                                                                                                                   ...           NaN
+
+[7 rows x 14 columns],                                         Unnamed: 0                                      Unnamed: 1  ... Unnamed: 3 Unnamed: 4
+0                              gifted and talented                                             NaN  ...      VVUSD        NaN
+1                                        edUcation                                             NaN  ...      18-19      19-20
+2     Avalon Elementary School offers a Gifted and                                  Total Teachers  ...        841        850
+3   Talented Education (GATE) program for students                   Teachers with Full Credential  ...        817        820
+4       who have been recognized as high achievers                Teachers without Full Credential  ...         24         30
+5  by their teachers and through district testing.                   Teaching Outside Subject Area  ...        NaN        NaN
+6    GATE students are clustered by grade level to                          (with full credential)  ...          5          8
+7  receive accelerated, differentiated instruction  Misassignments of Teachers of English Learners  ...          0          0
+8           which offers more depth and complexity                   Total Teacher Misassignments*  ...          0          0
+9     throughout the curriculum. GATE students are                               Teacher Vacancies  ...          8          6
+
+[10 rows x 6 columns],                                           e ngliSh  l  ... Unnamed: 2
+0   All of Avalon Elementary’s teachers are certified  ...        NaN
+1     and trained to provide instruction for students  ...        NaN
+2      identified as English Learners (EL). Beginning  ...        NaN
+3                                   level EL students  ...        NaN
+4                                         Development  ...        NaN
+5        teacher for 30 minutes a day as a supplement  ...        NaN
+6    to their regular language arts curriculum. Using  ...        NaN
+7                                  specially-designed  ...        NaN
+8       materials, ELD instruction focuses on reading  ...        NaN
+9                                        development,  ...        NaN
+10                                     and vocabulary  ...        NaN
+11                                       collaborates  ...        NaN
+12                                        small group  ...        NaN
+13      outside the general education classroom based  ...        NaN
+14                                       upon student  ...        NaN
+15                                         fluency in  ...         of
+16     Elementary School continues to monitor student  ...        NaN
+17       performance through ELPAC results, benchmark  ...        NaN
+18                                       assessments,  ...        NaN
+19   adjust instruction as needed to ensure continued  ...        NaN
+
+[20 rows x 8 columns],                                            Unnamed: 0  ...                                         Unnamed: 3
+0      Self-Guided Learning program in which students  ...                            Academic Counselors and
+1    are given the opportunity to 21st century skills  ...                                Other Support Staff
+2       within the core subject areas.  Planning time  ...                                            2018-19
+3     includes integration of the 4 C’s into everyday  ...                                                NaN
+4    lessons for students. Teachers are incorporating  ...                                             No. of
+5   instructional time that includes collaboration...  ...                                         Staff FTE*
+6         communication to encourage students to have  ...                           Academic Counselor 0 0.0
+7   a voice in their education.  Teachers use Inquiry  ...                                                NaN
+8         Based lessons to build and promote critical  ...                    Licensed Vocational Nurse 1 1.0
+9   thinking in our students. They are using five ...  ...                                        Nurse 1 0.2
+10     in their classroom to help with collaboration.  ...                   Occupational Therapist As needed
+11          Avalon Elementary School where thought is  ...                                                NaN
+12                                            taught.  ...                                 Psychologist 1 0.4
+13                                                NaN  ...                           Speech Pathologist 1 0.6
+14                              interVention programS  ...  *One Full Time Equivalent (FTE) equals one sta...
+15     Avalon Elementary School supports intervention  ...  working full time; one FTE could also represen...
+16         programs through its extended day learning  ...            members who each work 50% of full time.
+17         academy offered before and after school to  ...                                                NaN
+18      meet the needs of those kindergarten students  ...                                                NaN
+19         not meeting state proficiency standards in  ...                                                NaN
+
+[20 rows x 5 columns],    additional information about Avalon Elementary from school districts having similar average daily  ...      
+0   School and comparisons of the school to the at...                                                 ...      
+1     district, the county, and the state.  DataQuest                                                 ...     
+2   provides reports for school accountability, ex...                                                 ...         NaN
+3   including but not limited to, CAASPP results, ...                                                 ...     
+4   Physical Fitness results, Suspensions and Scho...                                                 ...     
+5   Expulsions, Dropout & Graduation Rates, total ...                                                 ...     
+6   enrollment, and staffing statistics. on 2017-1...                                                 ...     
+7   accordance with calculations defined in Education                                                 ...         NaN
+8   Code §41372). The table in this report 1) comp...                                                 ...         NaN
+9   pUBlic internet the school’s per pupil expendi...                                                 ...        
+10  acceSS location(basic) and restricted (supp...                                                 ...         NaN
+11  Parents may access Avalon Elementary other sch...                                                 ...         NaN
+12  School’s SARC and access the internet at state...                                                 ...         NaN
+13  any of the county’s public libraries or the at...                                                 ...         NaN
+14  school’s library.  The closest library to Aval...                                                 ...         NaN
+15  Elementary School is Perris Branch Public rega...                                                 ...         NaN
+16  Library located at 163 E. San Jacinto  Avenue,...                                                 ...         NaN
+17  Perris, CA 92570. educational services, per AD...                                                 ...         NaN
+18                       certain other expenditures.)                                                 ...         NaN
+19      Perris Branch Public Library • (951) 657-2358                                                 ...         NaN
+20  Hours: Sunday 1-5 Expenditures Per Pupil and S...                                                 ...         NaN
+21                               Monday 10 -6 2017-18                                                 ...         NaN
+22                             Tuesday-Wednesday 12-8                                                 ...         NaN
+23   Thursday-Saturday 10-6 Dollars Spent Per Student                                                 ...         NaN
+24                  Number of computers available: 14                                                 ...         NaN
+25                    Number of printers available: 1                                                 ...         NaN
+26                                                NaN                                                 ...  School and
+27  Avalon Elementary School Library Expenditures ...                                                 ...       State
+28  Availability: Parents may visit the library in...                                                 ...         N/A
+29  mornings on school days Restricted (Supplement...                                                 ...         N/A
+30  Number of computers available: 3 Unrestricted ...                                                 ...       70.6%
+31  Number of mini laptops available: 5Average Tea...                                                 ...      120.2%
+
+[32 rows x 4 columns], Empty DataFrame
+Columns: [http://dq.cde.ca.gov/dataquest/, that, contains, of, Education, has, provided, average, salary, data, , ]
+Index: []]

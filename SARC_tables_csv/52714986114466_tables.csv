@@ -1,0 +1,169 @@
+[     • For more information about SARC requirements, see the California     Teacher Credentials for Columbia Academy  17-18  18-19  19-20
+0  NaN     Department of Education (CDE) SARC web page at                                       With Full Credential    2.0    2.0    2.0
+1  NaN                  https://www.cde.ca.gov/ta/ac/sa/.                                                        NaN    NaN    NaN    NaN
+2    •  For more information about the LCFF or LCAP, s...                                    Without Full Credential    0.0    0.0    0.0
+3  NaN          page at https://www.cde.ca.gov/fg/aa/lc/.                Teaching Outside Subject Area of Competence    0.0    0.0    0.0,                                    community members  should             contact  ...  Unnamed: 1  Unnamed: 2  Unnamed: 3
+0  Teacher Credentials for Corning Union district...     NaN                 NaN  ...       17-18       18-19       19-20
+1                         Elementary School District     NaN                 NaN  ...           ♦           ♦          92
+2          2018-19 Student Enrollment by Grade Level     NaN                 NaN  ...         NaN         NaN         NaN
+3                                                NaN     NaN                 NaN  ...           ♦           ♦           4
+4                                        Grade Level     NaN  Number of Students  ...         NaN         NaN         NaN
+5                                                NaN     NaN                 NaN  ...           ♦           ♦           0
+
+[6 rows x 12 columns],         Grade Level  Number of Students                                         Unnamed: 0 Unnamed: 1 Unnamed: 2
+0               NaN                 NaN      Teaching Outside Subject Area of Competence ♦          ♦          0
+1      Kindergarten                 1.0                                                NaN        NaN        NaN
+2           Grade 1                 1.0  Teacher Misassignments and Vacant Teacher Posi...        NaN        NaN
+3           Grade 2                 1.0                                            Academy        NaN        NaN
+4           Grade 5                 2.0                              Indicator 17-18 18-19        NaN      19-20
+5           Grade 6                 2.0                   Teachers of English Learners 0 0        NaN          0
+6  Total Enrollment                 7.0                  Total Teacher Misassignments* 0 0        NaN          0,             Grade 5    2                      Indicator  17-18  18-19  19-20
+0           Grade 6  2.0   Teachers of English Learners      0      0      0
+1  Total Enrollment  7.0  Total Teacher Misassignments*      0      0      0
+2               NaN  NaN       Vacant Teacher Positions      0      0      0,                              Group  Percent of Total Enrollment who lack legal authorization to teach that grade level, subject area, student
+0                              NaN                          NaN                                        group, etc.                           
+1               Hispanic or Latino                         57.1  *Total Teacher Misassignments includes the num...                           
+2                            White                         42.9                      Teachers of English Learners.                           
+3                              NaN                          NaN                                                NaN                           
+4  Socioeconomically Disadvantaged                        100.0                                                NaN                           
+5                 English Learners                         42.9                                                NaN                           
+6       Students with Disabilities                         42.9                                                NaN                           ,             Core Curriculum Area Textbooks and Instructional Materials/Year of Adoption
+0          Reading/Language Arts                       Study Sync 6-8/Benchmark K-5    
+1                            NaN  The textbooks listed are from most recent adop...    
+2                            NaN  Percent of students lacking their own assigned...    
+3                            NaN                                                NaN    
+4                    Mathematics  Houghton Mifflin/Harcourt Math Expressions K-5...    
+5                            NaN  The textbooks listed are from most recent adop...    
+6                            NaN  Percent of students lacking their own assigned...    
+7                            NaN                                                NaN    
+8                        Science  McDougal Littell (2007) 6-8; Foss Science CDE ...    
+9                            NaN  The textbooks listed are from most recent adop...    
+10                           NaN  Percent of students lacking their own assigned...    
+11                           NaN                                                NaN    
+12        History-Social Science  Harcourt Brace / Houghton Mifflin (2007) K-5; ...    
+13                           NaN                              books in good repair.    
+14                           NaN  The textbooks listed are from most recent adop...    
+15                           NaN  Percent of students lacking their own assigned...    
+16                           NaN                                                NaN    
+17              Foreign Language                                       LEA Provided    
+18                           NaN  Percent of students lacking their own assigned...    
+19                           NaN                                                NaN    
+20                        Health                                       LEA Provided    
+21                           NaN  Percent of students lacking their own assigned...    
+22                           NaN                                                NaN    
+23    Visual and Performing Arts                                       LEA Provided    
+24                           NaN  Percent of students lacking their own assigned...    
+25                           NaN                                                NaN    
+26  Science Laboratory Equipment                                       LEA Provided    ,                                        Unnamed: 0                      Unnamed: 1  Unnamed: 2                             Repair Needed and
+0                                             NaN  System Inspected Repair Status         NaN                                           NaN
+1                                             NaN                             NaN         NaN                       Action Taken or Planned
+2                                        Systems:                           XGood         NaN                                           NaN
+3               Gas Leaks, Mechanical/HVAC, Sewer                             NaN         NaN                                           NaN
+4                                       Interior:                           XPoor         NaN  Missing ceiling tiles, stained ceiling tiles
+5                               Interior Surfaces                             NaN         NaN           from previous leaks, cracked window
+6                                             NaN                             NaN         NaN              trim, cracked and peeling paint.
+7                                    Cleanliness:                           XGood         NaN                                           NaN
+8   Overall Cleanliness, Pest/ Vermin Infestation                             NaN         NaN                                           NaN
+9                                     Electrical:                           XGood         NaN                                           NaN
+10                                     Electrical                             NaN         NaN                                           NaN
+11                           Restrooms/Fountains:                           XGood         NaN                                           NaN
+12                    Restrooms, Sinks/ Fountains                             NaN         NaN                                           NaN
+13                                        Safety:                           XGood         NaN                                           NaN
+14               Fire Safety, Hazardous Materials                             NaN         NaN                                           NaN
+15                                    Structural:                           XPoor         NaN           Evidence of roof leaks, missing and
+16                       Structural Damage, Roofs                             NaN         NaN     stained ceiling tiles from leaks, cracked
+17                                            NaN                             NaN         NaN      and peeling paint.  Both classrooms have
+18                                            NaN                             NaN         NaN                             major roof leaks.,                                           Unnamed: 0                      Unnamed: 1  Unnamed: 2                       Repair Needed and
+0                                                NaN  System Inspected Repair Status         NaN                                     NaN
+1                                                NaN                             NaN         NaN                 Action Taken or Planned
+2                                          External:                           XGood         NaN                                     NaN
+3  Playground/School Grounds, Windows/ Doors/Gate...                             NaN         NaN                                     NaN
+4                                     Overall Rating                             NaN         NaN  Both buildings have been neglected and
+5                                                NaN                           XFair         NaN                                     NaN
+6                                         ----------                             NaN         NaN     should be repaired.  Both roofs are
+7                                                NaN                             NaN         NaN                                     NaN
+8                                                NaN                             NaN         NaN     scheduled for repair in April 2020.,   The SARC provides the following information relevant to the State priority: Unnamed: 0 School School.1 District District.1  State State.1
+0                                                NaN                             Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1                    Pupil Achievement (Priority 4):                                 NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2  • Statewide assessments (i.e., California Asse...                             Science    N/A      N/A      N/A        N/A    N/A     N/A,   Unnamed: 0 School School.1 District District.1  State State.1
+0    Subject    NaN      NaN      NaN        NaN    NaN     NaN
+1        NaN  17-18    18-19    17-18      18-19  17-18   18-19
+2        ELA     --        0       28         32     50      50
+3       Math     --       11       23         26     38      39,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN          13       8   61.54             0.00
+3                              Male            NaN          --      --      --               --
+4                            Female            NaN          --      --      --               --
+5                Hispanic or Latino            NaN          --      --      --               --
+6                             White            NaN          --      --      --               --
+7   Socioeconomically Disadvantaged            NaN          12       7   58.33             0.00
+8                  English Learners            NaN          --      --      --               --
+9        Students with Disabilities            NaN          --      --      --               --
+10                     Foster Youth            NaN          --      --      --               --,                          Unnamed: 0     Unnamed: 1       Total  Number Percent        Percent.1
+0                               NaN  Student Group         NaN     NaN     NaN              NaN
+1                               NaN            NaN  Enrollment  Tested  Tested  Met or Exceeded
+2                      All Students            NaN          13       9   69.23            11.11
+3                              Male            NaN          --      --      --               --
+4                            Female            NaN          --      --      --               --
+5                Hispanic or Latino            NaN          --      --      --               --
+6                             White            NaN          --      --      --               --
+7   Socioeconomically Disadvantaged            NaN          12       8   66.67            12.50
+8                  English Learners            NaN          --      --      --               --
+9        Students with Disabilities            NaN          --      --      --               --
+10                     Foster Youth            NaN          --      --      --               --,   Suspensions and Expulsions for the School  2016-17  2017-18  2018-19
+0                          Suspensions Rate     73.9     60.9     42.9
+1                           Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the District  2016-17  2017-18  2018-19
+0                            Suspensions Rate      5.2      4.2      5.8
+1                             Expulsions Rate      0.0      0.0      0.0,   Suspensions and Expulsions for the State  2016-17  2017-18  2018-19
+0                         Suspensions Rate      3.6      3.5      3.5
+1                          Expulsions Rate      0.1      0.1      0.1,                    Unnamed: 0  Title  Ratio
+0  Academic Counselor*-------    NaN    0.0,    Unnamed: 0  2016-17 2016-17.1 2016-17.2 2016-17.3  2017-18 2017-18.1 2017-18.2 2017-18.3  2018-19 2018-19.1 2018-19.2 2018-19.3
+0         NaN  Average      # of      # of      # of  Average      # of      # of      # of  Average      # of      # of      # of
+1       Grade      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+2         NaN    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*    Class  Classes*  Classes*  Classes*
+3       Level      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+4         NaN     Size      Size      Size      Size     Size      Size      Size      Size     Size      Size      Size      Size
+5         NaN      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+      NaN      1-20     21-32       33+
+6           K      NaN       NaN       NaN       NaN        5         1       NaN       NaN        4         1       NaN       NaN
+7         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+8           4        6         1       NaN       NaN        1         6       NaN       NaN      NaN       NaN       NaN       NaN
+9         NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+10          6      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN        3         6       NaN       NaN
+11        NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN
+12    Other**      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN      NaN       NaN       NaN       NaN,                                              Measure  2017-18  2018-19  2019-20
+0  Number of school days dedicated to Staff Devel...        3        4        4,                        Unnamed: 0 Unnamed: 1  State Average for                 Unnamed: 2  Unnamed: 3 Unnamed: 4    Unnamed: 5  Average
+0                             NaN   District                NaN                        NaN         NaN        NaN           NaN      NaN
+1                        Category        NaN  Districts In Same                Level Total  Restricted        NaN  Unrestricted  Teacher
+2                             NaN     Amount                NaN                        NaN         NaN        NaN           NaN      NaN
+3                             NaN        NaN           Category                        NaN         NaN        NaN           NaN   Salary
+4        Beginning Teacher Salary    $47,189            $49,378       School Site- $31,041         NaN     $2,228       $28,813  $60,028
+5        Mid-Range Teacher Salary    $61,447            $77,190  -D--is--t-r ict------ N/A         NaN        N/A        $8,983  $66,266
+6          Highest Teacher Salary    $91,365            $96,607         -S tate------- N/A         NaN        N/A        $7,507  $77,619
+7   Average Principal Salary (ES)   $106,830           $122,074                        NaN         NaN        NaN           NaN      NaN
+8   Average Principal Salary (MS)   $114,348           $126,560                        NaN         NaN        NaN           NaN  Average
+9                             NaN        NaN                NaN        Percent Differences         NaN        NaN  Unrestricted  Teacher
+10  Average Principal Salary (HS)         $0           $126,920                        NaN         NaN        NaN           NaN      NaN
+11                            NaN        NaN                NaN                        NaN         NaN        NaN           NaN   Salary
+12          Superintendent Salary   $156,332           $189,346                        NaN         NaN        NaN           NaN      NaN,                  Unnamed: 0 Unnamed: 1  State Average for             Unnamed: 2 Unnamed: 3  Unnamed: 4    Unnamed: 5  Average
+0                       NaN   District                NaN                    NaN        NaN         NaN           NaN      NaN
+1                  Category        NaN  Districts In Same                  Level      Total  Restricted  Unrestricted  Teacher
+2                       NaN     Amount                NaN                    NaN        NaN         NaN           NaN      NaN
+3                       NaN        NaN           Category                    NaN        NaN         NaN           NaN   Salary
+4  Beginning Teacher Salary    $47,189            $49,378           School Site-    $31,041      $2,228       $28,813  $60,028
+5  Mid-Range Teacher Salary    $61,447            $77,190  -D--is--t-r ict------        N/A         N/A        $8,983  $66,266
+6    Highest Teacher Salary    $91,365            $96,607         S- tate-------        N/A         N/A        $7,507  $77,619,    Average Principal Salary (MS)  $114,348  $126,560            Unnamed: 0    Unnamed: 1  Average
+0                            NaN       NaN       NaN   Percent Differences  Unrestricted  Teacher
+1  Average Principal Salary (HS)        $0  $126,920                   NaN           NaN      NaN
+2                            NaN       NaN       NaN                   NaN           NaN   Salary
+3          Superintendent Salary  $156,332  $189,346                   NaN           NaN      NaN
+4                            NaN       NaN       NaN  School Site/District         104.9     -9.9
+5                            NaN       NaN       NaN    School Site/ State         117.3    -25.6,                    Unnamed: 0 Unnamed: 1         Unnamed: 2                           School Site/ State 117.3  -25.6
+0                         NaN        NaN  State Average for                                                NaN    NaN
+1                         NaN   District                NaN   Note: Cells with N/A values do not require data.    NaN
+2  Percent of District Budget        NaN  Districts In Same                                                NaN    NaN
+3                         NaN     Amount                NaN                                                NaN    NaN
+4                         NaN        NaN           Category  The California Department of Education issued ...    NaN
+5            Teacher Salaries        32%                36%  2018, regarding how to calculate school-level ...    NaN
+6                         NaN        NaN                NaN                  reported on 2018-19 report cards.    NaN
+7     Administrative Salaries         6%                 6%                                                NaN    NaN]

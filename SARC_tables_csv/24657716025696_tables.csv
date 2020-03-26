@@ -1,0 +1,330 @@
+[                          Unnamed: 0  Entity                    Unnamed: 1  Contact Information
+0                        School Name     NaN  Rudolph Rivera Middle School                  NaN
+1                             Street     NaN               945 Buena Vista                  NaN
+2                   City, State, Zip     NaN        Merced, Ca, 95348-2302                  NaN
+3                       Phone Number     NaN                  209-385-6680                  NaN
+4                          Principal     NaN               Aaron Alexander                  NaN
+5                      Email Address     NaN     aalexander@mcsd.k12.ca.us                  NaN
+6                            Website     NaN  www.mcsd.k12.ca.us/RiveraMS/                  NaN
+7  County-District-School (CDS) Code     NaN                24657716025696                  NaN,        Unnamed: 0                       Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Merced City School District         NaN         NaN                  NaN         NaN
+1    Phone Number               (209) 385-6600         NaN         NaN                  NaN         NaN
+2  Superintendent                    Al Rogers         NaN         NaN                  NaN         NaN
+3   Email Address      alrogers@mcsd.k12.ca.us         NaN         NaN                  NaN         NaN
+4         Website           www.mcsd.k12.ca.us         NaN         NaN                  NaN         NaN,          Unnamed: 0  Grade Level  Unnamed: 1  Unnamed: 2  Number of Students  Unnamed: 3
+0           Grade 7          306         NaN         NaN                 NaN         NaN
+1           Grade 8          286         NaN         NaN                 NaN         NaN
+2  Total Enrollment          592         NaN         NaN                 NaN         NaN,                              Unnamed: 0  Student Group  Unnamed: 1  Unnamed: 2  Percent of Total Enrollment  Unnamed: 3
+0             Black or African American            6.1         NaN         NaN                          NaN         NaN
+1      American Indian or Alaska Native            0.5         NaN         NaN                          NaN         NaN
+2                                 Asian           17.4         NaN         NaN                          NaN         NaN
+3                              Filipino            1.2         NaN         NaN                          NaN         NaN
+4                    Hispanic or Latino           60.1         NaN         NaN                          NaN         NaN
+5   Native Hawaiian or Pacific Islander            0.2         NaN         NaN                          NaN         NaN
+6                                 White           11.0         NaN         NaN                          NaN         NaN
+7                     Two or More Races            2.7         NaN         NaN                          NaN         NaN
+8       Socioeconomically Disadvantaged           80.1         NaN         NaN                          NaN         NaN
+9                      English Learners            7.1         NaN         NaN                          NaN         NaN
+10           Students with Disabilities            8.4         NaN         NaN                          NaN         NaN
+11                         Foster Youth            1.9         NaN         NaN                          NaN         NaN
+12                             Homeless            0.5         NaN         NaN                          NaN         NaN,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       27       25       26      492
+3                            Without Full Credential        NaN        0        1        2       13
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        0,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        0
+2                        Vacant Teacher Positions        0        0        0,                 Unnamed: 0                              Unnamed: 1  From Most Percent Students
+0                      NaN       Textbooks and Other Instructional        NaN              NaN
+1                  Subject                                     NaN     Recent      Lacking Own
+2                      NaN              Materials/year of Adoption        NaN              NaN
+3                      NaN                                     NaN  Adoption?    Assigned Copy
+4    Reading/Language Arts     McGraw Hill: (May 2016) Grades TK-8        Yes              0.0
+5                      NaN             Wonders with Integrated ELD        NaN              NaN
+6                      NaN                        World of Wonders        NaN              NaN
+7                      NaN                            Wonder Works        NaN              NaN
+8                      NaN                              Study Sync        NaN              NaN
+9                      NaN                                    Flex        NaN              NaN
+10                     NaN                                     NaN        NaN              NaN
+11             Mathematics  McGraw Hill California Math: (February        Yes              0.0
+12                     NaN                      2015) Course 2 & 3        NaN              NaN
+13                     NaN               Glencoe Match Accelerated        NaN              NaN
+14                     NaN                                     NaN        NaN              NaN
+15                 Science     Holt California Science (June 2007)        Yes              0.0
+16  History-Social Science  National Geographic Learning, National        Yes              0.0
+17                     NaN     Geographic World History (May 2019)        NaN              NaN
+18                     NaN                              Grades 7-8        NaN              NaN
+19                  Health  Glencoe/McGraw Hill Teen Health (1997)         No              0.0,                    Unnamed: 0                         Unnamed: 1  From Most Percent Students
+0                         NaN  Textbooks and Other Instructional        NaN              NaN
+1                     Subject                                NaN     Recent      Lacking Own
+2                         NaN         Materials/year of Adoption        NaN              NaN
+3                         NaN                                NaN  Adoption?    Assigned Copy
+4  Visual and Performing Arts         Holt Arts in Action (1985)         No              0.0,          System Inspected Rating       Repair Needed and Action Taken or Planned
+0     Systems: Gas Leaks,  XGood  The ventilation system will be repaired in the
+1                     NaN    NaN                                             NaN
+2  Mechanical/HVAC, Sewer    NaN    men's staff restroom near room 4. There is a
+3                     NaN    NaN    ceiling vent that is hanging in Room 14 will
+4                     NaN    NaN                                    be repaired.,                      System Inspected Rating        Repair Needed and Action Taken or Planned
+0         Interior: Interior Surfaces  XPoor            There is peeling paint on the women's
+1                                 NaN    NaN                                              NaN
+2                                 NaN    NaN      restroom door in the kitchen as well as the
+3                                 NaN    NaN        cracked ceiling tile near the vent in the
+4                                 NaN    NaN      restroom will be repaired. The serving area
+5                                 NaN    NaN             in the Multipurpose room has a water
+6                                 NaN    NaN  stained ceiling tile will be replaced. In Staff
+7                                 NaN    NaN         restrooms near room 4 there is a missing
+8                                 NaN    NaN     light cover on the women's side that will be
+9                                 NaN    NaN        replaced. The ceiling tile in Room 3 bows
+10                                NaN    NaN     down will be repaired.  Chipped paint at the
+11                                NaN    NaN      window sill, counter and cabinets in Room 1
+12                                NaN    NaN     will be repaired. The cabinet door is broken
+13                                NaN    NaN          and baseboards are discolored in Room 1
+14                                NaN    NaN      will be repaired. Broken cabinet door under
+15                                NaN    NaN     the sink in Room 14 and ceiling vent that is
+16                                NaN    NaN      hanging will be replaced. Ripped tack board
+17                                NaN    NaN         under the white board, worn threshold on
+18                                NaN    NaN        door and chipped paint in Room 16 will be
+19                                NaN    NaN         repaired. Cracked laminate to the middle
+20                                NaN    NaN                drawer and peeling trim above the
+21                                NaN    NaN      whiteboard in Room 17 will be repaired. The
+22                                NaN    NaN           restroom at the front of the Gym has a
+23                                NaN    NaN     broken light cover will be repaired. Cabinet
+24                                NaN    NaN             doors at the sink of Room 10 will be
+25                                NaN    NaN        repaired. Room 3 and 15 has damage to the
+26                                NaN    NaN   window sills will be repaired. Repairs will be
+27                                NaN    NaN          made to the chipped wallboard under the
+28                                NaN    NaN   clock, missing floor tile, chipped door at the
+29                                NaN    NaN       sink and peeling paint near the ceiling in
+30                                NaN    NaN           Room 15. The water damage to the front
+31                                NaN    NaN         window and peeling trim behind the water
+32                                NaN    NaN            fountain in Room 18 will be repaired.
+33  Cleanliness: Overall Cleanliness,  XGood        The light covers in the Multipurpose room
+34                                NaN    NaN                                              NaN
+35           Pest/ Vermin Infestation    NaN     are dirty will be cleaned and the clutter in
+36                                NaN    NaN       the storage room will be cleaned as not to
+37                                NaN    NaN     block any pathways. The vents in Room 1 will
+38                                NaN    NaN          be cleaned and the discoloration of the
+39                                NaN    NaN     baseboard will be looked for either cleaning
+40                                NaN    NaN        or possible replacement. Cobwebs in Rooms
+41                                NaN    NaN       16,17 and 18 will be cleared. Cabinets and
+42                                NaN    NaN              windows in Room 16 will be cleaned.
+43             Electrical: Electrical  XFair   The broken light cover will be replaced in the
+44                                NaN    NaN                                              NaN
+45                                NaN    NaN     kitchen. There is a missing outlet cover  in
+46                                NaN    NaN         the Multipurpose room and several lights
+47                                NaN    NaN           out that will be replaced. There is an
+48                                NaN    NaN     electrical box in Room 8 where the clock was
+49                                NaN    NaN         that needs a cover for the exposed wires
+50                                NaN    NaN    that will be repaired. The broken light cover
+51                                NaN    NaN  in the gym and lights at the entry of the girls
+52                                NaN    NaN                    locker room will be replaced.,                    System Inspected Rating      Repair Needed and Action Taken or Planned
+0   Restrooms/Fountains: Restrooms,  XGood      The Teacher's Lounge has a faucet that is
+1                               NaN    NaN                                            NaN
+2                  Sinks/ Fountains    NaN  leaking that is leaking and the toilet on the
+3                               NaN    NaN    left is leaking at the handle these will be
+4                               NaN    NaN   repaired. The water fountain on the exterior
+5                               NaN    NaN      wall by room 9 has low water pressure and
+6                               NaN    NaN     will be repaired. Room 18 has peeling trim
+7                               NaN    NaN         behind the water fountain that will be
+8                               NaN    NaN                                      repaired.
+9    Safety: Fire Safety, Hazardous  XGood                                           None
+10                              NaN    NaN                                            NaN
+11                        Materials    NaN                                            NaN
+12   Structural: Structural Damage,  XGood    The water stained ceiling tile in the multi
+13                              NaN    NaN                                            NaN
+14                            Roofs    NaN                 purpose room will be replaced.
+15      External: Playground/School  XGood                                           None
+16                              NaN    NaN                                            NaN
+17                Grounds, Windows/    NaN                                            NaN
+18               Doors/Gates/Fences    NaN                                            NaN
+19                   Overall Rating  XFair                                            NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       46       43       40         41       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       23       20       25         27       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                                        Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                             NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                             NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                                    All Students            NaN         586        581      99.15    0.85     42.83
+5                                            Male            NaN         296        294      99.32    0.68     38.01
+6                                          Female            NaN         290        287      98.97    1.03     47.74
+7                       Black or African American            NaN          33         33     100.00    0.00     24.24
+8                American Indian or Alaska Native            NaN          --         --         --      --        --
+9                                           Asian            NaN         100        100     100.00    0.00     58.00
+10                                       Filipino            NaN          --         --         --      --        --
+11                             Hispanic or Latino            NaN         363        359      98.90    1.10     38.38
+12            Native Hawaiian or Pacific Islander            NaN          --         --         --      --        --
+13                                          White            NaN          58         58     100.00    0.00     44.83
+14                              Two or More Races            NaN          15         14      93.33    6.67     64.29
+15                Socioeconomically Disadvantaged            NaN         488        484      99.18    0.82     38.17
+16                               English Learners            NaN         158        156      98.73    1.27     26.92
+17                     Students with Disabilities            NaN          58         56      96.55    3.45      9.09
+18  Students Receiving Migrant Education Services            NaN          --         --         --      --        --
+19                                   Foster Youth            NaN          16         14      87.50   12.50     35.71
+20                                       Homeless            NaN          --         --         --      --        --,      Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0           NaN            NaN       Total     Number    Percent     NaN       NaN
+1           NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2           NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3           NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4  All Students            NaN         586        581      99.15    0.85     19.79
+5          Male            NaN         296        294      99.32    0.68     21.09
+6        Female            NaN         290        287      98.97    1.03     18.47,                                        Unnamed: 0  Unnamed: 1 Unnamed: 2 Unnamed: 3 Percent Percent.1
+0                                             NaN       Total     Number    Percent     NaN       NaN
+1                                   Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN         NaN        NaN        NaN  Tested  Exceeded
+4                       Black or African American          33         33     100.00    0.00      3.03
+5                American Indian or Alaska Native          --         --         --      --        --
+6                                           Asian         100        100     100.00    0.00     29.00
+7                                        Filipino          --         --         --      --        --
+8                              Hispanic or Latino         363        359      98.90    1.10     16.71
+9             Native Hawaiian or Pacific Islander          --         --         --      --        --
+10                                          White          59         58      98.31    1.69     27.59
+11                              Two or More Races          14         14     100.00    0.00     28.57
+12                Socioeconomically Disadvantaged         488        484      99.18    0.82     16.12
+13                               English Learners         158        156      98.73    1.27      7.05
+14                     Students with Disabilities          57         56      98.25    1.75      3.57
+15  Students Receiving Migrant Education Services          --         --         --      --        --
+16                                   Foster Youth          15         14      93.33    6.67     21.43
+17                                       Homeless          --         --         --      --        --,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            7                   17.2                     25.9                     27.6,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions     13.1     10.7     14.1      4.8        4.4        3.7      3.6      3.5      3.5
+3   Expulsions      0.3      0.0      0.6      0.1        0.1        0.1      0.1      0.1      0.1,        Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0             NaN  Average # of # of # of Average # of # of # of ...                                             
+1         Subject  Class  Classes* Classes* Classes* Class  Class...                                             
+2             NaN  Size Size Size Size Size Size Size Size Size S...                                             
+3             NaN       1-22 23-32 33+ 1-22 23-32 33+ 1-22 23-32 33+                                             
+4         English                      25 8 18 6 26 9 20 2 25 9 18 4                                             
+5     Mathematics                      28 1 5 2 30 3 11 10 29 4 12 9                                             
+6         Science                             32 7 11 32 9 9 31 10 8                                             
+7  Social Science                      29 2 12 6 29 2 16 2 28 2 14 4                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN  986.7,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                  .6
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 NaN
+5                                       Psychologist                  .5
+6                                      Social Worker                 NaN
+7                 Speech/Language/Hearing Specialist                 NaN
+8                 Resource Specialist (non-teaching)                 NaN,                                       Unnamed: 0 Unnamed: 1         Total  Expenditures  Expenditures.1     Average
+0                                            NaN      Level  Expenditures     Per Pupil       Per Pupil     Teacher
+1                                            NaN        NaN     Per Pupil  (Restricted)  (Unrestricted)      Salary
+2                                    School Site        NaN     $7,439.18      1,426.30        6,012.88  $92,646.65
+3                                       District        NaN           N/A           N/A        8,780.35  $90,216.00
+4  Percent Difference - School Site and District        NaN           N/A           N/A           -37.4        -1.9
+5                                          State        NaN           N/A           N/A       $7,506.64  $82,663.00
+6     Percent Difference - School Site and State        NaN           N/A           N/A           -14.8         7.6,                                        Unnamed: 0 Unnamed: 1 Unnamed: 2     State Average
+0                                             NaN        NaN   District               NaN
+1                                             NaN   Category        NaN     For Districts
+2                                             NaN        NaN     Amount               NaN
+3                                             NaN        NaN        NaN  In Same Category
+4                        Beginning Teacher Salary        NaN    $51,650           $45,741
+5                        Mid-Range Teacher Salary        NaN    $86,384           $81,840
+6                          Highest Teacher Salary        NaN   $104,151          $102,065
+7           Average Principal Salary (Elementary)        NaN   $128,876          $129,221
+8               Average Principal Salary (Middle)        NaN   $128,876          $132,874
+9                 Average Principal Salary (High)        NaN         $0          $128,660
+10                          Superintendent Salary        NaN   $229,054          $224,581
+11         Percent of Budget for Teacher Salaries        NaN        35%               36%
+12  Percent of Budget for Administrative Salaries        NaN         6%                5%,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...        NaN      NaN        NaN      NaN        NaN      NaN        NaN,       •                              Admin. Summit: 3 days  Unnamed: 0  •.1   Behavior Café Tough Kids: Social Skills: 17 days
+0     •                            MCSD Pre-Service: 1 day         NaN    •                       RtI 2 Team Training: 23 days
+1     •                           District Kick-Off: 1 day         NaN    •       Psych/Counselor and SLP PLC Meeting: 17 days
+2     •                        Admin. Team Training: 1 day         NaN    •                        SDC/RSP PLC Meeting: 3 days
+3     •                                Miniversity: 4 days         NaN    •                  TK PLC Committee Meetings: 4 days
+4     •                       DIBELS Next Training: 5 days         NaN    •                     West Zone Quad Meeting: 4 days
+5     •                    NGSS Standards Training: 2 days         NaN    •                     East Zone Quad Meeting: 4 days
+6     •                           WestEd Coaching: 57 days         NaN    •                    South Zone Quad Meeting: 4 days
+7     •           ELA/ELD World of Wonders Training: 1 day         NaN    •             Central Zone Quad/SPED Meeting: 5 days
+8     •            ELA/ELD Wonders/WonderWorks Training: 4         NaN    •                              Preschool PLC: 2 days
+9   NaN                                               days         NaN    •                           LCAP – CSEA/MCTA: 7 days
+10    •                 ELA/ELD StudySync Training: 3 days         NaN    •                                      DST – 18 days
+11    •          ELA/ELD Special Ed. FLEX Training: 3 days         NaN    •               Office Manager/Clerk Meeting: 9 days
+12    •                      MHE ConnectED Training: 1 day         NaN    •               Principals’ Council Meetings: 7 days
+13    •                  Formative Math Assessment: 6 days         NaN    •                    Admin. Council Meetings: 8 days
+14    •                           ST Math Training: 9 days         NaN    •                Ed. Services Dept. Meetings: 3 days
+15    •                    Math Networks Training: 15 days         NaN    •                           Senate Meetings: 13 days
+16    •          Connecting Math Concepts Training: 2 days         NaN    •                   Risk Management Training: 2 days
+17    •                           GIZMO’s Training: 6 days         NaN    •                         STEAM Fair Meeting: 4 days
+18    •                           Follett Training: 2 days         NaN    •                     MCOE STEM Fair Meeting: 2 days
+19    •                  Solar Model Cars Training: 2 days         NaN    •                                 STEM Scopes: 1 day
+20    •                      Middle School PD Days: 2 days         NaN    •                   GATE SDC/RSP PLC Meeting: 4 days
+21    •           Middle School Science PLC Pacing: 7 days         NaN    •         Google Tech. Café Meeting/Training: 7 days
+22    •          Middle School Elective PLC Pacing: 6 days         NaN    •                             Tech. Universe: 2 days
+23    •                                   Music PLC: 1 day         NaN    •                     Nearpod Certification: 10 days
+24    •                            iReady Training: 3 days         NaN    •                       Google Certification: 9 days
+25    •         New Hires Orientation and Training: 2 days         NaN    •                           MS Word Training: 4 days
+26    •                             Sub Orientation: 1 day         NaN    •                         Google Environment: 4 days
+27    •  LMA (Library Media Aides) Follett Training: 1 day         NaN    •                         Adobe Professional: 3 days
+28    •                              LD/AP Meeting: 7 days         NaN    •                           Google Classroom: 6 days
+29    •                            TSA/TL Meeting: 15 days         NaN    •                         Clinician Training: 3 days
+30    •     EKIP/Field Trip Teacher Leader Meeting: 2 days         NaN    •                 Spotlight Planning Meeting: 5 days
+31    •                      Ask a Scientist Night: 8 days         NaN    •                             DELAC Meetings: 4 days
+32    •                     Food Services Training: 2 days         NaN    •                               DAC Meetings: 4 days
+33    •                   Farm 2U Teacher Training: 2 days         NaN    •                        Montessori Training: 2 days
+34    •                              Nurse Meeting: 8 days         NaN    •  Science Fair District Level Judging and Displa...
+35    •                    Medical Billing Training: 1 day         NaN  NaN                                                day
+36    •                          Personnel Meeting: 2 days         NaN    •                    CPI Refresher Training: 11 days
+37    •               TIP (formerly BTSA) Meeting: 10 days         NaN    •       HSS Selection of Pilot Materials/Grade Level
+38    •           Instructional Assistant Training: 3 days         NaN  NaN                                      Team: 11 days
+39    •       BSS 2018-2019 Behavior SCIA Training: 4 days         NaN    •              Aeries Communication Training: 4 days
+40    •                    PBIS Tier 1-3 Training: 14 days         NaN    •                            Reading Mastery: 2 days
+41    •                               IEP Training: 3 days         NaN    •               Extended Day Science Training: 1 day
+42    •                  Trauma Informed Practices: 2 days         NaN    •         Deep Dive into Classroom Discourse: 6 days
+43    •                Suicide Prevention Training: 3 days         NaN    •    Elevating Student Voice Through Writing: 6 days
+44    •              Conscious Discipline Training: 5 days         NaN    •                    Dynamic Differentiation: 6 days,       •                           Admin. Summit: 3 days  •.1             CPI Initial Refresher Booster: 10 days
+0     •                         MCSD Pre-Service: 1 day    •              Conscious Discipline Training: 7 days
+1     •                        District Kick-Off: 1 day    •   Behavior Café Tough Kids: Social Skills: 14 days
+2     •                         IELPAC Training: 2 days    •                      Mental Health 1st Aid: 3 days
+3     •                             Miniversity: 5 days    •                        RtI 2 Team Training: 8 days
+4     •                    DIBELS Next Training: 3 days    •          Psych/Counselor and SLP PLC Social Worker
+5     •                 NGSS Standards Training: 7 days  NaN                                   Meeting: 20 days
+6     •            Pre-Pilot Science Elementary: 5 days    •                   TK PLC Committee Meeting: 3 days
+7     •                        WestEd Coaching: 57 days    •                     West Zone Quad Meeting: 3 days
+8     •               ELA/ELD StudySync Training: 1 day    •                     East Zone Quad Meeting: 3 days
+9     •     BLAST Teachers Teaching Teachers ELA: 1 day    •                    South Zone Quad Meeting: 3 days
+10    •                       ST Math Training: 15 days    •             Central Zone Quad/SPED Meeting: 3 days
+11    •                Math Solutions Training: 15 days    •                              Preschool PLC: 4 days
+12    •                    Middle School PD Day: 2 days    •                           LCAP – CSEA/MCTA: 7 days
+13    •           Middle School Math with MUHSD: 2 days    •                                      DST – 18 days
+14    •             Middle School Science Pilot: 3 days    •              Office Manager/Clerk Meeting: 13 days
+15    •       Middle School Elective PLC Pacing: 3 days    •               Principals’ Council Meetings: 8 days
+16    •  HSS History Training K-8 (Nat Geo. And TCM): 8    •                    Admin. Council Meetings: 7 days
+17  NaN                                            days    •               Ed. Services Dept. Meetings: 10 days
+18    •                                Music PLC: 1 day    •                           Senate Meetings: 12 days
+19    •                        iReady Training: 10 days    •                         STEAM Fair Meeting: 2 days
+20    •                        Teaching Channel: 8 days    •                      MCOE STEM Fair Meeting: 1 day
+21    •      New Hires Orientation and Training: 2 days    •                                STEM Scopes: 3 days
+22    •                   Teacher Advisory Team: 4 days    •             21st Century Writing Cadre DWA: 4 days
+23    •                           LD/AP Meeting: 6 days    •                   GATE SDC/RSP PLC Meeting: 8 days
+24    •                   TSA Meeting/Training: 15 days    •                        Montessori Training: 7 days
+25    •                    TL Meeting/Training: 12 days    •         Google Tech. Café Meeting/Training: 5 days
+26    •                      TSA STEAM Training: 2 days    •                      Nearpod Certification: 5 days
+27    •         EKIP/Mariposa Field Trip Teacher Leader    •                       Google Certification: 5 days
+28  NaN                                 Meeting: 2 days    •                   Solar Model Cars Training: 1 day
+29    •                 Farm 2U Teacher Training: 1 day    •                                  Google Doc: 1 day
+30    •                           Nurse Meeting: 9 days    •                     Clinician/RSP Training: 4 days
+31    •                        Personnel Meeting: 1 day    •                        Behavior Clinicians: 3 days
+32    •   TIP/STP/PIP/Intern (formerly BTSA) Meeting: 6    •                 Spotlight Planning Meeting: 2 days
+33  NaN                                            days    •                             DELAC Meetings: 4 days
+34    •                         SIPPS Training: 10 days    •                               DAC Meetings: 4 days
+35    •        Instructional Assistant Training: 9 days    •      Parent Education Module & Preview Building: 1
+36    •                Trauma Informed Practices: 1 day  NaN                                                day
+37    •                  PBIS Tier 1-3 Training: 5 days    •  Science Fair District Level Judging and Displa...
+38    •                            PBIS Workday: 4 days  NaN                                                day
+39    •                            HAWC Meeting: 4 days    •              Aeries Communication Training: 4 days
+40    •                           SARB Hearing: 10 days    •                    Summer Academy Training: 5 days]

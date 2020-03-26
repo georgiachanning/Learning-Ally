@@ -1,0 +1,211 @@
+[         CDS Code   Published During 2019-20
+0  36676946035760                        NaN
+1             NaN  Amber Arreguin, Principal
+2      Grades K-5                        NaN
+3             NaN   aarreguin@cuca.k12.ca.us,               Unnamed: 0                  Unnamed: 1
+0                    NaN           About This School
+1                    NaN                         NaN
+2                    NaN                         NaN
+3                    NaN  School’s Mission Statement
+4                    NaN                         NaN
+..                   ...                         ...
+58        Pupil Outcomes                         NaN
+59  Parental Involvement                         NaN
+60        School Climate                         NaN
+61     Other Information                         NaN
+62       School Finances                         NaN
+
+[63 rows x 2 columns],                                            Unnamed: 0        Student Enrollment by Grade Level (2018-19)  ...  Unnamed: 3 Unnamed: 4
+0                                                 NaN                                                NaN  ...  Enrollment        NaN
+1                                                 NaN                                                NaN  ...         106        NaN
+2                                                 NaN                                                NaN  ...           9        NaN
+3                                                 NaN                                                NaN  ...          87        NaN
+4                                                 NaN                                                NaN  ...          76        NaN
+5                                                 NaN                                                NaN  ...          75        NaN
+6                                                 NaN                                                NaN  ...         107        NaN
+7                                                 NaN                                                NaN  ...         549        NaN
+8                                                 NaN  ThedatasourceisthecertifiedCaliforniaLongitudi...  ...         NaN        NaN
+9                                                 NaN                                      Student Group  ...         NaN        NaN
+10                                                NaN                          Black or African American  ...         NaN        NaN
+11                                                NaN                   American Indian or Alaska Native  ...         NaN        NaN
+12                                                NaN                                              Asian  ...         NaN        NaN
+13                                                NaN                                           Filipino  ...         NaN        NaN
+14                                                NaN                                 Hispanic or Latino  ...         NaN        NaN
+15                                                NaN                Native Hawaiian or Pacific Islander  ...         NaN        NaN
+16                                                NaN                                              White  ...         NaN        NaN
+17                                                NaN                                  Two or More Races  ...         NaN        NaN
+18                                                NaN                                      Student Group  ...         NaN        NaN
+19                                                NaN                    Socioeconomically Disadvantaged  ...         NaN        NaN
+20                                                NaN                                   English Learners  ...         NaN        NaN
+21                                                NaN                         Students with Disabilities  ...         NaN        NaN
+22                                                NaN                                       Foster Youth  ...         NaN        NaN
+23                                                NaN                                           Homeless  ...         NaN        NaN
+24  ThedatasourceisthecertifiedCaliforniaLongitudi...                                                NaN  ...         NaN        NaN
+
+[25 rows x 6 columns],    Teacher Credentials\rHere we report the number of teachers assigned to the school\rand the district with a full credential, without a full credential,\rand those teaching outside their subject area of competence.  ... Unnamed: 9
+0                                                 NaN                                                                                                                                                                    ...        NaN
+1                                                 NaN                                                                                                                                                                    ...        NaN
+2                                                 NaN                                                                                                                                                                    ...        NaN
+3                                                 NaN                                                                                                                                                                    ...        NaN
+4                                                 NaN                                                                                                                                                                    ...        NaN
+5   Teacher Misassignments and Vacant Teacher Posi...                                                                                                                                                                    ...        NaN
+6                                                 NaN                                                                                                                                                                    ...        NaN
+7                                                 NaN                                                                                                                                                                    ...        NaN
+8                                                 NaN                                                                                                                                                                    ...        NaN
+9                                                 NaN                                                                                                                                                                    ...        NaN
+10                                                NaN                                                                                                                                                                    ...        NaN
+11  Note:“Misassignments”referstothenumberofpositi...                                                                                                                                                                    ...        NaN
+
+[12 rows x 11 columns],    Unnamed: 0  ... Percent of Students\rLacking Their Own\rAssigned Copy
+0         NaN  ...                                                 0%   
+1         NaN  ...                                                 0%   
+2         NaN  ...                                                 0%   
+3         NaN  ...                                                 0%   
+
+[4 rows x 6 columns], Empty DataFrame
+Columns: [After-School Programs•Los Amigos works with our teachers to provide after schoolthenrichment classes forKindergarten– 5-grade students,includingGlee,Sports,Technology,Coding,CommunityService, Photography, and Theater.•Los Amigos works with our teachers to provide after schoolthintervention classes for 1st – 5-grade students that focusonvariousfoundationalskillsinbothlanguageartsandmath.•TheThinkTogetherProgramprovidesafterschoolinstruction,enrichment,andphysicalfitnessfivedaysaweek for grades K-5.•PeerTutoring—Duringclasstime,somestudentsareteamed with a classroom buddy who tutors and coachesthem when it is needed.]
+Index: [], Empty DataFrame
+Columns: [TechnologyEverykindergartenthroughsecond-gradestudentshasanassignediPadtabletandeverythirdthroughfifth-gradestudents have an assigned Surface Pro tablet that is used fordaily instruction in their classrooms.  All devices are connectedto the internet for research and information. Classrooms areequippedwithPCcomputers,laptops,printers,documentcameras, and projectors.  The access is screened through afirewallsystemmonitoredbytheSanBernardinoCountySuperintendent of Schools. All students and employees whouse computers are required to sign Internet Use Agreements.Students go through training on Internet use and etiquettefrom our District Technology Coach.]
+Index: [],                                         Unnamed: 0   Repair Status                                         Unnamed: 1
+0                                 System Inspected             NaN          Repair Needed and Action Taken or Planned
+1                                              NaN  Good Fair Poor                                                NaN
+2       Systems: Gas Leaks, Mechanical/HVAC, Sewer               X       No repairs needed at the time of inspection.
+3                      Interior: Interior Surfaces             NaN  In more than one room ceiling tiles need repla...
+4                                              NaN             NaN  room carpets are stained, torn, or lifting. On...
+5                                              NaN             NaN  room formica trim is loose. In one room formic...
+6                                              NaN               X                                                NaN
+7                                              NaN             NaN  room water damage to sink countertop. One room...
+8                                              NaN             NaN  and cabinet handle is broken. One room formica...
+9                                              NaN             NaN  progress). (All other repairs completed in Aug...
+10  Cleanliness: Overall Cleanliness, Pest/ Vermin             NaN       No repairs needed at the time of inspection.
+11                                             NaN               X                                                NaN
+12                                     Infestation             NaN                                                NaN
+13                          Electrical: Electrical             NaN  In more than one room light panels or ballasts...
+14                                             NaN             NaN  jack cover is missing. In one hallway and in o...
+15                                             NaN               X                                                NaN
+16                                             NaN             NaN  loose. In hallway missing outlet cover.  (All ...
+17                                             NaN             NaN                               and September 2019).
+18                                             NaN             NaN  Men’s staff restroom and  in more than one roo...
+19          Restrooms/Fountains: Restrooms, Sinks/             NaN                                                NaN
+20                                             NaN               X  Boy’s restroom toilet is loose at the base. (A...
+21                                       Fountains             NaN                                                NaN
+22                                             NaN             NaN                        August and September 2019).
+23        Safety: Fire Safety, Hazardous Materials             NaN  In more than one room plug-in candle warmer. (...
+24                                             NaN               X                                                NaN
+25                                             NaN             NaN                                           removed)
+26            Structural: Structural Damage, Roofs               X       No repairs needed at the time of inspection.
+27   External: Playground/School Grounds, Windows/             NaN  Skid paint is peeling on ramp. One door has a ...
+28                              Doors/Gates/Fences               X           completed in August and September 2019).
+29                                             NaN       Exemplary                                     Good Fair Poor
+30                                  Overall Rating             NaN                                                NaN
+31                                             NaN             NaN                                              95.6%,                    Progress Results for all Students  Percentage of Students Meeting or Exceeding the
+0  The SARC provides the following information re...                                  State Standards
+1                                                NaN                                              NaN
+2    State priority: Pupil Achievement (Priority 4):                    State Subject School District
+3  • Statewide assessments (i.e., California Asse...  2017-18 2018-19 2017-18 2107-18 2017-18 2107-18
+4  Student Performance and Progress [CAASPP], Sys...                                              NaN
+5                                                NaN            ELA/Literacy  37% 35% 41% 39% 50% 48%
+6      which includes the Smarter Balanced Summative                                              NaN
+7  Assessments for students in the general education              Mathematics 26% 28% 28% 25% 38% 37%,                                        Unnamed: 0      Unnamed: 1        Unnamed: 2     Unnamed: 3  Percent Percent Not        Percent.1
+0                                             NaN  Student Groups  Total Enrollment  Number Tested      NaN         NaN              NaN
+1                                             NaN             NaN               NaN            NaN   Tested      Tested  Met or Exceeded
+2                                    All Students             NaN               263            252   95.82%         NaN           35.32%
+3                                            Male             NaN               128            122   95.31%         NaN           31.97%
+4                                          Female             NaN               135            130   96.30%         NaN           38.46%
+5                       Black or African American             NaN                25             22   88.00%         NaN           31.82%
+6                American Indian or Alaska Native             NaN                --             --       --         NaN              NaN
+7                                           Asian             NaN                --             --       --         NaN              NaN
+8                                        Filipino             NaN                --             --       --         NaN              NaN
+9                              Hispanic or Latino             NaN               208            200   96.15%         NaN           33.00%
+10            Native Hawaiian or Pacific Islander             NaN                --             --       --         NaN              NaN
+11                                          White             NaN                16             16  100.00%         NaN           56.25%
+12                              Two or More Races             NaN               NaN            NaN      NaN         NaN              NaN
+13                Socioeconomically Disadvantaged             NaN               214            208   97.20%         NaN           33.65%
+14                               English Learners             NaN                88             84   95.45%         NaN           32.14%
+15                     Students with Disabilities             NaN                38             37   97.37%         NaN            8.11%
+16  Students Receiving Migrant Education Services             NaN               NaN            NaN      NaN         NaN              NaN
+17                                   Foster Youth             NaN                --             --       --         NaN              NaN
+18                                       Homeless             NaN               NaN            NaN      NaN         NaN              NaN,                                    Student Groups Total Enrollment  Unnamed: 0 Number Tested Percent\rTested  Percent Not\rTested Percent\rMet or Exceeded
+0                                    All Students              262         NaN           254          96.95%                  NaN                   27.95%
+1                                            Male              127         NaN           123          96.85%                  NaN                   29.27%
+2                                          Female              135         NaN           131          97.04%                  NaN                   26.72%
+3                       Black or African American               25         NaN            22          88.00%                  NaN                   22.73%
+4                American Indian or Alaska Native               --         NaN            --              --                  NaN                      NaN
+5                                           Asian               --         NaN            --              --                  NaN                      NaN
+6                                        Filipino               --         NaN            --              --                  NaN                      NaN
+7                              Hispanic or Latino              207         NaN           202          97.58%                  NaN                   26.24%
+8             Native Hawaiian or Pacific Islander               --         NaN            --              --                  NaN                      NaN
+9                                           White               16         NaN            16         100.00%                  NaN                   50.00%
+10                              Two or More Races              NaN         NaN           NaN             NaN                  NaN                      NaN
+11                Socioeconomically Disadvantaged              213         NaN           210          98.59%                  NaN                   27.14%
+12                               English Learners               88         NaN            87          98.86%                  NaN                   27.59%
+13                     Students with Disabilities               38         NaN            37          97.37%                  NaN                    8.11%
+14  Students Receiving Migrant Education Services              NaN         NaN           NaN             NaN                  NaN                      NaN
+15                                   Foster Youth               --         NaN            --              --                  NaN                      NaN
+16                                       Homeless              NaN         NaN           NaN             NaN                  NaN                      NaN, Empty DataFrame
+Columns: [Unnamed: 0]
+Index: [],    Subject   School District    State Unnamed: 0 Unnamed: 1 Unnamed: 2
+0      NaN  2017-18  2018-19  2017-18    2018-19    2017-18    2018-19
+1  Science      N/A      N/A      N/A        N/A        N/A        N/A,    Unnamed: 0  Grade\rLevel  Unnamed: 1  ... Unnamed: 4  Unnamed: 5 Unnamed: 6
+0         NaN           NaN         NaN  ...        NaN  Six of Six        NaN
+1         NaN           5.0         NaN  ...        NaN       13.7%        NaN
+
+[2 rows x 9 columns],    Unnamed: 0   Unnamed: 1 Unnamed: 2   School Unnamed: 3 Unnamed: 4  Unnamed: 5
+0         NaN          NaN        NaN  2016-17    2017-18    2018-19         NaN
+1         NaN  Suspensions        NaN     1.1%       1.4%       1.7%         NaN
+2         NaN   Expulsions        NaN     0.0%       0.0%       0.0%         NaN
+3         NaN          NaN   District      NaN        NaN        NaN         NaN
+4         NaN  Suspensions        NaN     4.4%       3.4%       4.9%         NaN
+5         NaN   Expulsions        NaN     0.0%       0.2%       0.2%         NaN
+6         NaN          NaN        NaN    State        NaN        NaN         NaN
+7         NaN  Suspensions        NaN     3.6%       3.5%       3.5%         NaN
+8         NaN   Expulsions        NaN     0.1%       0.1%       0.1%         NaN,    Unnamed: 0                                              Title  Unnamed: 1  Number of FTEs*\rAssigned to the School  Unnamed: 2
+0         NaN   Library Media Services Staff\r(Paraprofessional)         NaN                                     1.00         NaN
+1         NaN                                       Psychologist         NaN                                     0.50         NaN
+2         NaN                                              Nurse         NaN                                     0.25         NaN
+3         NaN                 Speech/Language/Hearing Specialist         NaN                                     1.00         NaN
+4         NaN                 Resource Specialist (non-teaching)         NaN                                     1.00         NaN
+5         NaN  Other (Teacher on Assignment &\rBilingual Reso...         NaN                                     1.50         NaN,      Unnamed: 0 Unnamed: 1             2016-17 Unnamed: 2             2017-18 Unnamed: 3             2018-19
+0           NaN        NaN                 NaN        NaN                 NaN        NaN                 NaN
+1   Grade Level       Avg.  Number of Classes*       Avg.  Number of Classes*       Avg.  Number of Classes*
+2           NaN      Class                 NaN      Class                 NaN      Class                 NaN
+3           NaN       Size      1-22 23-32 33+       Size      1-22 23-32 33+       Size      1-22 23-32 33+
+4  Kindergarten       19.0                 5 1       20.0                 5 1       18.0                 5 1
+5       Grade 1       23.0                   3       28.0                   3       24.0                   4
+6       Grade 2       24.0                   3       22.0                   3       28.0                   3
+7       Grade 3       28.0                   3       23.0                   3       25.0                   3
+8       Grade 4       28.0                   3       26.0                   3       17.0                 1 2
+9       Grade 5       26.0                 1 3       21.0                 2 3       21.0                 2 4,                             Unnamed: 0 Expenditures Per Pupil    Unnamed: 1  Average                                         Unnamed: 2      Unnamed: 3
+0                                  NaN                    NaN           NaN      NaN                                                NaN  Program Amount
+1                                  NaN                    NaN           NaN  Teacher                                                NaN             NaN
+2                                Level       Total Restricted  Unrestricted   Salary                                            Title I        $255,086
+3                               School            $6,862 $994        $5,868  $85,179                                               ASES          $1,500
+4                             District                    NaN        $6,067  $80,532                                 Restricted Lottery         $39,330
+5                                State                    NaN        $7,507  $77,619                                              Total        $295,916
+6  Percent Difference: School/District                    NaN          (3%)       6%  Teacher & Administrative Salaries (Fiscal Year...             NaN
+7     Percent Difference: School/State                    NaN         (22%)      10%  This table displays district-level salary info...             NaN,    requirement or by the donor.  Examples include, but are not                  Unnamed: 0 Unnamed: 1         Unnamed: 2
+0                                                 NaN                                  NaN   District  State Average for
+1   limited to, class size reduction, state lotter...                             Category     Amount  Districts in Same
+2   instructional materials portion), and undesign...                                  NaN        NaN           Category
+3                                   parcel tax funds.             Beginning Teacher Salary    $48,869            $49,378
+4                                                 NaN                                  NaN        NaN                NaN
+5   The CDE’s calculation is based on EC Section 4...             Mid-Range Teacher Salary    $77,180            $77,190
+6   (see the CDE Current Expense of Education & Pe...               Highest Teacher Salary    $97,456            $96,607
+7   Web page at  http://www.cde.ca.gov/ds/fd/ec/, ...                                  NaN        NaN                NaN
+8                                                 NaN             Average Principal Salary   $117,553           $122,074
+9   include only unrestricted sources in the calcu...                         (Elementary)        NaN                NaN
+10                                                NaN                                  NaN        NaN                NaN
+11  For more information, see the CDE Certificated...             Average Principal Salary   $120,950           $126,560
+12                                                NaN                             (Middle)        NaN                NaN
+13  Benefits Web page at  http://www.cde.ca.gov/ds...                                  NaN        NaN                NaN
+14  look up expenditures and salaries for a specif...                Superintendent Salary   $168,758           $189,346
+15  see the Ed-Data Web site at http://www.ed-data...           Percent of District Budget        NaN                NaN
+16                                                NaN                     Teacher Salaries        38%                36%
+17                                                NaN                                  NaN        NaN                NaN
+18                                                NaN              Administrative Salaries         6%                 6%,   Professional Development\rMeasure2017-182018-192019-20\rNumber of school days dedicated to Staff555\rDevelopment and Continuous\rImprovement\rContinuous growth and refinement of our skills to help students\rbe successful is the single most important thing we can do to\rimprovetheachievementlevelsofallstudents.Cucamonga\rSchoolDistrictiscommittedtoprovidingqualityprofessional\rdevelopmentopportunitiesforallemployeescertificatedand\rclassified,sothiscanhappen.Weprovideprofessional\rdevelopment that is part of a comprehensive effort to ensure\rhigh levels of learning.\r\rDuringthe2018-2019schoolyear,thefocusofCucamonga\rSchoolDistrictStaffDevelopmentwasintheareasof\rProfessionalLearningCommunitiesandCommonCoreState\rStandards. Teachers were invited to participate in 5 release days\rof collaborative learning that focused on formative assessment\rstrategies,technologyintegration,instructionalstrategies,\rCommonCoreStateStandards,StructuredTeacherPlanning\rTime,andbuildingofcontentknowledge.Lessonstudy\rdemonstrationsandcoachingwereprovidedthroughthree\rsubjectareas:ELA,Math,andNGSS.Thefoundationofthe\rPositiveBehavioralInterventionSystem(PBIS)wasalso\rcontinued upon through professional development.\r\rAbout the SARC\rBy February 1 of each year, every school in California is required\rbystatelawtopublishaSchoolAccountabilityReportCard\r(SARC). The SARC contains information about the condition and\rperformance of each California public school. Under the Local\rControl Funding Formula (LCFF) all localeducational agencies\r(LEAs) are required to prepare a Local Control Accountability  ... Unnamed: 2
+0                                            Measure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ...    2019-20
+1  Number of school days dedicated to Staff\rDeve...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ...          5
+
+[2 rows x 4 columns], Empty DataFrame
+Columns: [Plan (LCAP), which describes how they intend to meet annualschool-specificgoalsforallpupils,withspecificactivitiestoaddress state and local priorities. Additionally, data reported inan LCAP is to be consistent with data reported in the SARC.•For more information about SARC requirements, see theCalifornia Department of Education (CDE) SARC Web pageat http://www.cde.ca.gov/ta/ac/sa/.•For more information about the LCFF or LCAP, see the CDELCFF Web page at http://www.cde.ca.gov/fg/aa/lc/.•Foradditionalinformationabouttheschool,parents/guardiansandcommunitymembersshouldcontact the school or the district office.DataQuestDataQuest is an online data tool located on the CDE DataQuestWeb page at http://dq.cde.ca.gov/dataquest/that containsadditional information about this school and comparisons oftheschooltothedistrictandthecounty.Specifically,DataQuestisadynamicsystemthatprovidesreportsforaccountability(e.g.,testdata,enrollment,highschoolgraduates,dropouts,courseenrollments,staffing,anddataregarding English learners).Internet AccessInternetaccessisavailableatpubliclibrariesandotherlocations that are publicly accessible (e.g., the California StateLibrary). Access to the Internet at libraries and public locationsis generally provided on a first-come, first-served basis. Otheruse restrictions may include the hours of operation, the lengthoftimethataworkstationmaybeused(dependingonavailability),thetypesofsoftwareprogramsavailableonaworkstation, and the ability to print documents.]
+Index: []]

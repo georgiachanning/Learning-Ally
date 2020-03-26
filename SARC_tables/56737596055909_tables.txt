@@ -1,0 +1,314 @@
+[                          Unnamed: 0  Entity                    Unnamed: 1  Contact Information
+0                        School Name     NaN       Maple Elementary School                  NaN
+1                             Street     NaN               3501 Kimber Dr.                  NaN
+2                   City, State, Zip     NaN  Newbury Park, CA  91320-4399                  NaN
+3                       Phone Number     NaN                (805) 498-6748                  NaN
+4                          Principal     NaN                   Patty Lewis                  NaN
+5                      Email Address     NaN          plewis@conejousd.org                  NaN
+6                            Website     NaN       www.conejousd.org/maple                  NaN
+7  County-District-School (CDS) Code     NaN              56 73759 6055909                  NaN,        Unnamed: 0                                 Entity  Unnamed: 1  Unnamed: 2  Contact Information  Unnamed: 3
+0   District Name  Conejo Valley Unified School District         NaN         NaN                  NaN         NaN
+1    Phone Number                         (805) 497-9511         NaN         NaN                  NaN         NaN
+2  Superintendent              Mark W. McLaughlin, Ed.D.         NaN         NaN                  NaN         NaN
+3   Email Address              mmclaughlin@conejousd.org         NaN         NaN                  NaN         NaN
+4         Website                      www.conejousd.org         NaN         NaN                  NaN         NaN,         Grade Level  Number of Students
+0      Kindergarten                  44
+1           Grade 1                  51
+2           Grade 2                  40
+3           Grade 3                  39
+4           Grade 4                  58
+5           Grade 5                  49
+6  Total Enrollment                 281,                       Student Group  Percent of Total Enrollment
+0         Black or African American                          1.1
+1  American Indian or Alaska Native                          1.1
+2                             Asian                          4.3
+3                Hispanic or Latino                         32.4
+4                             White                         56.2
+5                 Two or More Races                          5.0
+6   Socioeconomically Disadvantaged                         36.7
+7                  English Learners                         24.9
+8        Students with Disabilities                         18.1
+9                          Homeless                          1.1,                                           Unnamed: 0 Unnamed: 1   School School.1 School.2 District
+0                                                NaN   Teachers      NaN      NaN      NaN      NaN
+1                                                NaN        NaN  2017-18  2018-19  2019-20  2019-20
+2                               With Full Credential        NaN       19       20       20      850
+3                            Without Full Credential        NaN        0        0        0        0
+4  Teaching Outside Subject Area of Competence (w...        NaN        0        0        0        4,                                         Indicator  2017-18  2018-19  2019-20
+0  Misassignments of Teachers of English Learners        0        0        0
+1                   Total Teacher Misassignments*        0        0        5
+2                        Vacant Teacher Positions        0        0        0,                   Grade(s)                                    Subject / Title                    Published
+0              Mathematics                                                NaN                          NaN
+1                      T K  enVision Math Student Reteach and Practice Wor...                 Pearson 2016
+2                    K - 5  Go Math! California Student Multi-Volumes and ...        Houghton Mifflin 2015
+3   History/Social Science                                                NaN                          NaN
+4                        K                           How Have Things Changed?  Pearson/Scott Foresman 2006
+5                      NaN                         Who Are People In History?                          NaN
+6                      NaN                                 What Is A Holiday?                          NaN
+7                      NaN                              How Can We Show Time?                          NaN
+8                      NaN                            What Happens At School?                          NaN
+9                      NaN                    How Can We Show A Neighborhood?                          NaN
+10                     NaN                          What Symbols Do You Know?                          NaN
+11                     NaN                           How Can You Find Things?                          NaN
+12                     NaN                    What Can We Learn From Stories?                          NaN
+13                     NaN                             Who Are Good Citizens?                          NaN
+14                     NaN                            Why Do We Follow Rules?                          NaN
+15                       1                        How Do Goods Get To People?                          NaN
+16                     NaN                           How Do People Use Money?                          NaN
+17                     NaN                      How Do We Learn About Others?                          NaN
+18                     NaN                                Who Came Before Us?                          NaN
+19                     NaN                                  How Are We Alike?                          NaN
+20                     NaN                   How Can We Learn About The Past?                          NaN
+21                     NaN                       What Was Life Like Long Ago?                          NaN
+22                     NaN                            How Has Travel Changed?                          NaN
+23                     NaN                       What Are Symbols Of America?                          NaN
+24                     NaN                        How Do We Honor Our Heroes?                          NaN
+25                     NaN                       How Do We Honor Our Country?                          NaN
+26                     NaN                                 Where Do You Live?                          NaN
+27                     NaN                            How Can You Make A Map?                          NaN
+28                     NaN                            What Does A Model Show?                          NaN
+29                     NaN                        How Can We Use Maps/Globes?                          NaN
+30                     NaN                            How Do We Show Respect?                          NaN
+31                     NaN                              How Do We Make Rules?                          NaN
+32                       2                    How Do We Learn Family History?                          NaN
+33                     NaN                       How is Life Different Today?                          NaN
+34                     NaN                    How Can We put Events In Order?                          NaN
+35                     NaN                          How Can We Locate Places?                          NaN
+36                     NaN                              What Does a Map Show?                          NaN
+37                     NaN                     Where Did My Family Come From?                          NaN
+38                     NaN                            How Do People Use Land?                          NaN
+39                     NaN                            What Do Governments Do?                          NaN
+40                     NaN                      How Do People Solve Problems?                          NaN
+41                     NaN                   How Do People Grow And Use Food?                          NaN
+42                     NaN                            Who Are Buyers/Sellers?                          NaN
+43                     NaN                       How Do People Use Resources?                          NaN
+44                     NaN                   How Do Heroes Make A Difference?                          NaN
+45                       3                 Our Communities California Edition                          NaN
+46                       4                                     Our California                          NaN
+47                       5                                         Our Nation                          NaN
+48                     NaN                                      We the People              Civic Education
+49                 Science                                                NaN                          NaN
+50                     K-5                                    FOSS NGSS Units              Delta Education
+51                  Health                                                NaN                          NaN
+52                     K-3                                        Health Wave                          NaN,                                                   4/5                                        Healthy You                       Unnamed: 0
+0                          Visual and Performing Arts                                                NaN                              NaN
+1                                               Music                                    Share the Music                      McGraw Hill
+2                                                 Art                     Portfolio:  A State of the Art                  Barrett Kendall
+3                                                 NaN                              English/Language Arts                              NaN
+4                                                  TK                                   Little Treasures                              NaN
+5                                                   K  Treasures Reading Practice and Student Activit...                 McGraw Hill 2008
+6                                                   1                          Student Edition Books 1-6                              NaN
+7                                                 2/3                      Student Edition Books 1 and 2                              NaN
+8                                                 4/5                                   Student Editions                              NaN
+9   Elementary Core Literature Selections School B...                                                NaN                              NaN
+10                                                  K        The Little Engine that Could by Watty Piper                              NaN
+11                                                  K        Goldilocks and the Three Bears by Jan Brett                              NaN
+12                                                  K                 The Little Red Hen by Paul Galdone                              NaN
+13                                                  K          The Very Hungry Caterpillar by Eric Carle                              NaN
+14                                                  K        The Three Billy Goats Gruff by Paul Galdone                              NaN
+15                                                K/1                  The Grouchy Ladybug by Eric Carle                              NaN
+16                                                K/1                         Stone Soup by Marcia Brown                              NaN
+17                                                  1                   Ira Sleeps Over by Bernard Waber                              NaN
+18                                                  1         The Tale of Peter Rabbit by Beatrix Potter  CHOOSE ONE OF\rTHESE TWO TITLES
+19                                                  1  The Town Mouse and the Country Mouse by Lorind...                              NaN
+20                                                1/2             A Bargain for Frances by Russell Hoban                              NaN
+21                                                1/2          Frog and Toad are Friends by Arnold Lobel                              NaN
+22                                                  2  Alexander and the Terrible, Horrible, No Good,...                              NaN
+23                                                  2    Sylvester and the Magic Pebble by William Steig  CHOOSE ONE OF\rTHESE TWO TITLES
+24                                                  2                      Too Many Tamales by Gary Soto                              NaN
+25                                                2/3               Annie and the Old One by Miska Miles                              NaN
+26                                                2/3                    Miss Rumphius by Barbara Cooney                              NaN
+27                                                  3           The Velveteen Rabbit by Margery Williams                              NaN
+28                                                  3                      Charlotte’s Web by E.B. White  CHOOSE ONE OF\rTHESE TWO TITLES
+29                                                  3             Ramona Quimby, Age 8 by Beverly Cleary                              NaN
+30                                                  4        Island of the Blue Dolphins by Scott O’Dell                              NaN
+31                                                  4          By the Great Horn Spoon by Sid Fleischman  CHOOSE ONE OF\rTHESE TWO TITLES
+32                                                  4  The Little House in the Big Woods by Laura Ing...                              NaN
+33                                                4/5                        Ben and Me by Robert Lawson                              NaN
+34                                                4/5                            Hatchet by Gary Paulsen                              NaN
+35                                                  5             Sign of the Beaver by Elizabeth Speare                              NaN
+36                                                  5  In the Year of the Boar and Jackie Robinson by...  CHOOSE ONE OF\rTHESE TWO TITLES
+37                                                  5  From the Mixed Up Files of Basil E. Frankweile...                              NaN
+38                                                5/6                         The Cay by Theodore Taylor                              NaN
+39                                                5/6                  Shiloh by Phyllis Reynolds Naylor                              NaN,    Unnamed: 0  Unnamed: 1  Unnamed: 2
+0         NaN         NaN         NaN,     Unnamed: 0                                         Unnamed: 1  ...                                 Unnamed: 8 Unnamed: 9
+0          NaN                                                NaN  ...                                        NaN        NaN
+1          NaN                                   System Inspected  ...  Repair Needed and Action Taken or Planned        NaN
+2          NaN                                   System Inspected  ...                                        NaN        NaN
+3          NaN                                                NaN  ...                                        NaN        NaN
+4          NaN        Systems: Gas Leaks,\rMechanical/HVAC, Sewer  ...                                        NaN        NaN
+5          NaN                                                NaN  ...                                        NaN        NaN
+6          NaN                                                NaN  ...                                        NaN        NaN
+7          NaN                                                NaN  ...                                        NaN        NaN
+8          NaN                        Interior: Interior Surfaces  ...                                        NaN        NaN
+9          NaN                                                NaN  ...                                        NaN        NaN
+10         NaN                                                NaN  ...                                        NaN        NaN
+11         NaN                                                NaN  ...                                        NaN        NaN
+12         NaN  Cleanliness: Overall Cleanliness,\rPest/ Vermi...  ...                                        NaN        NaN
+13         NaN                                                NaN  ...                                        NaN        NaN
+14         NaN                                                NaN  ...                                        NaN        NaN
+15         NaN                                                NaN  ...                                        NaN        NaN
+16         NaN                             Electrical: Electrical  ...                                        NaN        NaN
+17         NaN                                                NaN  ...                                        NaN        NaN
+18         NaN                                                NaN  ...                                        NaN        NaN
+19         NaN                                                NaN  ...                                        NaN        NaN
+20         NaN  Restrooms/Fountains: Restrooms,\rSinks/ Fountains  ...                                        NaN        NaN
+21         NaN                                                NaN  ...                                        NaN        NaN
+22         NaN                                                NaN  ...                                        NaN        NaN
+23         NaN                                                NaN  ...                                        NaN        NaN
+24         NaN          Safety: Fire Safety, Hazardous\rMaterials  ...                                        NaN        NaN
+25         NaN                                                NaN  ...                                        NaN        NaN
+26         NaN                                                NaN  ...                                        NaN        NaN
+27         NaN                                                NaN  ...                                        NaN        NaN
+28         NaN              Structural: Structural Damage,\rRoofs  ...                                        NaN        NaN
+29         NaN                                                NaN  ...                                        NaN        NaN
+30         NaN                                                NaN  ...                                        NaN        NaN
+31         NaN                                                NaN  ...                                        NaN        NaN
+
+[32 rows x 10 columns],    System Inspected
+0  System Inspected, Empty DataFrame
+Columns: [Rating, Rating.1]
+Index: [], Empty DataFrame
+Columns: [Repair Needed and Action Taken or Planned, Repair Needed and Action Taken or Planned.1]
+Index: [],    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XGood
+0    NaN,    XPoor
+0    NaN,               System Inspected Rating  Repair Needed and Action Taken or Planned
+0  External: Playground/School  XGood                                        NaN
+1                          NaN    NaN                                        NaN
+2            Grounds, Windows/    NaN                                        NaN
+3           Doors/Gates/Fences    NaN                                        NaN
+4               Overall Rating  XGood                                        NaN,                        Unnamed: 0   School School.1 District District.1    State  State.1
+0                         Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                             NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  English Language Arts/Literacy      NaN      NaN      NaN        NaN      NaN      NaN
+3                             NaN       62       62       63         66       50       50
+4             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN
+5                     Mathematics      NaN      NaN      NaN        NaN      NaN      NaN
+6                             NaN       53       57       57         58       38       39
+7             (grades 3-8 and 11)      NaN      NaN      NaN        NaN      NaN      NaN,                          Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                               NaN            NaN       Total     Number    Percent     NaN       NaN
+1                               NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                               NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                               NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                      All Students            NaN         137        133      97.08    2.92     61.65
+5                              Male            NaN          80         78      97.50    2.50     60.26
+6                            Female            NaN          57         55      96.49    3.51     63.64
+7         Black or African American            NaN          --         --         --      --        --
+8  American Indian or Alaska Native            NaN          --         --         --      --        --,                                        Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                             NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                             NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                                           Asian            NaN          --         --         --      --        --
+5                                        Filipino            NaN         NaN        NaN        NaN     NaN       NaN
+6                              Hispanic or Latino            NaN          51         48      94.12    5.88     41.67
+7             Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+8                                           White            NaN          76         75      98.68    1.32     73.33
+9                               Two or More Races            NaN          --         --         --      --        --
+10                Socioeconomically Disadvantaged            NaN          59         55      93.22    6.78     40.00
+11                               English Learners            NaN          46         43      93.48    6.52     32.56
+12                     Students with Disabilities            NaN          14         13      92.86    7.14     15.38
+13  Students Receiving Migrant Education Services            NaN         NaN        NaN        NaN     NaN       NaN
+14                                   Foster Youth            NaN         NaN        NaN        NaN     NaN       NaN
+15                                       Homeless            NaN          --         --         --      --        --,                              Unnamed: 0     Unnamed: 1  Unnamed: 2 Unnamed: 3 Unnamed: 4 Percent Percent.1
+0                                   NaN            NaN       Total     Number    Percent     NaN       NaN
+1                                   NaN  Student Group         NaN        NaN        NaN     Not    Met or
+2                                   NaN            NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                   NaN            NaN         NaN        NaN        NaN  Tested  Exceeded
+4                          All Students            NaN         137        136      99.27    0.73     57.35
+5                                  Male            NaN          80         80     100.00    0.00     58.75
+6                                Female            NaN          57         56      98.25    1.75     55.36
+7             Black or African American            NaN          --         --         --      --        --
+8      American Indian or Alaska Native            NaN          --         --         --      --        --
+9                                 Asian            NaN          --         --         --      --        --
+10                             Filipino            NaN         NaN        NaN        NaN     NaN       NaN
+11                   Hispanic or Latino            NaN          51         51     100.00    0.00     33.33
+12  Native Hawaiian or Pacific Islander            NaN         NaN        NaN        NaN     NaN       NaN
+13                                White            NaN          76         75      98.68    1.32     69.33,                                        Unnamed: 0  Unnamed: 1 Unnamed: 2 Unnamed: 3 Percent Percent.1
+0                                             NaN       Total     Number    Percent     NaN       NaN
+1                                   Student Group         NaN        NaN        NaN     Not    Met or
+2                                             NaN  Enrollment     Tested     Tested     NaN       NaN
+3                                             NaN         NaN        NaN        NaN  Tested  Exceeded
+4                               Two or More Races          --         --         --      --        --
+5                 Socioeconomically Disadvantaged          59         58      98.31    1.69     32.76
+6                                English Learners          46         46     100.00    0.00     28.26
+7                      Students with Disabilities          14         13      92.86    7.14     15.38
+8   Students Receiving Migrant Education Services         NaN        NaN        NaN     NaN       NaN
+9                                    Foster Youth         NaN        NaN        NaN     NaN       NaN
+10                                       Homeless          --         --         --      --        --,                               Unnamed: 0   School School.1 District District.1    State  State.1
+0                                Subject      NaN      NaN      NaN        NaN      NaN      NaN
+1                                    NaN  2017-18  2018-19  2017-18    2018-19  2017-18  2018-19
+2  Science (grades 5, 8 and high school)      N/A      N/A      N/A        N/A      N/A      N/A,     Unnamed: 0 Percentage of Students Percentage of Students.1 Percentage of Students.2
+0  Grade Level    Meeting Four of Six      Meeting Five of Six       Meeting Six of Six
+1          NaN      Fitness Standards        Fitness Standards        Fitness Standards
+2            5                   17.0                     14.9                      8.5,     Unnamed: 0   School School.1 School.2 District District.1 District.2    State  State.1  State.2
+0         Rate      NaN      NaN      NaN      NaN        NaN        NaN      NaN      NaN      NaN
+1          NaN  2016-17  2017-18  2018-19  2016-17    2017-18    2018-19  2016-17  2017-18  2018-19
+2  Suspensions      0.6      0.0      0.7      1.8        2.3        1.6      3.6      3.5      3.5
+3   Expulsions      0.0      0.0      0.0      0.0        0.0        0.0      0.1      0.1      0.1,    Unnamed: 0 2016-17 2016-17 2016-17 2016-17 2017-18 2017-18 2017-18 2017-18 2018-19 2018-19 2018-19 2018-19
+0         NaN  Average # of # of # of Average # of # of # of ...                                             
+1       Grade                                                NaN                                             
+2         NaN  Class  Classes* Classes* Classes* Class  Class...                                             
+3       Level                                                NaN                                             
+4         NaN  Size Size Size Size Size Size Size Size Size S...                                             
+5         NaN       1-20 21-32 33+ 1-20 21-32 33+ 1-20 21-32 33+                                             
+6           K                                   17 2 1 16 3 19 2                                             
+7           1                                   23 2 22 1 22 1 1                                             
+8           2                                   21 1 1 23 2 17 2                                             
+9           3                                   21 1 2 23 3 18 2                                             
+10          4                                          29 1 32 1                                             
+11          5                               30 3 23 1 2 25 1 1 1                                             
+12   Othe r**                                      9 3 17 1 13 2                                             ,              Unnamed: 0  Title  Ratio
+0  Academic Counselors*    NaN    NaN,                                           Unnamed: 0      Number of FTE*
+0                                              Title                 NaN
+1                                                NaN  Assigned to School
+2  Counselor (Academic, Social/Behavioral or Care...                 NaN
+3                  Library Media Teacher (Librarian)                 NaN
+4    Library Media Services Staff (Paraprofessional)                 0.6
+5                                       Psychologist                 0.3
+6                                      Social Worker                 0.3,                                 Title          Unnamed: 0  Number of FTE*  Unnamed: 1
+0                               Title                 NaN             NaN         NaN
+1                                 NaN  Assigned to School             NaN         NaN
+2                               Nurse                 0.1             NaN         NaN
+3  Speech/Language/Hearing Specialist                 0.3             NaN         NaN
+4  Resource Specialist (non-teaching)                  15             NaN         NaN
+5                               Other                   8             NaN         NaN,    Title
+0  Title,    Level
+0  Level,                                            Level    Unnamed: 0         Total      Unnamed: 1  ... Unnamed: 5  Unnamed: 6  Average  Unnamed: 7
+0                                          Level  Expenditures     Per Pupil       Per Pupil  ...        NaN         NaN      NaN         NaN
+1                                            NaN     Per Pupil  (Restricted)  (Unrestricted)  ...        NaN         NaN      NaN         NaN
+2                                    School Site         $6974          $190           $6784  ...        NaN         NaN      NaN         NaN
+3                                       District           N/A           N/A           $6268  ...        NaN         NaN      NaN         NaN
+4  Percent Difference - School Site and District           N/A           N/A             7.9  ...        NaN         NaN      NaN         NaN
+5                                          State           N/A           N/A           $7507  ...        NaN         NaN      NaN         NaN
+6     Percent Difference - School Site and State           N/A           N/A           -10.1  ...        NaN         NaN      NaN         NaN
+
+[7 rows x 13 columns],                    Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                       NaN         District               NaN            NaN         NaN
+1                  Category    For Districts               NaN            NaN         NaN
+2                       NaN           Amount               NaN            NaN         NaN
+3                       NaN              NaN  In Same Category            NaN         NaN
+4  Beginning Teacher Salary          $47,144           $51,374            NaN         NaN
+5  Mid-Range Teacher Salary          $76,703           $80,151            NaN         NaN
+6    Highest Teacher Salary          $97,122          $100,143            NaN         NaN,    Category
+0  Category,   District\rAmount
+0         District
+1           Amount,    Category
+0  Category,                                         Category District\rAmount        Unnamed: 0  State Average  Unnamed: 1
+0                                            NaN         District               NaN            NaN         NaN
+1                                       Category    For Districts               NaN            NaN         NaN
+2                                            NaN           Amount               NaN            NaN         NaN
+3                                            NaN              NaN  In Same Category            NaN         NaN
+4          Average Principal Salary (Elementary)         $116,639          $126,896            NaN         NaN
+5              Average Principal Salary (Middle)         $119,510          $133,668            NaN         NaN
+6                Average Principal Salary (High)         $131,904          $143,746            NaN         NaN
+7                          Superintendent Salary         $234,600          $245,810            NaN         NaN
+8         Percent of Budget for Teacher Salaries              40%               35%            NaN         NaN
+9  Percent of Budget for Administrative Salaries               5%                5%            NaN         NaN,   District\rAmount
+0         District
+1           Amount,                                              Measure  Measure.1  2017-18  2017-18.1  2018-19  2018-19.1  2019-20  2019-20.1
+0  Number of school days dedicated to Staff Devel...          3        3          3      NaN        NaN      NaN        NaN]

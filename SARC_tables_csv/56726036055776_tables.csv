@@ -1,0 +1,222 @@
+[                 simi Valley unified school disTricT                                         Unnamed: 0
+0  101 W. Cochran Street •  Simi Valley, CA  9306...                                                NaN
+1                                                NaN                                                NaN
+2                      sanTa susana elemenTary schoo                                                NaN
+3  4300 Apricot Road, Simi Valley, CA 93063   (80...                                                NaN
+4  school accounTaBiliTy rePorT card\r2018-19 sch...                                                NaN
+5  PrinciPal’s Message\rSanta Susana Elementary S...  Board of TrusTees\rDawn Smollen, President\rKa...,                    Student Enrollment by Unnamed: 0  ... Unnamed: 2                        Classroom Volunteers
+0          Student Group and Grade Level        NaN  ...        NaN                                Holiday Shop
+1                                2018-19        NaN  ...        NaN                          Library Volunteers
+2                             % of Total       # of  ...        NaN   Parent Teacher Association (PTA) Meetings
+3   Student Group Enrollment Grade Level   Students  ...        NaN                                         NaN
+4                       Black or African        NaN  ...        NaN                                         NaN
+5                                   0.3%        NaN  ...        NaN                                         NaN
+6                  American Kindergarten         62  ...        NaN  CommitteesEnglish Learner Advisory Council
+7             American Indian or Grade 1         42  ...        NaN                                         NaN
+8                 Alaskan Native Grade 2         43  ...        NaN   District English Learner Advisory Council
+9                     Asian 2.7% Grade 3         42  ...        NaN                  Parent Teacher Association
+10                 Filipino 1.0% Grade 4         46  ...        NaN                                         NaN
+11           Hawaiian or Pacific Grade 5         28  ...        NaN                         School Site Council
+12                      Islander Grade 6         31  ...        NaN                           School Activities
+13              Hispanic or Latino 75.1%        NaN  ...        NaN                           All School Picnic
+14                           White 17.4%        NaN  ...        NaN                                         NaN
+15                Two or More Races 3.4%        NaN  ...        NaN                        Back to School Night
+16                     Socioeconomically        NaN  ...        NaN                                   Book Fair
+17                                 71.1%        NaN  ...        NaN                                         NaN
+18                         Disadvantaged        NaN  ...        NaN                               Fall Festival
+19                English Learners 46.3%        NaN  ...        NaN                                         NaN
+20                                   NaN        NaN  ...        NaN                                Jr. Olympics
+21                         Students with        NaN  ...        NaN                                         NaN
+22                                 20.1%        NaN  ...        NaN                    Kindergarten Orientation
+23                          Disabilities        NaN  ...        NaN                                         NaN
+24                         Homeless 1.7%        NaN  ...        NaN                                  Open House
+25                                 Total        NaN  ...        NaN                                         NaN
+26               Foster Youth Enrollment        294  ...        NaN                  Parent Education Workshops
+
+[27 rows x 7 columns], Empty DataFrame
+Columns: [school Vision, determined prepared for college by the Early, Parents stay informed on upcoming events]
+Index: [],                                           Unnamed: 0   % of Standards Met:                                         Unnamed: 1
+0                                                NaN  4 of 6 5 of 6 6 of 6  California Assessment of Student Performance a...
+1                                        Grade Level                   NaN                                       All Students
+2                                              Fifth      10.7% 7.1% 10.7%                                                NaN
+3                                                NaN                   NaN  Percentage of Students Meeting or Exceeding th...
+4   Note:  Percentages are not calculated and double                   NaN                                      SSES SVUSD CA
+5  dashes (--) appear in the table when the numbe...                   NaN                                                NaN
+6                                                NaN                   NaN                17-18 18-19 17-18 18-19 17-18 18-19
+7  students tested is ten or less, either because...                   NaN                                                NaN
+8                                                NaN                   NaN  Science (Grades 5, 8, & 10) N/A N/A N/A N/A N/...,           Performance and Progress (CAASPP) System                                         Unnamed: 0 Unnamed: 1 Unnamed: 2
+0          includes the Smarter Balanced Summative  California Assessment of Student Performance a...        NaN        NaN
+1           Assessments (SBAC) for students in the  Test Results in English Language Arts/Literacy...        NaN        NaN
+2            general education population, and the                                                NaN        NaN        NaN
+3          California Alternate Assessments (CAAs)  Percentage of Students Meeting or Exceeding th...        NaN        NaN
+4           for students with the most significant                                         SSES SVUSD         CA        NaN
+5  cognitive disabilities.  Only eligible students                      17-18 18-19 17-18 18-19 17-18        NaN      18-19
+6            may participate in the administration      English-Language Arts/Literacy 23 24 55 54 50        NaN         50
+7                                              NaN                         Mathematics 24 26 43 43 38        NaN         39,                          Unnamed: 0 CAASPP Test Results in ELA & Mathematics by Student Group (Grades 3-8)   Unnamed: 1   Unnamed: 2   Unnamed: 3
+0                               NaN                                            2018-19                              NaN          NaN          NaN
+1                               NaN                     English Language Arts/Literacy                      Mathematics          NaN          NaN
+2                               NaN  Total Number Percent Percent Not Percent Met T...                          Percent  Percent Not  Percent Met
+3                               NaN  Enrollment Tested Tested Tested or Exceeded En...                           Tested       Tested  or Exceeded
+4               All Students Tested                150 146 97.33% 2.67% 23.97% 150 148                           98.67%        1.33%       25.68%
+5                              Male                    76 73 96.05% 3.95% 16.44% 76 75                           98.68%        1.32%       29.33%
+6                            Female                    74 73 98.65% 1.35% 31.51% 74 73                           98.65%        1.35%       21.92%
+7         Black or African American                               -- -- -- -- -- -- --                               --           --           --
+8                             Asian                               -- -- -- -- -- -- --                               --           --           --
+9                Hispanic or Latino                117 115 98.29% 1.71% 21.74% 117 116                           99.15%        0.85%       19.83%
+10                            White                    19 18 94.74% 5.26% 33.33% 19 18                           94.74%        5.26%       44.44%
+11                Two or More Races                               -- -- -- -- -- -- --                               --           --           --
+12  Socioeconomically Disadvantaged                126 123 97.62% 2.38% 25.20% 126 124                           98.41%        1.59%       25.00%
+13                 English Learners                 101 99 98.02% 1.98% 18.18% 101 101                          100.00%        0.00%       17.82%
+14       Students with Disabilities                    43 42 97.67% 2.33% 11.90% 43 42                           97.67%        2.33%       14.29%,                       Unnamed: 0   Unnamed: 1 Unnamed: 2  ... Unnamed: 6                  Unnamed: 7
+0     The principal communicates         with        NaN  ...        NaN                                              NaN
+1         staff daily concerning  maintenance        NaN  ...        NaN                                                NaN        NaN
+2          school safety issues.          NaN        NaN  ...        NaN                                         NaN
+3                            NaN          NaN        NaN  ...        NaN                                    NaN
+4             Campus Description          NaN        NaN  ...                                                          NaN        NaN
+5                     Year Built          NaN        NaN  ...                                                          NaN        NaN
+6                            NaN          NaN   Quantity  ...                                                          NaN        NaN
+7      # of Permanent Classrooms          NaN        NaN  ...                                                          NaN        NaN
+8       # of Portable Classrooms          NaN        NaN  ...                                                          NaN        NaN
+9                            NaN          NaN        NaN  ...                                                          NaN        NaN
+10  # of Restrooms (student use)          NaN        NaN  ...        NaN                                                NaN        NaN
+11                           NaN          NaN        NaN  ...                                                          NaN        NaN
+12                       Library          NaN        NaN  ...        NaN                                                NaN        NaN
+13                           NaN          NaN        NaN  ...                                                          NaN        NaN
+14   Multipurpose Room/Cafeteria          NaN        NaN  ...        NaN                                                NaN        NaN
+15                           NaN          NaN        NaN  ...        NaN  ...        NaN
+16                  Staff Lounge          NaN        NaN  ...        NaN                                                NaN        NaN
+17                           NaN          NaN        NaN  ...                                                    
+18               Staff Work Room          NaN        NaN  ...        NaN                                                NaN        NaN
+19                           NaN          NaN        NaN  ...        NaN                                                          NaN
+20                    MakerSpace          NaN        NaN  ...        NaN                                                NaN        NaN
+
+[21 rows x 9 columns],         Unnamed: 0 Unnamed: 1 Suspensions and Expulsions Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Number of School Days/Topics Dedicated
+0              NaN        NaN                 SSES SVUSD        NaN        NaN         CA        NaN      to Staff Development & Continuous
+1              NaN        NaN                        NaN        NaN        NaN        NaN        NaN                            Improvement
+2              NaN      16-17    17-18 18-19 16-17 17-18      18-19      16-17      17-18      18-19                                    NaN
+3  Suspensions (%)      2.60%    3.70% 2.50% 3.00% 1.40%      3.20%      3.60%      3.50%      3.50%                         2017-18 3 days
+4              NaN        NaN                        NaN        NaN        NaN        NaN        NaN       Math Standards & Implementation
+5   Expulsions (%)      0.00%    0.00% 0.00% 0.15% 0.12%      0.00%      0.09%      0.08%      0.10%                                    NaN,                                           The Simi             Valley  ...                     Average Class Size and 2018-19                          3 days
+0    maintains a firm policy prohibiting all forms                NaN  ...       Renaissance TrainingClass Size Distribution                             NaN
+1      of bullying. Everyone is to be treated with                NaN  ...                 Digital Educator Institute2016-17                             NaN
+2                                      respect and           dignity.  ...                             Intervention Training                             NaN
+3                                              NaN                NaN  ...                                            Average                             NaN
+4    including students, teachers, administrators,                NaN  ...   Next Generation Science StandardsClass Numbe...                             NaN
+5     or other adults will not be tolerated by any                NaN  ...                    Grade Level Size 1-20 21-32 33+                             NaN
+6                                              NaN                NaN  ...                                            2019-20                          3 days
+7       circumstances. Administrators will respond                NaN  ...     K 18.0 2 1  Achieve 3000 & Suicide Prevention                             NaN
+8   to all reports of alleged bullying in a timely                NaN  ...                         1 20.0 2  Aeries Training                             NaN
+9                                          manner.                NaN  ...                     2 24.0 2  Assessment Training                             NaN
+10                                             NaN                NaN  ...                         3 23.0 1  BBURST Training                             NaN
+11                         class size DistribUtion                NaN  ...        4 22.0 1  Classroom Instruction That Works                             NaN
+12                                       The Class  Size Distribution  ...                     5 34.0 1  Digital Citizenship                             NaN
+13                              report illustrates                NaN  ...    6 22.0 1 1  ELA/ELD Textbook Adoption Training                             NaN
+14   sizes by grade level, the average class size,                NaN  ...                  Other** 14.0 3 1  ELPAC Training                             NaN
+15     and the number of classes that contain 1-20                NaN  ...                          2017-18  Google Training                             NaN
+16        students, 21-32 students, and 33 or more                NaN  ...                        K 17.0 3 1  Growth Mindset                             NaN
+17                                       students.       Calculations  ...  1 19.0 2  History/Social Science Textbook Ado...                             NaN
+18                                             NaN                NaN  ...                                  2 20.0 2 Training                             NaN
+19                         of 50 or more students.                NaN  ...                                                NaN                             NaN
+20                                             NaN                NaN  ...       3 18.0 2 1  Math Textbook Adoption Training                             NaN
+21                                     c UrricUlUM                & i  ...                            4 5.0 1 Medal of Honor                             NaN
+22                                             NaN                NaN  ...                        5 36.0 2  MobyMax Training                             NaN
+23                                             NaN                NaN  ...                 Next Generation Science Standards                             NaN
+24                               staff DeVeloPMent                NaN  ...    6 23.0 1 1  Panorama Social Emotional Learning                             NaN
+25                                    All training                and  ...  Other** 9.0  Project Management Training2018-191                             NaN
+26                                      activities           at Santa  ...                          Response to Intervention                             NaN
+27                                             NaN                NaN  ...                                           K 19.0 3                             NaN
+28                                  revolve around                NaN  ...                Science Textbook Adoption Training                             NaN
+29                                             NaN                NaN  ...                                           1 19.0 2                             NaN
+30                                      Standards.             During  ...                                   Shmoop Training                             NaN
+31                                             NaN                NaN  ...                                           2 26.0 2                             NaN
+32                                     year, Santa             Susana  ...              Word Recognition & Fluency3 20.0 1 2                             NaN
+33                         development devoted to:                NaN  ...                                         4 19.0 1 1                             NaN
+34                        • Technology Integration                NaN  ...                               5 31.0 2 Simi Valley  Unified School District offers
+35                                             NaN                NaN  ...          supplemental training and support for new                             NaN
+36               • Mathematical Practice Standards                NaN  ...                                       6 15.0 4 1 1                             NaN
+37                                             NaN                NaN  ...                          Other** 8.0 3 and ongoing         program implementation.
+
+[38 rows x 8 columns],                             Santa Susana Elementary         offers  ...                                  Unnamed: 4            Unnamed: 5
+0                                               NaN            NaN  ...                                   Textbooks                   NaN
+1                                to new and veteran       teachers  ...                                         NaN                   NaN
+2       coaching and mentoring. Instructional aides            NaN  ...                                         NaN                   NaN
+3                                               NaN            NaN  ...                                         NaN     Percent of Pupils
+4                             are provided targeted       training  ...                                         NaN    Who Lack Their Own
+5                           teaching strategies and     curriculum  ...                                         NaN    Assigned Textbooks
+6   All staff are encouraged to attend professional            NaN  ...                                         NaN  and/or Instructional
+7                        workshops and conferences.            NaN  ...                        Publisher and Series             Materials
+8                             support staff receive    job-related  ...                       Reading/Language Arts                   NaN
+9                       from department supervisors            NaN  ...         Houghton Mifflin Harcourt: Journeys                    0%
+10                                 representatives.            NaN  ...                                         NaN                   NaN
+11                                              NaN            NaN  ...    Santillana: Santillana Intensive English                    0%
+12                          instrUctional Materials            NaN  ...               McGraw-Hill: World of Wonders                    0%
+13                            All textbooks used in       the core  ...                                         NaN                   NaN
+14                                              NaN            NaN  ...                                        Math                   NaN
+15                           throughout Simi Valley        Unified  ...                                         NaN                   NaN
+16                                              NaN            NaN  ...                        McGraw-Hill: My Math                    0%
+17                           District are currently  being aligned  ...                                         NaN                   NaN
+18                      California State Standards.            NaN  ...                                     Science                   NaN
+19    materials for core content areas are approved            NaN  ...  Delta Education: FOSS (Full Option Science                    0%
+20                          by the district’s Board  of Education.  ...                                     System)                   NaN
+21  district follows the State Board of Education’s            NaN  ...                              Social Science                   NaN
+22    adoption cycle for core content materials and            NaN  ...                   California Studies Weekly                    0%
+
+[23 rows x 9 columns],    available for science laboratory classes offered                                      Unnamed: 0  ... Unnamed: 2 Unnamed: 3
+0      in grades 9-12, inclusive. In addition, each                                             NaN  ...      SVUSD        NaN
+1   student enrolled in a performing arts class was                                             NaN  ...      18-19      19-20
+2    provided sufficient textbooks or instructional                                  Total Teachers  ...        788        794
+3        materials to use in class or to take home.                   Teachers with Full Credential  ...        779        787
+4                                               NaN                Teachers without Full Credential  ...          9          7
+5                           Academic Counselors and                                             NaN  ...        NaN        NaN
+6                                               NaN                   Teaching Outside Subject Area  ...        NaN        NaN
+7                               Other Support Staff                          (with full credential)  ...         78         73
+8                                           2018-19  Misassignments of Teachers of English Learners  ...          0          0
+9                                            No. of                   Total Teacher Misassignments*  ...          0          0
+10                                       Staff FTE*                               Teacher Vacancies  ...          0          0
+
+[11 rows x 6 columns],                                 throughout the state.    SVUSD  ...      accountability, including         but
+0                            Beginning Teacher Salary   45,641  ...            to, CAASPP results,    Physical
+1   exPenDitUres Per stUDent Mid-Range Teacher Salary   71,843  ...                            NaN         NaN
+2   For the 2017-18 school year, Simi Valley Unifi...   92,830  ...  Graduation Rates, enrollment,         NaN
+3   School District spent an average of $10,407 Av...      NaN  ...                            NaN         NaN
+4   to educate each student (Current Expense Eleme...  101,380  ...                            NaN         NaN
+5   of Education per ADA, based on 2017-18 Middle ...  112,898  ...                            NaN         NaN
+6   143,746audited financial statements and calcul...  121,964  ...                   access Santa      Susana
+7                               Superintendent Salary  227,665  ...                            NaN         NaN
+8              in accordance with Ed Code 41372). The      NaN  ...                            NaN         NaN
+9                                                 NaN      NaN  ...                            NaN         NaN
+10                          Percentage of Budget For:      NaN  ...                            NaN         NaN
+11           table below 1) compares the school’s per      NaN  ...                            NaN         NaN
+12                                                NaN      NaN  ...            the county’s public  libraries.
+13                                   Teacher Salaries       34  ...                            NaN         NaN
+14       pupil expenditures from unrestricted (basic)      NaN  ...                            NaN         NaN
+15                                                NaN      NaN  ...                            NaN         NaN
+16                            Administrative Salaries        5  ...                            NaN         NaN
+17     sources with other schools in the District and      NaN  ...                            NaN         NaN
+18                                                NaN      NaN  ...                            NaN         NaN
+19  For detailed information on salaries, see the CDE      NaN  ...                            NaN         NaN
+20          throughout the state, and 2) compares the      NaN  ...                            NaN         NaN
+21                                                NaN      NaN  ...                            NaN         NaN
+22       Certificated Salaries & Benefits Web page at      NaN  ...                            NaN         NaN
+23  average teacher salary at the school site with...      NaN  ...                            NaN         NaN
+24       average teacher salaries at the District and      NaN  ...                            NaN         NaN
+25  state levels. Detailed information regarding e...      NaN  ...                            NaN         NaN
+26  website at www.cde.ca.gov/ds/fd/ec/ and www.cd...      NaN  ...                            NaN         NaN
+27  table below reflect the direct cost of educati...      NaN  ...                            NaN         NaN
+28  facilities acquisition and construction, and c...      NaN  ...                            NaN         NaN
+29                                                NaN      NaN  ...                            NaN         NaN
+30  Expenditures Per Pupil and School Site Teacher...      NaN  ...                            NaN         NaN
+31                                            2017-18      NaN  ...                            NaN         NaN
+32                          Dollars Spent Per Student      NaN  ...                            NaN         NaN
+33                                                NaN      NaN  ...                            NaN         NaN
+34                                      State Average      NaN  ...                            NaN         NaN
+35                    % Difference - for Districts of      NaN  ...                            NaN         NaN
+36                                                NaN      NaN  ...                            NaN         NaN
+37                               School and Same Size      NaN  ...                            NaN         NaN
+38  Expenditures Per Pupil SSES SVUSD District and...      NaN  ...                            NaN         NaN
+39   Total Restricted and Unrestricted 10,557 N/A N/A      N/A  ...                            NaN         NaN
+40            Restricted (Supplemental) 4,252 N/A N/A      N/A  ...                            NaN         NaN
+41            Unrestricted (Basic) 6,304 5,718 110.3%    7,507  ...                            NaN         NaN
+42  Average Teacher Salary 71,727 78,540 91.3% 82,031      NaN  ...                            NaN         NaN
+
+[43 rows x 7 columns]]

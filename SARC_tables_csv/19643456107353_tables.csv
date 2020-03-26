@@ -1,0 +1,109 @@
+[        Kindergarten     58         Black or African American   1.9%
+0            Grade 1   73.0         American Indian or Alaska    NaN
+1                NaN    NaN                            Native    NaN
+2            Grade 2   70.0                               NaN    NaN
+3                NaN    NaN                             Asian   1.9%
+4            Grade 3   61.0                               NaN    NaN
+5                NaN    NaN                          Filipino   1.7%
+6            Grade 4   71.0                               NaN    NaN
+7                NaN    NaN                Hispanic or Latino  56.5%
+8            Grade 5   65.0                               NaN    NaN
+9                NaN    NaN  Native Hawaiian/Pacific Islander    NaN
+10           Grade 6   78.0                               NaN    NaN
+11               NaN    NaN                             White  33.8%
+12  Total Enrollment  476.0                               NaN    NaN
+13               NaN    NaN                 Two or More Races   4.2%
+14               NaN    NaN                 Socioeconomically    NaN
+15               NaN    NaN                               NaN  40.3%
+16               NaN    NaN                     Disadvantaged    NaN
+17               NaN    NaN                  English Learners  14.7%, Empty DataFrame
+Columns: [Live Oak Elementary 2019-2020School Accountability Report Card]
+Index: [],                                             Indicator  ...                                  2019-20
+0      Misassignments of Teachers of English Learners  ...                                        0
+1                       Total Teacher Misassignments*  ...                                        0
+2                            Vacant Teacher Positions  ...                                        0
+3   OTE:“Misassignments” refers to the number of p...  ...                                      NaN
+4                                             Subject  ...  % Students\rlacking own\rassigned\rcopy
+5                             Reading/Languag\re Arts  ...                                       0%
+6                                         Mathematics  ...                                       0%
+7                                             Science  ...                                       0%
+8                             History-Social\rScience  ...                                       0%
+9                                   Foreign\rLanguage  ...                                       0%
+10                                             Health  ...                                       0%
+11                        Visual and\rPerforming Arts  ...                                       0%
+12      Science\rLaboratory\rEquipment\r(grades 9-12)  ...                                       0%
+
+[13 rows x 4 columns], Empty DataFrame
+Columns: [Live Oak Elementary 2019-2020School Accountability Report Card]
+Index: [],                                      System Inspected Rate\rGood Rate\rFair Rate\rPoor Repair Needed\rand Action Taken\ror Planned
+0          Systems: Gas Leaks, Mechanical/HVAC, Sewer          ✓          -          -                                         NaN
+1                         Interior: Interior Surfaces          -          ✓          -                                         NaN
+2   Cleanliness: Overall Cleanliness, Pest/ Vermin...          ✓          -          -                                         NaN
+3                              Electrical: Electrical          ✓          -          -                                         NaN
+4    Restrooms/Fountains: Restrooms, Sinks/ Fountains          ✓          -          -                                         NaN
+5            Safety: Fire Safety, Hazardous Materials          ✓          -          -                                         NaN
+6                Structural: Structural Damage, Roofs          ✓          -          -                                         NaN
+7   External: Playground/School Grounds, Windows/\...          ✓          -          -                                         NaN
+8   verall Facility Rate\rear and month of the mos...        NaN        NaN        NaN                                         NaN
+9                                                 NaN  Exemplary       Good       Fair                                        Poor
+10                                     Overall Rating          -          ✓          -                                           -,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,       Unnamed: 0       Total     Unnamed: 1      Unnamed: 2 Percent Not  Percent Met
+0  Student Group         NaN  Number Tested  Percent Tested         NaN          NaN
+1            NaN  Enrollment            NaN             NaN      Tested  or Exceeded,    Live Oak Elementary 2019-2020 School Accountability Report Card
+0   Average Class Size and Class Size Distribution...             
+1                                             2016-17             
+2      Grade Level Avg. Class Size Number of Classes*             
+3                                      1-20 21-32 33+             
+4                                            K 24 1 3             
+5                                              1 31 2             
+6                                              2 26 2             
+7                                              3 28 3             
+8                                              4 25 3             
+9                                              5 31 3             
+10                                             6 35 3             
+11                                            Other**             
+12  * Number of classes indicates how many classes...             
+13  * * “Other” category is for multi-grade level ...             
+14  Average Class Size and Class Size Distribution...             
+15                                            2017-18             
+16     Grade Level Avg. Class Size Number of Classes*             
+17                                     1-20 21-32 33+             
+18                                             K 26 3             
+19                                             1 22 3             
+20                                             2 30 2             
+21                                             3 29 2             
+22                                             4 30 2             
+23                                             5 30 3             
+24                                           6 32 2 1             ,    Live Oak Elementary 2019-2020 School Accountability Report Card Unnamed: 0
+0   Average Class Size and Class Size Distribution...                     NaN
+1                                             2018-19                     NaN
+2      Grade Level Avg. Class Size Number of Classes*                     NaN
+3                                          1-20 21-32                     33+
+4                                              K 29 2                     NaN
+5                                              1 24 3                     NaN
+6                                              2 23 3                     NaN
+7                                              3 31 2                     NaN
+8                                              4 24 3                     NaN
+9                                              5 33 1                       1
+10                                             6 26 3                     NaN,                                            Level Expenditures     Per Pupil     Per Pupil.1  Teacher
+0                                            NaN    Per Pupil  (Restricted)  (Unrestricted)   Salary
+1                                    School Site       $5,397          $238          $5,159  $69,300
+2                                       District          N/A           N/A       $7,077.23   $69300
+3  Percent Difference – School Site and District          N/A           N/A          31.35%    0.00%
+4                                          State          N/A           N/A        $7506.64   $77619
+5     Percent Difference – School Site and State          N/A           N/A          37.06%   11.32%, Empty DataFrame
+Columns: [Live Oak Elementary 2019-2020School Accountability Report Card]
+Index: [],                                              Category District Amount State Average For Districts\rIn Same Category Unnamed: 0
+0                            Beginning Teacher Salary          $40938                                        $49378        NaN
+1                            Mid-Range Teacher Salary          $66346                                        $77190        NaN
+2                              Highest Teacher Salary          $81469                                        $96607        NaN
+3               Average Principal Salary (Elementary)         $116504                                       $122074        NaN
+4                   Average Principal Salary (Middle)         $123474                                       $126560        NaN
+5                     Average Principal Salary (High)              $0                                       $126920        NaN
+6                               Superintendent Salary         $182052                                       $189346        NaN
+7              Percent of Budget for Teacher Salaries             35%                                           36%        NaN
+8       Percent of Budget for Administrative Salaries              8%                                            6%        NaN
+9   or detailed information on salaries, see the C...             NaN                                           NaN        NaN
+10                                            Measure         2017–18                                       2018–19    2019–20
+11  Number of school days dedicated to Staff Devel...               2                                             2          2]
