@@ -4,6 +4,8 @@
 import tabula
 import PyPDF2
 import os
+from parameters import Parameters
+
 
 SARC_folder = '/Users/georgiachanning/LA/SARC'
 
@@ -24,8 +26,5 @@ for file in os.listdir(SARC_folder):
         continue
     print(future_filename)
     f = open(future_filename,"w+")
-    #for page in reader.pages:
     f.write(str(tables))
     f.close()
-
-# print(tables)

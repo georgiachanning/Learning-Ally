@@ -7,8 +7,9 @@ from nltk import word_tokenize, pos_tag, ne_chunk
 from nltk import RegexpParser
 from nltk import Tree
 import csv
-import itertools
-import sys
+from parameters import Parameters
+
+
 
 # Defining a grammar & Parser
 NP = "NP: {(<V\w+>|<NN\w?>)+.*<NN\w?>}"
@@ -27,7 +28,6 @@ for file in os.listdir(SARC_folder):
         
         f = open(filename, "rb")
         document_lines = f.readlines()
-        print(filename)
         f.close()
         # school_name_line = f.find(b'Elementary')
         
@@ -72,7 +72,6 @@ for file in os.listdir(SARC_folder):
             school_name = ' '.join(school_name_array[lower:upper])
         except IndexError:
             school_name = filename
-        print(school_name)
         
         socioeconomically_disadvantaged_line_number = [x for x in range(len(document_lines)) if document_lines[x].find(b'Socioeconomically Disadvantaged')!= -1]
         if not socioeconomically_disadvantaged_line_number:
@@ -111,10 +110,9 @@ for file in os.listdir(SARC_folder):
             start_ELA_table = [x for x in range(len(document_lines)) if document_lines[x].find(b'ELA')!= -1]
         if not start_ELA_table:
             start_ELA_table = [x for x in range(len(document_lines)) if document_lines[x].find(b'English Language Arts')!= -1]
-        print(start_ELA_table)
-        # all_students_line = f.find("All Students", str[start_ELA_table:])
+
         all_students_line = [x for x in range(start_ELA_table[0], len(document_lines)) if document_lines[x].find(b'All Students')!= -1]
-        # disabilities_line = f.find("Students with Disabilities", str[start_ELA_table:])
+
         disabilities_line = [x for x in range(start_ELA_table[0], len(document_lines)) if document_lines[x].find(b'Students with Disabilities')!=-1]
         if not disabilities_line:
             disabilities_line = [x for x in range(start_ELA_table[0], len(document_lines)) if document_lines[x].find(b'Students with')!= -1]
@@ -132,7 +130,6 @@ for file in os.listdir(SARC_folder):
         
         school_feature_dictionary["Gen Ed"] = gen_ed_met_or_exceeded
         school_feature_dictionary["Disabilities"] = disabilities_met_or_exceeded
-        print(school_feature_dictionary)
         school_dictionary[school_name] = school_feature_dictionary
     except:
         pass

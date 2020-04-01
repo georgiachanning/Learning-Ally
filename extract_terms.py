@@ -9,6 +9,8 @@ from nltk import Tree
 import csv
 import itertools
 import sys
+from parameters import Parameters
+
 
 # Defining a grammar & Parser
 NP = "NP: {(<V\w+>|<NN\w?>)+.*<NN\w?>}"

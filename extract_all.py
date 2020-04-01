@@ -10,6 +10,8 @@ import csv
 import itertools
 import sys
 from os import path
+from parameters import Parameters
+
 
 # Defining a grammar & Parser
 NP = "NP: {(<V\w+>|<NN\w?>)+.*<NN\w?>}"
@@ -220,7 +222,7 @@ def main():
             elif table_school_name is file:
                 school_name = text_school_name
             else:
-                school_name = text_school_name + "/" + table_school_name
+                school_name = text_school_name
         except NameError:
             school_name = text_school_name
             

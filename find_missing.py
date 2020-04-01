@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import os
+
 from os import path
+from parameters import Parameters
 
 def main():
     SARC_folder = '/Users/georgiachanning/LA/SARC/'
