@@ -8,7 +8,7 @@ from parameters import Parameters
 
 def main():
     program_args = Parameters.parse_parameters()
-    df1 = pandas.read_csv('/Users/georgiachanning/LA/CAdistricts_and_schools.csv')
+    df1 = pandas.read_csv(program_args["Learning_Ally_Cali_info"])
     df2 = pandas.read_csv('/Users/georgiachanning/LA/all_output.csv')
     outfile = '/Users/georgiachanning/LA/integrated_output.csv'
     Georgia_schools = df2['School']
