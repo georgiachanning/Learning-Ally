@@ -8,9 +8,9 @@ import os
 from parameters import Parameters
 
 
-def import_file(district, url):
-    chunk_size = 2000
-    filename = '/Users/georgiachanning/LA/LCAP/' + district + ".pdf"
+def import_file(district, url): #this function downloads pdfs found on internet to local computer
+    chunk_size = 2000 
+    filename = '/Users/georgiachanning/LA/LCAP/' + district + ".pdf" # must be changed to local user
     r = requests.get(url, stream=True)
     with open(filename, 'wb') as fd:
         for chunk in r.iter_content(chunk_size):
@@ -21,17 +21,17 @@ def import_file(district, url):
 def main():
     
     program_args = Parameters.parse_parameters()
-    school_list_file = program_args["lookup_list"]
+    school_list_file = program_args["lookup_list"] # this is where the list of districts comes from
     
-    school_lcap_file_url = {}
-    could_not_download_from_url = []
-    with open (school_list_file, "r") as f:
+    school_lcap_file_url = {} # dictionary of URLs that link to LCAPs for each school
+    could_not_download_from_url = [] # districts for which LCAPs not found
+    with open (school_list_file, "r") as f: # reading list of schools
             school_list = f.read().split('\n')
                     
-    for school in school_list:
-        query = school + "LCAP"
-        print(school)
-        for j in search(query, tld="co.in", num=10, stop=3, pause=2): 
+    for school in school_list: # finding LCAP for each school
+        query = school + "LCAP" # what the google search is 
+        print(school) 
+        for j in search(query, tld="co.in", num=10, stop=3, pause=2):  # trying to find best match for LCAP query
             try:
                 r = requests.get(j)
             except:
