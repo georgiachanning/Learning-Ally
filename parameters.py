@@ -9,7 +9,7 @@ class Parameters(Action):
     @staticmethod
     def parse_parameters():
         # required = True, then if no arguments then throws error and shows help
-        parser = ArgumentParser(description='mimic3 to cardiac arrhythmia prediction')
+        parser = ArgumentParser(description='program_args for learning ally')
         parser.add_argument("--sarc_folder", default='/Users/georgiachanning/LA/SARC/',
                             help="directory that contains SARC pdf data")
         parser.add_argument("--lcap_folder", default='/Users/georgiachanning/LA/LCAP/',
