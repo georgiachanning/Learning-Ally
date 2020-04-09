@@ -23,5 +23,5 @@ class Parameters(Action):
         parser.add_argument("--target", default="LCAP",
                             help="extract LCAP or SARC from Google")
         parser.add_argument("--Learning_Ally_Cali_info", default='/Users/georgiachanning/LA/CAdistricts_and_schools.csv',
-                            help="Akshat's Big Google Doc or other info to combine")
+                            help="Akshat's Big Google Doc or other info to combine") # can be other file, but format must match as extraction from dataframe is format sensitive
         return vars(parser.parse_args())
