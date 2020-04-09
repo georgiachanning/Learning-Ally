@@ -18,8 +18,8 @@ class Parameters(Action):
                             help="where to write output")
         parser.add_argument("--lookup_list", default='/Users/georgiachanning/LA/districts_to_focus_on.txt',
                             help="list of schools or districts to find SARCS/LCAPS for")
-        parser.add_argument("--terms_list", default="train",
-                            help="Would you like to use the test, validation or train set?")
+        parser.add_argument("--terms_list", default="/Users/georgiachanning/file.txt",
+                            help="which terms would you like to search for?")
         parser.add_argument("--target", default="LCAP",
                             help="extract LCAP or SARC from Google")
         parser.add_argument("--Learning_Ally_Cali_info", default='/Users/georgiachanning/LA/CAdistricts_and_schools.csv',
